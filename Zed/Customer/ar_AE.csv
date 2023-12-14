@@ -1,0 +1,59 @@
+"Add Customer","إضافة عميل"
+"Add new Address","إضافة عنوان جديد"
+"Address Line 1","العنوان الأول"
+"Address Line 2","العنوان الثاني"
+"Address Line 3","العنوان الثالث"
+Back,العودة
+"Back to Customer View","العودة إلى عرض العميل"
+"Back to Customers","العودة إلى العملاء"
+"Back to Manage Addresses","العودة إلى إدارة العناوين"
+City,المدينة
+Company,الشركة
+Country,البلد
+Customers,العملاء
+"Customer deletion confirmation","تأكيد حذف العميل"
+"Customer does not exist","العميل غير موجود"
+"Customer Reference","مرجع العميل"
+"Customer successfully deleted","تم حذف العميل بنجاح"
+"Customer was created successfully.","تم إنشاء العميل بنجاح."
+"Customer was not created.","لم يتم إنشاء العميل."
+"Customer was not updated.","لم يتم تحديث العميل."
+"Customer was updated successfully.","تم تحديث المستخدم بنجاح."
+"Customer with id `%s` does not exist","العميل بالمعرف `%s` غير موجود"
+"Date of birth","تاريخ الميلاد"
+Delete,حذف
+"Delete account","حذف الحساب"
+"Edit Address","تعديل العنوان"
+"Edit Customer","تعديل المستخدم"
+Email,"البريد الإلكتروني"
+"First Name","الاسم الأول"
+"First name","الاسم الأول"
+"Form was not submitted.","لم يتم إرسال النموذج."
+Gender,الجنس
+"Last name","الاسم الأخير"
+"List Customers","قائمة العملاء"
+Locale,اللغة
+Phone,الهاتف
+"Registered at","مسجل في"
+Salutation,التحية
+Save,حفظ
+"Select one","اختر واحدة"
+"Send password token through email","إرسال رمز المرور عبر البريد الإلكتروني"
+View,عرض
+"View Customer","عرض العميل"
+"Zed Account Reference","مرجع حساب زد"
+ZipCode,"الرمز البريدي"
+"Registration Date","تاريخ التسجيل"
+"Billing Address","عنوان الفوترة"
+"Shipping Address","عنوان الشحن"
+"Attach to company","ربط بالشركة"
+"Add a customer","إضافة عميل"
+"Comment successfully added","تمت إضافة التعليق بنجاح."
+"Address (2nd line)","العنوان (السطر الثاني)"
+"Address (3rd line)","العنوان (السطر الثالث)"
+"Last Name","الاسم الأخير"
+"Zip Code","الرمز البريدي"
+Actions,الإجراءات
+Status,الحالة
+Comment,التعليق
+Store,المتجر

@@ -1,0 +1,10 @@
+"Add new order","Ajouter une nouvelle commande"
+Customer,Client
+Oms,Oms
+"Order ID","Identifiant de commande"
+"process display","affichage du processus"
+Processes,Processus
+"Statemachine preview","Aperçu de la machine à états"
+"Total Price","Prix total"
+"Status change triggered successfully.","Changement de statut déclenché avec succès."
+"This file format is not supported. Please use file format SVG.","Ce format de fichier n'est pas pris en charge. Veuillez utiliser le format de fichier SVG."

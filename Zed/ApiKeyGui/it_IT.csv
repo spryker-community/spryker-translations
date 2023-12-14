@@ -1,0 +1,29 @@
+Administration,Amministrazione
+"API Keys","Chiavi API"
+Name,Nome
+ID,ID
+Key,Chiave
+Edit,Modifica
+Delete,Elimina
+Create,Crea
+Back,Indietro
+Save,Salva
+"Created by","Creato da"
+"Back to API Keys","Torna alle Chiavi API"
+"Create API Key","Crea Chiave API"
+"Edit API Key","Modifica Chiave API"
+Actions,Azioni
+"API key `%s` created successfully. Note, it will not be shown again. Please ensure you save it securely for future use.","Chiave API '%s' creata con successo. Nota, non verrà mostrata di nuovo. Assicurati di salvarla in modo sicuro per utilizzi futuri."
+"API Key with ID `%d` does not exist.","La Chiave API con ID '%d' non esiste."
+"The new API key is `%s`. Note, it will not be shown again. Please ensure you save it securely for future use.","La nuova Chiave API è '%s'. Nota, non verrà mostrata di nuovo. Assicurati di salvarla in modo sicuro per utilizzi futuri."
+"API key has been successfully removed","La Chiave API è stata rimossa con successo."
+"API key can not be removed","Impossibile rimuovere la Chiave API."
+"Regenerate Key","Rigenera Chiave"
+"Delete API Key","Elimina Chiave API"
+"API key updated successfully.","Chiave API aggiornata con successo."
+"API key removal confirmation","Conferma rimozione Chiave API"
+"Are you sure you want to delete this API key?","Sei sicuro di voler eliminare questa Chiave API?"
+"No, I want to keep this API key","No, desidero mantenere questa Chiave API."
+"We highly recommend setting an expiration date to the token, because of security reasons.","Consigliamo vivamente di impostare una data di scadenza per il token, per motivi di sicurezza."
+"Expires on","Scade il"
+"⚠️ Never","⚠️ Mai"

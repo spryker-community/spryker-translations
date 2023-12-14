@@ -1,0 +1,108 @@
+Activate,激活
+Active,活跃
+"Add General Information",添加常规信息
+"Add image",添加图片
+"Add image set",添加图片集
+"Add Product Concrete",添加具体产品
+"Add Variant",添加变体
+"Assigned products",已分配产品
+Attributes,属性
+"Available in stores",可在商店中购买
+"Below are the product variants listed. Each variant may be edited independent from the others.",以下是列出的产品变体。每个变体可以独立编辑。
+"Below the name and description for your product can be edited for different locales (in different languages).",下面可以编辑产品的名称和描述，以适应不同的语言环境。
+"Below you can choose between your predefined tax sets and edit the price of your product.",下面您可以选择预定义的税务设置并编辑产品价格。
+"Bundle availability based on assigned products:",基于已分配的产品的捆绑包可用性：
+Categories,分类
+"CMS Block list",CMS块列表
+"Configurable Product Attributes",可配置产品属性
+"Contains bundles",包含捆绑包
+"Create a Product",创建产品
+"Create Bundle Product",创建捆绑产品
+"Create Product",创建产品
+Deactivate,停用
+Deactivated,已停用
+Default,默认
+"Delete image",删除图片
+"Delete image set",删除图片集
+Edit,编辑
+"Edit Product Abstract",编辑产品摘要
+"Edit Product Concrete",编辑具体产品
+"Enter price.",输入价格。
+"Enter stock value. In case you create multiple variants, the stock can be managed under ""Product Variants"" and this input field will be ignored.",输入库存值。如果创建多个变体，则库存可以在“产品变体”下管理，此输入字段将被忽略。
+General,常规
+"Gross price",毛价
+"Image Set",图片集
+"Image Sets",图片集
+Large,大
+"List Products",产品列表
+"Manage Attributes",管理属性
+"Merchant Price Dimension",商家价格维度
+"Multiple images can be grouped to an image set. An image set has a name for identification and may contain a small and a large version of each image",多个图片可以分组成一个图片集。图片集具有用于识别的名称，并且可以包含每个图片的小尺寸和大尺寸。
+n/a,n/a
+"Net price",净价
+"Never out of stock",永不缺货
+"No categories found.",未找到分类。
+"No records",没有记录
+"Note: Deactivated product variants are not available in the shop anymore.",注意：已停用的产品变体在商店中不再可用。
+"Note: Image sets can be used for different purposes such as being displayed in the catalog or the product detail page or elsewhere.",注意：图像集可用于不同的用途，例如在目录或产品详细页面或其他位置显示。
+"Note: Meta data are snippets of text describing a page’s content. The meta data appear only in the page’s code, not in its content.",注意：元数据是描述页面内容的文本片段。元数据仅出现在页面的代码中，而不出现在其内容中。
+"Note: The price that you edit here is only displayed in the shop catalog and the product detail page for the non configured product (Not product variant)",注意：您在此处编辑的价格仅在商店目录和非配置产品（非产品变体）的产品详细页面中显示。
+"Note: The SKU is not editable after saving anymore.","注意：保存后无法编辑 SKU。"
+"Note: The SKU prefix, just like the SKUs of your product variants, are not editable after saving anymore.","注意：保存后无法编辑 SKU 前缀，就像产品变体的 SKU 一样。"
+"Price & Tax",价格和税费
+"Price & Taxes",价格和税费
+"Product bundle does not have variants!",产品捆绑没有变体！
+"Product Group ID","产品组 ID"
+"Product Groups",产品组
+"Product has been activated.",产品已激活。
+"Product has been deactivated.",产品已停用。
+"Product ID","产品 ID"
+"Product Image(s)",产品图像
+"Product type",产品类型
+"Product variants",产品变体
+Quantity,数量
+Save,保存
+"Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a web search engine's unpaid results — often referred to as ""natural,"" ""organic,"" or ""earned"" results.",搜索引擎优化（SEO）是影响网站或网页在网络搜索引擎的非付费结果中的可见性的过程，通常称为“自然”，“有机”或“获得的”结果。
+"Select attributes and corresponding values.",选择属性和相应的值。
+"SEO (Meta Information)",SEO（元信息）
+Small,小
+"Stock Type",库存类型
+"Store relation",商店关系
+"Tax Set",税费设置
+"The product [%s] does not exist.","产品 [%s] 不存在。"
+"The product [%s] was saved successfully.","产品 [%s] 已成功保存。"
+"The product [%s] you are trying to edit, does not exist.","您正在尝试编辑的产品 [%s] 不存在。"
+"There is no super attribute defined. <a href=""%url%"">Define super attributes</a> in order to be able to create variants.","未定义超级属性。 <a href=""%url%"">定义超级属性</a> 以便能够创建变体。"
+Type,类型
+Variants,变体
+"View Product Abstract",查看产品摘要
+"View Product Concrete",查看具体产品
+Product,产品
+Products,产品
+Availability,可用性
+"New from",新产品
+"New to",新到
+"At least one price should be specified",至少应指定一个价格
+"Please enter at least an SKU and a Name of the product in every locale in the General section",请在常规部分的每个区域中至少输入一个SKU和产品名称
+"The product [%s] was added successfully.",产品[%s]已成功添加。
+Images,图片
+"Add Volume Price",添加批量价格
+"Is bundle",是否为捆绑产品
+"View Concrete Product",查看具体产品
+"Edit Concrete Product",编辑具体产品
+"Super attributes",超级属性
+"Valid from",有效起始日期
+"Valid to",有效截止日期
+Searchable,可搜索
+Stock,库存
+"Sort order",排序顺序
+"Assign bundled products",分配捆绑产品
+"Valid From (Time in UTC)",有效起始日期（UTC时间）
+"Valid To (Time in UTC)",有效截止日期（UTC时间）
+Remove,移除
+quantity,数量
+Price,价格
+"id product",产品ID
+select,选择
+"Product name",产品名称
+Types,类型

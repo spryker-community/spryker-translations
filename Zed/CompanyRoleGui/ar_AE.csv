@@ -1,0 +1,35 @@
+"Add Company Role","إضافة دور مستخدم للشركة"
+"Assigned Permissions","الأذونات المخصصة"
+"Assigned Roles","الأدوار المخصصة"
+"Back to Roles","العودة إلى الأدوار"
+"Company Account","حساب الشركة"
+"Company Business Unit","وحدة أعمال الشركة"
+"Company role deletion confirmation","تأكيد حذف دور الشركة"
+"Company Roles","أدوار الشركة"
+"Create Company Role","إنشاء دور للشركة"
+"Create role","إنشاء دور"
+"Edit Company Role","تعديل دور الشركة"
+"Is Default",الافتراضي
+"It will be deleted from everywhere","سيتم حذفه من كل مكان"
+"List of Company Roles","قائمة أدوار الشركة"
+"Overview of Company Roles","نظرة عامة على أدوار الشركة"
+"Role ID","معرف الدور"
+Roles,الأدوار
+"Unassigned Permissions","الأذونات غير المخصصة"
+"Unassigned Roles","الأدوار غير المخصصة"
+"Update role","تحديث الدور"
+"You are trying to delete company role","أنت تحاول حذف دور الشركة"
+"Select company","اختر الشركة"
+"Please select an item in the list.","يرجى تحديد عنصر في القائمة."
+"Company role has been successfully created","تم إنشاء دور الشركة بنجاح"
+"Company role has been successfully updated","تم تحديث دور الشركة بنجاح"
+"Delete company role","حذف دور الشركة"
+"Company role has been successfully removed","تمت إزالة دور الشركة بنجاح"
+"You can not delete a default role, please set another default role before delete action","لا يمكنك حذف دور افتراضي، يرجى تعيين دور افتراضي آخر قبل إجراء عملية الحذف."
+"Company Name","اسم الشركة"
+Name,الاسم
+Actions,الإجراءات
+Delete,حذف
+Edit,تعديل
+Company,الشركة
+"At least one role must be assigned to a user.","يجب تعيين دور واحد على الأقل للمستخدم."

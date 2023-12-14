@@ -1,0 +1,24 @@
+Actions,الإجراءات
+Active,نشط
+Administration,الإدارة
+"Available in store","متوفر في المتجر"
+"Available in the following store(s)","متوفر في المتجر (المتاجر) التالي (التالية)"
+Configuration,التكوين
+"Create Warehouse","إنشاء مستودع"
+"Edit Warehouse","تحرير المستودع"
+Inactive,"غير نشط"
+"Is this warehouse available?","هل هذا المستودع متاح؟"
+Name,الاسم
+No,لا
+Status,الحالة
+"Stock not found","المخزون غير موجود"
+"Store relation","علاقة المتجر"
+"Store Relation","علاقة المتجر"
+"This name is already in use.","هذا الاسم مستخدم بالفعل."
+View,عرض
+"View Warehouse: ","عرض المستودع: "
+"Warehouse has been successfully saved","تم حفظ المستودع بنجاح"
+"Warehouse has been successfully updated","تم تحديث المستودع بنجاح"
+"Warehouse ID","معرف المستودع"
+Warehouses,المستودعات
+Yes,نعم

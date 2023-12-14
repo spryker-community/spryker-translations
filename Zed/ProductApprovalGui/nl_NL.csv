@@ -1,0 +1,16 @@
+"Abstract product was not found","Abstract product was not found"
+"Approval status","Approval status"
+approved,Goedgekeurd
+denied,Geweigerd
+approval_status_action.approved,Goedkeuren
+approval_status_action.denied,Weigeren
+approval_status_action.draft,"Terug naar concept"
+approval_status_action.waiting_for_approval,"Verzenden ter goedkeuring"
+active,Actief
+inactive,Inactief
+"The approval status was updated.","De goedkeuringsstatus is bijgewerkt."
+"The approval status was not updated.","De goedkeuringsstatus is niet bijgewerkt."
+"Abstract product was not found.","Abstract product was not found."
+waiting_for_approval,"Wachten op goedkeuring"
+status,Status
+Approval,Goedkeuring

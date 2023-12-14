@@ -1,0 +1,19 @@
+"Edit Global threshold","Editar umbral global"
+"Edit Threshold Settings","Editar configuración de umbral"
+"Global threshold","Umbral global"
+"Minimum Hard Threshold","Umbral mínimo duro"
+"Maximum Hard Threshold","Umbral máximo duro"
+"Minimum Order Value settings saved.","Configuración de valor mínimo de pedido guardada."
+Save,Guardar
+"Soft Threshold","Umbral suave"
+"The Global Threshold is saved successfully.","El umbral global se guarda correctamente."
+"Threshold Settings","Configuración de umbral"
+Threshold,Umbral
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","Puede utilizar los marcadores <b>{{threshold}}</b> <b>{{fee}}</b>"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Puede utilizar los marcadores <code>{{threshold}}</code> y <code>{{fee}}</code>"
+"The Global Thresholds is saved successfully.","Los umbrales globales se guardan correctamente."
+"Store and Currency","Tienda y moneda"
+"Enter threshold value","Introducir valor de umbral"
+"Threshold settings","Configuración de umbral"
+Soft,Suave
+Hard,Duro

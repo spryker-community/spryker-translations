@@ -1,0 +1,59 @@
+"Add Customer","Añadir cliente"
+"Add new Address","Añadir nueva dirección"
+"Address Line 1","Línea de dirección 1"
+"Address Line 2","Línea de dirección 2"
+"Address Line 3","Línea de dirección 3"
+Back,Atrás
+"Back to Customer View","Volver a la vista de cliente"
+"Back to Customers","Volver a los clientes"
+"Back to Manage Addresses","Volver a gestionar direcciones"
+City,Ciudad
+Company,Empresa
+Country,País
+Customers,Clientes
+"Customer deletion confirmation","Confirmación de eliminación de cliente"
+"Customer does not exist","El cliente no existe"
+"Customer Reference","Referencia de cliente"
+"Customer successfully deleted","Cliente eliminado correctamente"
+"Customer was created successfully.","El cliente se creó correctamente."
+"Customer was not created.","El cliente no se creó."
+"Customer was not updated.","El cliente no se actualizó."
+"Customer was updated successfully.","El cliente se actualizó correctamente."
+"Customer with id `%s` does not exist","El cliente con el id `%s` no existe"
+"Date of birth","Fecha de nacimiento"
+Delete,Eliminar
+"Delete account","Eliminar cuenta"
+"Edit Address","Editar dirección"
+"Edit Customer","Editar cliente"
+Email,"Correo electrónico"
+"First Name",Nombre
+"First name",Nombre
+"Form was not submitted.","El formulario no se envió."
+Gender,Género
+"Last name",Apellido
+"List Customers","Lista de clientes"
+Locale,"Configuración regional"
+Phone,Teléfono
+"Registered at","Registrado en"
+Salutation,Saludo
+Save,Guardar
+"Select one","Seleccionar uno"
+"Send password token through email","Enviar token de contraseña por correo electrónico"
+View,Ver
+"View Customer","Ver Cliente"
+"Zed Account Reference","Referencia de Cuenta Zed"
+ZipCode,"Código Postal"
+"Registration Date","Fecha de Registro"
+"Billing Address","Dirección de Facturación"
+"Shipping Address","Dirección de Envío"
+"Attach to company","Adjuntar a la empresa"
+"Add a customer","Agregar un cliente"
+"Comment successfully added","Comentario agregado exitosamente."
+"Address (2nd line)","Dirección (2da línea)"
+"Address (3rd line)","Dirección (3ra línea)"
+"Last Name",Apellido
+"Zip Code","Código Postal"
+Actions,Acciones
+Status,Estado
+Comment,Comentario
+Store,Tienda

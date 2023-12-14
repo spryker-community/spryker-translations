@@ -1,0 +1,52 @@
+"My Returns",我的退货
+Return,退货
+"Merchant for current user not found.",未找到当前用户的商家。
+"Merchant sales order #%d not found.","未找到商家销售订单 #%d。"
+"Return was successfully created.",退货已成功创建。
+"Return has not been created.",退货未被创建。
+"Requested return with ID %id% was not found.","未找到请求的退货 ID %id%。"
+"Status change triggered successfully.",状态更改成功触发。
+"Request is invalid",请求无效
+"Parameter redirect not found.",未找到参数重定向。
+"Item selected for return is not eligible for return anymore.",选择的退货商品不再符合退货条件。
+"Select reason",选择原因
+View,查看
+"Print Slip",打印单据
+"Return ID","退货 ID"
+"Return Reference",退货参考
+"Order Reference",订单参考
+"Marketplace Order Reference",市场订单参考
+"Returned Products",退货商品
+"Return Date",退货日期
+State,状态
+Actions,操作
+Sku,SKU
+"incl. %tax_amount% % tax","含 %tax_amount% % 税"
+"Show history",显示历史
+"Hide history",隐藏历史
+"Create Return",创建退货
+"Back to Order",返回订单
+"Merchant Order Reference",商家订单参考
+"Merchant Order References",商家订单参考
+"Select Items to Return",选择要退货的商品
+Product,产品
+Quantity,数量
+Price,价格
+Total,总计
+"Return policy",退货政策
+Customer,顾客
+"Customer Reference",顾客参考
+Name,姓名
+Email,电子邮件
+"General information",一般信息
+"Returned Items",退货商品
+Reason,原因
+"Trigger all matching states",触发所有匹配状态
+of,的
+"selected items",选定商品
+"Trigger event",触发事件
+items,商品
+"Remuneration Total",总报酬
+"Overview of Return",退货概览
+"Back to Returns",返回退货
+"Print Return Slip",打印退货单

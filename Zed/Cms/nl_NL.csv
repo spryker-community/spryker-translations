@@ -1,0 +1,32 @@
+Activate,Activeren
+"Add a Cms block","Voeg een CMS-blok toe"
+"Add a Cms page","Voeg een CMS-pagina toe"
+"Add CMS Block","Voeg CMS-blok toe"
+"Add CMS Page","Voeg CMS-pagina toe"
+"Add CMS Redirect","Voeg CMS-omleiding toe"
+"Back to CMS","Terug naar CMS"
+"CMS blocks",CMS-blokken
+Deactivate,Deactiveren
+"Delete CMS Block","CMS-blok verwijderen"
+"Delete CMS Page","CMS-pagina verwijderen"
+"Edit a Cms Block","Bewerk een CMS-blok"
+"Edit a Cms page","Bewerk een CMS-pagina"
+"From Url","Van URL"
+"ID redirect URL is not set.","ID-omleidings-URL is niet ingesteld."
+Loading...,Laden...
+"New template(s) detected and added to the template list.","Nieuwe template(s) gedetecteerd en toegevoegd aan de template-lijst."
+"Redirect status code",Omleidingsstatuscode
+"Redirect was created successfully.","Omleiding succesvol aangemaakt."
+"Redirect was deleted successfully.","Omleiding succesvol verwijderd."
+"Redirect was updated successfully.","Omleiding succesvol bijgewerkt."
+Redirects,Omleidingen
+Save,Opslaan
+"Save All","Alles opslaan"
+"To Url","Naar URL"
+"URL is already used.","URL wordt al gebruikt."
+"URL must start with a slash","URL moet beginnen met een slash"
+"Create new CMS Redirect","Maak nieuwe CMS-omleiding aan"
+"Please select","Selecteer alstublieft"
+"Edit CMS Redirect","Bewerk CMS-omleiding"
+"URL's second character cannot be slash","Het tweede karakter van de URL kan geen slash zijn"
+"URL cannot contain backslash sign, you can use '%5C' instead","URL mag geen backslash-teken bevatten, u kunt '%5C' in plaats daarvan gebruiken"

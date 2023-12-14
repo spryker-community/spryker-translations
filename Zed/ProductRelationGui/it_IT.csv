@@ -1,0 +1,68 @@
+"Abstract product name","Nome prodotto astratto"
+"Abstract product name:","Nome prodotto astratto:"
+Activate,Attiva
+Active,Attivo
+"Add Product Relations","Aggiungi Relazioni Prodotto"
+"Are you sure about deleting this product relation?","Sei sicuro di voler eliminare questa relazione di prodotto?"
+"Assign related products","Assegna prodotti correlati"
+"Create Product Relation","Crea Relazione Prodotto"
+"Create relation","Crea relazione"
+Deactivate,Disattiva
+"Delete Product Relation","Elimina Relazione Prodotto"
+Edit,Modifica
+"Edit Product Relations","Modifica Relazioni Prodotto"
+"Failed to delete relation.","Impossibile eliminare la relazione."
+General,Generale
+Inactive,Inattivo
+"Is active:","È attivo:"
+"It is impossible to update product relation #%d","Impossibile aggiornare la relazione di prodotto #%d"
+"List of Product Relations","Elenco delle Relazioni di Prodotto"
+"List Product relations","Elenco relazioni prodotto"
+"No, I want to keep this product relation","No, voglio mantenere questa relazione di prodotto"
+"Number of products","Numero di prodotti"
+"Please select product from the list below","Seleziona il prodotto dalla lista sottostante"
+"Please select product from the list below *","Seleziona il prodotto dalla lista sottostante *"
+"Product owning the relation","Prodotto proprietario della relazione"
+"Product relation #%d not found","Relazione di prodotto #%d non trovata"
+"Product relation key","Chiave della relazione di prodotto"
+"Product relation successfully created","Relazione di prodotto creata con successo"
+"Product relation successfully modified","Relazione di prodotto modificata con successo"
+"Product relation with id ""%id%"" not found.","Relazione di prodotto con id ""%id%"" non trovata."
+"Product Relations","Relazioni di Prodotto"
+"Related products","Prodotti correlati"
+related-products,"Prodotti correlati"
+"Relation #%d successfully deleted.","Relazione #%d eliminata con successo."
+"Relation successfully activated.","Relazione attivata con successo."
+"Relation successfully deactivated.","Relazione disattivata con successo."
+"Relation successfully deleted.","Relazione eliminata con successo."
+"Relation type","Tipo di relazione"
+"Relation type:","Tipo di relazione:"
+Save,Salva
+Select,Seleziona
+"Select product","Seleziona prodotto"
+"Select Stores","Seleziona negozi"
+"Selected product","Prodotto selezionato"
+"Selected product already has ""%s"" relation type.","Il prodotto selezionato ha già il tipo di relazione ""%s""."
+Sku:,Sku:
+Status,Stato
+"Store relation","Relazione negozio"
+Stores,Negozi
+up-selling,Upselling
+"Update regularly","Aggiorna regolarmente"
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.","Aggiorna regolarmente: Quando hai questa opzione selezionata, la relazione di questo prodotto verrà aggiornata automaticamente regolarmente in base alle condizioni della relazione."
+"View in Shop","Visualizza nel negozio"
+"View Product Relation: %s","Visualizza relazione prodotto: %s"
+"View relations","Visualizza relazioni"
+"Product Relation Key","Chiave relazione prodotto"
+"Abstract SKU","SKU astratto"
+"Select a relation type","Seleziona un tipo di relazione"
+select,seleziona
+"Add rule","Aggiungi regola"
+"Add group","Aggiungi gruppo"
+Delete,Elimina
+"Edit Product Relation","Modifica relazione prodotto"
+"Is active","È attivo"
+"Yes, delete this product relation","Sì, elimina questa relazione prodotto"
+"Number of Products","Numero di prodotti"
+Store,Negozio
+"CSRF token is not valid.","Il token CSRF non è valido."

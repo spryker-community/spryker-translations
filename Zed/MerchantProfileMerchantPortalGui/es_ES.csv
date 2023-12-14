@@ -1,0 +1,59 @@
+"About Your Store","Sobre tu tienda"
+"Addition to address","Adición a la dirección"
+"Average Delivery Time","Tiempo promedio de entrega"
+"Banner URL","URL del banner"
+"Business Info","Información de la empresa"
+"Cancellation Policy","Política de cancelación"
+City,Ciudad
+Company,Empresa
+"Company Name","Nombre de la empresa"
+"Contact Details & Address","Detalles de contacto y dirección"
+"Contact Person","Detalles de la persona de contacto"
+Country,País
+"Data Privacy","Privacidad de datos"
+Description,Descripción
+Dr,Dr
+Email,"Correo electrónico"
+"Fax number","Número de fax"
+"First Name",Nombre
+Imprint,"Aviso legal"
+"Is Active","Está activo"
+"Last Name",Apellido
+Latitude,Latitud
+"Logo URL","URL del logotipo"
+Longitude,Longitud
+"Merchant Reference","Referencia del comerciante"
+Mr,Sr
+Mrs,Sra
+Ms,Sra
+Number,Número
+"Online Profile","Perfil en línea"
+"Store Status","Estado de la tienda"
+"Phone Number","Número de teléfono"
+Profile,Perfil
+profile.status.message.online,"Esto significa que tu tienda está disponible en línea y las personas pueden verla."
+profile.status.message.offline,"Esto significa que tu tienda está disponible en línea y las personas pueden verla."
+"Provide a logo URL","Proporciona una URL de logotipo"
+"Provide a banner URL","Proporciona una URL de banner"
+"Provide Average Delivery Time","Proporciona el tiempo promedio de entrega"
+"Provide Data Privacy","Proporciona la privacidad de datos"
+"Provide Imprint","Proporciona el aviso legal"
+"Provide Cancellation Policy","Proporcionar Política de Cancelación"
+"Provide Terms & Conditions","Proporcionar Términos y Condiciones"
+"Provide the URL of your Store","Proporcionar la URL de tu Tienda"
+"Registration number","Número de Registro"
+Role,Rol
+Save,Guardar
+select.default.placeholder,Seleccionar
+"Store Profile URL","URL del Perfil de la Tienda"
+store.state.online,"Tu Tienda está en línea"
+store.state.offline,"Tu Tienda está en línea"
+Street,Calle
+"Tell us about your store","Cuéntanos sobre tu tienda"
+"Terms & Conditions","Términos y Condiciones"
+"The Profile has been changed successfully.","El perfil ha sido cambiado exitosamente."
+Title,Título
+"Your Store is online","Tu Tienda está en línea"
+"Visual assets","Recursos visuales"
+"Zip Code","Código Postal"
+Stores,Tiendas

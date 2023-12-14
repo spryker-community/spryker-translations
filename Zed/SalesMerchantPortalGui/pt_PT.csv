@@ -1,0 +1,61 @@
+Created,Criado
+Customer,Cliente
+Email,Email
+"Grand Total","Total Geral"
+"Order State","Estado do Pedido"
+"Merchant Reference","Referência do Comerciante"
+"No. of Items","Nº de Itens"
+Orders,Pedidos
+Reference,Referência
+Search,Pesquisar
+States,Estados
+Store,Loja
+Stores,Lojas
+Details,Detalhes
+Order,Pedido
+"Order date","Data do Pedido"
+"Number of products","Número de produtos"
+Items,Itens
+Shipments,Envios
+Subtotal,Subtotal
+Shipment,Envio
+"Included Taxes","Impostos Incluídos"
+"Client name","Nome do Cliente"
+"Client email","Email do Cliente"
+"Total orders","Total de Pedidos"
+Overview,"Visão Geral"
+Totals,Totais
+"From the last %daysNumber% days","Nos últimos %daysNumber% dias"
+"Manage Orders","Gerenciar Pedidos"
+New,Novo
+"Per Store","Por Loja"
+"The state is updated successfully.","O estado foi atualizado com sucesso."
+"Only matching states items will be updated.","Apenas itens com estados correspondentes serão atualizados."
+"Order's Items state","Estado dos Itens do Pedido"
+"Merchant order not found for id %d.","Pedido do Comerciante não encontrado para o id %d."
+"Event name is empty.","O nome do evento está vazio."
+"Merchant order ids are empty.","Os ids do pedido do comerciante estão vazios."
+Method,Método
+Carrier,Transportadora
+"Delivery address","Endereço de Entrega"
+"Requested Date","Data solicitada"
+SKU,SKU
+Image,Imagem
+Name,Nome
+Quantity,Quantidade
+State,Estado
+"There are no applicable actions for the selected items.","Não existem ações aplicáveis para os itens selecionados."
+"Shipment %index% of %total%","Envio %index% de %total%"
+"Canceled Amount","Valor cancelado"
+"Discount Amount","Valor de desconto"
+"Canceled By Merchant","Cancelado pelo comerciante"
+Shipped,Enviado
+Delivered,Entregue
+initiate,Iniciar
+ship,Enviar
+deliver,Entregar
+close,Fechar
+"cancel by merchant","Cancelar pelo comerciante"
+"merchant split pending","Divisão pendente pelo comerciante"
+"sent to merchant","Enviado ao comerciante"
+"shipped by merchant","Enviado pelo comerciante"

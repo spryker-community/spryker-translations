@@ -1,0 +1,67 @@
+Parent,Ouder
+Yes,Ja
+No,Nee
+"Re-sort child categories","Sorteer kindcategorieën opnieuw"
+"Add category to this node","Categorie toevoegen aan deze knoop"
+"Edit Category","Categorie bewerken"
+"Allow to search for this category","Toestaan om te zoeken naar deze categorie"
+"CMS Blocks:top","CMS-blokken: bovenaan"
+"CMS Blocks:middle","CMS-blokken: in het midden"
+"CMS Blocks:bottom","CMS-blokken: onderaan"
+"Category key","Categorie sleutel"
+"-Select value-","-Selecteer waarde-"
+Active,Actief
+"Add Category to this Node","Categorie toevoegen aan deze knoop"
+"Additional Parents","Extra ouders"
+"Allow to search for this category:","Toestaan om te zoeken naar deze categorie:"
+"Assign products","Producten toewijzen"
+"Assign Products to this Category","Producten toewijzen aan deze categorie"
+Category,Categorie
+"Category Key","Categorie sleutel"
+"Category key:","Categorie sleutel:"
+"Category nodes successfully re-sorted.","Categorieknopen succesvol opnieuw gesorteerd."
+"Category nodes successfully reordered.","Categorieknopen succesvol opnieuw geordend."
+"Category status",Categoriestatus
+"Category template",Categorietemplate
+"Category with id %s doesn't exist","Categorie met id %s bestaat niet"
+Create,Aanmaken
+"Create category","Categorie aanmaken"
+"Create Category","Categorie aanmaken"
+Delete,Verwijderen
+"Delete category","Categorie verwijderen"
+Edit,Bewerken
+"Edit category","Categorie bewerken"
+"In Menu","In menu"
+Inactive,Inactief
+"List Categories","Lijst met categorieën"
+"List of categories","Lijst met categorieën"
+no,Nee
+"Not in Menu","Niet in menu"
+"Please make sure required fields are properly filled in","Zorg ervoor dat de verplichte velden correct zijn ingevuld."
+"Re-sort Child Categories","Opnieuw sorteren van subcategorieën"
+"Re-sort child-categories","Opnieuw sorteren van subcategorieën"
+"Root nodes list","Lijst met hoofdcategorieën"
+Save,Opslaan
+"Save Order","Volgorde opslaan"
+Searchable,Doorzoekbaar
+"The category was added successfully.","De categorie is succesvol toegevoegd."
+"The category was saved successfully.","De categorie is succesvol opgeslagen."
+"The category was updated successfully.","De categorie is succesvol bijgewerkt."
+"The category was deleted successfully.","De categorie is succesvol verwijderd."
+Translations,Vertalingen
+View,Bekijken
+"View category","Categorie bekijken"
+Visible,Zichtbaar
+"Visible in the category tree","Zichtbaar in de categorieboom"
+"Visible in the category tree:","Zichtbaar in de categorieboom:"
+yes,Ja
+"Yes, I am sure","Ja, ik weet het zeker"
+"View Category","Categorie bekijken"
+"CSRF token is not valid.","CSRF-token is niet geldig."
+General,Algemeen
+Template,Sjabloon
+Settings,Instellingen
+"The root category cannot be deleted.","De hoofdcategorie kan niet worden verwijderd."
+"Main category will be moved to","Hoofdcategorie wordt verplaatst naar"
+"Extra parent will be moved to","Extra ouder wordt verplaatst naar"
+"Category nodes cannot be relocated.","Categorieknooppunten kunnen niet worden verplaatst."

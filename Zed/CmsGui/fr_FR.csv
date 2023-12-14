@@ -1,0 +1,71 @@
+Activate,Activer
+"Back to CMS","Retour au CMS"
+by,par
+"Cms page with id %s doesn't exist","La page CMS avec l'identifiant %s n'existe pas"
+Compare,Comparer
+"Content Management","Gestion de contenu"
+"Create CMS Page","Créer une page CMS"
+"Create new CMS Page","Créer une nouvelle page CMS"
+"Create page","Créer une page"
+"Created at:","Créé le :"
+Deactivate,Désactiver
+Description:,"Description :"
+"Discard Draft","Annuler le brouillon"
+"Edit CMS Page:","Modifier la page CMS :"
+"Edit page","Modifier la page"
+"Edit placeholders","Modifier les espaces réservés"
+"Edit Placeholders:","Modifier les espaces réservés :"
+"Fill in general page information","Remplir les informations générales de la page"
+"Fill in SEO information","Remplir les informations SEO"
+"In Shop","Dans la boutique"
+"In Zed","Dans Zed"
+"Is active:","Est actif :"
+"Is searchable:","Est recherchable :"
+Keywords:,"Mots-clés :"
+"List of CMS pages","Liste des pages CMS"
+Locale,Locale
+"Meta Description","Meta Description"
+"Meta Keywords","Meta Keywords"
+"Meta Title","Meta Title"
+"Missing placeholders for selected template.","Espaces réservés manquants pour le modèle sélectionné."
+n/a,n/a
+Name,Nom
+Name:,"Nom :"
+on,sur
+"Overview of CMS Pages","Aperçu des pages CMS"
+Page,Page
+"Page was updated successfully","La page a été mise à jour avec succès"
+"Page with version %d successfully published.","La page avec la version %d a été publiée avec succès."
+Pages,Pages
+"Placeholder translations successfully updated","Les traductions des espaces réservés ont été mises à jour avec succès."
+Publish,Publier
+"Rollback to Selected Version","Revenir à la version sélectionnée"
+Save,Enregistrer
+Template:,Modèle:
+Title:,Titre:
+"Translation key:","Clé de traduction:"
+Url,URL
+Urls,URLs
+"Valid from:","Valide à partir de (inclus) :"
+"Valid to:","Valide jusqu'à (exclus) :"
+"Version History","Historique des versions"
+"Version History:","Historique des versions:"
+View,Voir
+"View CMS Page:","Voir la page CMS :"
+"You are editing a <br>draft </b> page. To make your changes visible in Yves, publish the page. Publishing the page will create a new version for this page","Vous modifiez une page <b>brouillon</b>. Pour rendre vos modifications visibles dans la boutique, publiez la page. La publication de la page créera une nouvelle version pour cette page."
+"You are viewing a published page. It was published","Vous consultez une page publiée. Elle a été publiée"
+"You can edit the page or placeholders to modify the current working draft. You can publish the current working draft to create a new version","Vous pouvez modifier la page ou les espaces réservés pour modifier le brouillon de travail actuel. Vous pouvez publier le brouillon de travail actuel pour créer une nouvelle version"
+"CMS Redirect","Redirection CMS"
+"Is searchable","Est recherchable"
+"Page was not created.","La page n'a pas été créée."
+"Page was created successfully.","La page a été créée avec succès."
+"You are editing a <b>draft</b> page. To make your changes visible in the shop, publish the page. Publishing the page will create a new version for this page.","Vous modifiez une page <b>brouillon</b>. Pour rendre vos modifications visibles dans la boutique, publiez la page. La publication de la page créera une nouvelle version pour cette page."
+"Store relation","Relation de magasin"
+Placeholders,"Espaces réservés"
+title,Titre
+content,Contenu
+"View CMS Page","Voir la page CMS"
+"Draft data successfully discarded.","Données du brouillon abandonnées avec succès."
+"Page was deactivated successfully.","La page a été désactivée avec succès."
+"Page was activated successfully.","La page a été activée avec succès."
+"Edit Placeholders","Modifier les espaces réservés"

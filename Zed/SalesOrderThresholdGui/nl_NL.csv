@@ -1,0 +1,19 @@
+"Edit Global threshold","Bewerk globale drempelwaarde"
+"Edit Threshold Settings","Bewerk drempelinstellingen"
+"Global threshold","Globale drempelwaarde"
+"Minimum Hard Threshold","Minimale harde drempelwaarde"
+"Maximum Hard Threshold","Maximale harde drempelwaarde"
+"Minimum Order Value settings saved.","Minimum bestelwaarde-instellingen opgeslagen."
+Save,Opslaan
+"Soft Threshold","Zachte drempel"
+"The Global Threshold is saved successfully.","De globale drempelwaarde is succesvol opgeslagen."
+"Threshold Settings",Drempelinstellingen
+Threshold,Drempel
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","U kunt de plaatshouders <b>{{threshold}}</b> <b>{{fee}}</b> gebruiken"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","U kunt de plaatshouders <code>{{threshold}}</code> en <code>{{fee}}</code> gebruiken"
+"The Global Thresholds is saved successfully.","De globale drempelwaarden zijn succesvol opgeslagen."
+"Store and Currency","Winkel en valuta"
+"Enter threshold value","Voer de drempelwaarde in"
+"Threshold settings",Drempelinstellingen
+Soft,Zacht
+Hard,Hard

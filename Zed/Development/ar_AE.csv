@@ -1,0 +1,61 @@
+adjacency,المجاورة
+"Adjacency Matrix","مصفوفة المجاورة"
+Application,تطبيق
+"Architecture Sniffer","مراقب الهندسة المعمارية"
+"Architecture sniffer results","نتائج مراقب الهندسة المعمارية"
+Back,العودة
+"Check for violations","التحقق من وجود انتهاكات"
+"Composer dependencies","تبعيات الملحن"
+"Composer dev only dependencies","تبعيات الملحن فقط للتطوير"
+"Core module","الوحدة الأساسية"
+Count,العد
+"Declared in composer.json","معلن في composer.json"
+"Declared in composer.json (dev)","معلن في composer.json (dev)"
+Dependency,التبعية
+Dependencies,التبعيات
+"Dependency graphs of all core modules","رسوم بيانية لجميع وحدات النواة"
+detailed,مفصل
+"Dev only dependencies","التبعيات فقط للتطوير"
+Development,التطوير
+"Display all architecture rules","عرض جميع قواعد الهندسة المعمارية"
+"Download CSV","تحميل CSV"
+"Found in src","موجود في src"
+"Found in test","موجود في test"
+From,من
+in,في
+"in src","في src"
+"in tests","في tests"
+Incoming,الواردة
+"Incoming dependencies of the","التبعيات الواردة لـ"
+"Indirect Incoming","الواردة غير المباشرة"
+"Indirect Outgoing","الصادر غير المباشر"
+"Indirect Stability","الاستقرار غير المباشر"
+"List all used plugins","قائمة جميع الوحدات المستخدمة"
+module,وحدة
+Module,وحدة
+"Module name","اسم الوحدة"
+"Module overview","نظرة عامة على الوحدة"
+Namespace,"مساحة الأسماء"
+"No architecture violations detected","لم يتم اكتشاف انتهاكات الهندسة المعمارية"
+"No plugins used in this Module","لا يوجد استخدام للوحدات الإضافية في هذه الوحدة"
+out,خروج
+Outgoing,الصادر
+"Outgoing dependencies of the","التبعيات الصادرة لـ"
+"Plugins used in Projects DependencyProvider","المكونات الإضافية المستخدمة في مزود التبعيات للمشاريع"
+Priority:,الأولوية:
+"Project module","وحدة المشروع"
+Reload,"إعادة التحميل"
+require,يتطلب
+require-dev,"يتطلب تطوير"
+"show all used plugins","عرض جميع المكونات الإضافية المستخدمة"
+"Simple Dependency Graph","الرسم البياني البسيط للتبعية"
+"Spryker Stability","ثبات سبرايكر"
+Stability,الثبات
+"Stability is calculated by ""incoming dependencies / ( incoming dependencies + outgoing dependencies )"" the result will be between 0 (stable) and 1 (unstable)","يتم حساب الثبات عن طريق ""التبعيات الواردة / (التبعيات الواردة + التبعيات الصادرة)"" وسيكون النتيجة بين 0 (ثابت) و 1 (غير ثابت)"
+"Stability of all core modules","ثبات جميع الوحدات الأساسية"
+"Suggested dependencies","التبعيات المقترحة"
+SUM,المجموع
+To,إلى
+"Used Plugins","المكونات المستخدمة"
+"You must specify a bundle for which the graph should be build","يجب تحديد حزمة يجب بناء الرسم البياني لها"
+"You need to run ""vendor/bin/console dev:dependency:build-tree"" to calculate stability for all bundles.","تحتاج إلى تشغيل ""vendor/bin/console dev:dependency:build-tree"" لحساب الاستقرار لجميع الحزم."

@@ -1,0 +1,105 @@
+Activate,Attiva
+"Add group","Aggiungi gruppo"
+"Add Random Generated Code Length","Aggiungi lunghezza del codice generato casualmente"
+"Add rule","Aggiungi regola"
+Amount:,Importo:
+"Apply to query:","Applica alla query:"
+"Batch Value","Valore batch"
+"Calculator type","Tipo di calcolatrice"
+"Cart Rules","Regole carrello"
+Conditions,Condizioni
+"Could not change discount visibility.","Impossibile cambiare la visibilità dello sconto."
+"Create new discount","Crea nuovo sconto"
+"Create new Discount","Crea nuovo sconto"
+"Create voucher codes for the discount","Crea codici voucher per lo sconto"
+Deactivate,Disattiva
+"Define what to apply the discount to","Definisci a cosa applicare lo sconto"
+"Define when to apply the discount","Definisci quando applicare lo sconto"
+"Delete codes","Elimina codici"
+Description,Descrizione
+Description:,Descrizione:
+"Discount calculation","Calcolo dello sconto"
+"Discount collection type","Tipo di applicazione dello sconto"
+"Discount List","Lista sconti"
+"Discount successfully activated","Sconto attivato con successo"
+"Discount successfully created, but not activated.","Sconto creato con successo, ma non attivato."
+"Discount successfully deactivated","Sconto disattivato con successo"
+"Discount successfully updated.","Sconto aggiornato con successo."
+"Discount Type:","Tipo di sconto:"
+"Discount with id %s doesn't exist","Lo sconto con id %s non esiste"
+"Discount with this name is already used.","Questo nome sconto è già in uso."
+Edit,Modifica
+"Edit discount","Modifica sconto"
+"Enter your custom code as a string. If selected in the next step, additional random characters are added at the end of this string. Use the placeholder [code] to indicate where you want random characters to be generated.","Inserisci il tuo codice personalizzato come stringa. Se selezionato nel passaggio successivo, vengono aggiunti caratteri casuali aggiuntivi alla fine di questa stringa. Usa il segnaposto [code] per indicare dove vuoi che vengano generati caratteri casuali."""
+Examples,Esempi
+Exclusive:,Esclusivo:
+Explanation,Spiegazione
+Export,Esporta
+Field,Campo
+"Fill in the general discount information","Compila le informazioni generali dello sconto"
+"General Information","Informazioni generali"
+"Generated Discount Codes","Codici sconto generati"
+"List of Discounts","Elenco degli sconti"
+"Matches all elements which have a ""width"" attribute defined, but with any ""width"" value","Corrisponde a tutti gli elementi che hanno un attributo ""width"" definito, ma con qualsiasi valore ""width"""
+"Matches elements with the exact same SKU: ""SKU-1""","Corrisponde agli elementi con lo stesso SKU esatto: ""SKU-1"""
+"Max nr. of uses","Numero massimo di utilizzi"
+"Max number of uses (0 = Infinite usage)","Numero massimo di utilizzi (0 = Utilizzo infinito)"
+N/A,n/a
+Name,Nome
+Name:,Nome:
+No,No
+"No additional random characters","Nessun carattere casuale aggiuntivo"
+"No conditions, discount always applied.","Nessuna condizione, lo sconto viene sempre applicato."
+"No returns for this order","Nessun reso per questo ordine"
+"No voucher codes were deleted.","Nessun codice voucher è stato eliminato."
+Operation,Operazione
+Overview,Panoramica
+"Plain query","Query semplice"
+"Please fill all required fields.","Si prega di compilare tutti i campi obbligatori."
+"Query builder","Generatore di query"
+"Query String","Stringa di query"
+Save,Salva
+"Store relation:","Relazione con il negozio:"
+"Successfully deleted ""%d"" vouchers.","Voucher ""%d"" eliminati con successo."
+"Summary explaining promotion. Displayed with eligible products where applicable.","Sommario che spiega la promozione. Visualizzato con i prodotti idonei, se applicabile."
+"The discount cannot end before the starting date.","Lo sconto non può terminare prima della data di inizio."
+"This value is not a valid datetime.","Questo valore non è una data e ora valida."
+Type:,Tipo:
+"Unique, short, and descriptive. Displayed in cart calculation.","Univoco, breve e descrittivo. Visualizzato nel calcolo del carrello."
+Used,Usato
+"Valid from:","Valido da (incluso):"
+"Valid From (Time in UTC)","Valido da (Ora in UTC)"
+"Valid To (Time in UTC)","Valido fino a (Ora in UTC)"
+"Valid until:","Valido fino a (escluso):"
+Value,Valore
+Voucher,Voucher
+"Voucher Code","Codice voucher"
+Yes,Si
+"Add code","Aggiungi codice"
+Active,Attivo
+Inactive,Inattivo
+"Create Discount","Crea Sconto"
+"Discount Type","Tipo di Sconto"
+"Cart rules","Regole Carrello"
+"Voucher codes","Codici Voucher"
+"Calculator percentage",Percentuale
+"Calculator fixed","Importo Fisso"
+"Discount application type","Tipo di Applicazione dello Sconto"
+Delete,Elimina
+"Apply when","Applica quando"
+"The discount can be applied if the query applies for at least X item(s).","Lo sconto può essere applicato se la query si applica per almeno X articolo(i)."
+"Discount successfully activated.","Sconto attivato con successo."
+"Discount successfully deactivated.","Sconto disattivato con successo."
+"Custom code","Codice Personalizzato"
+Generate,Genera
+"You must provide length or custom code values.","Devi fornire la lunghezza o i valori del codice personalizzato."
+"No available codes to generate. Select higher code length.","Nessun codice disponibile da generare. Seleziona una lunghezza di codice più alta."
+"Edit Discount","Modifica Sconto"
+"Voucher codes successfully generated.","Codici Voucher generati con successo."
+"Voucher code successfully deleted.","Codice Voucher eliminato con successo."
+"Apply to","Applica a"
+"CSRF token is not valid.","Il token CSRF non è valido."
+"Enter an integer %min%-%max%. Discounts are calculated in sequential order, starting from %min%. The default value is %max%.","Inserisci un numero intero %min%-%max%. Gli sconti vengono calcolati in ordine sequenziale, a partire da %min%. Il valore predefinito è %max%."
+"Invalid entry. Please enter an integer %min%-%max%","Inserimento non valido. Inserisci un numero intero %min%-%max%."
+Priority,Priorità
+"Enter an integer %min%-%max%.","Inserisci un numero intero %min%-%max%."

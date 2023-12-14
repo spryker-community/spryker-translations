@@ -1,0 +1,67 @@
+Parent,الأب
+Yes,نعم
+No,لا
+"Re-sort child categories","إعادة ترتيب فئات الأطفال"
+"Add category to this node","إضافة فئة إلى هذا العقد"
+"Edit Category","تحرير الفئة"
+"Allow to search for this category","السماح بالبحث عن هذه الفئة"
+"CMS Blocks:top","كتل CMS: الأعلى"
+"CMS Blocks:middle","كتل CMS: الوسط"
+"CMS Blocks:bottom","كتل CMS: الأسفل"
+"Category key","مفتاح الفئة"
+"-Select value-","-اختر قيمة-"
+Active,نشط
+"Add Category to this Node","إضافة فئة إلى هذا العقد"
+"Additional Parents","الآباء الإضافيون"
+"Allow to search for this category:","السماح بالبحث عن هذه الفئة:"
+"Assign products","تعيين المنتجات"
+"Assign Products to this Category","تعيين المنتجات لهذه الفئة"
+Category,الفئة
+"Category Key","مفتاح الفئة"
+"Category key:","مفتاح الفئة:"
+"Category nodes successfully re-sorted.","تم إعادة ترتيب عقد الفئة بنجاح."
+"Category nodes successfully reordered.","تم إعادة ترتيب عقد الفئة بنجاح."
+"Category status","حالة الفئة"
+"Category template","قالب الفئة"
+"Category with id %s doesn't exist","الفئة ذات المعرف %s غير موجودة"
+Create,إنشاء
+"Create category","إنشاء فئة"
+"Create Category","إنشاء فئة"
+Delete,حذف
+"Delete category","حذف الفئة"
+Edit,تحرير
+"Edit category","تحرير الفئة"
+"In Menu","في القائمة"
+Inactive,"غير نشط"
+"List Categories","قائمة الفئات"
+"List of categories","قائمة الفئات"
+no,لا
+"Not in Menu","غير موجود في القائمة"
+"Please make sure required fields are properly filled in","يرجى التأكد من ملء الحقول المطلوبة بشكل صحيح"
+"Re-sort Child Categories","إعادة ترتيب فئات الأطفال"
+"Re-sort child-categories","إعادة ترتيب فئات الأطفال"
+"Root nodes list","قائمة العقد الجذرية"
+Save,حفظ
+"Save Order","حفظ الترتيب"
+Searchable,"قابل للبحث"
+"The category was added successfully.","تمت إضافة الفئة بنجاح."
+"The category was saved successfully.","تم حفظ الفئة بنجاح."
+"The category was updated successfully.","تم تحديث الفئة بنجاح."
+"The category was deleted successfully.","تم حذف الفئة بنجاح."
+Translations,الترجمات
+View,عرض
+"View category","عرض الفئة"
+Visible,مرئي
+"Visible in the category tree","مرئي في شجرة الفئات"
+"Visible in the category tree:","مرئي في شجرة الفئات:"
+yes,نعم
+"Yes, I am sure","نعم، أنا متأكد"
+"View Category","عرض الفئة"
+"CSRF token is not valid.","رمز CSRF غير صالح."
+General,عام
+Template,قالب
+Settings,إعدادات
+"The root category cannot be deleted.","لا يمكن حذف الفئة الجذرية."
+"Main category will be moved to","سيتم نقل الفئة الرئيسية إلى"
+"Extra parent will be moved to","سيتم نقل الوالد الإضافي إلى"
+"Category nodes cannot be relocated.","لا يمكن نقل أعقاد الفئة."

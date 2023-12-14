@@ -1,0 +1,67 @@
+Parent,Genitore
+Yes,Sì
+No,No
+"Re-sort child categories","Riordina categorie figlie"
+"Add category to this node","Aggiungi categoria a questo nodo"
+"Edit Category","Modifica categoria"
+"Allow to search for this category","Consenti di cercare questa categoria"
+"CMS Blocks:top","Blocchi CMS: in alto"
+"CMS Blocks:middle","Blocchi CMS: al centro"
+"CMS Blocks:bottom","Blocchi CMS: in basso"
+"Category key","Chiave di categoria"
+"-Select value-","-Seleziona valore-"
+Active,Attivo
+"Add Category to this Node","Aggiungi categoria a questo nodo"
+"Additional Parents","Genitori aggiuntivi"
+"Allow to search for this category:","Consenti di cercare questa categoria:"
+"Assign products","Assegna prodotti"
+"Assign Products to this Category","Assegna prodotti a questa categoria"
+Category,Categoria
+"Category Key","Chiave di categoria"
+"Category key:","Chiave di categoria:"
+"Category nodes successfully re-sorted.","Nodi di categoria riordinati con successo."
+"Category nodes successfully reordered.","Nodi di categoria riordinati con successo."
+"Category status","Stato categoria"
+"Category template","Template categoria"
+"Category with id %s doesn't exist","La categoria con id %s non esiste"
+Create,Crea
+"Create category","Crea categoria"
+"Create Category","Crea categoria"
+Delete,Elimina
+"Delete category","Elimina categoria"
+Edit,Modifica
+"Edit category","Modifica categoria"
+"In Menu","Nel menu"
+Inactive,Inattivo
+"List Categories","Elenco delle categorie"
+"List of categories","Elenco delle categorie"
+no,No
+"Not in Menu","Non nel menu"
+"Please make sure required fields are properly filled in","Assicurati che i campi obbligatori siano compilati correttamente"
+"Re-sort Child Categories","Riordina sottocategorie"
+"Re-sort child-categories","Riordina sottocategorie"
+"Root nodes list","Elenco nodi radice"
+Save,Salva
+"Save Order","Salva Ordine"
+Searchable,Ricercabile
+"The category was added successfully.","La categoria è stata aggiunta con successo."
+"The category was saved successfully.","La categoria è stata salvata con successo."
+"The category was updated successfully.","La categoria è stata aggiornata con successo."
+"The category was deleted successfully.","La categoria è stata eliminata con successo."
+Translations,Traduzioni
+View,Visualizza
+"View category","Visualizza categoria"
+Visible,Visibile
+"Visible in the category tree","Visibile nell'albero delle categorie"
+"Visible in the category tree:","Visibile nell'albero delle categorie:"
+yes,Sì
+"Yes, I am sure","Sì, sono sicuro/a"
+"View Category","Visualizza Categoria"
+"CSRF token is not valid.","Il token CSRF non è valido."
+General,Generale
+Template,Modello
+Settings,Impostazioni
+"The root category cannot be deleted.","La categoria radice non può essere eliminata."
+"Main category will be moved to","La categoria principale verrà spostata in"
+"Extra parent will be moved to","Il genitore aggiuntivo verrà spostato in"
+"Category nodes cannot be relocated.","I nodi delle categorie non possono essere spostati."

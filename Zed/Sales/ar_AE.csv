@@ -1,0 +1,105 @@
+"<1d | 1d-7d | >7d","<1d | 1d-7d | >7d"
+"Address successfully updated.","تم تحديث العنوان بنجاح."
+Addresses,العناوين
+"All orders of the customer","جميع طلبات العميل"
+"Back to Orders","العودة إلى الطلبات"
+"Canceled amount","المبلغ الملغى"
+"Cart Notes","ملاحظات السلة"
+Comments,التعليقات
+"Customer Full Name ","الاسم الكامل للعميل"
+"Customer Full Name","الاسم الكامل للعميل"
+"Customer successfully updated.","تم تحديث المستخدم بنجاح."
+Discount,خصم
+"GRAND TOTAL","المجموع الكلي"
+"Grand Total","المجموع الكلي"
+"Hide history","إخفاء التاريخ"
+"incl. %tax_amount% % tax","شامل %tax_amount% % ضريبة"
+"Included tax amount","مبلغ الضريبة المشمولة"
+"Item total","إجمالي العنصر"
+Items,العناصر
+Legend,الأسطورة
+"List of orders","قائمة الطلبات"
+Matrix,مصفوفة
+Note,ملاحظة
+"Number of Items","عدد العناصر"
+Option,خيار
+"Order Matrix","مصفوفة الطلب"
+"Order Source","مصدر الطلب"
+"Order State","حالة الطلب"
+Orders,الطلبات
+"Overview of Order Matrix","نظرة عامة على مصفوفة الطلب"
+"Overview of Orders","نظرة عامة على الطلبات"
+Payments,المدفوعات
+Product,المنتج
+Quantity,الكمية
+Sales,المبيعات
+Save,حفظ
+"Send Message","إرسال رسالة"
+Shipment,الشحن
+"Show history","عرض التاريخ"
+"Show less","عرض أقل"
+"Show more","أظهر المزيد"
+Sku,"رمز المنتج"
+State,الحالة
+"Sub total","المجموع الفرعي"
+Subtotal,"المجموع الفرعي"
+Totals,المجاميع
+"Trigger all matching states","تفعيل جميع الحالات المطابقة"
+"Trigger event","تفعيل الحدث"
+"Unique Product Quantity","كمية المنتج الفريدة"
+"Unit Price","سعر الوحدة"
+"Variant Details","تفاصيل الاختلاف"
+"View Order","عرض الطلب"
+"View Order:","عرض الطلب:"
+"Remuneration total","إجمالي التعويض"
+"Trigger all matching states inside this order","تفعيل جميع الحالات المطابقة داخل هذا الطلب"
+"Previous orders count","عدد الطلبات السابقة"
+Name,الاسم
+E-mail,"البريد الإلكتروني"
+"Order date","تاريخ الطلب"
+Refunds,المستردات
+"Discounts & Vouchers","الخصومات والقسائم"
+"Order Items","عناصر الطلب"
+Reference,المرجع
+"Order Overview","نظرة عامة على الطلب"
+"Total taxes","إجمالي الضرائب"
+Reclamations,المطالبات
+Claim,المطالبة
+"payment pending","الدفع قيد الانتظار"
+exported,"تم التصدير"
+shipped,"تم الشحن"
+delivered,"تم التوصيل"
+refunded,"تم استرداد المبلغ"
+closed,مغلق
+pay,دفع
+ship,شحن
+stock-update,"تحديث المخزون"
+close,إغلاق
+refund,استرداد
+execute-return,"تنفيذ الإرجاع"
+cancel-return,"إلغاء الإرجاع"
+ship-return,"إرسال الإرجاع إلى العميل"
+delivery-return,"تسليم الإرجاع إلى العميل"
+cancel,إلغاء
+"skip timeout","تخطي المهلة"
+"Refund total","استرداد الإجمالي"
+"Comment successfully added","تمت إضافة التعليق بنجاح."
+"Address Details","تفاصيل العنوان"
+"Middle name","الاسم الأوسط"
+"Po box","صندوق بريد"
+"Zip code","الرمز البريدي"
+Address1,"العنوان 1"
+Address2,"العنوان 2"
+"Cell phone","رقم الهاتف المحمول"
+"Edit Address for Order: %idSalesOrder%","تعديل العنوان للطلب: %idSalesOrder%"
+new,جديد
+cancelled,ملغى
+paid,مدفوع
+waiting,"في انتظار"
+confirmed,مؤكد
+returned,مُرجع
+"invoice generated","تم إنشاء الفاتورة"
+"waiting for return","في انتظار الإرجاع"
+"return canceled","تم إلغاء الإرجاع"
+"shipped to customer","تم شحنها إلى العميل"
+invoice-generate,"إنشاء الفاتورة"

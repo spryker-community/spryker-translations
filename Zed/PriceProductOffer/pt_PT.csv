@@ -1,0 +1,4 @@
+"The set of Store and Currency needs to be unique.","O conjunto de entradas Loja e Moeda precisa ser único."
+"This value should be equal or greater than {{ compared_value }} or empty.","Este valor deve ser igual ou maior que {{ compared_value }} ou vazio."
+"This field is missing.","Este campo está em falta."
+"Currency {{ currency }} is not assigned to the store {{ store }}","A moeda {{ currency }} não está atribuída à loja {{ store }}"

@@ -1,0 +1,24 @@
+Actions,Acciones
+Active,Activo
+Administration,Administración
+"Available in store","Disponible en tienda"
+"Available in the following store(s)","Disponible en la(s) siguiente(s) tienda(s)"
+Configuration,Configuración
+"Create Warehouse","Crear almacén"
+"Edit Warehouse","Editar almacén"
+Inactive,Inactivo
+"Is this warehouse available?","¿Este almacén está disponible?"
+Name,Nombre
+No,No
+Status,Estado
+"Stock not found","Stock no encontrado"
+"Store relation","Relación de tienda"
+"Store Relation","Relación de tienda"
+"This name is already in use.","Este nombre ya está en uso."
+View,Ver
+"View Warehouse: ","Ver almacén: "
+"Warehouse has been successfully saved","El almacén se ha guardado correctamente"
+"Warehouse has been successfully updated","El almacén se ha actualizado correctamente"
+"Warehouse ID","ID de almacén"
+Warehouses,Almacenes
+Yes,Sí

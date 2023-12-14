@@ -1,0 +1,41 @@
+"Attach customer to company","Assigner un client à une entreprise"
+"Business Unit","Unité commerciale"
+"Company user deletion confirmation","Confirmation de suppression d'utilisateur d'entreprise"
+"Company Users","Utilisateurs d'entreprise"
+"Create Company User","Créer un utilisateur d'entreprise"
+"Customer Access","Accès client"
+"Customer with id `%s` does not exist","Le client avec l'identifiant `%s` n'existe pas"
+E-Mail,E-Mail
+Email,Email
+"Edit Company User","Modifier l'utilisateur d'entreprise"
+"List of Company Users","Liste des utilisateurs d'entreprise"
+"Overview of Company Users","Aperçu des utilisateurs d'entreprise"
+"User ID","Identifiant utilisateur"
+"Business Unit name","Nom de l'unité commerciale"
+"Attach ""%customer%""","Attacher ""%customer%"""
+Disable,Désactiver
+"Company user successfully disabled","Utilisateur d'entreprise désactivé avec succès"
+"Company user successfully enabled","Utilisateur d'entreprise activé avec succès"
+Disabled,Désactivé
+Enabled,Activé
+Enable,Activer
+"User Name","Nom d'utilisateur"
+"Attach to BU","Attacher à l'UC"
+"Company user has been created.","L'utilisateur d'entreprise a été créé."
+"Company User Name","Nom de l'utilisateur d'entreprise"
+Company,Entreprise
+"Company name","Nom de l'entreprise"
+"Select company","Sélectionner une entreprise"
+Mr,M.
+Mrs,Mme
+Ms,Mlle
+Dr,Dr
+"Company Name","Nom de l'entreprise"
+Salutation,Salutation
+"Select one","Sélectionner une option"
+"First Name",Prénom
+"Last Name","Nom de famille"
+Gender,Genre
+"Send password token through email","Envoyer le jeton de mot de passe par e-mail"
+Phone,Téléphone
+"Date of birth","Date de naissance"

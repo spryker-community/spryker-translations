@@ -1,0 +1,21 @@
++Add,+Add
+Actions,Acties
+Active,Actief
+Cancel,Annuleren
+Delete,Verwijderen
+"Go Back",Terug
+ID,ID
+Inactive,Inactief
+"List of Blocks for ""%SLOT_NAME%"" Slot","Lijst van blokken voor ""%SLOT_NAME%"" Slot"
+"Move Down","Naar beneden verplaatsen"
+"Move Up","Omhoog verplaatsen"
+Name,Naam
+Save,Opslaan
+"Select or type a block name to assign","Selecteer of typ een bloknaam om toe te wijzen"
+SprykerCmsSlotBlock,Spryker
+Status,Status
+Stores,Winkels
+"There are unsaved changes","Er zijn niet-opgeslagen wijzigingen"
+"Valid From (Included)","Geldig vanaf (inclusief)"
+"Valid To (Excluded)","Geldig tot (exclusief)"
+"View Block","Blok bekijken"

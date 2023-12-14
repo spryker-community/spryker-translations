@@ -1,0 +1,10 @@
+Amount,المبلغ
+"Payment method","طريقة الدفع"
+"Payment provider","مزود الدفع"
+"Payment method key ""%paymentMethodKey%"" used more then once among requested entities.","تم استخدام مفتاح طريقة الدفع ""%paymentMethodKey%"" أكثر من مرة بين الكيانات المطلوبة."
+"Payment method name ""%paymentMethodName%"" used more then once among requested entities.","تم استخدام اسم طريقة الدفع ""%paymentMethodName%"" أكثر من مرة بين الكيانات المطلوبة."
+"Payment provider with key ""%paymentProviderKey%"" already exists.","مزود الدفع بمفتاح ""%paymentProviderKey%"" موجود بالفعل."
+"Payment method with key ""%paymentMethodKey%"" already exists.","طريقة الدفع بمفتاح ""%paymentMethodKey%"" موجودة بالفعل."
+"Payment provider key ""%paymentProviderKey%"" used more then once among requested entities.","تم استخدام مفتاح مزود الدفع ""%paymentProviderKey%"" أكثر من مرة بين الكيانات المطلوبة."
+"Payment provider name ""%paymentProviderName%"" used more then once among requested entities.","تم استخدام اسم مزود الدفع ""%paymentProviderName%"" أكثر من مرة بين الكيانات المطلوبة."
+"Payment provider with id ""%paymentProviderId%"" is unknown.","مزود الدفع بالمعرف ""%paymentProviderId%"" غير معروف."

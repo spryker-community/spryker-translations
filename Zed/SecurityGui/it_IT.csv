@@ -1,0 +1,13 @@
+"Forgot password?","Password dimenticata?"
+Login,Accedi
+Reset,Reset
+"Email Address","Indirizzo email"
+"Request token is missing!","Token di richiesta mancante!"
+"Invalid request token!","Token di richiesta non valido!"
+"Password updated.","Password aggiornata."
+"Could not update password.","Impossibile aggiornare la password."
+Password,Password
+"The password fields must match.","I campi password devono corrispondere."
+"Repeat Password","Ripeti password"
+"Recover password","Recupera password"
+"If there is an account associated with this email, you will receive an Email with further instructions.","Se esiste un account associato a questa email, riceverai un'email con ulteriori istruzioni."

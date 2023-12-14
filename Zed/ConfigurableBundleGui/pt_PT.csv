@@ -1,0 +1,66 @@
+Actions,Ações
+Activate,Ativar
+Active,Ativo
+"Add General Information","Adicionar Informações Gerais"
+"Add Slot","Adicionar Slot"
+"Are you sure you want to delete template","Tem a certeza de que deseja eliminar o modelo"
+"Are you sure you want to delete this slot?","Tem a certeza de que deseja eliminar este slot?"
+"At first create Configurable bundle Template, after that you will be redirected to the page where you can create slots, and define products per each of them.","Primeiro, crie um modelo de pacote configurável e, em seguida, será redirecionado para a página onde pode criar slots e definir produtos para cada um deles."
+Back,Voltar
+"Back to Template list","Voltar para a lista de modelos"
+"Below you can edit the name of your slot for different locales (in different languages).","Abaixo, pode editar o nome do seu slot para diferentes localidades (em diferentes idiomas)."
+Cancel,Cancelar
+"Configurable Bundle Template","Modelo de Pacote Configurável"
+"Configurable bundle template has been successfully created.","O modelo de pacote configurável foi criado com sucesso."
+"Configurable bundle template has been successfully deleted.","O modelo de pacote configurável foi eliminado com sucesso."
+"Configurable bundle template has been successfully updated.","O modelo de pacote configurável foi atualizado com sucesso."
+"Configurable bundle template has not been created.","O modelo de pacote configurável não foi criado."
+"Configurable bundle template has not been deleted.","O modelo de pacote configurável não foi eliminado."
+"Configurable bundle template has not been updated.","O modelo de pacote configurável não foi atualizado."
+"Configurable bundle template slot has not been created.","O slot do modelo de pacote configurável não foi criado."
+"Configurable bundle template slot has not been deleted.","O slot do modelo de pacote configurável não foi eliminado."
+"Configurable bundle template slot has not been updated.","O slot do modelo de pacote configurável não foi atualizado."
+"Configurable bundle template slot was successfully created.","O slot do modelo de pacote configurável foi criado com sucesso."
+"Configurable bundle template slot was successfully deleted.","O slot do modelo de pacote configurável foi eliminado com sucesso."
+"Configurable bundle template slot was successfully updated.","O slot do modelo de pacote configurável foi atualizado com sucesso."
+"Configurable bundle template slot with id ""%id%"" was not found.","Não foi encontrado o slot do modelo de pacote configurável com o ID ""%id%""."
+"Configurable bundle template with id ""%id%"" was not found.","Não foi encontrado o modelo de pacote configurável com o ID ""%id%""."
+"Configurable Bundle Templates","Modelos de Pacote Configurável"
+Confirm,Confirmar
+"Confirm action","Confirmar ação"
+"Create Configurable Bundle Template","Criar Modelo de Pacote Configurável"
+"Create New Template","Criar Novo Modelo"
+"Create Slot","Criar Slot"
+Deactivate,Desativar
+Delete,Eliminar
+"Delete Configurable Bundle Template","Eliminar Modelo de Pacote Configurável"
+"Delete Template","Eliminar Modelo"
+Edit,Editar
+"Edit Configurable Bundle Template","Editar Modelo de Pacote Configurável"
+"Edit Slot","Editar Slot"
+"Edit Slot for","Editar Slot para"
+for,para
+General,Geral
+Inactive,Inativo
+Name,Nome
+Next,Seguinte
+"Note: you can assign products and categories for a slot in the respective tabs.","Nota: pode atribuir produtos e categorias a um slot nas respetivas abas."
+"Nr. of Slots","Nr. de Slots"
+"Number of Items","Número de Itens"
+"Product ID","ID do Produto"
+Save,Guardar
+SKU,SKU
+"Slot details","Detalhes do Slot"
+"Slot ID","ID do Slot"
+"Slot Name","Nome do Slot"
+Slots,Slots
+Status,Estado
+"Template ""%template_name%"" has been activated.","O template ""%template_name%"" foi ativado."
+"Template ""%template_name%"" has deactivated.","O template ""%template_name%"" foi desativado."
+"Template ""%template_name%"" has not been activated.","O template ""%template_name%"" não foi ativado."
+"Template ""%template_name%"" has not been deactivated.","O template ""%template_name%"" não foi desativado."
+"Template ""%template_name%"" was activated.","O template ""%template_name%"" foi ativado."
+"Template ""%template_name%"" was deactivated.","O template ""%template_name%"" foi desativado."
+"Template details","Detalhes do Template"
+"You can add slots on this page. During slot creation you can assign products from a catalog to this slot one by one, import CSV file or assign several categories.","Pode adicionar slots nesta página. Durante a criação do slot, pode atribuir produtos de um catálogo a este slot um por um, importar um ficheiro CSV ou atribuir várias categorias."
+"You can change name and define locals on this page.","Pode alterar o nome e definir locais nesta página."

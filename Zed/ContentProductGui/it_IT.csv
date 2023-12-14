@@ -1,0 +1,19 @@
+"Abstract Product List","Elenco prodotti astratto"
+Actions,Azioni
+Active,Attivo
+"Add more products","Aggiungi altri prodotti"
+"Add to list","Aggiungi alla lista"
+content_product_abstract_list.template.bottom-title,"Titolo inferiore"
+content_product_abstract_list.template.default,Predefinito
+content_product_abstract_list.template.top-title,"Titolo superiore"
+Delete,Elimina
+ID,ID
+Image,Immagine
+Inactive,Inattivo
+"Move Down","Sposta in basso"
+"Move Up","Sposta in alto"
+Name,Nome
+Selected,Selezionato
+SKU,SKU
+Status,Stato
+Stores,Negozi

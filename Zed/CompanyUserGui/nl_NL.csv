@@ -1,0 +1,41 @@
+"Attach customer to company","Klant toewijzen aan bedrijf"
+"Business Unit","Business Unit"
+"Company user deletion confirmation","Bevestiging van verwijdering bedrijfsgebruiker"
+"Company Users",Bedrijfsgebruikers
+"Create Company User","Bedrijfsgebruiker aanmaken"
+"Customer Access",Klanttoegang
+"Customer with id `%s` does not exist","Klant met id `%s` bestaat niet"
+E-Mail,E-mail
+Email,E-mail
+"Edit Company User","Bedrijfsgebruiker bewerken"
+"List of Company Users","Lijst met bedrijfsgebruikers"
+"Overview of Company Users","Overzicht van bedrijfsgebruikers"
+"User ID",Gebruikers-ID
+"Business Unit name",Bedrijfseenheidnaam
+"Attach ""%customer%""","Koppelen aan ""%customer%"""
+Disable,Uitschakelen
+"Company user successfully disabled","Bedrijfsgebruiker succesvol uitgeschakeld"
+"Company user successfully enabled","Bedrijfsgebruiker succesvol ingeschakeld"
+Disabled,Uitgeschakeld
+Enabled,Ingeschakeld
+Enable,Inschakelen
+"User Name",Gebruikersnaam
+"Attach to BU","Koppelen aan BU"
+"Company user has been created.","Bedrijfsgebruiker is aangemaakt."
+"Company User Name",Bedrijfsgebruikersnaam
+Company,Bedrijf
+"Company name",Bedrijfsnaam
+"Select company","Selecteer bedrijf"
+Mr,Dhr.
+Mrs,Mevr.
+Ms,Mevr.
+Dr,Dr.
+"Company Name",Bedrijfsnaam
+Salutation,Aanhef
+"Select one","Selecteer een"
+"First Name",Voornaam
+"Last Name",Achternaam
+Gender,Geslacht
+"Send password token through email","Stuur wachtwoordtoken via e-mail"
+Phone,Telefoon
+"Date of birth",Geboortedatum

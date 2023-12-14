@@ -1,0 +1,23 @@
+Add,Toevoegen
+"Add new Carrier Company","Nieuw vervoersbedrijf toevoegen"
+"Add new Shipment Method","Nieuwe verzendmethode toevoegen"
+"Availability plugin",Beschikbaarheidsplugin
+Carrier,Vervoerder
+"Carrier was created successfully.","Vervoerder is succesvol aangemaakt."
+"Carrier with the same name already exists.","Er bestaat al een vervoerder met dezelfde naam."
+"Create new Shipment Carrier","Nieuwe verzendvervoerder aanmaken"
+"Delivery time plugin",Levertijdplugin
+"Edit Shipment Method","Verzendmethode bewerken"
+Enabled?,Activeren
+"List Shipment Methods","Lijst met verzendmethoden"
+Method,Methode
+"New Shipment Method","Nieuwe verzendmethode"
+Price,Prijs
+"Price plugin",Prijsplugin
+Save,Opslaan
+"Select one","Selecteer een"
+"Shipment Method",Verzendmethode
+"Shipment method ""%s"" was created successfully.","Verzendmethode ""%s"" is succesvol aangemaakt."
+"Shipment method ""%s"" was updated successfully.","Verzendmethode ""%s"" is succesvol bijgewerkt."
+"Shipment method with such name already exists for selected shipment provider.","Er bestaat al een verzendmethode met dezelfde naam voor de geselecteerde verzendprovider."
+"Shipment Methods",Verzendmethoden

@@ -1,0 +1,62 @@
+Action,Ação
+"Add Group","Adicionar grupo"
+"Add new Role","Adicionar novo papel"
+"Add Rule","Adicionar regra"
+"Assigned groups","Grupos atribuídos"
+"Assigned Roles","Funções atribuídas"
+"Assigned Rules","Regras atribuídas"
+Bundle,Pacote
+Controller,Controlador
+"Could not modify root role node!","Não tem permissão para editar a função raiz."
+Create,Criar
+"Create Group","Criar grupo"
+"Create new Role","Criar novo papel"
+"Create Role","Criar papel"
+"Current password","Senha atual"
+"Edit Group","Editar grupo"
+"Failed to add Rule.","Falha ao adicionar regra."
+"Failed to remove rule","Falha ao remover regra"
+"Group couldn't be found","Grupo não encontrado"
+"Group name already in use","Nome do grupo já em uso"
+"Group was created successfully.","Grupo criado com sucesso."
+"Group was updated successfully.","Grupo atualizado com sucesso."
+"Interface language","Idioma da interface"
+"List Groups","Listar grupos"
+"List Roles","Lista de papéis"
+"Missing role id!","Id de papel ausente!"
+"Missing rule id!","Id de regra ausente!"
+"No roles","Sem papéis"
+Permission,Permissão
+Role,Papel
+"Role ""%s"" successfully added.","Papel ""%s"" adicionado com sucesso."
+"Role ""%s"" successfully updated.","Papel ""%s"" atualizado com sucesso."
+"Role couldn't be found","Papel não encontrado"
+"Role list","Lista de papéis"
+"Role name","Nome do papel"
+"Role was successfully removed.","Papel removido com sucesso."
+Roles,Papéis
+roles,Papéis
+"Root group","Grupo raiz"
+Rule,Regra
+"Rule successfully added.","Regra adicionada com sucesso."
+Save,Salvar
+"Select value","Selecionar valor"
+"The password fields must match.","Os campos de senha devem corresponder."
+"The User was removed from the group.","O usuário foi removido do grupo."
+"This action requires a DELETE request.","Esta ação requer uma solicitação DELETE."
+"This user is an agent","Este usuário é um agente"
+"Unable to delete because role has groups assigned.","Não é possível excluir porque a função tem grupos atribuídos."
+"Update ""%s"" Role","Atualizar função ""%s"""
+"User and group are not found.","Usuário e grupo não encontrados."
+"User was activated successfully.","Usuário ativado com sucesso."
+"User was deactivated successfully.","Usuário desativado com sucesso."
+"User was deleted successfully.","Usuário excluído com sucesso."
+"User was updated successfully.","Usuário atualizado com sucesso."
+Users,Usuários
+"Users Control","Controle de Usuários"
+Groups,Grupos
+allow,permitir
+deny,negar
+"Edit Role","Editar Função"
+"Created At","Criado em"
+"Create new Group","Criar novo Grupo"

@@ -1,0 +1,19 @@
+"Abstract Product List","قائمة المنتجات المجردة"
+Actions,الإجراءات
+Active,نشط
+"Add more products","إضافة المزيد من المنتجات"
+"Add to list","إضافة إلى القائمة"
+content_product_abstract_list.template.bottom-title,"العنوان السفلي"
+content_product_abstract_list.template.default,الافتراضي
+content_product_abstract_list.template.top-title,"العنوان العلوي"
+Delete,حذف
+ID,المعرف
+Image,صورة
+Inactive,"غير نشط"
+"Move Down","تحريك للأسفل"
+"Move Up","تحريك للأعلى"
+Name,الاسم
+Selected,محدد
+SKU,"رمز المنتج"
+Status,الحالة
+Stores,المتاجر

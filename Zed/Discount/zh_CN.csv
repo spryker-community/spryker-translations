@@ -1,0 +1,105 @@
+Activate,激活
+"Add group",添加组
+"Add Random Generated Code Length",添加随机生成的代码长度
+"Add rule",添加规则
+Amount:,金额：
+"Apply to query:",应用于查询：
+"Batch Value",批量值
+"Calculator type",计算器类型
+"Cart Rules",购物车规则
+Conditions,条件
+"Could not change discount visibility.",无法更改折扣可见性。
+"Create new discount",创建新的折扣
+"Create new Discount",创建新的折扣
+"Create voucher codes for the discount",为折扣创建优惠码
+Deactivate,停用
+"Define what to apply the discount to",定义折扣应用对象
+"Define when to apply the discount",定义折扣应用时间
+"Delete codes",删除代码
+Description,描述
+Description:,描述：
+"Discount calculation",折扣计算
+"Discount collection type",折扣应用类型
+"Discount List",折扣列表
+"Discount successfully activated",折扣成功激活
+"Discount successfully created, but not activated.",折扣成功创建，但未激活。
+"Discount successfully deactivated",折扣成功停用
+"Discount successfully updated.",折扣成功更新。
+"Discount Type:",折扣类型：
+"Discount with id %s doesn't exist",ID为%s的折扣不存在
+"Discount with this name is already used.",此名称的折扣已被使用。
+Edit,编辑
+"Edit discount",编辑折扣
+"Enter your custom code as a string. If selected in the next step, additional random characters are added at the end of this string. Use the placeholder [code] to indicate where you want random characters to be generated.","将自定义代码作为字符串输入。如果在下一步中选择，将在此字符串末尾添加额外的随机字符。使用占位符[code]指示要生成随机字符的位置。"""
+Examples,示例
+Exclusive:,独占：
+Explanation,说明
+Export,导出
+Field,字段
+"Fill in the general discount information",填写通用折扣信息
+"General Information",常规信息
+"Generated Discount Codes",生成的折扣码
+"List of Discounts",折扣列表
+"Matches all elements which have a ""width"" attribute defined, but with any ""width"" value",匹配所有具有定义的“width”属性的元素，但具有任何“width”值
+"Matches elements with the exact same SKU: ""SKU-1""",匹配具有完全相同的SKU：“SKU-1”的元素
+"Max nr. of uses",最大使用次数
+"Max number of uses (0 = Infinite usage)","最大使用次数（0 = 无限使用）"
+N/A,n/a
+Name,名称
+Name:,名称：
+No,否
+"No additional random characters",没有额外的随机字符
+"No conditions, discount always applied.",没有条件，折扣始终适用。
+"No returns for this order",此订单不接受退货
+"No voucher codes were deleted.",没有删除折扣券。
+Operation,操作
+Overview,概览
+"Plain query",普通查询
+"Please fill all required fields.",请填写所有必填字段。
+"Query builder",查询构建器
+"Query String",查询字符串
+Save,保存
+"Store relation:",存储关系：
+"Successfully deleted ""%d"" vouchers.","成功删除""%d""张折扣券。"
+"Summary explaining promotion. Displayed with eligible products where applicable.",解释促销的摘要。在适用的产品中显示。
+"The discount cannot end before the starting date.",折扣不能在开始日期之前结束。
+"This value is not a valid datetime.",该值不是有效的日期时间。
+Type:,类型：
+"Unique, short, and descriptive. Displayed in cart calculation.",唯一，简短且描述性。在购物车计算中显示。
+Used,已使用
+"Valid from:",有效起始日期（包括）：
+"Valid From (Time in UTC)",有效起始日期（UTC时间）
+"Valid To (Time in UTC)",有效结束日期（UTC时间）
+"Valid until:",有效结束日期（不包括）：
+Value,值
+Voucher,折扣券
+"Voucher Code",折扣码
+Yes,是
+"Add code",添加代码
+Active,活动
+Inactive,非活动
+"Create Discount",创建折扣
+"Discount Type",折扣类型
+"Cart rules",购物车规则
+"Voucher codes",优惠码
+"Calculator percentage",百分比
+"Calculator fixed",固定金额
+"Discount application type",折扣应用类型
+Delete,删除
+"Apply when",应用时间
+"The discount can be applied if the query applies for at least X item(s).",如果查询至少适用于X个商品，则可以应用折扣。
+"Discount successfully activated.",折扣成功激活。
+"Discount successfully deactivated.",折扣成功停用。
+"Custom code",自定义代码
+Generate,生成
+"You must provide length or custom code values.",您必须提供长度或自定义代码值。
+"No available codes to generate. Select higher code length.",没有可生成的代码。请选择更长的代码长度。
+"Edit Discount",编辑折扣
+"Voucher codes successfully generated.",成功生成优惠码。
+"Voucher code successfully deleted.",成功删除优惠码。
+"Apply to",应用于
+"CSRF token is not valid.",CSRF令牌无效。
+"Enter an integer %min%-%max%. Discounts are calculated in sequential order, starting from %min%. The default value is %max%.","输入一个整数 %min%-%max%。折扣按顺序计算，从 %min% 开始。默认值为 %max%。"
+"Invalid entry. Please enter an integer %min%-%max%","无效输入。请输入一个整数 %min%-%max%。"
+Priority,优先级
+"Enter an integer %min%-%max%.","输入一个整数 %min%-%max%。"

@@ -1,0 +1,51 @@
+"Add attribute to search",添加属性到搜索
+"Attribute key",属性键
+"Attribute key is already used",属性键已被使用
+"Attribute to search was added successfully.",成功添加属性到搜索。
+"Attribute to search was successfully deactivated.",成功停用属性搜索。
+"Attribute to search was successfully updated.",成功更新属性搜索。
+"Attribute with id %s doesn't exist",ID为%s的属性不存在。
+"Category Filters",分类筛选器
+"Completion terms",完成术语
+"Create filter",创建筛选器
+Delete,删除
+Edit,编辑
+"Edit filter order",编辑筛选器顺序
+"Edit search preferences",编辑搜索偏好
+"Edit Search Preferences",编辑搜索偏好
+"Filter name",筛选器名称
+"Filter position",筛选器位置
+"Filter Preferences",筛选器偏好
+"Filter preference was created successfully.",筛选器偏好创建成功。
+"Filter preference was updated successfully.",筛选器偏好更新成功。
+"Filter preferences synchronization was successful.",筛选器偏好同步成功。
+"Filter successfully deleted.",成功删除筛选器。
+"Filter type",筛选器类型
+"Full text",全文
+"Full text boosted",全文加权
+"General Information",常规信息
+"Include for completion",包含于完成
+"Include for full text",包含于全文
+"Include for full text boosted",包含于全文加权
+"Include for suggestion",包含于建议
+"List of filters",筛选器列表
+"List of search preferences",搜索偏好列表
+multi-select,多选
+range,范围
+Save,保存
+"Save Order",保存顺序
+"Search and Filters",搜索和筛选
+"Search Preferences",搜索偏好
+"Search preferences",搜索偏好
+"Search preferences synchronization was successful.",搜索偏好同步成功。
+single-select,单选
+"Suggestion terms",建议术语
+"Synchronize filter preferences",同步筛选偏好
+"Synchronize search preferences",同步搜索偏好
+"This field contains illegal characters. It should contain only lower case letters, digits, numbers, underscores (""_""), hyphens (""-"") and colons ("":"").","此字段包含非法字符。它只能包含小写字母、数字、下划线（""_""）、连字符（""-""）和冒号（"":""）"
+Translations,翻译
+"Type first three letters of an existing attribute key for suggestions.",输入现有属性键的前三个字母以获取建议。
+"View Filter",查看筛选器
+"Deactivate all",停用全部
+"Create Filter",创建筛选器
+"Edit filter",编辑筛选器

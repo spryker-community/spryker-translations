@@ -1,0 +1,43 @@
+"Add Merchant","Toevoegen handelaar"
+approved,Goedgekeurd
+approved_button,"Toegang goedkeuren"
+"Back to Merchants","Terug naar handelaars"
+"Contact person first name","Voornaam contactpersoon"
+"Contact person last name","Achternaam contactpersoon"
+"Contact person phone","Telefoonnummer contactpersoon"
+"Contact person title","Functie contactpersoon"
+denied,Geweigerd
+denied_button,"Toegang weigeren"
+E-Mail,E-mail
+"Edit Merchant","Handelaar bewerken"
+"Edit Merchant:","Handelaar bewerken:"
+Email,E-mail
+General,Algemeen
+"List of Merchants","Lijst van handelaars"
+"Merchant created successfully.","Handelaar succesvol aangemaakt."
+"Merchant deleted successfully.","Handelaar succesvol verwijderd."
+"Merchant has not been created.","Handelaar is niet aangemaakt."
+"Merchant Id","Handelaar ID"
+"Merchant is not found.","Handelaar niet gevonden."
+"Merchant reference is already used.","Handelaar referentie is al in gebruik."
+"Merchant updated successfully.","Handelaar succesvol bijgewerkt."
+"Merchant with id %s doesn't exists.","Handelaar met ID %s bestaat niet."
+merchant_gui.error_wrong_params,"Status kan niet worden bijgewerkt."
+merchant_gui.success_merchant_status_update,"Status is bijgewerkt."
+Name,Naam
+"Overview of Merchants","Overzicht van handelaars"
+"Registration number",Registratienummer
+Save,Opslaan
+"Is Active","Is actief"
+Active,Actief
+Inactive,Inactief
+Activate,Activeren
+Deactivate,Deactiveren
+merchant.activated,"Handelaarprofiel succesvol geactiveerd."
+merchant.deactivated,"Handelaarprofiel succesvol gedeactiveerd."
+Stores,Winkels
+"Merchant Reference","Handelaar referentie"
+"Merchant URL","Handelaar URL"
+"Create Merchant","Maak handelaar"
+Approval,Goedkeuring
+Status,Status

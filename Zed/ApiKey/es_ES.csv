@@ -1,0 +1,6 @@
+"The provided key name `%s` is not in valid format. It should only contain letters (a-z) and digits (0-9). Example: `YourExample123`.","El nombre de clave proporcionado '%s' no está en un formato válido. Debe contener solo letras (a-z) y dígitos (0-9). Ejemplo: 'TuEjemplo123'."
+"Entity with ID `%d` was not found in the database.","No se encontró la entidad con ID '%d' en la base de datos."
+"The key name is not provided.","No se proporcionó el nombre de clave."
+"The provided key name `%s` is duplicated. Use another one and try again.","El nombre de clave proporcionado '%s' está duplicado. Utiliza otro e intenta de nuevo."
+"Created at","Creado en"
+"The provided `valid to` date `%s` already expired. Use another one and try again.","La fecha 'válido hasta' proporcionada '%s' ya ha expirado. Utiliza otra fecha e intenta de nuevo."

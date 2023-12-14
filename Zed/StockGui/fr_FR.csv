@@ -1,0 +1,24 @@
+Actions,Actions
+Active,Actif
+Administration,Administration
+"Available in store","Disponible en magasin"
+"Available in the following store(s)","Disponible dans le(s) magasin(s) suivant(s)"
+Configuration,Configuration
+"Create Warehouse","Créer un entrepôt"
+"Edit Warehouse","Modifier l'entrepôt"
+Inactive,Inactif
+"Is this warehouse available?","Cet entrepôt est-il disponible ?"
+Name,Nom
+No,Non
+Status,Statut
+"Stock not found","Stock introuvable"
+"Store relation","Relation de magasin"
+"Store Relation","Relation de magasin"
+"This name is already in use.","Ce nom est déjà utilisé."
+View,Voir
+"View Warehouse: ","Voir l'entrepôt : "
+"Warehouse has been successfully saved","L'entrepôt a été enregistré avec succès"
+"Warehouse has been successfully updated","L'entrepôt a été mis à jour avec succès"
+"Warehouse ID","ID de l'entrepôt"
+Warehouses,Entrepôts
+Yes,Oui

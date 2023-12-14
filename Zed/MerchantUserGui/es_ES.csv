@@ -1,0 +1,26 @@
+"Add Merchant User","Añadir Usuario Comerciante"
+Back,Atrás
+"Back to Merchant Users","Volver a Usuarios Comerciantes"
+Deactivate,Desactivar
+Deactivated,Desactivado
+Delete,Eliminar
+Deleted,Eliminado
+Create,Crear
+"It will be deleted from everywhere","Será eliminado de todas partes"
+"Merchant user ID is incorrect.","El ID de usuario comerciante es incorrecto."
+"Merchant user was deleted successfully.","El usuario comerciante fue eliminado exitosamente."
+"Merchant user was not deleted.","El usuario comerciante no fue eliminado."
+"No users can be added till the merchant has been created. Please, add the required merchant information and save it.","No se pueden agregar usuarios hasta que se haya creado el comerciante. Por favor, agregue la información requerida del comerciante y guárdela."
+Save,Guardar
+"User status can't be updated.","No se puede actualizar el estado del usuario."
+"User status has been updated.","El estado del usuario ha sido actualizado."
+Users,Usuarios
+"You are trying to delete merchant user","Estás intentando eliminar un usuario comerciante"
+"Merchant user was successfully created.","El usuario comerciante fue creado exitosamente."
+Edit,Editar
+Activate,Activar
+Active,Activo
+E-mail,"Correo electrónico"
+Status,Estado
+"Last Name",Apellido
+"First Name",Nombre

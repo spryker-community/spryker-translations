@@ -1,0 +1,20 @@
+"Table name is not allowed for dynamic entity. Table: %s",动态实体不允许使用表名。表名：%s
+"Table name or table alias is not unique for dynamic entity. Table: %s",动态实体的表名或表别名不唯一。表：%s
+"Table name is not unique for dynamic entity. Table: %s",动态实体的表名不唯一。表：%s
+"Table alias is not unique for dynamic entity. Table: %s",动态实体的表别名不唯一。表：%s
+"Validation rule `isRequired` must be set for boolean field type.",布尔字段类型必须设置验证规则“isRequired”。
+"Validation setting `isRequired` must be set for `decimal` field type.",十进制字段类型必须设置验证设置“isRequired”。
+"Validation setting `scale` must be less than `precision` for `decimal` field type.",十进制字段类型的验证设置“scale”必须小于“precision”。
+"Validation setting `isRequired` must be set for `integer` field type.",整数字段类型必须设置验证设置“isRequired”。
+"Validation setting `min` must be less than `max` for `integer` field type.",整数字段类型的验证设置“min”必须小于“max”。
+"Validation setting `isRequired` must be set for `string` field type.",字符串字段类型必须设置验证设置“isRequired”。
+"Validation setting `minLength` must be less than `maxLength` for `string` field type.",字符串字段类型的验证设置“minLength”必须小于“maxLength”。
+"Field type is not allowed for dynamic entity. Type: %s",动态实体不允许使用字段类型。类型：%s
+"Identifier is required for dynamic entity configuration.",动态实体配置需要标识符。
+"Identifier is not defined in field definitions.",字段定义中未定义标识符。
+"Field definition `type` is required for dynamic entity configuration.",动态实体配置需要字段定义中的“type”。
+"Field definition `fieldName` is required for dynamic entity configuration.",动态实体配置需要字段定义中的“fieldName”。
+"Field definition `fieldVisibleName` is required for dynamic entity configuration.",动态实体配置需要字段定义中的“fieldVisibleName”。
+"Field definition `isCreatable` is required for dynamic entity configuration.",动态实体配置需要字段定义中的“isCreatable”。
+"Field definition `isEditable` is required for dynamic entity configuration.",动态实体配置需要字段定义中的“isEditable”。
+"Resource name `%s` is not valid. Allowed characters: a-z, A-Z, 0-9, _ and - ",资源名“%s”无效。允许的字符：a-z、A-Z、0-9、_和-。

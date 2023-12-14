@@ -1,0 +1,105 @@
+"<1d | 1d-7d | >7d","<1d | 1d-7d | >7d"
+"Address successfully updated.","Adres succesvol bijgewerkt."
+Addresses,Adressen
+"All orders of the customer","Alle bestellingen van de klant"
+"Back to Orders","Terug naar bestellingen"
+"Canceled amount","Geannuleerd bedrag"
+"Cart Notes",Winkelwagennotities
+Comments,Opmerkingen
+"Customer Full Name ","Volledige naam van de klant"
+"Customer Full Name","Volledige naam van de klant"
+"Customer successfully updated.","Klant succesvol bijgewerkt."
+Discount,Korting
+"GRAND TOTAL",Totaalbedrag
+"Grand Total",Totaalbedrag
+"Hide history","Verberg geschiedenis"
+"incl. %tax_amount% % tax","incl. %tax_amount% % belasting"
+"Included tax amount","Inbegrepen belastingbedrag"
+"Item total","Totaal aantal artikelen"
+Items,Artikelen
+Legend,Legenda
+"List of orders","Lijst met bestellingen"
+Matrix,Matrix
+Note,Opmerking
+"Number of Items","Aantal artikelen"
+Option,Optie
+"Order Matrix",Bestellingsmatrix
+"Order Source",Bestelbron
+"Order State",Bestelstatus
+Orders,Bestellingen
+"Overview of Order Matrix","Overzicht van bestellingsmatrix"
+"Overview of Orders","Overzicht van bestellingen"
+Payments,Betalingen
+Product,Product
+Quantity,Hoeveelheid
+Sales,Verkoop
+Save,Opslaan
+"Send Message","Bericht verzenden"
+Shipment,Verzending
+"Show history","Toon geschiedenis"
+"Show less","Toon minder"
+"Show more","Meer weergeven"
+Sku,SKU
+State,Staat
+"Sub total",Subtotaal
+Subtotal,Subtotaal
+Totals,Totalen
+"Trigger all matching states","Activeer alle overeenkomende staten"
+"Trigger event","Activeer gebeurtenis"
+"Unique Product Quantity","Unieke producthoeveelheid"
+"Unit Price",Eenheidsprijs
+"Variant Details",Variantdetails
+"View Order","Bekijk bestelling"
+"View Order:","Bekijk bestelling:"
+"Remuneration total",Totaalbedrag
+"Trigger all matching states inside this order","Activeer alle overeenkomende staten binnen deze bestelling"
+"Previous orders count","Aantal vorige bestellingen"
+Name,Naam
+E-mail,E-mail
+"Order date",Besteldatum
+Refunds,Terugbetalingen
+"Discounts & Vouchers","Kortingen & Vouchers"
+"Order Items",Bestelitems
+Reference,Referentie
+"Order Overview",Besteloverzicht
+"Total taxes","Totale belastingen"
+Reclamations,Reclamaties
+Claim,Claim
+"payment pending","Betaling in behandeling"
+exported,Geëxporteerd
+shipped,Verzonden
+delivered,Afgeleverd
+refunded,Terugbetaald
+closed,Gesloten
+pay,Betalen
+ship,Verzenden
+stock-update,Voorraadupdate
+close,Sluiten
+refund,Terugbetalen
+execute-return,"Retour uitvoeren"
+cancel-return,"Retour annuleren"
+ship-return,"Stuur retour terug naar klant"
+delivery-return,"Lever retour terug aan klant"
+cancel,Annuleren
+"skip timeout","Time-out overslaan"
+"Refund total","Volledige terugbetaling"
+"Comment successfully added","Opmerking succesvol toegevoegd."
+"Address Details",Adresgegevens
+"Middle name",Tussennaam
+"Po box",Postbus
+"Zip code",Postcode
+Address1,"Adres 1"
+Address2,"Adres 2"
+"Cell phone","Mobiele telefoon"
+"Edit Address for Order: %idSalesOrder%","Adres bewerken voor bestelling: %idSalesOrder%"
+new,Nieuw
+cancelled,Geannuleerd
+paid,Betaald
+waiting,Wachten
+confirmed,Bevestigd
+returned,Teruggestuurd
+"invoice generated","Factuur gegenereerd"
+"waiting for return","Wachten op retour"
+"return canceled","Retour geannuleerd"
+"shipped to customer","Verzonden naar klant"
+invoice-generate,"Factuur genereren"

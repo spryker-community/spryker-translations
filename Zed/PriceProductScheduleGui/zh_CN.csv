@@ -1,0 +1,85 @@
+"%s header(s) is missing in uploaded csv file",上传的CSV文件中缺少%s个标题
+"Abstract product was not found by provided sku %s.","未找到提供的sku %s的抽象产品。"
+Actions,操作
+"An identical scheduled price already exists for this product.",此产品已存在相同的计划价格。
+"Are you sure about deleting the Scheduled prices %s?",您确定要删除计划价格%s吗？
+"Are you sure about deleting this scheduled price?",您确定要删除此计划价格吗？
+"By clicking the ""Publish"" button below, you will send the scheduled prices to the live system.",点击下面的“发布”按钮，将计划价格发送到实时系统。
+"Concrete product was not found by provided sku %s.","未找到提供的sku %s的具体产品。"
+"Currency was not found by provided iso code %s.",未找到提供的iso代码%s的货币。
+"Dates must be in right format and to date must be greater than from.",日期必须是正确的格式，结束日期必须大于开始日期。
+Delete,删除
+Download,下载
+Draft,草稿
+"Dry run of your import",导入的试运行
+Edit,编辑
+"Eg: Christmas sales, etc.",例如：圣诞节促销等。
+Error,错误
+"Errors found inside your file",在您的文件中发现错误
+"Finish at must be greater than start from",结束时间必须大于开始时间
+"Gross and Net Amount must be a positive integer.",毛额和净额必须是正整数。
+"If you want to retry your import with corrected data, use ""Import your csv file"" button.",如果您想使用更正后的数据重试导入，请使用“导入您的CSV文件”按钮。
+Import,导入
+"Import ID",导入ID
+"Import n",导入n
+"Import new scheduled prices",导入新的计划价格
+"Import Scheduled Prices",导入计划价格
+"Import your CSV file",导入您的CSV文件
+"Imported by and on the",导入者和导入时间
+"Imported by on the",导入者导入时间
+"Importing a lot of scheduled prices can take some time.",导入大量计划价格可能需要一些时间。
+"Learn about file format on our documentation",在我们的文档中了解文件格式
+Name,名称
+"No prices have been processed. You may have only errors inside your file or no prices were defined inside.",未处理任何价格。您的文件中可能只有错误或未定义任何价格。
+"No, I want to keep this price",不，我想保留这个价格
+"Number of prices",价格数量
+"Number of products",产品数量
+"One Product Abstract Sku or Product Concrete Sku must be provided.",必须提供一个产品抽象sku或产品具体sku。
+"Price type was not found by provided sku %s.","未找到提供的sku %s的价格类型。"
+Prices,价格
+"Publish the scheduled prices",发布计划价格
+Published,已发布
+"Row n°",第n行
+"Row processed with success",成功处理的行
+"Schedule name",计划名称
+"Schedule price haven not been saved",计划价格未保存
+"Scheduled price already exists.",计划价格已存在。
+"Scheduled price has been successfully saved",计划价格已成功保存
+"Scheduled price list was successfully removed",计划价格列表已成功删除
+"Scheduled Prices",计划价格
+"Scheduled prices inside import",导入中的计划价格
+"Scheduled Prices: Import dry run",计划价格：导入模拟运行
+"Select your CSV file",选择您的CSV文件
+Status,状态
+"Store was not found by provided name %s.",未找到与提供的名称%s匹配的商店。
+"The timezone used for the scheduled price will be %s as defined on the store selected",计划价格将使用商店选择的时区%s。
+"They will be available to your customers based on the dates",它们将根据日期对您的客户可用。
+"Via data import",通过数据导入
+View,查看
+"Yes, delete this price",是的，删除此价格
+"Yes, delete those prices",是的，删除这些价格
+"No, I want to keep those prices",不，我想保留这些价格
+"Delete Import",删除导入
+"You will delete %d prices for %d products. Is this what you want?",您将删除%d个产品的%d个价格。您确定要这样做吗？
+"You will find below the list errors and successfully processed rows inside your import file.",您将在导入文件中找到以下错误列表和成功处理的行。
+"Your file does not contain any errors.",您的文件不包含任何错误。
+"Your prices are now available to your custoers based on their start and end date.",您的价格现在根据其开始和结束日期对客户可用。
+"Your prices are now available to your customers based on their start and end date.",您的价格现在根据其开始和结束日期对客户可用。
+"Your scheduled prices have been published",您的计划价格已发布
+"Price type",价格类型
+"Start from (included)",开始日期（包括）
+"Finish at (included)",结束日期（包括）
+"You can define a price for the product that will take effect at a date and time in the future. You can define multiple prices on the same period.",您可以为产品定义一个在未来某个日期和时间生效的价格。您可以在同一时期内定义多个价格。
+"Import via CSV file",通过CSV文件导入
+"Add scheduled price",添加计划价格
+"Scheduled prices inside this import",此导入中的计划价格
+"View Import",查看导入
+"Edit Import",编辑导入
+"Edit Scheduled Price",编辑计划价格
+"Scheduled price information",计划价格信息
+"Scheduled price was successfully removed",计划价格已成功删除。
+"Choose store",选择商店
+"Choose currency",选择货币
+"Net price or gross price must be filled",净价或总价必须填写
+"Scheduled prices imported",导入计划价格
+"The timezone used for the scheduled price will be <b class=""timezone""></b> as defined on the store selected","计划价格所使用的时区将是所选商店上定义的 <b class=""timezone""></b>"

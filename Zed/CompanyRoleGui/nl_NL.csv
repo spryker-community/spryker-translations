@@ -1,0 +1,35 @@
+"Add Company Role","Toevoegen bedrijfsgebruikersrol"
+"Assigned Permissions","Toegewezen machtigingen"
+"Assigned Roles","Toegewezen rollen"
+"Back to Roles","Terug naar rollen"
+"Company Account",Bedrijfsaccount
+"Company Business Unit",Bedrijfseenheid
+"Company role deletion confirmation","Bevestiging verwijderen bedrijfsrol"
+"Company Roles",Bedrijfsrollen
+"Create Company Role","Bedrijfsrol aanmaken"
+"Create role","Rol aanmaken"
+"Edit Company Role","Bedrijfsrol bewerken"
+"Is Default","Is standaard"
+"It will be deleted from everywhere","Het zal overal worden verwijderd"
+"List of Company Roles","Lijst met bedrijfsrollen"
+"Overview of Company Roles","Overzicht van bedrijfsrollen"
+"Role ID",Rol-ID
+Roles,Rollen
+"Unassigned Permissions","Niet-toegewezen machtigingen"
+"Unassigned Roles","Niet-toegewezen rollen"
+"Update role","Rol bijwerken"
+"You are trying to delete company role","U probeert een bedrijfsrol te verwijderen"
+"Select company","Selecteer bedrijf"
+"Please select an item in the list.","Selecteer een item in de lijst."
+"Company role has been successfully created","Bedrijfsrol is succesvol aangemaakt"
+"Company role has been successfully updated","Bedrijfsrol is succesvol bijgewerkt"
+"Delete company role","Bedrijfsrol verwijderen"
+"Company role has been successfully removed","Bedrijfsrol is succesvol verwijderd"
+"You can not delete a default role, please set another default role before delete action","U kunt geen standaardrol verwijderen, stel alstublieft een andere standaardrol in voordat u de verwijderingsactie uitvoert."
+"Company Name",Bedrijfsnaam
+Name,Naam
+Actions,Acties
+Delete,Verwijderen
+Edit,Bewerken
+Company,Bedrijf
+"At least one role must be assigned to a user.","Er moet minstens één rol aan een gebruiker zijn toegewezen."

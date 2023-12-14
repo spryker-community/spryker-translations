@@ -1,0 +1,145 @@
+Attributes,Attributen
+Categories,Categorieën
+Currencies,Valuta's
+Currency,Valuta
+Default,Standaard
+Description,Beschrijving
+Image,Afbeelding
+"Image Set",Afbeeldingsset
+Images,Afbeeldingen
+"Manage Product","Beheer product"
+Name,Naam
+Offline,Offline
+Online,Online
+"Approval Status",Goedkeuringsstatus
+waiting_for_approval,"Wachten op goedkeuring"
+approved,Goedgekeurd
+denied,Geweigerd
+draft,Concept
+approval_status_action.approved,Goedkeuren
+approval_status_action.denied,Weigeren
+approval_status_action.draft,"Terug naar concept"
+approval_status_action.waiting_for_approval,"Verzenden ter goedkeuring"
+"Product successfully created!","Product succesvol aangemaakt!"
+"Please resolve all errors.","Los eerst alle fouten op."
+Price,Prijs
+Products,Producten
+"Product Details",Productdetails
+"Provide a name","Geef een naam op"
+"Provide description","Geef een beschrijving op"
+Save,Opslaan
+Select,Selecteren
+"Select Stores","Selecteer winkels"
+"Select Tax Set","Selecteer belastingset"
+"Select Categories","Selecteer categorieën"
+SKU,SKU
+"Search by SKU, Name","Zoeken op SKU, naam"
+Store,Winkel
+Stores,Winkels
+"Super Attributes",Superattributen
+"Tax Set","Belastingset selecteren"
+"The Product is saved.","Het product is opgeslagen."
+"The value cannot be empty. Please fill in this input.","De waarde kan niet leeg zijn. Vul dit veld in."
+Variants,Varianten
+Visibility,Zichtbaarheid
+"Success! The Price is deleted.","Succes! De prijs is verwijderd."
+"Something went wrong, please try again.","Er is iets misgegaan, probeer het opnieuw."
+"Product prices saved successfully.","Productprijzen succesvol opgeslagen."
+Net,Netto
+Gross,Bruto
+Delete,Verwijderen
+Add,Toevoegen
+Active,Actief
+Inactive,Inactief
+Search,Zoeken
+Status,Status
+"Valid From","Geldig van"
+"Valid To","Geldig tot"
+Validity,Geldigheid
+"Validity Dates & Time","Geldigheidsdata en -tijd"
+"Enabling an option below will overwrite the existing input.","Het inschakelen van een optie hieronder zal de bestaande invoer overschrijven."
+"Bulk edit %number% variants","Bulkbewerking van %number% varianten"
+"The first date cannot be later than the second one.","De eerste datum kan niet later zijn dan de tweede."
+"The first date is the same as the second one.","De eerste datum is hetzelfde als de tweede."
+"The second date cannot be earlier than the first one.","De tweede datum kan niet eerder zijn dan de eerste."
+From,Van
+To,Tot
+"Bulk edit",Bulkbewerking
+Searchability,Zoekbaarheid
+"Use Abstract Product prices","Gebruik prijzen van abstract product"
+"Select Locales","Selecteer talen"
+Stock,Voorraad
+Quantity,Hoeveelheid
+"Always in stock","Altijd op voorraad"
+"Enter quantity","Voer hoeveelheid in"
+"Reserved Stock","Gereserveerde voorraad"
+"This concrete product is not owned by this merchant.","Dit concrete product is niet eigendom van deze verkoper."
+"Create Abstract Product","Maak abstract product aan"
+English,Engels
+German,Duits
+"The rest of the locales will be defined once the product has been created.","De rest van de talen zal worden gedefinieerd zodra het product is aangemaakt."
+"Create an Abstract Product","Maak een abstract product aan"
+"with 1 Concrete Product","met 1 concreet product"
+"Autogenerate SKU","SKU automatisch genereren"
+"Same as Abstract Product","Hetzelfde als abstract product"
+"Concrete Products’ Preview","Voorbeeld van concrete producten"
+"with multiple Concrete Products","met meerdere concrete producten"
+"Super Attribute",Superattribuut
+Values,Waarden
+"No concretes created yet","Er zijn nog geen concrete producten aangemaakt"
+"to be created","moeten worden aangemaakt"
+"Autogenerate SKUs","SKU's automatisch genereren"
+"Same Name as Abstract Product","Zelfde naam als abstract product"
+"Super attribute value",Superattribuutwaarde
+"Name default",Standaardnaam
+"Invalid value provided. Please use only alphanumeric characters and . - _","Ongeldige waarde opgegeven. Gebruik alleen alfanumerieke tekens en . - _"
+"Concrete Product SKU already exists","SKU van concreet product bestaat al"
+"SKU Prefix already exists","SKU-prefix bestaat al"
+"Abstract product has 1 concrete product","Abstract product heeft 1 concreet product"
+"Abstract product has multiple concrete products","Abstract product heeft meerdere concrete producten"
+"The value cannot be empty. Please select one.","De waarde kan niet leeg zijn. Selecteer er een."
+"SKU Prefix",SKU-prefix
+"SKU Prefix already exists in collection","SKU-prefix bestaat al in collectie"
+"Enter SKU prefix","Voer SKU-prefix in"
+"Add Image Set","Voeg afbeeldingsset toe"
+"Set name","Naam van set"
+"Delete Image Set","Verwijder afbeeldingsset"
+"Image Ordered","Afbeelding geordend"
+"Small Image URL","URL van kleine afbeelding"
+"Large Image URL","URL van grote afbeelding"
+"Add Image","Voeg afbeelding toe"
+"Abstract Product","Abstract product"
+"Abstract Product Details","Details van abstract product"
+"Concrete Products","Concrete producten"
+"The attribute %attribute% already exists. Please define another one","Het attribuut %attribute% bestaat al. Definieer een ander attribuut."
+"Please fill in at least one value","Vul ten minste één waarde in"
+"Success! The Attribute is deleted","Succes! Het attribuut is verwijderd"
+"The value cannot be blank. Please fill in this input","De waarde kan niet leeg zijn. Vul dit veld in"
+"Provide meta title","Vul een metatitel in"
+"Provide meta keywords","Vul metasleutelwoorden in"
+"Provide meta description","Vul metabeschrijving in"
+"Concrete Product","Concrete Product"
+"Concrete Product is active","Concrete Product is actief"
+"Use Abstract Product name for all locales","Gebruik de naam van het abstracte product voor alle talen"
+"Use Abstract Product description for all locales","Gebruik de beschrijving van het abstracte product voor alle talen"
+"Use Abstract Product price for all locales","Gebruik de prijs van het abstracte product voor alle talen"
+"Use Abstract Product images for all locales","Gebruik de afbeeldingen van het abstracte product voor alle talen"
+"Super attribute was not deleted","Superattribuut is niet verwijderd"
+"Add Concrete Products","Voeg Concrete Producten toe"
+Create,Creëer
+"This value should not be blank.","Deze waarde mag niet leeg zijn."
+"Combination of super attribute values already exists.","Combinatie van superattribuutwaarden bestaat al."
+"This abstract product is not owned by this merchant.","Dit abstracte product is niet eigendom van deze verkoper."
+"Invalid value provided. Please use only alphanumeric characters and  . - _","Ongeldige waarde opgegeven. Gebruik alleen alfanumerieke tekens en . - _"
+"This value needs to be unique.","Deze waarde moet uniek zijn."
+"This value already exists.","Deze waarde bestaat al."
+"Success! %d Concrete Products are saved.","Succes! %d Concrete Producten zijn opgeslagen."
+"Success! %d Concrete Product is saved.","Succes! %d Concrete Product is opgeslagen."
+"The approval status was updated.","De goedkeuringsstatus is bijgewerkt"
+"The approval status was not updated.","De goedkeuringsstatus is niet bijgewerkt."
+"Abstract product was not found.","Abstract product niet gevonden."
+"Send for Approval","Verstuur ter goedkeuring"
+"Enter SKU","Voer SKU in"
+"Enter name","Voer naam in"
+"Select at least one value","Selecteer minimaal één waarde"
+"Once this product is created, you will no longer be able to add additional concrete products.","Zodra dit product is aangemaakt, kunt u geen extra concrete producten meer toevoegen."

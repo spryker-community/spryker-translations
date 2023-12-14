@@ -1,0 +1,66 @@
+Actions,操作
+Activate,激活
+Active,已激活
+"Add General Information",添加常规信息
+"Add Slot",添加插槽
+"Are you sure you want to delete template",您确定要删除模板吗？
+"Are you sure you want to delete this slot?",您确定要删除此插槽吗？
+"At first create Configurable bundle Template, after that you will be redirected to the page where you can create slots, and define products per each of them.",首先创建可配置捆绑模板，然后您将被重定向到页面，您可以在其中创建插槽，并为每个插槽定义产品。
+Back,返回
+"Back to Template list",返回模板列表
+"Below you can edit the name of your slot for different locales (in different languages).",您可以在下面编辑插槽的名称以适应不同的语言环境。
+Cancel,取消
+"Configurable Bundle Template",可配置捆绑模板
+"Configurable bundle template has been successfully created.",可配置捆绑模板已成功创建。
+"Configurable bundle template has been successfully deleted.",可配置捆绑模板已成功删除。
+"Configurable bundle template has been successfully updated.",可配置捆绑模板已成功更新。
+"Configurable bundle template has not been created.",无法创建可配置捆绑模板。
+"Configurable bundle template has not been deleted.",无法删除可配置捆绑模板。
+"Configurable bundle template has not been updated.",无法更新可配置捆绑模板。
+"Configurable bundle template slot has not been created.",无法创建可配置捆绑模板插槽。
+"Configurable bundle template slot has not been deleted.",无法删除可配置捆绑模板插槽。
+"Configurable bundle template slot has not been updated.",无法更新可配置捆绑模板插槽。
+"Configurable bundle template slot was successfully created.",成功创建可配置捆绑模板插槽。
+"Configurable bundle template slot was successfully deleted.",成功删除可配置捆绑模板插槽。
+"Configurable bundle template slot was successfully updated.",成功更新可配置捆绑模板插槽。
+"Configurable bundle template slot with id ""%id%"" was not found.","未找到ID为""%id%""的可配置捆绑模板插槽。"
+"Configurable bundle template with id ""%id%"" was not found.","未找到ID为""%id%""的可配置捆绑模板。"
+"Configurable Bundle Templates",可配置捆绑模板
+Confirm,确认
+"Confirm action",确认操作
+"Create Configurable Bundle Template",创建可配置捆绑模板
+"Create New Template",创建新模板
+"Create Slot",创建插槽
+Deactivate,停用
+Delete,删除
+"Delete Configurable Bundle Template",删除可配置捆绑模板
+"Delete Template",删除模板
+Edit,编辑
+"Edit Configurable Bundle Template",编辑可配置捆绑模板
+"Edit Slot",编辑插槽
+"Edit Slot for",编辑插槽
+for,对于
+General,常规
+Inactive,未激活
+Name,名称
+Next,下一个
+"Note: you can assign products and categories for a slot in the respective tabs.",注意：您可以在相应的选项卡中为插槽分配产品和类别。
+"Nr. of Slots",插槽数量
+"Number of Items",物品数量
+"Product ID",产品ID
+Save,保存
+SKU,SKU
+"Slot details",插槽详情
+"Slot ID",插槽ID
+"Slot Name",插槽名称
+Slots,插槽
+Status,状态
+"Template ""%template_name%"" has been activated.","模板""%template_name%""已激活。"
+"Template ""%template_name%"" has deactivated.","模板""%template_name%""已停用。"
+"Template ""%template_name%"" has not been activated.","模板""%template_name%""未激活。"
+"Template ""%template_name%"" has not been deactivated.","模板""%template_name%""未停用。"
+"Template ""%template_name%"" was activated.","模板""%template_name%""已激活。"
+"Template ""%template_name%"" was deactivated.","模板""%template_name%""已停用。"
+"Template details",模板详情
+"You can add slots on this page. During slot creation you can assign products from a catalog to this slot one by one, import CSV file or assign several categories.",您可以在此页面上添加插槽。在插槽创建过程中，您可以逐个将产品从目录分配到此插槽，也可以导入CSV文件或分配多个类别。
+"You can change name and define locals on this page.",您可以在此页面上更改名称并定义本地化。

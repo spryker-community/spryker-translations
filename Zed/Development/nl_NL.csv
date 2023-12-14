@@ -1,0 +1,61 @@
+adjacency,adjacentie
+"Adjacency Matrix","Adjacency Matrix"
+Application,Toepassing
+"Architecture Sniffer","Architectuur Sniffer"
+"Architecture sniffer results","Resultaten van Architectuur Sniffer"
+Back,Terug
+"Check for violations","Controleren op overtredingen"
+"Composer dependencies","Composer afhankelijkheden"
+"Composer dev only dependencies","Alleen Composer dev afhankelijkheden"
+"Core module",Kernmodule
+Count,Tellen
+"Declared in composer.json","Vermeld in composer.json"
+"Declared in composer.json (dev)","Vermeld in composer.json (dev)"
+Dependency,Afhankelijkheid
+Dependencies,Afhankelijkheden
+"Dependency graphs of all core modules","Afhankelijkheidsgrafieken van alle kernmodules"
+detailed,gedetailleerd
+"Dev only dependencies","Alleen dev afhankelijkheden"
+Development,Ontwikkeling
+"Display all architecture rules","Toon alle architectuurregels"
+"Download CSV","CSV downloaden"
+"Found in src","Gevonden in src"
+"Found in test","Gevonden in test"
+From,Van
+in,in
+"in src","in src"
+"in tests","in tests"
+Incoming,Inkomend
+"Incoming dependencies of the","Inkomende afhankelijkheden van de"
+"Indirect Incoming","Indirect inkomend"
+"Indirect Outgoing","Indirect uitgaand"
+"Indirect Stability","Indirecte stabiliteit"
+"List all used plugins","Lijst met alle gebruikte plugins"
+module,module
+Module,module
+"Module name",Modulenaam
+"Module overview",Moduleoverzicht
+Namespace,Namespace
+"No architecture violations detected","Geen architectuurovertredingen gedetecteerd"
+"No plugins used in this Module","Geen plugins gebruikt in deze module"
+out,uit
+Outgoing,Uitgaand
+"Outgoing dependencies of the","Uitgaande afhankelijkheden van de"
+"Plugins used in Projects DependencyProvider","Gebruikte plugins in Projects DependencyProvider"
+Priority:,Prioriteit:
+"Project module",Projectmodule
+Reload,Herladen
+require,vereisen
+require-dev,vereisen-dev
+"show all used plugins","toon alle gebruikte plugins"
+"Simple Dependency Graph","Eenvoudige afhankelijkheidsgrafiek"
+"Spryker Stability","Spryker Stabiliteit"
+Stability,Stabiliteit
+"Stability is calculated by ""incoming dependencies / ( incoming dependencies + outgoing dependencies )"" the result will be between 0 (stable) and 1 (unstable)","Stabiliteit wordt berekend door ""inkomende afhankelijkheden / (inkomende afhankelijkheden + uitgaande afhankelijkheden)"" het resultaat zal tussen 0 (stabiel) en 1 (onstabiel) zijn"
+"Stability of all core modules","Stabiliteit van alle kernmodules"
+"Suggested dependencies","Voorgestelde afhankelijkheden"
+SUM,SOM
+To,Naar
+"Used Plugins","Gebruikte plugins"
+"You must specify a bundle for which the graph should be build","U moet een bundel opgeven waarvoor de grafiek moet worden gebouwd"
+"You need to run ""vendor/bin/console dev:dependency:build-tree"" to calculate stability for all bundles.","U moet ""vendor/bin/console dev:dependency:build-tree"" uitvoeren om de stabiliteit voor alle bundels te berekenen."

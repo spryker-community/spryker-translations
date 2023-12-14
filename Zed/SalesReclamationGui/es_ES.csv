@@ -1,0 +1,7 @@
+Reclamations,Reclamaciones
+"Create Reclamation","Crear Reclamación"
+"Reclamation id:%s for order %s successfully created","Reclamación con id:%s para la orden %s creada exitosamente."
+Open,Abierto
+Closed,Cerrado
+"Reclamation with id %id% closed","Reclamación con id %id% cerrada."
+"CSRF token is not valid.","El token CSRF no es válido."

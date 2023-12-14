@@ -1,0 +1,41 @@
+"Attach customer to company","Assegna cliente a azienda"
+"Business Unit","Unità aziendale"
+"Company user deletion confirmation","Conferma eliminazione utente aziendale"
+"Company Users","Utenti aziendali"
+"Create Company User","Crea utente aziendale"
+"Customer Access","Accesso cliente"
+"Customer with id `%s` does not exist","Il cliente con ID `%s` non esiste"
+E-Mail,E-Mail
+Email,Email
+"Edit Company User","Modifica utente aziendale"
+"List of Company Users","Elenco utenti aziendali"
+"Overview of Company Users","Panoramica degli utenti aziendali"
+"User ID","ID utente"
+"Business Unit name","Nome unità aziendale"
+"Attach ""%customer%""","Allega ""%customer%"""
+Disable,Disabilita
+"Company user successfully disabled","Utente aziendale disabilitato con successo"
+"Company user successfully enabled","Utente aziendale abilitato con successo"
+Disabled,Disabilitato
+Enabled,Abilitato
+Enable,Abilita
+"User Name","Nome utente"
+"Attach to BU","Allega a BU"
+"Company user has been created.","L'utente aziendale è stato creato."
+"Company User Name","Nome utente aziendale"
+Company,Azienda
+"Company name","Nome azienda"
+"Select company","Seleziona azienda"
+Mr,Signor
+Mrs,Signora
+Ms,Signorina
+Dr,Dottore
+"Company Name","Nome azienda"
+Salutation,"Forma di saluto"
+"Select one","Seleziona uno"
+"First Name",Nome
+"Last Name",Cognome
+Gender,Sesso
+"Send password token through email","Invia token di password tramite email"
+Phone,Telefono
+"Date of birth","Data di nascita"

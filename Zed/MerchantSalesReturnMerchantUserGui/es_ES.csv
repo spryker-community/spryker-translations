@@ -1,0 +1,52 @@
+"My Returns","Mis Devoluciones"
+Return,Devolución
+"Merchant for current user not found.","No se encontró el comerciante para el usuario actual."
+"Merchant sales order #%d not found.","No se encontró la orden de venta del comerciante #%d."
+"Return was successfully created.","La devolución se creó correctamente."
+"Return has not been created.","La devolución no se ha creado."
+"Requested return with ID %id% was not found.","No se encontró la devolución solicitada con ID %id%."
+"Status change triggered successfully.","El cambio de estado se activó correctamente."
+"Request is invalid","La solicitud no es válida."
+"Parameter redirect not found.","No se encontró el parámetro de redirección."
+"Item selected for return is not eligible for return anymore.","El artículo seleccionado para la devolución ya no es elegible para devolución."
+"Select reason","Seleccionar motivo"
+View,Ver
+"Print Slip","Imprimir Comprobante"
+"Return ID","ID de Devolución"
+"Return Reference","Referencia de Devolución"
+"Order Reference","Referencia de Orden"
+"Marketplace Order Reference","Referencia de Orden del Marketplace"
+"Returned Products","Productos Devueltos"
+"Return Date","Fecha de Devolución"
+State,Estado
+Actions,Acciones
+Sku,SKU
+"incl. %tax_amount% % tax","incl. %tax_amount% % impuesto"
+"Show history","Mostrar historial"
+"Hide history","Ocultar historial"
+"Create Return","Crear Devolución"
+"Back to Order","Volver a la Orden"
+"Merchant Order Reference","Referencia de Orden del Comerciante"
+"Merchant Order References","Referencias de Orden del Comerciante"
+"Select Items to Return","Seleccionar Artículos para Devolver"
+Product,Producto
+Quantity,Cantidad
+Price,Precio
+Total,Total
+"Return policy","Política de Devolución"
+Customer,Cliente
+"Customer Reference","Referencia del Cliente"
+Name,Nombre
+Email,"Correo Electrónico"
+"General information","Información general"
+"Returned Items","Artículos devueltos"
+Reason,Motivo
+"Trigger all matching states","Activar todos los estados coincidentes"
+of,de
+"selected items","artículos seleccionados"
+"Trigger event","Activar evento"
+items,artículos
+"Remuneration Total","Total de remuneración"
+"Overview of Return","Resumen de devolución"
+"Back to Returns","Volver a devoluciones"
+"Print Return Slip","Imprimir hoja de devolución"

@@ -1,0 +1,68 @@
+"Abstract product name","Abstract productnaam"
+"Abstract product name:","Abstract productnaam:"
+Activate,Activeren
+Active,Actief
+"Add Product Relations","Productrelaties toevoegen"
+"Are you sure about deleting this product relation?","Weet u zeker dat u deze productrelatie wilt verwijderen?"
+"Assign related products","Toegewezen gerelateerde producten"
+"Create Product Relation","Productrelatie maken"
+"Create relation","Relatie maken"
+Deactivate,Deactiveren
+"Delete Product Relation","Productrelatie verwijderen"
+Edit,Bewerken
+"Edit Product Relations","Productrelaties bewerken"
+"Failed to delete relation.","Verwijderen van relatie mislukt."
+General,Algemeen
+Inactive,Inactief
+"Is active:","Is actief:"
+"It is impossible to update product relation #%d","Het is onmogelijk om productrelatie #%d bij te werken"
+"List of Product Relations","Lijst met productrelaties"
+"List Product relations","Lijst productrelaties"
+"No, I want to keep this product relation","Nee, ik wil deze productrelatie behouden"
+"Number of products","Aantal producten"
+"Please select product from the list below","Selecteer het product uit de onderstaande lijst"
+"Please select product from the list below *","Selecteer het product uit de onderstaande lijst *"
+"Product owning the relation","Product dat de relatie bezit"
+"Product relation #%d not found","Productrelatie #%d niet gevonden"
+"Product relation key",Productrelatiesleutel
+"Product relation successfully created","Productrelatie succesvol aangemaakt"
+"Product relation successfully modified","Productrelatie succesvol gewijzigd"
+"Product relation with id ""%id%"" not found.","Productrelatie met id ""%id%"" niet gevonden."
+"Product Relations",Productrelaties
+"Related products","Gerelateerde producten"
+related-products,"Gerelateerde producten"
+"Relation #%d successfully deleted.","Relatie #%d succesvol verwijderd."
+"Relation successfully activated.","Relatie succesvol geactiveerd."
+"Relation successfully deactivated.","Relatie succesvol gedeactiveerd."
+"Relation successfully deleted.","Relatie succesvol verwijderd."
+"Relation type",Relatietype
+"Relation type:",Relatietype:
+Save,Opslaan
+Select,Selecteren
+"Select product","Product selecteren"
+"Select Stores","Winkels selecteren"
+"Selected product","Geselecteerd product"
+"Selected product already has ""%s"" relation type.","Geselecteerd product heeft al de relatie ""%s""."
+Sku:,Sku:
+Status,Status
+"Store relation",Winkelrelatie
+Stores,Winkels
+up-selling,Upselling
+"Update regularly","Regelmatig bijwerken"
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.","Regelmatig bijwerken: Wanneer je dit hebt geselecteerd, wordt deze productrelatie automatisch regelmatig bijgewerkt volgens de voorwaarden van de relatie."
+"View in Shop","Bekijken in winkel"
+"View Product Relation: %s","Productrelatie bekijken: %s"
+"View relations","Relaties bekijken"
+"Product Relation Key","Productrelatie sleutel"
+"Abstract SKU","Abstracte SKU"
+"Select a relation type","Selecteer een relatie type"
+select,selecteren
+"Add rule","Regel toevoegen"
+"Add group","Groep toevoegen"
+Delete,Verwijderen
+"Edit Product Relation","Productrelatie bewerken"
+"Is active","Is actief"
+"Yes, delete this product relation","Ja, verwijder deze productrelatie"
+"Number of Products","Aantal producten"
+Store,Winkel
+"CSRF token is not valid.","CSRF-token is niet geldig."

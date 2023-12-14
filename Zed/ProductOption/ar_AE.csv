@@ -1,0 +1,48 @@
+Activate,تفعيل
+"Add option","إضافة خيار"
+"All products","جميع المنتجات"
+"Assigned products","المنتجات المعينة"
+"Could not activate option.","تعذر تفعيل الخيار."
+"Create a product option by defining option values with translation key, sku and price. By adding more than 1 option value below, you will create an option group. With an option group your customer can choose one option from this group.","إنشاء خيار المنتج عن طريق تحديد قيمة الخيار بمفتاح الترجمة ورمز المنتج والسعر. عن طريق إضافة أكثر من قيمة خيار أدناه، ستقوم بإنشاء مجموعة خيارات. مع مجموعة الخيارات، يمكن لعميلك اختيار خيار واحد من هذه المجموعة."
+"Create product option","إنشاء خيار المنتج"
+"Created at","تم الإنشاء في"
+Deactivate,"إلغاء التفعيل"
+"Deselect all on the page","إلغاء تحديد الكل على الصفحة"
+Edit,تعديل
+"Edit product option","تعديل خيار المنتج"
+"General information","معلومات عامة"
+"Gross Price","السعر الإجمالي"
+"Group name","اسم المجموعة"
+"Group name translation key","مفتاح ترجمة اسم المجموعة"
+ID,المعرف
+"List of product options","قائمة خيارات المنتج"
+Name,الاسم
+"Net Price","السعر الصافي"
+"Option group ID","معرّف مجموعة الخيارات"
+"Option name","اسم الخيار"
+"Option name translation key","مفتاح ترجمة اسم الخيار"
+"Option successfully activated.","تم تفعيل الخيار بنجاح."
+"Option successfully deactivated.","تم إلغاء تفعيل الخيار بنجاح."
+"Option Values","قيم الخيار"
+"Product option group created.","تم إنشاء مجموعة خيارات المنتج."
+"Product option group modified.","تم تعديل مجموعة خيارات المنتج."
+"Product option list","قائمة خيارات المنتج"
+"Product Options","خيارات المنتج"
+Products,المنتجات
+"Products to be assigned","المنتجات المراد تعيينها"
+"Products to be deassigned","المنتجات المراد إلغاء تعيينها"
+"Products with this option","المنتجات بهذا الخيار"
+Save,حفظ
+"Select all on the page","تحديد الكل في الصفحة"
+Selected,محدد
+SKU,"رمز المنتج"
+Sku,"رمز المنتج"
+"Tax set","مجموعة الضريبة"
+Translation,الترجمة
+"Translation key","مفتاح الترجمة"
+"Updated at","تم التحديث في"
+"View product option","عرض خيار المنتج"
+Active,نشط
+Inactive,"غير نشط"
+"product.option.group.name.(your key)","product.option.group.name.(your key)"
+"product.option.(your key)","product.option.(your key)"

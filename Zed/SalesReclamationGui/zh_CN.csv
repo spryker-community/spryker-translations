@@ -1,0 +1,7 @@
+Reclamations,投诉
+"Create Reclamation",创建投诉
+"Reclamation id:%s for order %s successfully created","成功创建订单 %s 的投诉编号：%s。"
+Open,打开
+Closed,关闭
+"Reclamation with id %id% closed","编号为 %id% 的投诉已关闭。"
+"CSRF token is not valid.","CSRF 令牌无效。"

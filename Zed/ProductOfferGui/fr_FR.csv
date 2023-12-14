@@ -1,0 +1,29 @@
+Actions,Actions
+Active,Active
+Approved,Approuvé
+approved_offer_button,Approuver
+"Offer Approve",Approuver
+Deny,Refuser
+"Back to Offers","Retour aux offres"
+denied_offer_button,Refuser
+Denied,Refusé
+Description,Description
+Inactive,Inactif
+"List of Offers","Liste des offres"
+Name,Nom
+Offer,Offre
+"Offer ID","ID de l'offre"
+Offers,Offres
+Product,Produit
+Reference,Référence
+SKU,SKU
+Status,Statut
+Stores,Magasins
+"The approval status was updated","Le statut d'approbation a été mis à jour"
+Type,Type
+"View Offer","Voir l'offre"
+Visibility,Visibilité
+"Volume Prices","Prix en volume"
+Approval,Approbation
+"Approval Status","Statut d'approbation"
+"Waiting for Approval","En attente d'approbation"

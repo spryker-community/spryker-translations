@@ -1,0 +1,29 @@
+Administration,Administratie
+"API Keys",API-sleutels
+Name,Naam
+ID,ID
+Key,Sleutel
+Edit,Bewerken
+Delete,Verwijderen
+Create,Aanmaken
+Back,Terug
+Save,Opslaan
+"Created by","Aangemaakt door"
+"Back to API Keys","Terug naar API-sleutels"
+"Create API Key","API-sleutel aanmaken"
+"Edit API Key","API-sleutel bewerken"
+Actions,Acties
+"API key `%s` created successfully. Note, it will not be shown again. Please ensure you save it securely for future use.","API-sleutel `%s` succesvol aangemaakt. Let op, deze wordt niet opnieuw weergegeven. Zorg ervoor dat je deze veilig bewaart voor toekomstig gebruik."
+"API Key with ID `%d` does not exist.","API-sleutel met ID `%d` bestaat niet."
+"The new API key is `%s`. Note, it will not be shown again. Please ensure you save it securely for future use.","De nieuwe API-sleutel is `%s`. Let op, deze wordt niet opnieuw weergegeven. Zorg ervoor dat je deze veilig bewaart voor toekomstig gebruik."
+"API key has been successfully removed","API-sleutel is succesvol verwijderd."
+"API key can not be removed","API-sleutel kan niet worden verwijderd."
+"Regenerate Key","Sleutel opnieuw genereren"
+"Delete API Key","API-sleutel verwijderen"
+"API key updated successfully.","API-sleutel succesvol bijgewerkt."
+"API key removal confirmation","Bevestiging verwijderen API-sleutel"
+"Are you sure you want to delete this API key?","Weet je zeker dat je deze API-sleutel wilt verwijderen?"
+"No, I want to keep this API key","Nee, ik wil deze API-sleutel behouden."
+"We highly recommend setting an expiration date to the token, because of security reasons.","We raden ten zeerste aan om een vervaldatum in te stellen voor de token, vanwege beveiligingsredenen."
+"Expires on","Vervalt op"
+"⚠️ Never","⚠️ Nooit"

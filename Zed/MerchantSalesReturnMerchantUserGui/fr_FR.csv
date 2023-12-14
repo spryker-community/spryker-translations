@@ -1,0 +1,52 @@
+"My Returns","Mes retours"
+Return,Retour
+"Merchant for current user not found.","Marchand introuvable pour l'utilisateur actuel."
+"Merchant sales order #%d not found.","Commande de vente du marchand #%d introuvable."
+"Return was successfully created.","Le retour a été créé avec succès."
+"Return has not been created.","Le retour n'a pas été créé."
+"Requested return with ID %id% was not found.","Le retour demandé avec l'ID %id% n'a pas été trouvé."
+"Status change triggered successfully.","Le changement de statut a été déclenché avec succès."
+"Request is invalid","La demande n'est pas valide."
+"Parameter redirect not found.","Paramètre de redirection introuvable."
+"Item selected for return is not eligible for return anymore.","L'article sélectionné pour le retour n'est plus éligible au retour."
+"Select reason","Sélectionner la raison"
+View,Voir
+"Print Slip","Imprimer le bon"
+"Return ID","ID de retour"
+"Return Reference","Référence de retour"
+"Order Reference","Référence de commande"
+"Marketplace Order Reference","Référence de commande de la place de marché"
+"Returned Products","Produits retournés"
+"Return Date","Date de retour"
+State,État
+Actions,Actions
+Sku,Sku
+"incl. %tax_amount% % tax","incl. %tax_amount% % taxe"
+"Show history","Afficher l'historique"
+"Hide history","Masquer l'historique"
+"Create Return","Créer un retour"
+"Back to Order","Retour à la commande"
+"Merchant Order Reference","Référence de commande du marchand"
+"Merchant Order References","Références de commande du marchand"
+"Select Items to Return","Sélectionner les articles à retourner"
+Product,Produit
+Quantity,Quantité
+Price,Prix
+Total,Total
+"Return policy","Politique de retour"
+Customer,Client
+"Customer Reference","Référence client"
+Name,Nom
+Email,Email
+"General information","Informations générales"
+"Returned Items","Articles retournés"
+Reason,Raison
+"Trigger all matching states","Déclencher tous les états correspondants"
+of,de
+"selected items","articles sélectionnés"
+"Trigger event","Déclencher l'événement"
+items,articles
+"Remuneration Total","Total de la rémunération"
+"Overview of Return","Aperçu du retour"
+"Back to Returns","Retourner aux retours"
+"Print Return Slip","Imprimer le bon de retour"

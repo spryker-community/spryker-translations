@@ -1,0 +1,48 @@
+Activate,Activeren
+"Add option","Optie toevoegen"
+"All products","Alle producten"
+"Assigned products","Toegewezen producten"
+"Could not activate option.","Kon optie niet activeren."
+"Create a product option by defining option values with translation key, sku and price. By adding more than 1 option value below, you will create an option group. With an option group your customer can choose one option from this group.","Maak een productoptie aan door optiewaarden te definiëren met vertalingssleutel, SKU en prijs. Door hieronder meer dan 1 optiewaarde toe te voegen, maak je een optiegroep aan. Met een optiegroep kan je klant één optie uit deze groep kiezen."
+"Create product option","Productoptie aanmaken"
+"Created at","Aangemaakt op"
+Deactivate,Deactiveren
+"Deselect all on the page","Alles deselecteren op de pagina"
+Edit,Bewerken
+"Edit product option","Productoptie bewerken"
+"General information","Algemene informatie"
+"Gross Price",Brutoprijs
+"Group name",Groepsnaam
+"Group name translation key","Vertalingssleutel groepsnaam"
+ID,ID
+"List of product options","Lijst met productopties"
+Name,Naam
+"Net Price",Nettoprijs
+"Option group ID","Optiegroep ID"
+"Option name",Optienaam
+"Option name translation key","Vertalingssleutel optienaam"
+"Option successfully activated.","Optie succesvol geactiveerd."
+"Option successfully deactivated.","Optie succesvol gedeactiveerd."
+"Option Values",Optiewaarden
+"Product option group created.","Productoptiegroep aangemaakt."
+"Product option group modified.","Productoptiegroep gewijzigd."
+"Product option list","Lijst met productopties"
+"Product Options",Productopties
+Products,Producten
+"Products to be assigned","Producten om toe te wijzen"
+"Products to be deassigned","Producten om te ontbinden"
+"Products with this option","Producten met deze optie"
+Save,Opslaan
+"Select all on the page","Alles selecteren op de pagina"
+Selected,Geselecteerd
+SKU,SKU
+Sku,SKU
+"Tax set",Belastinginstelling
+Translation,Vertaling
+"Translation key",Vertalingsleutel
+"Updated at","Bijgewerkt op"
+"View product option","Bekijk productoptie"
+Active,Actief
+Inactive,Inactief
+"product.option.group.name.(your key)","product.optiegroep.naam.(jouw sleutel)"
+"product.option.(your key)","product.optie.(jouw sleutel)"

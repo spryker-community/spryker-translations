@@ -1,0 +1,15 @@
+Approve,Approuver
+"Change status","Changer le statut"
+"List of product reviews","Liste des avis sur les produits"
+Nickname,Pseudo
+"Overview of Product Reviews","Aperçu des avis sur les produits"
+"Product Reviews","Avis sur les produits"
+Reject,Rejeter
+Pending,"En attente"
+Rejected,Rejeté
+"Product Review #%id% deleted successfully.","Avis sur le produit #%id% supprimé avec succès."
+Date,Date
+"Product name","Nom du produit"
+Rating,Évaluation
+"CSRF token is not valid.","Le jeton CSRF n'est pas valide."
+Guest,Invité

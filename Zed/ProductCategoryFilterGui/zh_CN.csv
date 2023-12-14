@@ -1,0 +1,18 @@
+"Active filters",活动筛选器
+Add,添加
+"Category Filters for",类别筛选器
+"Category Id","类别 ID"
+"Category tree",类别树
+"Filters for Category ""%s"" were updated successfully.",类别“%s”的筛选器已成功更新。
+"Inactive filters",非活动筛选器
+"Overview of Category Filters",类别筛选器概览
+"Remove all",全部移除
+"Reset to global settings",重置为全局设置
+"Root nodes list",根节点列表
+Save,保存
+Search,搜索
+"There are no manual filter preferences defined for this category. The filters listed below are global settings. To define manual references for this category, modify the filters below.",此类别未定义任何手动筛选器首选项。下面列出的筛选器是全局设置。要为此类别定义手动引用，请修改下面的筛选器。
+"Type first three letters of an existing filter key for suggestions.",输入现有筛选器键的前三个字母以获取建议。
+"Filters for Category ""%s"" cannot be saved. Invalid filter(s) provided.",无法保存类别“%s”的筛选器。提供了无效的筛选器。
+Submit,提交
+"Please select a store to see the category filters:",请选择一个商店以查看类别筛选器。

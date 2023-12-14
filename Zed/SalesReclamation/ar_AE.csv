@@ -1,0 +1,37 @@
+"Back to Orders","العودة إلى الطلبات"
+"Back to Reclamatinos","العودة إلى الاستردادات"
+"Can not create reclamation","لا يمكن إنشاء استرداد"
+"Canceled amount","المبلغ الملغى"
+"Create connected order","إنشاء طلب متصل"
+"Create reclamation","إنشاء استرداد"
+Created,"تم الإنشاء"
+Discount,الخصم
+"GRAND TOTAL","المجموع الكلي"
+"Included tax amount","مبلغ الضريبة المشمول"
+"Item total","إجمالي العنصر"
+"List of Reclamations","قائمة الاستردادات"
+"No order items provided","لم يتم توفير عناصر الطلب"
+"No reclamation with given id %s","لا يوجد استرداد بالمعرف المعطى %s"
+Option,خيار
+Order,طلب
+"Order id","معرف الطلب"
+"OrderItem with id %s not belong to order %s","عنصر الطلب بالمعرف %s لا ينتمي إلى الطلب %s"
+"Overview of reclamation:","نظرة عامة على الاسترداد:"
+"Overview of reclamations","نظرة عامة على الاستردادات"
+Product,المنتج
+"Reclamation id:%s for order %s sucessfully created","تم إنشاء طلب المرتجع بنجاح برقم الطلب %s"
+"Reclamation item refunded","تم استرداد المنتج المرتجع"
+"Reclamation item with id %s not exists","المنتج المرتجع برقم %s غير موجود"
+"Reclamation state","حالة المنتج المرتجع"
+"Reclamation with id %s closed","تم إغلاق المنتج المرتجع برقم %s"
+"Reclamation with id %s not exists","المنتج المرتجع برقم %s غير موجود"
+"Reclamation with id %s not own this item %s","المنتج المرتجع برقم %s ليس ملك هذا العنصر %s"
+Shipment,الشحنة
+"Show less","عرض أقل"
+"Show more","أظهر المزيد"
+Sku,SKU
+State,الحالة
+"Sub total","المجموع الفرعي"
+Total,الإجمالي
+"Unit Price","سعر الوحدة"
+"Variant Details","تفاصيل الاختلاف"

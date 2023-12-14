@@ -1,0 +1,31 @@
+"Add Merchant relation","Adicionar relação de comerciante"
+"Assigned Business Units","Unidades de negócio atribuídas"
+"Back to Merchant relations","Voltar para relações de comerciante"
+"Business Unit Owner","Proprietário da unidade de negócio"
+Company,Empresa
+Confirm,confirmar
+"Create Merchant Relation","Criar relação de comerciante"
+"Edit Merchant Relation","Editar relação de comerciante"
+"Edit Merchant Relation:","Editar relação de comerciante:"
+ID,ID:
+"List of Merchant relation","Lista de relações de comerciante"
+Merchant,Comerciante
+"Merchant Name","Nome do comerciante"
+"Merchant relation created successfully.","Relação de comerciante criada com sucesso."
+"Merchant relation deleted successfully.","Relação de comerciante excluída com sucesso."
+"Merchant relation has not been created.","A relação de comerciante não foi criada."
+"Merchant relation is not found.","A relação de comerciante não foi encontrada."
+"Merchant relation updated successfully.","Relação de comerciante atualizada com sucesso."
+"Merchant Relations","Relações de comerciante"
+"Merchant Relation with ID ""%id%"" doesn\'t exist.","A relação de comerciante com o ID ""%id%"" não existe."
+Merchants,Comerciantes
+"Overview of Merchant relation","Visão geral da relação de comerciante"
+Save,Salvar
+"Select Company","Selecionar empresa"
+"Select merchant","Selecionar comerciante"
+"Select business unit","Selecionar unidade de negócio"
+"Please select an item in the list","Por favor, selecione um item na lista"
+"Delete Merchant Relation","Excluir relação de comerciante"
+"Merchant Relation deletion confirmation","Confirmação de exclusão de relação de comerciante"
+"Are you sure you want to delete this Merchant Relation?","Tem certeza de que deseja excluir a relação de comerciante"
+Cancel,Cancelar

@@ -1,0 +1,29 @@
+"Edit Data Exchange API Configuration","Bewerk Data Exchange API-configuratie"
+"Back to Data Exchange API Configuration","Terug naar Data Exchange API-configuratie"
+"Create Data Exchange API Configuration","Maak Data Exchange API-configuratie"
+ID,ID
+Actions,Acties
+"Table name",Tabelnaam
+"Resource name",Bronnaam
+"Is enabled","Is ingeschakeld"
+Identifier,Identificator
+Status,Status
+Inactive,Inactief
+Active,Actief
+Enabled,Ingeschakeld
+Name,Naam
+"Visible Name","Zichtbare naam"
+Type,Type
+Creatable,Aanmaakbaar
+Editable,Bewerkbaar
+Required,Vereist
+Min,Min
+Max,Max
+"Min Length","Min Lengte"
+"Max Length","Max Lengte"
+Scale,Schaal
+Precision,Precisie
+Edit,Bewerk
+Create,Maak
+"Download API Specification","Download API-specificatie"
+"Documentation generation is in progress, please refresh the page in %s minute(s).","Documentatiegeneratie is bezig, vernieuw de pagina over %s minuut(en)."

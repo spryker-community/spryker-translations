@@ -1,0 +1,28 @@
+"Custom CSS class",自定义CSS类
+"Date ""Valid from"" cannot be later than ""Valid to"".",“有效期从”日期不能晚于“有效期至”日期。
+"Date ""Valid to"" cannot be earlier than ""Valid from"".",“有效期至”日期不能早于“有效期从”日期。
+"Edit Navigation Element: ",编辑导航元素：
+"External URL",外部URL
+"If a navigation node is inactive, then this item and all navigation items under this one will not be visible.",如果导航节点不活动，则此项及其下的所有导航项将不可见。
+"Incorrect request data.",请求数据不正确。
+"Links should start with ""/"".",链接应以“/”开头。
+"List of navigation elements",导航元素列表
+Navigation,导航
+"Navigation element %d was activated successfully.","导航元素 %d 已成功激活。"
+"Navigation element %d was created successfully.","导航元素 %d 已成功创建。"
+"Navigation element %d was deactivated successfully.","导航元素 %d 已成功停用。"
+"Navigation element %d was deleted successfully.","导航元素 %d 已成功删除。"
+"Navigation element %d was not found.","未找到导航元素 %d。"
+"Navigation element %d was updated successfully.","导航元素 %d 已成功更新。"
+"Navigation element details",导航元素详情
+"Navigation node ""%s"" was created successfully.",导航节点“%s”已成功创建。
+"Navigation node ""%s"" was deleted successfully.",导航节点“%s”已成功删除。
+"Navigation node ""%s"" was updated successfully.",导航节点“%s”已成功更新。
+"Navigation tree updated successfully.",导航树更新成功。
+"Navigation with id %s doesn't exist","ID为 %s 的导航不存在"
+"Navigation with the same key already exists.",已存在相同键的导航。
+"This value is not a valid category URL for the given locale.",该值不是给定语言环境的有效类别URL。
+"This value is not a valid CMS page URL for the given locale.",该值不是给定语言环境的有效CMS页面URL。
+"Type 3 letters to search by category name.",输入3个字母以按类别名称搜索。
+"Type 3 letters to search by CMS page name.",输入3个字母以按CMS页面名称搜索。
+"You can drag and drop to define item order.",您可以拖放以定义项目顺序。

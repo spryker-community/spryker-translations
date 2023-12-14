@@ -1,0 +1,24 @@
+Actions,Azioni
+Active,Attivo
+"Available in Store","Disponibile in Negozio"
+"Available in the following store(s)","Disponibile nei seguenti negozi"
+Configuration,Configurazione
+Edit,Modifica
+"Edit Payment Method: %s","Modifica Metodo di Pagamento: %s"
+Inactive,Inattivo
+"Is the Payment Method active?","Il Metodo di Pagamento è attivo?"
+"Is this payment method active?","Questo metodo di pagamento è attivo?"
+"List Payment Methods","Elenco Metodi di Pagamento"
+Name,Nome
+"Payment Method Key","Chiave Metodo di Pagamento"
+"Payment method not found","Metodo di pagamento non trovato"
+"Payment Methods","Metodi di Pagamento"
+"Payment Provider","Fornitore di Pagamento"
+Provider,Fornitore
+Save,Salva
+Status,Stato
+"Store relation","Relazione con il Negozio"
+View,Visualizza
+"View Payment Method: %s","Visualizza Metodo di Pagamento: %s"
+"Payment method has been successfully updated","Il metodo di pagamento è stato aggiornato con successo"
+"Payment Management","Gestione Pagamenti"

@@ -1,0 +1,23 @@
+Add,添加
+"Add new Carrier Company",添加新的承运公司
+"Add new Shipment Method",添加新的运输方式
+"Availability plugin",可用性插件
+Carrier,承运人
+"Carrier was created successfully.",承运人创建成功。
+"Carrier with the same name already exists.",已存在同名的承运人。
+"Create new Shipment Carrier",创建新的运输承运人
+"Delivery time plugin",交货时间插件
+"Edit Shipment Method",编辑运输方式
+Enabled?,激活
+"List Shipment Methods",运输方式列表
+Method,方式
+"New Shipment Method",新的运输方式
+Price,价格
+"Price plugin",价格插件
+Save,保存
+"Select one",选择一个
+"Shipment Method",运输方式
+"Shipment method ""%s"" was created successfully.","运输方式 ""%s"" 创建成功。"
+"Shipment method ""%s"" was updated successfully.","运输方式 ""%s"" 更新成功。"
+"Shipment method with such name already exists for selected shipment provider.",已存在同名的运输方式供应商。
+"Shipment Methods",运输方式

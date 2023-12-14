@@ -1,0 +1,90 @@
+Active,Attivo
+"Add Offer","Aggiungi Offerta"
+Approved,Approvato
+approved,Approvato
+"Always in stock","Sempre disponibile"
+Created,Creato
+"Created from","Creato da"
+"Created to","Creato fino a"
+"At least one store must be selected.","Deve essere selezionato almeno un negozio."
+"Create Offer","Crea Offerta"
+Denied,Rifiutato
+denied,Rifiutato
+waiting_for_approval,"In attesa di approvazione"
+"Expiring in %daysNumber% days","Scade tra %daysNumber% giorni"
+From,Da
+"Has stock",Disponibile
+Image,Immagine
+Inactive,Inattivo
+"List of Products","Elenco dei Prodotti"
+"Low on Stock","Scarsa disponibilità"
+"Manage Offers","Gestisci Offerte"
+"Manage Offer","Gestisci Offerta"
+"Merchant SKU","SKU del Commerciante"
+Name,Nome
+"Never out of stock","Sempre disponibile"
+"Offer is active","Offerta attiva"
+Offers,Offerte
+Offline,Offline
+"On Marketplace","Sul Marketplace"
+Online,Online
+"Out of stock","Non disponibile"
+Pending,"In sospeso"
+Reference,Riferimento
+Search,Cerca
+"Offer Reference","Riferimento dell'offerta"
+Price,Prezzo
+Quantity,Quantità
+"Search by SKU, Name","Cerca per SKU, Nome"
+SKU,SKU
+Status,Stato
+Stock,Stock
+Stores,Negozi
+Updated,Aggiornato
+"Updated from","Aggiornato da"
+"Updated to","Aggiornato a"
+"The Offer is saved.","L'offerta è salvata."
+"The Offer is not saved.","L'offerta non è salvata."
+Valid,Valido
+"Valid From","Valido da"
+"Valid, online & with Stock","Valido, online e con disponibilità"
+"Valid To","Valido fino a"
+Visibility,Visibilità
+"With Offers","Con offerte"
+"With Stock","Con disponibilità"
+"Without Offers","Senza offerte"
+"Description & Details","Descrizione e dettagli"
+"The first date cannot be later than the second one.","La prima data non può essere successiva alla seconda."
+"The first date is the same as the second one.","La prima data è uguale alla seconda."
+"The second date cannot be earlier than the first one.","La seconda data non può essere precedente alla prima."
+"This means that the offer does not appear online and noone can see it.","Ciò significa che l'offerta non appare online e nessuno può vederla."
+To,A
+"Gross Default","Prezzo lordo predefinito"
+"Gross Original","Prezzo lordo originale"
+"Net Default","Prezzo netto predefinito"
+"Net Original","Prezzo netto originale"
+Offer,Offerta
+Save,Salva
+Create,Crea
+"Validity Dates","Date di validità"
+"Offer visibility","Visibilità dell'offerta"
+select.default.placeholder,Seleziona
+"Enter SKU","Inserisci SKU"
+"Enter quantity","Inserisci quantità"
+"To create your offer, choose a product from the list below.","Per creare la tua offerta, scegli un prodotto dalla lista sottostante."
+"This value is not valid.","Questo valore non è valido."
+"This field is missing.","Questo campo è mancante."
+"The set of inputs Store and Currency needs to be unique.","Il set di input Negozio e Valuta deve essere unico."
+"The set of inputs Store, Currency, and Quantity needs to be unique.","Il set di input Negozio, Valuta e Quantità deve essere unico."
+"Success! The Price is deleted.","Successo! Il prezzo è eliminato."
+"Something went wrong, please try again.","Qualcosa è andato storto, riprova."
+"Offer prices saved successfully.","Offerta prezzi salvata con successo."
+Cancel,Annulla
+Add,Aggiungi
+"Approval Status","Stato di approvazione"
+Product,Prodotto
+"Offer status","Stato dell'offerta"
+"Volume Quantity","Quantità di volume"
+"A Price for Quantity of 2 or above requires a Price for 1 for this set of inputs Store, Currency, and Quantity.","Un prezzo per una quantità di 2 o superiore richiede un prezzo per 1 per questo insieme di input Store, Currency e Quantity."
+"To save an Offer please resolve all errors.","Per salvare un'offerta, risolvi tutti gli errori."
+Currencies,Valute

@@ -1,0 +1,20 @@
+"A customer can not be assigned to multiple users at a time.","لا يمكن تعيين عميل لعدة مستخدمين في نفس الوقت."
+Assign,تعيين
+"Assign Customers","تعيين العملاء"
+"Assign Customers to User:","تعيين العملاء للمستخدم:"
+Assigned,"تم التعيين"
+"Assigned Zed User Reference","تم تعيين مرجع المستخدم زد"
+"Customer E-mail","بريد العميل"
+"Customer-user connections are updated.","تم تحديث اتصالات العميل-المستخدم."
+"Customers to be assigned","العملاء المراد تعيينهم"
+"Deselected customers","العملاء الملغيين"
+Female,أنثى
+"List Users","قائمة المستخدمين"
+Male,ذكر
+Save,حفظ
+"Select customers to assign","حدد العملاء للتعيين"
+"User couldn't be found","تعذر العثور على المستخدم"
+"Your unsaved modification will be lost, are you sure to continue?","سيتم فقدان التعديلات غير المحفوظة الخاصة بك، هل أنت متأكد من الاستمرار؟"
+"Customers to be deassigned","العملاء الذين سيتم إلغاء تعيينهم"
+"List of customers","قائمة العملاء"
+"Selected customers","العملاء المحددين"

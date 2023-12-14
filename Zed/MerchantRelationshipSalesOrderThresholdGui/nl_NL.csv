@@ -1,0 +1,21 @@
+"Back to Merchant Relationship Thresholds","Terug naar Drempels voor Handelsrelaties"
+"Edit Merchant Relationship Threshold","Bewerk Drempel voor Handelsrelatie"
+"Enter minimum order value","Voer minimale bestelwaarde in"
+"Hard Threshold","Harde Drempel"
+"Hard Maximum Threshold","Harde Maximale Drempel"
+"Merchant relationship name","Naam handelsrelatie"
+"Merchant relationships",Handelsrelaties
+Message,Bericht
+Save,Opslaan
+"Soft Threshold","Zachte Drempel"
+"Soft Threshold with fixed fee","Zachte Drempel met vaste vergoeding"
+"Soft Threshold with flexible fee","Zachte Drempel met flexibele vergoeding"
+"Soft Threshold with message","Zachte Drempel met bericht"
+"Store and Currency","Winkel en Valuta"
+"The Merchant Relationship Threshold is saved successfully.","De Drempel voor Handelsrelatie is succesvol opgeslagen."
+Thresholds,Drempels
+Soft,Zacht
+Hard,Hard
+"The Merchant Relationship Thresholds is saved successfully.","De Drempels voor Handelsrelaties zijn succesvol opgeslagen."
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","U kunt de placeholders <code>{{threshold}}</code> en <code>{{fee}}</code> gebruiken"
+"BU name",BU-naam

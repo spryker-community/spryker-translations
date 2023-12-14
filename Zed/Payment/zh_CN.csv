@@ -1,0 +1,10 @@
+Amount,金额
+"Payment method",付款方式
+"Payment provider",付款提供商
+"Payment method key ""%paymentMethodKey%"" used more then once among requested entities.","在请求的实体中，付款方式键""%paymentMethodKey%""被多次使用。"
+"Payment method name ""%paymentMethodName%"" used more then once among requested entities.","在请求的实体中，付款方式名称""%paymentMethodName%""被多次使用。"
+"Payment provider with key ""%paymentProviderKey%"" already exists.","具有键""%paymentProviderKey%""的付款提供商已存在。"
+"Payment method with key ""%paymentMethodKey%"" already exists.","具有键""%paymentMethodKey%""的付款方式已存在。"
+"Payment provider key ""%paymentProviderKey%"" used more then once among requested entities.","在请求的实体中，付款提供商键""%paymentProviderKey%""被多次使用。"
+"Payment provider name ""%paymentProviderName%"" used more then once among requested entities.","在请求的实体中，付款提供商名称""%paymentProviderName%""被多次使用。"
+"Payment provider with id ""%paymentProviderId%"" is unknown.","具有ID""%paymentProviderId%""的付款提供商未知。"

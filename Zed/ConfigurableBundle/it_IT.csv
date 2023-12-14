@@ -1,0 +1,2 @@
+"Configurable bundle template slot with id ""%id%"" was not found.","Non è stato trovato lo slot del modello di pacchetto configurabile con ID ""%id%""."
+"Unable to delete Product List since it's used by Configurable Bundle Template ""%template%"" (""%slot%"" slot).","Impossibile eliminare l'elenco prodotti poiché è utilizzato dal modello di pacchetto configurabile ""%template%"" (slot ""%slot%"")."

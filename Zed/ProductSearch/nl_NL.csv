@@ -1,0 +1,51 @@
+"Add attribute to search","Attribuut toevoegen aan zoekopdracht"
+"Attribute key","Attribuut sleutel"
+"Attribute key is already used","Attribuut sleutel is al in gebruik"
+"Attribute to search was added successfully.","Attribuut om te zoeken is succesvol toegevoegd."
+"Attribute to search was successfully deactivated.","Attribuut om te zoeken is succesvol gedeactiveerd."
+"Attribute to search was successfully updated.","Attribuut om te zoeken is succesvol bijgewerkt."
+"Attribute with id %s doesn't exist","Attribuut met id %s bestaat niet"
+"Category Filters","Categorie filters"
+"Completion terms",Aanvullingstermen
+"Create filter","Filter maken"
+Delete,Verwijderen
+Edit,Bewerken
+"Edit filter order","Volgorde filter bewerken"
+"Edit search preferences","Voorkeuren voor zoekopdrachten bewerken"
+"Edit Search Preferences","Voorkeuren voor zoekopdrachten bewerken"
+"Filter name",Filternaam
+"Filter position",Filterpositie
+"Filter Preferences",Filtervoorkeuren
+"Filter preference was created successfully.","Filtervoorkeur is succesvol aangemaakt."
+"Filter preference was updated successfully.","Filtervoorkeur is succesvol bijgewerkt."
+"Filter preferences synchronization was successful.","Synchronisatie van filtervoorkeuren is succesvol."
+"Filter successfully deleted.","Filter succesvol verwijderd."
+"Filter type",Filtertype
+"Full text","Volledige tekst"
+"Full text boosted","Volledige tekst versterkt"
+"General Information","Algemene informatie"
+"Include for completion","Inbegrepen voor aanvulling"
+"Include for full text","Inbegrepen voor volledige tekst"
+"Include for full text boosted","Inbegrepen voor volledige tekst versterkt"
+"Include for suggestion","Inbegrepen voor suggestie"
+"List of filters","Lijst met filters"
+"List of search preferences","Lijst met zoekvoorkeuren"
+multi-select,"meervoudige selectie"
+range,bereik
+Save,Opslaan
+"Save Order","Volgorde opslaan"
+"Search and Filters","Zoeken en filters"
+"Search Preferences",Zoekvoorkeuren
+"Search preferences",Zoekvoorkeuren
+"Search preferences synchronization was successful.","Synchronisatie van zoekvoorkeuren is succesvol."
+single-select,"Enkele selectie"
+"Suggestion terms",Suggestietermen
+"Synchronize filter preferences","Voorkeuren filter synchroniseren"
+"Synchronize search preferences","Voorkeuren zoekopdracht synchroniseren"
+"This field contains illegal characters. It should contain only lower case letters, digits, numbers, underscores (""_""), hyphens (""-"") and colons ("":"").","Dit veld bevat ongeldige tekens. Het mag alleen kleine letters, cijfers, underscores (""_""), streepjes (""-"") en dubbele punten ("":"") bevatten."
+Translations,Vertalingen
+"Type first three letters of an existing attribute key for suggestions.","Typ de eerste drie letters van een bestaande attribuutsleutel voor suggesties."
+"View Filter","Filter bekijken"
+"Deactivate all","Alle deactiveren"
+"Create Filter","Filter maken"
+"Edit filter","Filter bewerken"

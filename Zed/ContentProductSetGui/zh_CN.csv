@@ -1,0 +1,13 @@
+Actions,操作
+Add,添加
+"Available Product Sets",可用产品集
+"Clear locale",清除语言环境
+content_product_set_gui.template.cart-button-btm,添加全部到底部购物车按钮
+content_product_set_gui.template.cart-button-top,添加全部到顶部购物车按钮
+content_product_set_gui.template.default,默认
+Delete,删除
+ID,ID
+Name,名称
+"Number of Products",产品数量
+"Product Set",产品集
+Status,状态

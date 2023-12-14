@@ -1,0 +1,105 @@
+Activate,Activar
+"Add group","Agregar grupo"
+"Add Random Generated Code Length","Agregar longitud de código generado aleatoriamente"
+"Add rule","Agregar regla"
+Amount:,Cantidad:
+"Apply to query:","Aplicar a la consulta:"
+"Batch Value","Valor de lote"
+"Calculator type","Tipo de calculadora"
+"Cart Rules","Reglas de carrito"
+Conditions,Condiciones
+"Could not change discount visibility.","No se pudo cambiar la visibilidad del descuento."
+"Create new discount","Crear nuevo descuento"
+"Create new Discount","Crear nuevo descuento"
+"Create voucher codes for the discount","Crear códigos de cupón para el descuento"
+Deactivate,Desactivar
+"Define what to apply the discount to","Definir en qué aplicar el descuento"
+"Define when to apply the discount","Definir cuándo aplicar el descuento"
+"Delete codes","Eliminar códigos"
+Description,Descripción
+Description:,Descripción:
+"Discount calculation","Cálculo de descuento"
+"Discount collection type","Tipo de aplicación de descuento"
+"Discount List","Lista de descuentos"
+"Discount successfully activated","Descuento activado correctamente"
+"Discount successfully created, but not activated.","Descuento creado correctamente, pero no activado."
+"Discount successfully deactivated","Descuento desactivado correctamente"
+"Discount successfully updated.","Descuento actualizado correctamente."
+"Discount Type:","Tipo de descuento:"
+"Discount with id %s doesn't exist","El descuento con el id %s no existe"
+"Discount with this name is already used.","Este nombre de descuento ya está en uso."
+Edit,Editar
+"Edit discount","Editar descuento"
+"Enter your custom code as a string. If selected in the next step, additional random characters are added at the end of this string. Use the placeholder [code] to indicate where you want random characters to be generated.","Ingrese su código personalizado como una cadena. Si se selecciona en el siguiente paso, se agregarán caracteres aleatorios adicionales al final de esta cadena. Use el marcador de posición [code] para indicar dónde desea que se generen los caracteres aleatorios."""
+Examples,Ejemplos
+Exclusive:,Exclusivo:
+Explanation,Explicación
+Export,Exportar
+Field,Campo
+"Fill in the general discount information","Complete la información general del descuento"
+"General Information","Información general"
+"Generated Discount Codes","Códigos de descuento generados"
+"List of Discounts","Lista de descuentos"
+"Matches all elements which have a ""width"" attribute defined, but with any ""width"" value","Coincide con todos los elementos que tienen un atributo ""width"" definido, pero con cualquier valor de ""width"""
+"Matches elements with the exact same SKU: ""SKU-1""","Coincide con elementos con el mismo SKU exacto: ""SKU-1"""
+"Max nr. of uses","Número máximo de usos"
+"Max number of uses (0 = Infinite usage)","Número máximo de usos (0 = uso infinito)"
+N/A,n/a
+Name,Nombre
+Name:,Nombre:
+No,No
+"No additional random characters","No hay caracteres aleatorios adicionales"
+"No conditions, discount always applied.","Sin condiciones, el descuento siempre se aplica."
+"No returns for this order","No hay devoluciones para este pedido"
+"No voucher codes were deleted.","No se eliminaron códigos de cupón."
+Operation,Operación
+Overview,Resumen
+"Plain query","Consulta simple"
+"Please fill all required fields.","Por favor, complete todos los campos requeridos."
+"Query builder","Constructor de consultas"
+"Query String","Cadena de consulta"
+Save,Guardar
+"Store relation:","Relación de tienda:"
+"Successfully deleted ""%d"" vouchers.","Se eliminaron correctamente ""%d"" cupones."
+"Summary explaining promotion. Displayed with eligible products where applicable.","Resumen que explica la promoción. Se muestra con productos elegibles cuando corresponda."
+"The discount cannot end before the starting date.","El descuento no puede finalizar antes de la fecha de inicio."
+"This value is not a valid datetime.","Este valor no es una fecha y hora válida."
+Type:,Tipo:
+"Unique, short, and descriptive. Displayed in cart calculation.","Único, corto y descriptivo. Se muestra en el cálculo del carrito."
+Used,Usado
+"Valid from:","Válido desde (incluido):"
+"Valid From (Time in UTC)","Válido desde (Hora en UTC)"
+"Valid To (Time in UTC)","Válido hasta (Hora en UTC)"
+"Valid until:","Válido hasta (excluido):"
+Value,Valor
+Voucher,Cupón
+"Voucher Code","Código de cupón"
+Yes,Sí
+"Add code","Agregar código"
+Active,Activo
+Inactive,Inactivo
+"Create Discount","Crear Descuento"
+"Discount Type","Tipo de Descuento"
+"Cart rules","Reglas del Carrito"
+"Voucher codes","Códigos de Cupón"
+"Calculator percentage",Porcentaje
+"Calculator fixed","Cantidad Fija"
+"Discount application type","Tipo de Aplicación del Descuento"
+Delete,Eliminar
+"Apply when","Aplicar cuando"
+"The discount can be applied if the query applies for at least X item(s).","El descuento se puede aplicar si la consulta se aplica al menos a X artículo(s)."
+"Discount successfully activated.","Descuento activado correctamente."
+"Discount successfully deactivated.","Descuento desactivado correctamente."
+"Custom code","Código personalizado"
+Generate,Generar
+"You must provide length or custom code values.","Debe proporcionar valores de longitud o código personalizado."
+"No available codes to generate. Select higher code length.","No hay códigos disponibles para generar. Seleccione una longitud de código mayor."
+"Edit Discount","Editar Descuento"
+"Voucher codes successfully generated.","Códigos de cupón generados correctamente."
+"Voucher code successfully deleted.","Código de cupón eliminado correctamente."
+"Apply to","Aplicar a"
+"CSRF token is not valid.","El token CSRF no es válido."
+"Enter an integer %min%-%max%. Discounts are calculated in sequential order, starting from %min%. The default value is %max%.","Ingrese un número entero %min%-%max%. Los descuentos se calculan en orden secuencial, comenzando desde %min%. El valor predeterminado es %max%."
+"Invalid entry. Please enter an integer %min%-%max%","Entrada no válida. Por favor, ingrese un número entero %min%-%max%."
+Priority,Prioridad
+"Enter an integer %min%-%max%.","Ingrese un número entero %min%-%max%."

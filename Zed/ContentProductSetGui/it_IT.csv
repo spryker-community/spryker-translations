@@ -1,0 +1,13 @@
+Actions,Azioni
+Add,Aggiungi
+"Available Product Sets","Set di prodotti disponibili"
+"Clear locale","Cancella impostazione locale"
+content_product_set_gui.template.cart-button-btm,"Aggiungi tutto al carrello in basso"
+content_product_set_gui.template.cart-button-top,"Aggiungi tutto al carrello in alto"
+content_product_set_gui.template.default,Predefinito
+Delete,Elimina
+ID,ID
+Name,Nome
+"Number of Products","Numero di prodotti"
+"Product Set","Set di prodotti"
+Status,Stato

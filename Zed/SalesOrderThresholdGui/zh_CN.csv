@@ -1,0 +1,19 @@
+"Edit Global threshold",编辑全局阈值
+"Edit Threshold Settings",编辑阈值设置
+"Global threshold",全局阈值
+"Minimum Hard Threshold",最小硬阈值
+"Maximum Hard Threshold",最大硬阈值
+"Minimum Order Value settings saved.",最小订单价值设置已保存。
+Save,保存
+"Soft Threshold",软阈值
+"The Global Threshold is saved successfully.",全局阈值已成功保存。
+"Threshold Settings",阈值设置
+Threshold,阈值
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","您可以使用占位符 <b>{{threshold}}</b> <b>{{fee}}</b>"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","您可以使用占位符 <code>{{threshold}}</code> 和 <code>{{fee}}</code>"
+"The Global Thresholds is saved successfully.",全局阈值已成功保存。
+"Store and Currency",店铺和货币
+"Enter threshold value",输入阈值
+"Threshold settings",阈值设置
+Soft,软
+Hard,硬

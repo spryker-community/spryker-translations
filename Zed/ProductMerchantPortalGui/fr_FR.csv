@@ -1,0 +1,145 @@
+Attributes,Attributs
+Categories,Catégories
+Currencies,Devises
+Currency,Devise
+Default,"Par défaut"
+Description,Description
+Image,Image
+"Image Set","Ensemble d'images"
+Images,Images
+"Manage Product","Gérer le produit"
+Name,Nom
+Offline,"Hors ligne"
+Online,"En ligne"
+"Approval Status","Statut d'approbation"
+waiting_for_approval,"En attente d'approbation"
+approved,Approuvé
+denied,Refusé
+draft,Brouillon
+approval_status_action.approved,Approuver
+approval_status_action.denied,Refuser
+approval_status_action.draft,"Retourner au brouillon"
+approval_status_action.waiting_for_approval,"Envoyer pour approbation"
+"Product successfully created!","Produit créé avec succès !"
+"Please resolve all errors.","Veuillez résoudre toutes les erreurs."
+Price,Prix
+Products,Produits
+"Product Details","Détails du produit"
+"Provide a name","Fournir un nom"
+"Provide description","Fournir une description"
+Save,Enregistrer
+Select,Sélectionner
+"Select Stores","Sélectionner les magasins"
+"Select Tax Set","Sélectionner l'ensemble de taxes"
+"Select Categories","Sélectionner les catégories"
+SKU,SKU
+"Search by SKU, Name","Rechercher par SKU, nom"
+Store,Magasin
+Stores,Magasins
+"Super Attributes","Super attributs"
+"Tax Set","Ensemble de taxes"
+"The Product is saved.","Le produit est enregistré."
+"The value cannot be empty. Please fill in this input.","La valeur ne peut pas être vide. Veuillez remplir cette entrée."
+Variants,Variantes
+Visibility,Visibilité
+"Success! The Price is deleted.","Succès ! Le prix est supprimé."
+"Something went wrong, please try again.","Quelque chose s'est mal passé, veuillez réessayer."
+"Product prices saved successfully.","Les prix du produit ont été enregistrés avec succès."
+Net,Net
+Gross,Brut
+Delete,Supprimer
+Add,Ajouter
+Active,Actif
+Inactive,Inactif
+Search,Rechercher
+Status,Statut
+"Valid From","Valide à partir de"
+"Valid To","Valide jusqu'à"
+Validity,Validité
+"Validity Dates & Time","Dates et heures de validité"
+"Enabling an option below will overwrite the existing input.","Activer une option ci-dessous écrasera l'entrée existante."
+"Bulk edit %number% variants","Modifier en masse %number% variantes"
+"The first date cannot be later than the second one.","La première date ne peut pas être postérieure à la deuxième."
+"The first date is the same as the second one.","La première date est identique à la deuxième."
+"The second date cannot be earlier than the first one.","La deuxième date ne peut pas être antérieure à la première."
+From,De
+To,À
+"Bulk edit","Modifier en masse"
+Searchability,Recherchabilité
+"Use Abstract Product prices","Utiliser les prix du produit abstrait"
+"Select Locales","Sélectionner les langues"
+Stock,Stock
+Quantity,Quantité
+"Always in stock","Toujours en stock"
+"Enter quantity","Entrer la quantité"
+"Reserved Stock","Stock réservé"
+"This concrete product is not owned by this merchant.","Ce produit concret n'appartient pas à ce commerçant."
+"Create Abstract Product","Créer un produit abstrait"
+English,Anglais
+German,Allemand
+"The rest of the locales will be defined once the product has been created.","Le reste des langues sera défini une fois que le produit aura été créé."
+"Create an Abstract Product","Créer un produit abstrait"
+"with 1 Concrete Product","avec 1 produit concret"
+"Autogenerate SKU","Générer automatiquement un SKU"
+"Same as Abstract Product","Identique au produit abstrait"
+"Concrete Products’ Preview","Aperçu des produits concrets"
+"with multiple Concrete Products","avec plusieurs produits concrets"
+"Super Attribute","Super attribut"
+Values,Valeurs
+"No concretes created yet","Aucun concret créé pour le moment"
+"to be created","à créer"
+"Autogenerate SKUs","Générer automatiquement des SKUs"
+"Same Name as Abstract Product","Même nom que le produit abstrait"
+"Super attribute value","Valeur de super attribut"
+"Name default","Nom par défaut"
+"Invalid value provided. Please use only alphanumeric characters and . - _","Valeur non valide fournie. Veuillez utiliser uniquement des caractères alphanumériques et . - _"
+"Concrete Product SKU already exists","Le SKU du produit concret existe déjà"
+"SKU Prefix already exists","Le préfixe SKU existe déjà"
+"Abstract product has 1 concrete product","Le produit abstrait a 1 produit concret"
+"Abstract product has multiple concrete products","Le produit abstrait a plusieurs produits concrets"
+"The value cannot be empty. Please select one.","La valeur ne peut pas être vide. Veuillez en sélectionner une."
+"SKU Prefix","Préfixe SKU"
+"SKU Prefix already exists in collection","Le préfixe SKU existe déjà dans la collection"
+"Enter SKU prefix","Entrez le préfixe SKU"
+"Add Image Set","Ajouter un ensemble d'images"
+"Set name","Nom de l'ensemble"
+"Delete Image Set","Supprimer l'ensemble d'images"
+"Image Ordered","Image ordonnée"
+"Small Image URL","URL de l'image petite"
+"Large Image URL","URL de l'image grande"
+"Add Image","Ajouter une image"
+"Abstract Product","Produit abstrait"
+"Abstract Product Details","Détails du produit abstrait"
+"Concrete Products","Produits concrets"
+"The attribute %attribute% already exists. Please define another one","L'attribut %attribute% existe déjà. Veuillez en définir un autre"
+"Please fill in at least one value","Veuillez remplir au moins une valeur"
+"Success! The Attribute is deleted","Succès ! L'attribut est supprimé"
+"The value cannot be blank. Please fill in this input","La valeur ne peut pas être vide. Veuillez remplir cette entrée"
+"Provide meta title","Fournir un titre méta"
+"Provide meta keywords","Fournir des mots-clés méta"
+"Provide meta description","Fournir une description méta"
+"Concrete Product","Produit en béton"
+"Concrete Product is active","Le produit en béton est actif"
+"Use Abstract Product name for all locales","Utilisez le nom du produit abstrait pour toutes les langues"
+"Use Abstract Product description for all locales","Utilisez la description du produit abstrait pour toutes les langues"
+"Use Abstract Product price for all locales","Utilisez le prix du produit abstrait pour toutes les langues"
+"Use Abstract Product images for all locales","Utilisez les images du produit abstrait pour toutes les langues"
+"Super attribute was not deleted","L'attribut super n'a pas été supprimé"
+"Add Concrete Products","Ajouter des produits en béton"
+Create,Créer
+"This value should not be blank.","Cette valeur ne doit pas être vide."
+"Combination of super attribute values already exists.","La combinaison des valeurs d'attribut super existe déjà."
+"This abstract product is not owned by this merchant.","Ce produit abstrait n'appartient pas à ce marchand."
+"Invalid value provided. Please use only alphanumeric characters and  . - _","Valeur non valide fournie. Veuillez utiliser uniquement des caractères alphanumériques et . - _"
+"This value needs to be unique.","Cette valeur doit être unique."
+"This value already exists.","Cette valeur existe déjà."
+"Success! %d Concrete Products are saved.","Succès ! %d produits en béton sont enregistrés."
+"Success! %d Concrete Product is saved.","Succès ! %d produit en béton est enregistré."
+"The approval status was updated.","Le statut d'approbation a été mis à jour"
+"The approval status was not updated.","Le statut d'approbation n'a pas été mis à jour."
+"Abstract product was not found.","Produit abstrait introuvable."
+"Send for Approval","Envoyer pour approbation"
+"Enter SKU","Entrer le SKU"
+"Enter name","Entrer le nom"
+"Select at least one value","Sélectionner au moins une valeur"
+"Once this product is created, you will no longer be able to add additional concrete products.","Une fois ce produit créé, vous ne pourrez plus ajouter de produits en béton supplémentaires."

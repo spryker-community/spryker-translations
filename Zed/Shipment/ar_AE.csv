@@ -1,0 +1,23 @@
+Add,إضافة
+"Add new Carrier Company","إضافة شركة نقل جديدة"
+"Add new Shipment Method","إضافة طريقة شحن جديدة"
+"Availability plugin","ملحق التوفر"
+Carrier,"شركة نقل"
+"Carrier was created successfully.","تم إنشاء شركة النقل بنجاح."
+"Carrier with the same name already exists.","يوجد بالفعل شركة نقل بنفس الاسم."
+"Create new Shipment Carrier","إنشاء شركة نقل جديدة"
+"Delivery time plugin","ملحق وقت التسليم"
+"Edit Shipment Method","تعديل طريقة الشحن"
+Enabled?,تفعيل
+"List Shipment Methods","قائمة طرق الشحن"
+Method,الطريقة
+"New Shipment Method","طريقة شحن جديدة"
+Price,السعر
+"Price plugin","ملحق السعر"
+Save,حفظ
+"Select one","اختر واحدة"
+"Shipment Method","طريقة الشحن"
+"Shipment method ""%s"" was created successfully.","تم إنشاء طريقة الشحن ""%s"" بنجاح."
+"Shipment method ""%s"" was updated successfully.","تم تحديث طريقة الشحن ""%s"" بنجاح."
+"Shipment method with such name already exists for selected shipment provider.","يوجد بالفعل طريقة شحن بهذا الاسم لمزود الشحن المحدد."
+"Shipment Methods","طرق الشحن"

@@ -1,0 +1,35 @@
+"Add Company Role","Aggiungi ruolo utente aziendale"
+"Assigned Permissions","Permessi assegnati"
+"Assigned Roles","Ruoli assegnati"
+"Back to Roles","Torna ai ruoli"
+"Company Account","Account aziendale"
+"Company Business Unit","Unità aziendale"
+"Company role deletion confirmation","Conferma eliminazione ruolo aziendale"
+"Company Roles","Ruoli aziendali"
+"Create Company Role","Crea ruolo aziendale"
+"Create role","Crea ruolo"
+"Edit Company Role","Modifica ruolo aziendale"
+"Is Default","È predefinito"
+"It will be deleted from everywhere","Verrà eliminato ovunque"
+"List of Company Roles","Elenco dei ruoli aziendali"
+"Overview of Company Roles","Panoramica dei ruoli aziendali"
+"Role ID","ID ruolo"
+Roles,Ruoli
+"Unassigned Permissions","Permessi non assegnati"
+"Unassigned Roles","Ruoli non assegnati"
+"Update role","Aggiorna ruolo"
+"You are trying to delete company role","Stai cercando di eliminare un ruolo aziendale"
+"Select company","Seleziona azienda"
+"Please select an item in the list.","Seleziona un elemento dalla lista."
+"Company role has been successfully created","Il ruolo aziendale è stato creato con successo"
+"Company role has been successfully updated","Il ruolo aziendale è stato aggiornato con successo"
+"Delete company role","Elimina ruolo aziendale"
+"Company role has been successfully removed","Il ruolo aziendale è stato rimosso con successo"
+"You can not delete a default role, please set another default role before delete action","Non puoi eliminare un ruolo predefinito, per favore imposta un altro ruolo predefinito prima dell'azione di eliminazione."
+"Company Name","Nome azienda"
+Name,Nome
+Actions,Azioni
+Delete,Elimina
+Edit,Modifica
+Company,Azienda
+"At least one role must be assigned to a user.","Deve essere assegnato almeno un ruolo a un utente."

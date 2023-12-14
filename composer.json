@@ -1,0 +1,10 @@
+{
+    "name": "spryker-community/spryker-translations",
+    "description": "Translations for Spryker OS",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "config": {
+        "sort-packages": true
+    }
+}

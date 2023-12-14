@@ -1,0 +1,61 @@
+Created,Créé
+Customer,Client
+Email,Email
+"Grand Total","Total général"
+"Order State","État de la commande"
+"Merchant Reference","Référence du marchand"
+"No. of Items","Nombre d'articles"
+Orders,Commandes
+Reference,Référence
+Search,Recherche
+States,États
+Store,Magasin
+Stores,Magasins
+Details,Détails
+Order,Commande
+"Order date","Date de la commande"
+"Number of products","Nombre de produits"
+Items,Articles
+Shipments,Expéditions
+Subtotal,Sous-total
+Shipment,Expédition
+"Included Taxes","Taxes incluses"
+"Client name","Nom du client"
+"Client email","Email du client"
+"Total orders","Total des commandes"
+Overview,Aperçu
+Totals,Totals
+"From the last %daysNumber% days","Depuis les derniers %daysNumber% jours"
+"Manage Orders","Gérer les commandes"
+New,Nouveau
+"Per Store","Par magasin"
+"The state is updated successfully.","L'état a été mis à jour avec succès."
+"Only matching states items will be updated.","Seuls les articles correspondants à l'état seront mis à jour."
+"Order's Items state","État des articles de la commande"
+"Merchant order not found for id %d.","Commande du marchand introuvable pour l'ID %d."
+"Event name is empty.","Le nom de l'événement est vide."
+"Merchant order ids are empty.","Les ID des commandes du marchand sont vides."
+Method,Méthode
+Carrier,Transporteur
+"Delivery address","Adresse de livraison"
+"Requested Date","Date demandée"
+SKU,SKU
+Image,Image
+Name,Nom
+Quantity,Quantité
+State,État
+"There are no applicable actions for the selected items.","Il n'y a aucune action applicable pour les éléments sélectionnés."
+"Shipment %index% of %total%","Envoi %index% sur %total%"
+"Canceled Amount","Montant annulé"
+"Discount Amount","Montant de réduction"
+"Canceled By Merchant","Annulé par le commerçant"
+Shipped,Expédié
+Delivered,Livré
+initiate,Initier
+ship,Expédier
+deliver,Livrer
+close,Fermer
+"cancel by merchant","Annuler par le commerçant"
+"merchant split pending","Répartition en attente du commerçant"
+"sent to merchant","Envoyé au commerçant"
+"shipped by merchant","Expédié par le commerçant"

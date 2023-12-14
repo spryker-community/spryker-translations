@@ -1,0 +1,52 @@
+"My Returns",إرجاعاتي
+Return,إرجاع
+"Merchant for current user not found.","لم يتم العثور على التاجر للمستخدم الحالي."
+"Merchant sales order #%d not found.","لم يتم العثور على طلب مبيعات التاجر #%d."
+"Return was successfully created.","تم إنشاء الإرجاع بنجاح."
+"Return has not been created.","لم يتم إنشاء الإرجاع."
+"Requested return with ID %id% was not found.","لم يتم العثور على الإرجاع المطلوب بالمعرف %id%."
+"Status change triggered successfully.","تم تغيير الحالة بنجاح."
+"Request is invalid","الطلب غير صالح."
+"Parameter redirect not found.","لم يتم العثور على المعلمة redirect."
+"Item selected for return is not eligible for return anymore.","العنصر المحدد للإرجاع لم يعد مؤهلاً للإرجاع."
+"Select reason","اختر السبب"
+View,عرض
+"Print Slip","طباعة الإيصال"
+"Return ID","معرف الإرجاع"
+"Return Reference","المرجع الخاص بالإرجاع"
+"Order Reference","المرجع الخاص بالطلب"
+"Marketplace Order Reference","المرجع الخاص بطلب المتجر الإلكتروني"
+"Returned Products","المنتجات المُرجَعة"
+"Return Date","تاريخ الإرجاع"
+State,الحالة
+Actions,الإجراءات
+Sku,"رمز المنتج"
+"incl. %tax_amount% % tax","شامل %tax_amount% % ضريبة"
+"Show history","عرض التاريخ"
+"Hide history","إخفاء التاريخ"
+"Create Return","إنشاء إرجاع"
+"Back to Order","العودة إلى الطلب"
+"Merchant Order Reference","مرجع الطلب للتاجر"
+"Merchant Order References","مراجع الطلب للتاجر"
+"Select Items to Return","اختر العناصر للإرجاع"
+Product,المنتج
+Quantity,الكمية
+Price,السعر
+Total,الإجمالي
+"Return policy","سياسة الإرجاع"
+Customer,العميل
+"Customer Reference","المرجع الخاص بالعميل"
+Name,الاسم
+Email,"البريد الإلكتروني"
+"General information","معلومات عامة"
+"Returned Items","العناصر المُرَجَّعَة"
+Reason,السبب
+"Trigger all matching states","تشغيل جميع الحالات المطابقة"
+of,من
+"selected items","العناصر المحددة"
+"Trigger event","تشغيل الحدث"
+items,العناصر
+"Remuneration Total","إجمالي التعويض"
+"Overview of Return","نظرة عامة على الإرجاع"
+"Back to Returns","العودة إلى الإرجاعات"
+"Print Return Slip","طباعة إيصال الإرجاع"

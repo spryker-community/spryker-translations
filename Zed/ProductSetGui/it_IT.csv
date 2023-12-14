@@ -1,0 +1,54 @@
+Activate,Attiva
+Active,Attivo
+"Add image","Aggiungi immagine"
+"Add image set","Aggiungi set di immagini"
+"Create Product Set","Crea set di prodotti"
+Deactivate,Disattiva
+Default,Predefinito
+"Delete image","Elimina immagine"
+"Delete image set","Elimina set di immagini"
+"Deselect All","Deseleziona tutto"
+"Deselected products","Prodotti deselezionati"
+Edit,Modifica
+ID,ID
+"Image Set","Set di immagini"
+"Image Set Name","Nome set di immagini"
+Inactive,Inattivo
+Keywords,"Parole chiave"
+"Large Image URL","URL immagine grande"
+"List of Sets","Elenco di set"
+Name,Nome
+Position,Posizione
+Preview,Anteprima
+Price,Prezzo
+"Product details","Dettagli prodotto"
+"Product Sets","Set di prodotti"
+"Products in this Set","Prodotti in questo set"
+"Products to be assigned","Prodotti da assegnare"
+"Products to be deassigned","Prodotti da deassegnare"
+"Reorder Product Sets","Riordina set di prodotti"
+Save,Salva
+"Select All","Seleziona tutto"
+"Select products to assign","Seleziona prodotti da assegnare"
+Selected,Selezionato
+"Selected products","Prodotti selezionati"
+SEO,SEO
+SKU,SKU
+"Small Image URL","URL immagine piccola"
+Status,Stato
+Submit,Invia
+Title,Titolo
+URL,Url
+View,Visualizza
+Weight,Peso
+"Weight defines sorting order. Product Sets with higher numbers listed first.","Il peso definisce l'ordine di ordinamento. I set di prodotti con numeri più alti vengono elencati per primi."
+"Product Set Key","Chiave del set di prodotti"
+"You need to select a minimum of 2 products.","È necessario selezionare almeno 2 prodotti."
+Images,Immagini
+"View Product Set","Visualizza set di prodotti"
+"Product Set ""%s"" created successfully.","Set di prodotti ""%s"" creato con successo."
+"Product Set #%d activated successfully.","Set di prodotti #%d attivato con successo."
+"Product Set #%d deactivated successfully.","Set di prodotti #%d disattivato con successo."
+"Product Set ""%s"" updated successfully.","Set di prodotti ""%s"" aggiornato con successo."
+"Product Set #%d deleted successfully.","Set di prodotti #%d eliminato con successo."
+"Number of Products","Numero di prodotti"

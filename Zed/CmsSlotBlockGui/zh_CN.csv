@@ -1,0 +1,21 @@
++Add,+Add
+Actions,操作
+Active,活动
+Cancel,取消
+Delete,删除
+"Go Back",返回
+ID,ID
+Inactive,非活动
+"List of Blocks for ""%SLOT_NAME%"" Slot",“%SLOT_NAME%”插槽的区块列表
+"Move Down",下移
+"Move Up",上移
+Name,名称
+Save,保存
+"Select or type a block name to assign",选择或输入区块名称以分配
+SprykerCmsSlotBlock,Spryker
+Status,状态
+Stores,商店
+"There are unsaved changes",存在未保存的更改
+"Valid From (Included)",有效起始日期（包含）
+"Valid To (Excluded)",有效结束日期（不包含）
+"View Block",查看区块

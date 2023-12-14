@@ -1,0 +1,79 @@
+Actions,Actions
+"Are you sure about deleting this delivery method?","Êtes-vous sûr de vouloir supprimer cette méthode de livraison ?"
+"Availability plugin","Plugin de disponibilité"
+"Available in Store","Disponible en magasin"
+Carrier,Transporteur
+"Carrier Company","Société de transport"
+"Carrier was created successfully.","Le transporteur a été créé avec succès."
+"Carrier with the same name already exists.","Un transporteur portant le même nom existe déjà."
+Configuration,Configuration
+"Create Delivery Method","Créer une méthode de livraison"
+"Create new carrier company","Créer une nouvelle société de transport"
+"Create new delivery method","Créer une nouvelle méthode de livraison"
+Delete,Supprimer
+"Delete Delivery Method","Supprimer la méthode de livraison"
+"Delete Delivery Method: %s","Supprimer la méthode de livraison : %s"
+"Delivery Method Key","Clé de méthode de livraison"
+"Delivery method not found.","Méthode de livraison introuvable."
+"Delivery method was deleted successfully.","La méthode de livraison a été supprimée avec succès."
+"Delivery Methods","Méthodes de livraison"
+"Delivery Time plugin","Plugin de délai de livraison"
+Edit,Modifier
+"Edit Delivery Method: %s","Modifier la méthode de livraison : %s"
+Enabled?,"Activé ?"
+"Is this delivery method active?","Cette méthode de livraison est-elle active ?"
+"List of delivery methods","Liste des méthodes de livraison"
+"List Shipment Methods","Liste des méthodes d'expédition"
+"Method Name",Nom
+Name,Nom
+"New address","Nouvelle adresse"
+"No, I want to keep this delivery method","Non, je souhaite conserver cette méthode de livraison"
+None,Aucun
+"Price & Tax","Prix et taxes"
+"Price plugin","Plugin de prix"
+Save,Enregistrer
+"Select one","Sélectionner une option"
+"Shipment method has been successfully saved","La méthode d'expédition a été enregistrée avec succès"
+"Shipment method has been successfully updated","La méthode d'expédition a été mise à jour avec succès"
+"Shipment method is not found","La méthode d'expédition est introuvable"
+"Shipment method not found","Méthode d'expédition introuvable"
+"Shipment n° %shipmentNumber%","Expédition n° %shipmentNumber%"
+Status,Statut
+"Store relation","Relation de magasin"
+"Store Relation","Relation de magasin"
+"Tax set","Ensemble de taxes"
+"This name is already in use.","Ce nom est déjà utilisé."
+"This shipment method key is already in use.","Cette clé de méthode d'expédition est déjà utilisée."
+View,Voir
+"View Delivery Method: %s","Voir méthode de livraison : %s"
+"Yes, delete this delivery method","Oui, supprimer cette méthode de livraison"
+"Trigger all matching states of order inside this shipment","Déclencher tous les états correspondants de la commande à l'intérieur de cette expédition"
+Shipment,Expédition
+of,de
+"Delivery Address","Adresse de livraison"
+"Delivery Method","Méthode de livraison"
+"Request delivery date","Demander une date de livraison"
+"Shipping Method","Méthode d'expédition"
+Shipments,Expéditions
+"Available in the following store(s)","Disponible dans le(s) magasin(s) suivant(s)"
+"Is active","Est actif"
+"Add Carrier Company","Ajouter une entreprise de transport"
+"Create Shipment","Créer une expédition"
+"Edit Shipment","Modifier l'expédition"
+"New Shipment for Order: %idSalesOrder%","Nouvelle expédition pour la commande : %idSalesOrder%"
+"Address 1","Adresse 1"
+"Address 2","Adresse 2"
+"ZIP code","Code postal"
+Cellphone,"Téléphone portable"
+"Shipment method","Méthode d'expédition"
+"Requested delivery date","Date de livraison demandée"
+"Order items inside this shipment","Articles de commande à l'intérieur de cette expédition"
+"Current shipment","Expédition actuelle"
+"Please fill out this field.","Veuillez remplir ce champ."
+"Please select an item in the list.","Veuillez sélectionner un élément dans la liste."
+-select-,-sélectionner-
+"Shipment has been successfully created.","L'expédition a été créée avec succès."
+"Edit Shipment for Order: N%idSalesOrder%","Modifier l'expédition pour la commande : N%idSalesOrder%"
+"Shipment has been successfully edited.","L'expédition a été modifiée avec succès."
+"Item total",Total
+"Shipping Costs","Frais d'expédition"

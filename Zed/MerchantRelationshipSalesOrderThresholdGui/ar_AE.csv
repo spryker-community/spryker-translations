@@ -1,0 +1,21 @@
+"Back to Merchant Relationship Thresholds","العودة إلى حدود العلاقة التجارية"
+"Edit Merchant Relationship Threshold","تحرير حد العلاقة التجارية"
+"Enter minimum order value","أدخل قيمة الطلب الدنيا"
+"Hard Threshold","حد صعب"
+"Hard Maximum Threshold","حد أقصى صعب"
+"Merchant relationship name","اسم العلاقة التجارية"
+"Merchant relationships","العلاقات التجارية"
+Message,رسالة
+Save,حفظ
+"Soft Threshold","حد ناعم"
+"Soft Threshold with fixed fee","الحد الأدنى الناعم مع رسوم ثابتة"
+"Soft Threshold with flexible fee","الحد الأدنى الناعم مع رسوم مرنة"
+"Soft Threshold with message","الحد الأدنى الناعم مع رسالة"
+"Store and Currency","المتجر والعملة"
+"The Merchant Relationship Threshold is saved successfully.","تم حفظ حد العلاقة التجارية بنجاح."
+Thresholds,الحدود
+Soft,ناعم
+Hard,صعب
+"The Merchant Relationship Thresholds is saved successfully.","تم حفظ حد العلاقة التجارية بنجاح."
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","يمكنك استخدام العناصر النائبة <code>{{threshold}}</code> و <code>{{fee}}</code>"
+"BU name","اسم الشركة"

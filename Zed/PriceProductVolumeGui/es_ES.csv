@@ -1,0 +1,11 @@
+Currency,Moneda
+"Enter a quantity and the item price that should be applied if customer buys above that threshold","Introduce una cantidad y el precio del artículo que se aplicará si el cliente compra por encima de ese umbral"
+"Price Dimension Name","Nombre de la dimensión de precio"
+"Price Type","Tipo de precio"
+Store,Tienda
+"Save and add more rows","Guardar y añadir más filas"
+"Save and exit","Guardar y salir"
+"Volume prices successfully saved.","Precios por volumen guardados correctamente."
+"Volume prices","Precios por volumen"
+"Edit volume prices for product","Editar precios por volumen para el producto"
+"Edit volume prices","Editar precios por volumen"

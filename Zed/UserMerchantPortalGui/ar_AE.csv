@@ -1,0 +1,23 @@
+"My Account",حسابي
+"First name","الاسم الأول"
+"Last name","الاسم الأخير"
+E-mail,"البريد الإلكتروني"
+Language,اللغة
+Save,حفظ
+"Change password","تغيير كلمة المرور"
+"Success! The Account is updated.","تم تحديث الحساب بنجاح."
+"Please resolve all errors.","يرجى حل جميع الأخطاء."
+"This value should not be blank.","يجب ألا يكون هذا الحقل فارغ."
+"This value is not a valid email address.","هذا القيمة ليست عنوان بريد إلكتروني صالح."
+"A user with this email already exists.","يوجد مستخدم بالفعل بهذا البريد الإلكتروني."
+"Personal Details","تفاصيل شخصية"
+"Email *","البريد الإلكتروني *"
+Password,"كلمة المرور"
+"Current password","كلمة المرور الحالية"
+"New password","كلمة المرور الجديدة"
+"Repeat new password","تكرار كلمة المرور الجديدة"
+"Re-enter new password","إعادة إدخال كلمة المرور الجديدة"
+"The value is incorrect. Please try again.","القيمة غير صحيحة. يرجى المحاولة مرة أخرى."
+"The value needs to match the New Password input.","يجب أن يتطابق القيمة مع إدخال كلمة المرور الجديدة."
+"Success! The Password is updated.","نجاح! تم تحديث كلمة المرور."
+"The value cannot be empty","لا يمكن أن تكون القيمة فارغة."

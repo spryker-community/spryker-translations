@@ -1,0 +1,32 @@
+Activate,Activar
+"Add a Cms block","Agregar un bloque de CMS"
+"Add a Cms page","Agregar una página de CMS"
+"Add CMS Block","Agregar bloque de CMS"
+"Add CMS Page","Agregar página de CMS"
+"Add CMS Redirect","Agregar redirección de CMS"
+"Back to CMS","Volver a CMS"
+"CMS blocks","Bloques de CMS"
+Deactivate,Desactivar
+"Delete CMS Block","Eliminar bloque de CMS"
+"Delete CMS Page","Eliminar página de CMS"
+"Edit a Cms Block","Editar un bloque de CMS"
+"Edit a Cms page","Editar una página de CMS"
+"From Url","Desde URL"
+"ID redirect URL is not set.","El ID de la URL de redirección no está configurado."
+Loading...,Cargando...
+"New template(s) detected and added to the template list.","Se detectaron y agregaron nuevos templates a la lista de templates."
+"Redirect status code","Código de estado de redirección"
+"Redirect was created successfully.","La redirección se creó correctamente."
+"Redirect was deleted successfully.","La redirección se eliminó correctamente."
+"Redirect was updated successfully.","La redirección se actualizó correctamente."
+Redirects,Redirecciones
+Save,Guardar
+"Save All","Guardar todo"
+"To Url","Hacia URL"
+"URL is already used.","La URL ya está en uso."
+"URL must start with a slash","La URL debe comenzar con una barra diagonal"
+"Create new CMS Redirect","Crear nueva redirección de CMS"
+"Please select","Por favor, seleccionar"
+"Edit CMS Redirect","Editar redirección de CMS"
+"URL's second character cannot be slash","El segundo carácter de la URL no puede ser una barra diagonal"
+"URL cannot contain backslash sign, you can use '%5C' instead","La URL no puede contener una barra invertida, puedes usar '%5C' en su lugar"

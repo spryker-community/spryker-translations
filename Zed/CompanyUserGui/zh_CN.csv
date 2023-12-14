@@ -1,0 +1,41 @@
+"Attach customer to company",将客户分配给公司
+"Business Unit",业务单元
+"Company user deletion confirmation",公司用户删除确认
+"Company Users",公司用户
+"Create Company User",创建公司用户
+"Customer Access",客户访问
+"Customer with id `%s` does not exist",ID为`%s`的客户不存在
+E-Mail,电子邮件
+Email,电子邮件
+"Edit Company User",编辑公司用户
+"List of Company Users",公司用户列表
+"Overview of Company Users",公司用户概述
+"User ID",用户ID
+"Business Unit name",业务单元名称
+"Attach ""%customer%""","附加""%customer%"""
+Disable,禁用
+"Company user successfully disabled",公司用户已成功禁用
+"Company user successfully enabled",公司用户已成功启用
+Disabled,已禁用
+Enabled,已启用
+Enable,启用
+"User Name",用户名
+"Attach to BU",附加到业务单元
+"Company user has been created.",公司用户已创建
+"Company User Name",公司用户名
+Company,公司
+"Company name",公司名称
+"Select company",选择公司
+Mr,先生
+Mrs,女士
+Ms,女士
+Dr,博士
+"Company Name",公司名称
+Salutation,称谓
+"Select one",选择一个
+"First Name",名字
+"Last Name",姓氏
+Gender,性别
+"Send password token through email",通过电子邮件发送密码令牌
+Phone,电话
+"Date of birth",出生日期

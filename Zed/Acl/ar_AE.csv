@@ -1,0 +1,62 @@
+Action,العمل
+"Add Group","إضافة مجموعة"
+"Add new Role","إضافة دور جديد"
+"Add Rule","إضافة قاعدة"
+"Assigned groups","المجموعات المعينة"
+"Assigned Roles","الأدوار المعينة"
+"Assigned Rules","القواعد المعينة"
+Bundle,حزمة
+Controller,تحكم
+"Could not modify root role node!","غير مسموح لك بتعديل الدور الجذر."
+Create,إنشاء
+"Create Group","إنشاء مجموعة"
+"Create new Role","إنشاء دور جديد"
+"Create Role","إنشاء دور"
+"Current password","كلمة المرور الحالية"
+"Edit Group","تحرير المجموعة"
+"Failed to add Rule.","فشل في إضافة القاعدة."
+"Failed to remove rule","فشل في إزالة القاعدة"
+"Group couldn't be found","تعذر العثور على المجموعة"
+"Group name already in use","اسم المجموعة مستخدم بالفعل"
+"Group was created successfully.","تم إنشاء المجموعة بنجاح."
+"Group was updated successfully.","تم تحديث المجموعة بنجاح."
+"Interface language","لغة الواجهة"
+"List Groups","قائمة المجموعات"
+"List Roles","قائمة الأدوار"
+"Missing role id!","مفقود معرف الدور!"
+"Missing rule id!","مفقود معرف القاعدة!"
+"No roles","لا توجد أدوار"
+Permission,إذن
+Role,دور
+"Role ""%s"" successfully added.","تمت إضافة الدور ""%s"" بنجاح."
+"Role ""%s"" successfully updated.","تم تحديث الدور ""%s"" بنجاح."
+"Role couldn't be found","تعذر العثور على الدور"
+"Role list","قائمة الأدوار"
+"Role name","اسم الدور"
+"Role was successfully removed.","تمت إزالة الدور بنجاح."
+Roles,الأدوار
+roles,الأدوار
+"Root group","المجموعة الجذر"
+Rule,قاعدة
+"Rule successfully added.","تمت إضافة القاعدة بنجاح."
+Save,حفظ
+"Select value","اختر قيمة"
+"The password fields must match.","يجب أن تتطابق حقول كلمة المرور."
+"The User was removed from the group.","تمت إزالة المستخدم من المجموعة."
+"This action requires a DELETE request.","هذا الإجراء يتطلب طلب DELETE."
+"This user is an agent","هذا المستخدم هو وكيل"
+"Unable to delete because role has groups assigned.","غير قادر على الحذف لأن الدور لديه مجموعات معينة."
+"Update ""%s"" Role","تحديث الدور ""%s"""
+"User and group are not found.","لم يتم العثور على المستخدم والمجموعة."
+"User was activated successfully.","تم تنشيط المستخدم بنجاح."
+"User was deactivated successfully.","تم إلغاء تنشيط المستخدم بنجاح."
+"User was deleted successfully.","تم حذف المستخدم بنجاح."
+"User was updated successfully.","تم تحديث المستخدم بنجاح."
+Users,المستخدمون
+"Users Control","التحكم في المستخدمين"
+Groups,المجموعات
+allow,السماح
+deny,الرفض
+"Edit Role","تحرير الدور"
+"Created At","تم الإنشاء في"
+"Create new Group","إنشاء مجموعة جديدة"

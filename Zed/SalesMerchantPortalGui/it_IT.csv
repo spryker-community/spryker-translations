@@ -1,0 +1,61 @@
+Created,Creato
+Customer,Cliente
+Email,Email
+"Grand Total",Totale
+"Order State","Stato dell'ordine"
+"Merchant Reference","Riferimento del commerciante"
+"No. of Items","Numero di articoli"
+Orders,Ordini
+Reference,Riferimento
+Search,Cerca
+States,Stati
+Store,Negozio
+Stores,Negozi
+Details,Dettagli
+Order,Ordine
+"Order date","Data dell'ordine"
+"Number of products","Numero di prodotti"
+Items,Articoli
+Shipments,Spedizioni
+Subtotal,Subtotale
+Shipment,Spedizione
+"Included Taxes","Tasse incluse"
+"Client name","Nome del cliente"
+"Client email","Email del cliente"
+"Total orders","Totale ordini"
+Overview,Panoramica
+Totals,Totali
+"From the last %daysNumber% days","Dai %daysNumber% giorni scorsi"
+"Manage Orders","Gestisci ordini"
+New,Nuovo
+"Per Store","Per negozio"
+"The state is updated successfully.","Lo stato è stato aggiornato con successo."
+"Only matching states items will be updated.","Solo gli articoli corrispondenti agli stati verranno aggiornati."
+"Order's Items state","Stato degli articoli dell'ordine"
+"Merchant order not found for id %d.","Ordine del commerciante non trovato per l'id %d."
+"Event name is empty.","Il nome dell'evento è vuoto."
+"Merchant order ids are empty.","Gli id degli ordini del commerciante sono vuoti."
+Method,Metodo
+Carrier,Corriere
+"Delivery address","Indirizzo di consegna"
+"Requested Date","Data richiesta"
+SKU,SKU
+Image,Immagine
+Name,Nome
+Quantity,Quantità
+State,Stato
+"There are no applicable actions for the selected items.","Non ci sono azioni applicabili per gli elementi selezionati."
+"Shipment %index% of %total%","Spedizione %index% di %total%"
+"Canceled Amount","Importo annullato"
+"Discount Amount","Importo scontato"
+"Canceled By Merchant","Annullato dal commerciante"
+Shipped,Spedito
+Delivered,Consegnato
+initiate,Inizializza
+ship,Spedisci
+deliver,Consegna
+close,Chiudi
+"cancel by merchant","Annulla dal commerciante"
+"merchant split pending","Divisione in sospeso del commerciante"
+"sent to merchant","Inviato al commerciante"
+"shipped by merchant","Spedito dal commerciante"

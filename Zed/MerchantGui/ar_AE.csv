@@ -1,0 +1,43 @@
+"Add Merchant","إضافة تاجر"
+approved,"تمت الموافقة عليه"
+approved_button,"الموافقة على الوصول"
+"Back to Merchants","العودة إلى التجار"
+"Contact person first name","اسم الشخص المسؤول الأول"
+"Contact person last name","اسم الشخص المسؤول الأخير"
+"Contact person phone","هاتف الشخص المسؤول"
+"Contact person title","لقب الشخص المسؤول"
+denied,مرفوض
+denied_button,"رفض الوصول"
+E-Mail,"البريد الإلكتروني"
+"Edit Merchant","تعديل التاجر"
+"Edit Merchant:","تعديل التاجر:"
+Email,"البريد الإلكتروني"
+General,عام
+"List of Merchants","قائمة التجار"
+"Merchant created successfully.","تم إنشاء التاجر بنجاح."
+"Merchant deleted successfully.","تم حذف التاجر بنجاح."
+"Merchant has not been created.","لم يتم إنشاء التاجر."
+"Merchant Id","معرف التاجر"
+"Merchant is not found.","التاجر غير موجود."
+"Merchant reference is already used.","تم استخدام مرجع التاجر بالفعل."
+"Merchant updated successfully.","تم تحديث التاجر بنجاح."
+"Merchant with id %s doesn't exists.","التاجر بالمعرف %s غير موجود."
+merchant_gui.error_wrong_params,"لا يمكن تحديث الحالة."
+merchant_gui.success_merchant_status_update,"تم تحديث الحالة."
+Name,الاسم
+"Overview of Merchants","نظرة عامة على التجار"
+"Registration number","رقم التسجيل"
+Save,حفظ
+"Is Active",مفعل
+Active,نشط
+Inactive,"غير نشط"
+Activate,تفعيل
+Deactivate,"إلغاء التفعيل"
+merchant.activated,"تم تفعيل ملف التاجر بنجاح."
+merchant.deactivated,"تم إلغاء تفعيل ملف التاجر بنجاح."
+Stores,المتاجر
+"Merchant Reference","مرجع التاجر"
+"Merchant URL","رابط التاجر"
+"Create Merchant","إنشاء تاجر"
+Approval,الموافقة
+Status,الحالة

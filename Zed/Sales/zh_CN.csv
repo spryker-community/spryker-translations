@@ -1,0 +1,105 @@
+"<1d | 1d-7d | >7d","<1d | 1d-7d | >7d"
+"Address successfully updated.",地址成功更新。
+Addresses,地址
+"All orders of the customer",客户的所有订单
+"Back to Orders",返回订单
+"Canceled amount",取消金额
+"Cart Notes",购物车备注
+Comments,评论
+"Customer Full Name ",客户全名
+"Customer Full Name",客户全名
+"Customer successfully updated.",客户成功更新。
+Discount,折扣
+"GRAND TOTAL",总计
+"Grand Total",总计
+"Hide history",隐藏历史
+"incl. %tax_amount% % tax","含 %tax_amount% % 税"
+"Included tax amount",包含的税额
+"Item total",商品总计
+Items,商品
+Legend,图例
+"List of orders",订单列表
+Matrix,矩阵
+Note,备注
+"Number of Items",商品数量
+Option,选项
+"Order Matrix",订单矩阵
+"Order Source",订单来源
+"Order State",订单状态
+Orders,订单
+"Overview of Order Matrix",订单矩阵概览
+"Overview of Orders",订单概览
+Payments,支付
+Product,产品
+Quantity,数量
+Sales,销售
+Save,保存
+"Send Message",发送消息
+Shipment,发货
+"Show history",显示历史
+"Show less",显示更少
+"Show more",显示更多
+Sku,SKU
+State,状态
+"Sub total",小计
+Subtotal,小计
+Totals,总计
+"Trigger all matching states",触发所有匹配的状态
+"Trigger event",触发事件
+"Unique Product Quantity",唯一产品数量
+"Unit Price",单价
+"Variant Details",变体详情
+"View Order",查看订单
+"View Order:",查看订单:
+"Remuneration total",总报酬
+"Trigger all matching states inside this order",触发此订单中的所有匹配状态
+"Previous orders count",以前的订单数量
+Name,姓名
+E-mail,电子邮件
+"Order date",订单日期
+Refunds,退款
+"Discounts & Vouchers",折扣和优惠券
+"Order Items",订单商品
+Reference,参考
+"Order Overview",订单概览
+"Total taxes",总税费
+Reclamations,索赔
+Claim,索赔
+"payment pending",待付款
+exported,已导出
+shipped,已发货
+delivered,已交付
+refunded,已退款
+closed,已关闭
+pay,支付
+ship,发货
+stock-update,库存更新
+close,关闭
+refund,退款
+execute-return,执行退货
+cancel-return,取消退货
+ship-return,将退货发送给客户
+delivery-return,将退货送回给客户
+cancel,取消
+"skip timeout",跳过超时
+"Refund total",全额退款
+"Comment successfully added",评论成功添加。
+"Address Details",地址详细信息
+"Middle name",中间名
+"Po box",邮政信箱
+"Zip code",邮政编码
+Address1,地址1
+Address2,地址2
+"Cell phone",手机号码
+"Edit Address for Order: %idSalesOrder%",编辑订单地址：%idSalesOrder%
+new,新建
+cancelled,已取消
+paid,已付款
+waiting,等待中
+confirmed,已确认
+returned,已退回
+"invoice generated",已生成发票
+"waiting for return",等待退货
+"return canceled",退货已取消
+"shipped to customer",已发货给客户
+invoice-generate,生成发票

@@ -1,0 +1,43 @@
+"Add Merchant","Ajouter un marchand"
+approved,Approuvé
+approved_button,"Approuver l'accès"
+"Back to Merchants","Retour aux marchands"
+"Contact person first name","Prénom de la personne à contacter"
+"Contact person last name","Nom de famille de la personne à contacter"
+"Contact person phone","Téléphone de la personne à contacter"
+"Contact person title","Titre de la personne à contacter"
+denied,Refusé
+denied_button,"Refuser l'accès"
+E-Mail,E-mail
+"Edit Merchant","Modifier le marchand"
+"Edit Merchant:","Modifier le marchand:"
+Email,Email
+General,Général
+"List of Merchants","Liste des marchands"
+"Merchant created successfully.","Marchand créé avec succès."
+"Merchant deleted successfully.","Marchand supprimé avec succès."
+"Merchant has not been created.","Le marchand n'a pas été créé."
+"Merchant Id","Identifiant du marchand"
+"Merchant is not found.","Le marchand est introuvable."
+"Merchant reference is already used.","La référence du marchand est déjà utilisée."
+"Merchant updated successfully.","Marchand mis à jour avec succès."
+"Merchant with id %s doesn't exists.","Le marchand avec l'identifiant %s n'existe pas."
+merchant_gui.error_wrong_params,"Le statut ne peut pas être mis à jour."
+merchant_gui.success_merchant_status_update,"Le statut a été mis à jour."
+Name,Nom
+"Overview of Merchants","Aperçu des marchands"
+"Registration number","Numéro d'enregistrement"
+Save,Enregistrer
+"Is Active","Est actif"
+Active,Actif
+Inactive,Inactif
+Activate,Activer
+Deactivate,Désactiver
+merchant.activated,"Profil du marchand activé avec succès."
+merchant.deactivated,"Profil du marchand désactivé avec succès."
+Stores,Magasins
+"Merchant Reference","Référence du marchand"
+"Merchant URL","URL du marchand"
+"Create Merchant","Créer un marchand"
+Approval,Approbation
+Status,Statut

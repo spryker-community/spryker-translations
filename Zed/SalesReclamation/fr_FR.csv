@@ -1,0 +1,37 @@
+"Back to Orders","Retour aux commandes"
+"Back to Reclamatinos","Retour aux réclamations"
+"Can not create reclamation","Impossible de créer une réclamation"
+"Canceled amount","Montant annulé"
+"Create connected order","Créer une commande connectée"
+"Create reclamation","Créer une réclamation"
+Created,Créé
+Discount,Remise
+"GRAND TOTAL","Total général"
+"Included tax amount","Montant de taxe inclus"
+"Item total","Total des articles"
+"List of Reclamations","Liste des réclamations"
+"No order items provided","Aucun article de commande fourni"
+"No reclamation with given id %s","Aucune réclamation avec l'identifiant donné %s"
+Option,Option
+Order,Commande
+"Order id","Identifiant de commande"
+"OrderItem with id %s not belong to order %s","L'article de commande avec l'identifiant %s n'appartient pas à la commande %s"
+"Overview of reclamation:","Aperçu de la réclamation :"
+"Overview of reclamations","Aperçu des réclamations"
+Product,Produit
+"Reclamation id:%s for order %s sucessfully created","Réclamation avec l'identifiant %s pour la commande %s créée avec succès"
+"Reclamation item refunded","Article de réclamation remboursé"
+"Reclamation item with id %s not exists","L'article de réclamation avec l'identifiant %s n'existe pas"
+"Reclamation state","État de la réclamation"
+"Reclamation with id %s closed","Réclamation avec l'identifiant %s fermée"
+"Reclamation with id %s not exists","Réclamation avec l'identifiant %s n'existe pas"
+"Reclamation with id %s not own this item %s","La réclamation avec l'identifiant %s ne possède pas cet article %s"
+Shipment,Expédition
+"Show less","Afficher moins"
+"Show more","Afficher plus"
+Sku,SKU
+State,État
+"Sub total",Sous-total
+Total,Total
+"Unit Price","Prix unitaire"
+"Variant Details","Détails de la variante"

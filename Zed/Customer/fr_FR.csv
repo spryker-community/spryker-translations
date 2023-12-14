@@ -1,0 +1,59 @@
+"Add Customer","Ajouter un client"
+"Add new Address","Ajouter une nouvelle adresse"
+"Address Line 1","Ligne d'adresse 1"
+"Address Line 2","Ligne d'adresse 2"
+"Address Line 3","Ligne d'adresse 3"
+Back,Retour
+"Back to Customer View","Retour à la vue client"
+"Back to Customers","Retour aux clients"
+"Back to Manage Addresses","Retour à la gestion des adresses"
+City,Ville
+Company,Entreprise
+Country,Pays
+Customers,Clients
+"Customer deletion confirmation","Confirmation de suppression du client"
+"Customer does not exist","Le client n'existe pas"
+"Customer Reference","Référence client"
+"Customer successfully deleted","Suppression du client effectuée avec succès"
+"Customer was created successfully.","Le client a été créé avec succès."
+"Customer was not created.","Le client n'a pas été créé."
+"Customer was not updated.","Le client n'a pas été mis à jour."
+"Customer was updated successfully.","Le client a été mis à jour avec succès."
+"Customer with id `%s` does not exist","Le client avec l'identifiant `%s` n'existe pas"
+"Date of birth","Date de naissance"
+Delete,Supprimer
+"Delete account","Supprimer le compte"
+"Edit Address","Modifier l'adresse"
+"Edit Customer","Modifier le client"
+Email,Email
+"First Name",Prénom
+"First name",Prénom
+"Form was not submitted.","Le formulaire n'a pas été soumis."
+Gender,Genre
+"Last name","Nom de famille"
+"List Customers","Liste des clients"
+Locale,Langue
+Phone,Téléphone
+"Registered at","Enregistré le"
+Salutation,Salutation
+Save,Enregistrer
+"Select one","Sélectionner un"
+"Send password token through email","Envoyer le jeton de mot de passe par e-mail"
+View,Voir
+"View Customer","Voir le client"
+"Zed Account Reference","Référence du compte Zed"
+ZipCode,"Code postal"
+"Registration Date","Date d'inscription"
+"Billing Address","Adresse de facturation"
+"Shipping Address","Adresse de livraison"
+"Attach to company","Joindre à l'entreprise"
+"Add a customer","Ajouter un client"
+"Comment successfully added","Commentaire ajouté avec succès."
+"Address (2nd line)","Adresse (2ème ligne)"
+"Address (3rd line)","Adresse (3ème ligne)"
+"Last Name","Nom de famille"
+"Zip Code","Code postal"
+Actions,Actions
+Status,Statut
+Comment,Commentaire
+Store,Magasin

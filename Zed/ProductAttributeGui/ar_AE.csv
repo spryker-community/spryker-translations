@@ -1,0 +1,55 @@
+"1. General Information","1. معلومات عامة"
+"2. Translations","2. الترجمات"
+Add,Add
+"Add Attribute","Add Attribute"
+"Allow input any value other than predefined ones","Allow input any value other than predefined ones"
+"Attribute ID","Attribute ID"
+"Attribute key","Attribute Key"
+"Attribute Key","Attribute Key"
+"Attribute list","Attribute list"
+"Attribute name translation","Attribute name translation"
+"Attributes and their values are used by the backoffice application. They are unique and cannot contain special characters.","تستخدم السمات وقيمها في تطبيق الإدارة الخلفية. إنها فريدة ولا يمكن أن تحتوي على أحرف خاصة."
+Back,العودة
+"Back to List","العودة إلى القائمة"
+"Back to Product Abstract","العودة إلى الملخص المنتج"
+"Back to Product List","العودة إلى قائمة المنتجات"
+"Create a Product Attribute","إنشاء سمة المنتج"
+"Create Product Attribute","إنشاء سمة المنتج"
+date,تاريخ
+datetime,"تاريخ ووقت"
+Edit,تحرير
+"Edit Product","تعديل المنتج"
+"Edit Product Abstract","تعديل ملخص المنتج"
+float,float
+"General Information","معلومات عامة"
+"Input type","نوع الإدخال"
+"Manage Attributes for Product","إدارة السمات للمنتج"
+"Manage Attributes for Product Abstract","إدارة السمات لملخص المنتج"
+number,number
+"Predefined value translations","ترجمات القيم المحددة مسبقًا"
+"Predefined values","القيم المحددة مسبقًا"
+"Product Abstract Attributes Management","إدارة سمات المنتج المجردة"
+"Product abstract attributes saved","تم حفظ سمات المنتج المجردة"
+"Product attribute was created successfully.","تم إنشاء سمة المنتج بنجاح."
+"Product attribute was not created.","لم يتم إنشاء سمة المنتج."
+"Product attribute was updated successfully.","تم تحديث سمة المنتج بنجاح."
+"Product Attributes","سمات المنتج"
+"Product Attributes Management","إدارة سمات المنتج"
+"Product attributes saved","تم حفظ سمات المنتج"
+Save,حفظ
+select,اختر
+"Super attribute","سوبر السمة"
+text,نص
+textarea,"مربع نص"
+time,الوقت
+"Translate predefined values","ترجمة القيم المحددة مسبقا"
+"Translation was updated successfully.","تم تحديث الترجمة بنجاح."
+"Type first three letters of an existing attribute key for suggestions.","اكتب أول ثلاثة أحرف من مفتاح السمة الموجود للحصول على اقتراحات."
+Values,القيم
+"View Attribute","عرض السمة"
+"You can add new values by pressing ""Enter"" after each element","يمكنك إضافة قيم جديدة عن طريق الضغط على ""Enter"" بعد كل عنصر"
+Remove,إزالة
+"Edit Product Attribute","تعديل سمة المنتج"
+"Edit Attribute Translations","تعديل ترجمات السمة"
+"Predefined Values","القيم المحددة مسبقًا"
+"Please select attribute key first","يرجى تحديد مفتاح السمة أولاً."

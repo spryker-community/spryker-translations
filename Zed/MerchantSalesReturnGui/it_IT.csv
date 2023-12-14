@@ -1,0 +1,15 @@
+"General information","Informazioni generali"
+"Order reference","Riferimento ordine"
+"Select Items to Return","Seleziona articoli da restituire"
+"You can only return products from one merchant at a time.","Puoi restituire solo prodotti di un singolo venditore alla volta."
+"Merchant Order %row% of %length%","Ordine del venditore %row% di %length%"
+"Fullfilled by merchant","Fornito dal venditore"
+"Merchant Order Reference","Riferimento ordine del venditore"
+Product,Prodotto
+Quantity,Quantità
+Price,Prezzo
+Total,Totale
+"Return policy","Politica di reso"
+State,Stato
+"Select reason","Seleziona motivo"
+"Create return","Crea reso"

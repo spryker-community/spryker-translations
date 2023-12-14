@@ -1,0 +1,58 @@
+Return,退货
+"Return Reference",退货参考
+Items,商品
+Actions,操作
+View,查看
+"Return ID",退货ID
+"Order Reference",订单参考
+"Returned Items",退货商品
+"Return Date",退货日期
+"Print Slip",打印单据
+"List of Returns",退货列表
+Returns,退货
+"Return Ref",退货参考
+Barcode,条形码
+"Product SKU",产品SKU
+"Product Name",产品名称
+"Default Price",默认价格
+Qty,数量
+"Total Price",总价
+"Return Reason",退货原因
+Reason,原因
+"Order Ref",订单参考
+"Return with id ""%id%"" was not found.","未找到ID为""%id%""的退货。"
+"Items to Return",待退货商品
+"Remuneration Total",赔偿总额
+"Remuneration total",赔偿总额
+"Custom reason",自定义原因
+"Select reason",选择原因
+"Return has not been created.",未创建退货。
+"Order with id ""%id%"" was not found.","未找到ID为""%id%""的订单。"
+"Return was successfully created.",退货创建成功。
+"Create Return",创建退货
+"Back to Order",返回订单
+"General information",基本信息
+"Order reference",订单参考
+"Select Items to Return",选择待退货商品
+Product,产品
+Quantity,数量
+Price,价格
+"Item total",商品总计
+"Return Policy",退货政策
+State,状态
+"Create return",创建退货
+"Requested return with ID ""%id%"" was not found.","未找到ID为""%id%""的请求退货。"
+"Customer reference",客户参考
+Customer,客户
+Name,姓名
+Email,电子邮件
+"Retured Items",退货商品
+"Trigger all matching states",触发所有匹配的状态
+Total,总计
+"Back to Returns",返回退货
+"Print Return Slip",打印退货单
+"Overview of Return",退货概览
+"selected items",已选择的商品
+of,的
+"Item selected for return is not eligible for return anymore.",选择的商品不再符合退货条件。
+"Returned Products",退货产品

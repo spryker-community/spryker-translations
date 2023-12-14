@@ -1,0 +1,48 @@
+Activate,Activer
+"Add option","Ajouter une option"
+"All products","Tous les produits"
+"Assigned products","Produits assignés"
+"Could not activate option.","Impossible d'activer l'option."
+"Create a product option by defining option values with translation key, sku and price. By adding more than 1 option value below, you will create an option group. With an option group your customer can choose one option from this group.","Créez une option de produit en définissant les valeurs d'option avec une clé de traduction, un SKU et un prix. En ajoutant plus d'une valeur d'option ci-dessous, vous créerez un groupe d'options. Avec un groupe d'options, votre client pourra choisir une option de ce groupe."
+"Create product option","Créer une option de produit"
+"Created at","Créé le"
+Deactivate,Désactiver
+"Deselect all on the page","Désélectionner tout sur la page"
+Edit,Modifier
+"Edit product option","Modifier l'option de produit"
+"General information","Informations générales"
+"Gross Price","Prix brut"
+"Group name","Nom du groupe"
+"Group name translation key","Clé de traduction du nom du groupe"
+ID,ID
+"List of product options","Liste des options de produit"
+Name,Nom
+"Net Price","Prix net"
+"Option group ID","ID du groupe d'options"
+"Option name","Nom de l'option"
+"Option name translation key","Clé de traduction du nom de l'option"
+"Option successfully activated.","Option activée avec succès."
+"Option successfully deactivated.","Option désactivée avec succès."
+"Option Values","Valeurs d'option"
+"Product option group created.","Groupe d'options de produit créé."
+"Product option group modified.","Groupe d'options de produit modifié."
+"Product option list","Liste des options de produit"
+"Product Options","Options de produit"
+Products,Produits
+"Products to be assigned","Produits à assigner"
+"Products to be deassigned","Produits à désassigner"
+"Products with this option","Produits avec cette option"
+Save,Enregistrer
+"Select all on the page","Sélectionner tout sur la page"
+Selected,Sélectionné
+SKU,SKU
+Sku,SKU
+"Tax set","Ensemble de taxes"
+Translation,Traduction
+"Translation key","Clé de traduction"
+"Updated at","Mis à jour le"
+"View product option","Voir l'option du produit"
+Active,Actif
+Inactive,Inactif
+"product.option.group.name.(your key)","product.option.group.name.(votre clé)"
+"product.option.(your key)","product.option.(votre clé)"

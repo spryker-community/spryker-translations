@@ -1,0 +1,67 @@
+Parent,父级
+Yes,是
+No,否
+"Re-sort child categories",重新排序子类别
+"Add category to this node",将类别添加到此节点
+"Edit Category",编辑类别
+"Allow to search for this category",允许搜索此类别
+"CMS Blocks:top",CMS块：顶部
+"CMS Blocks:middle",CMS块：中部
+"CMS Blocks:bottom",CMS块：底部
+"Category key",类别键
+"-Select value-",-选择值-
+Active,活动
+"Add Category to this Node",将类别添加到此节点
+"Additional Parents",附加父级
+"Allow to search for this category:",允许搜索此类别：
+"Assign products",分配产品
+"Assign Products to this Category",将产品分配给此类别
+Category,类别
+"Category Key",类别键
+"Category key:",类别键：
+"Category nodes successfully re-sorted.",类别节点成功重新排序。
+"Category nodes successfully reordered.",类别节点成功重新排序。
+"Category status",类别状态
+"Category template",类别模板
+"Category with id %s doesn't exist",ID为%s的类别不存在
+Create,创建
+"Create category",创建类别
+"Create Category",创建类别
+Delete,删除
+"Delete category",删除类别
+Edit,编辑
+"Edit category",编辑类别
+"In Menu",在菜单中
+Inactive,不活动
+"List Categories",类别列表
+"List of categories",类别列表
+no,否
+"Not in Menu",不在菜单中
+"Please make sure required fields are properly filled in",请确保必填字段填写正确
+"Re-sort Child Categories",重新排序子类别
+"Re-sort child-categories",重新排序子类别
+"Root nodes list",根节点列表
+Save,保存
+"Save Order",保存顺序
+Searchable,可搜索
+"The category was added successfully.",类别已成功添加。
+"The category was saved successfully.",类别已成功保存。
+"The category was updated successfully.",类别已成功更新。
+"The category was deleted successfully.",类别已成功删除。
+Translations,翻译
+View,查看
+"View category",查看类别
+Visible,可见
+"Visible in the category tree",在类别树中可见
+"Visible in the category tree:",在类别树中可见：
+yes,是
+"Yes, I am sure",是的，我确定
+"View Category",查看类别
+"CSRF token is not valid.",CSRF令牌无效。
+General,常规
+Template,模板
+Settings,设置
+"The root category cannot be deleted.",无法删除根类别。
+"Main category will be moved to",主类别将被移动到
+"Extra parent will be moved to",额外父类别将被移动到
+"Category nodes cannot be relocated.",无法重新定位类别节点。

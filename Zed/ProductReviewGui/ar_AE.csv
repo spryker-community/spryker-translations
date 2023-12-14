@@ -1,0 +1,15 @@
+Approve,موافقة
+"Change status","تغيير الحالة"
+"List of product reviews","قائمة تقييمات المنتج"
+Nickname,"اسم مستعار"
+"Overview of Product Reviews","نظرة عامة على تقييمات المنتج"
+"Product Reviews","تقييمات المنتج"
+Reject,رفض
+Pending,"قيد الانتظار"
+Rejected,مرفوض
+"Product Review #%id% deleted successfully.","تم حذف تقييم المنتج #%id% بنجاح."
+Date,تاريخ
+"Product name","اسم المنتج"
+Rating,تقييم
+"CSRF token is not valid.","CSRF token is not valid."
+Guest,زائر

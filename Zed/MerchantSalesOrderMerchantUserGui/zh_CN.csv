@@ -1,0 +1,59 @@
+"Overview of Orders",订单概述
+"List of Orders",订单列表
+"My Orders",我的订单
+"Order Reference",订单参考
+"Marketplace Order Reference",市场订单参考
+Created,创建日期
+Customer,顾客
+Email,电子邮件
+"Order State",订单状态
+"Grand Total",总金额
+"Number of items",商品数量
+Actions,操作
+View,查看
+"Merchant Order Overview",商家订单概述
+Reference,参考
+Name,名称
+"Previous orders count",之前的订单数量
+"Billing address",账单地址
+"Merchant Order Reference",商家订单参考
+"Order date",订单日期
+Totals,总计
+Option,选项
+Subtotal,小计
+Discount,折扣
+"Cancelled amount",取消金额
+"GRAND TOTAL",总金额
+"Total taxes",总税费
+"Remuneration total",酬金总额
+"Merchant order doesn't exist.",商家订单不存在。
+Shipment,发货
+of,的
+"Delivery Address",送货地址
+"Delivery Method",送货方式
+"Shipping Method",运输方式
+"Shipping Costs",运费
+"Request delivery date",要求送货日期
+"Trigger all matching states of order inside this shipment",触发此发货中订单的所有匹配状态
+"Merchant Order Items",商家订单商品
+Product,产品
+Quantity,数量
+"Unit Price",单价
+"Item total",商品总计
+State,状态
+"Trigger event",触发事件
+"Variant Details",变体详情
+"Show less",显示更少
+"Show more",显示更多
+"incl. %tax_amount% % tax","含 %tax_amount% % 税"
+"Show history",显示历史记录
+"Hide history",隐藏历史记录
+Sku,SKU
+"Shipment has been successfully created.",已成功创建发货
+"Shipment has not been created.",未成功创建发货
+"Merchant sales order #%d not found.","商家销售订单 #%d 未找到"
+"Shipment has been successfully updated.",已成功更新发货
+"Shipment has not been updated.",未成功更新发货
+"Shipment #%d not found.","发货 #%d 未找到"
+"New Shipment for Order: %idMerchantSalesOrder%",订单的新发货：%idMerchantSalesOrder%
+"Back to Orders",返回订单

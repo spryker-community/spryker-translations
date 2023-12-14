@@ -1,0 +1,15 @@
+Approve,Goedkeuren
+"Change status","Status wijzigen"
+"List of product reviews","Lijst met productbeoordelingen"
+Nickname,Bijnaam
+"Overview of Product Reviews","Overzicht van productbeoordelingen"
+"Product Reviews",Productbeoordelingen
+Reject,Afkeuren
+Pending,"In behandeling"
+Rejected,Afgewezen
+"Product Review #%id% deleted successfully.","Productbeoordeling #%id% succesvol verwijderd."
+Date,Datum
+"Product name",Productnaam
+Rating,Beoordeling
+"CSRF token is not valid.","CSRF-token is niet geldig."
+Guest,Gast

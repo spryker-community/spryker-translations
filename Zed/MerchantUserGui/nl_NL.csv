@@ -1,0 +1,26 @@
+"Add Merchant User","Voeg handelaarsgebruiker toe"
+Back,Terug
+"Back to Merchant Users","Terug naar handelaarsgebruikers"
+Deactivate,Deactiveren
+Deactivated,Gedeactiveerd
+Delete,Verwijderen
+Deleted,Verwijderd
+Create,Creëren
+"It will be deleted from everywhere","Het zal overal worden verwijderd"
+"Merchant user ID is incorrect.","Handelaarsgebruikers-ID is onjuist."
+"Merchant user was deleted successfully.","Handelaarsgebruiker is succesvol verwijderd."
+"Merchant user was not deleted.","Handelaarsgebruiker is niet verwijderd."
+"No users can be added till the merchant has been created. Please, add the required merchant information and save it.","Er kunnen geen gebruikers worden toegevoegd totdat de handelaar is aangemaakt. Voeg alstublieft de vereiste handelaarsinformatie toe en sla deze op."
+Save,Opslaan
+"User status can't be updated.","De status van de gebruiker kan niet worden bijgewerkt."
+"User status has been updated.","De status van de gebruiker is bijgewerkt."
+Users,Gebruikers
+"You are trying to delete merchant user","U probeert een handelaarsgebruiker te verwijderen"
+"Merchant user was successfully created.","Handelaarsgebruiker is succesvol aangemaakt."
+Edit,Bewerken
+Activate,Activeren
+Active,Actief
+E-mail,E-mail
+Status,Status
+"Last Name",Achternaam
+"First Name",Voornaam

@@ -1,0 +1,18 @@
+"Active filters","Filtros ativos"
+Add,Adicionar
+"Category Filters for","Filtros de categoria para"
+"Category Id","ID de categoria"
+"Category tree","Árvore de categorias"
+"Filters for Category ""%s"" were updated successfully.","Os filtros para a categoria ""%s"" foram atualizados com sucesso."
+"Inactive filters","Filtros inativos"
+"Overview of Category Filters","Visão geral dos filtros de categoria"
+"Remove all","Remover todos"
+"Reset to global settings","Redefinir para configurações globais"
+"Root nodes list","Lista de nós raiz"
+Save,Salvar
+Search,Pesquisar
+"There are no manual filter preferences defined for this category. The filters listed below are global settings. To define manual references for this category, modify the filters below.","Não há preferências de filtro manual definidas para esta categoria. Os filtros listados abaixo são configurações globais. Para definir referências manuais para esta categoria, modifique os filtros abaixo."
+"Type first three letters of an existing filter key for suggestions.","Digite as três primeiras letras de uma chave de filtro existente para sugestões."
+"Filters for Category ""%s"" cannot be saved. Invalid filter(s) provided.","Os filtros para a categoria ""%s"" não podem ser salvos. Filtro(s) inválido(s) fornecido(s)."
+Submit,Enviar
+"Please select a store to see the category filters:","Por favor, selecione uma loja para ver os filtros de categoria."

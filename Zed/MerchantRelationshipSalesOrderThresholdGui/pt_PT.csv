@@ -1,0 +1,21 @@
+"Back to Merchant Relationship Thresholds","Voltar para os Limites de Relacionamento com o Comerciante"
+"Edit Merchant Relationship Threshold","Editar Limite de Relacionamento com o Comerciante"
+"Enter minimum order value","Inserir valor mínimo do pedido"
+"Hard Threshold","Limite Rígido"
+"Hard Maximum Threshold","Limite Máximo Rígido"
+"Merchant relationship name","Nome do Relacionamento com o Comerciante"
+"Merchant relationships","Relacionamentos com o Comerciante"
+Message,Mensagem
+Save,Salvar
+"Soft Threshold","Limite Flexível"
+"Soft Threshold with fixed fee","Limite Flexível com taxa fixa"
+"Soft Threshold with flexible fee","Limite Flexível com taxa variável"
+"Soft Threshold with message","Limite Flexível com mensagem"
+"Store and Currency","Loja e Moeda"
+"The Merchant Relationship Threshold is saved successfully.","O Limite de Relacionamento com o Comerciante foi salvo com sucesso."
+Thresholds,Limites
+Soft,Flexível
+Hard,Rígido
+"The Merchant Relationship Thresholds is saved successfully.","Os Limites de Relacionamento com o Comerciante foram salvos com sucesso."
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Você pode usar os marcadores <code>{{threshold}}</code> e <code>{{fee}}</code>"
+"BU name","Nome da BU"

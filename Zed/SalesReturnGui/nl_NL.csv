@@ -1,0 +1,58 @@
+Return,Retourneren
+"Return Reference",Retourreferentie
+Items,Artikelen
+Actions,Acties
+View,Bekijken
+"Return ID",Retour-ID
+"Order Reference",Bestelreferentie
+"Returned Items","Geretourneerde artikelen"
+"Return Date",Retourdatum
+"Print Slip",Printbon
+"List of Returns","Lijst met retouren"
+Returns,Retouren
+"Return Ref",Retourreferentie
+Barcode,Barcode
+"Product SKU","Product SKU"
+"Product Name",Productnaam
+"Default Price",Standaardprijs
+Qty,Aantal
+"Total Price",Totaalprijs
+"Return Reason",Retourreden
+Reason,Reden
+"Order Ref",Bestelreferentie
+"Return with id ""%id%"" was not found.","Retour met id ""%id%"" is niet gevonden."
+"Items to Return","Artikelen om te retourneren"
+"Remuneration Total","Totale vergoeding"
+"Remuneration total","Totale vergoeding"
+"Custom reason","Aangepaste reden"
+"Select reason","Selecteer reden"
+"Return has not been created.","Retour is niet aangemaakt."
+"Order with id ""%id%"" was not found.","Bestelling met id ""%id%"" is niet gevonden."
+"Return was successfully created.","Retour is succesvol aangemaakt."
+"Create Return","Retour aanmaken"
+"Back to Order","Terug naar bestelling"
+"General information","Algemene informatie"
+"Order reference",Bestelreferentie
+"Select Items to Return","Selecteer artikelen om te retourneren"
+Product,Product
+Quantity,Aantal
+Price,Prijs
+"Item total",Totaalbedrag
+"Return Policy",Retourbeleid
+State,Staat
+"Create return","Retour aanmaken"
+"Requested return with ID ""%id%"" was not found.","Aangevraagde retour met ID ""%id%"" is niet gevonden."
+"Customer reference",Klantreferentie
+Customer,Klant
+Name,Naam
+Email,E-mail
+"Retured Items","Geretourneerde items"
+"Trigger all matching states","Activeer alle overeenkomende staten"
+Total,Totaal
+"Back to Returns","Terug naar Retouren"
+"Print Return Slip","Retourbon afdrukken"
+"Overview of Return","Overzicht van retour"
+"selected items","geselecteerde items"
+of,van
+"Item selected for return is not eligible for return anymore.","Het geselecteerde item voor retour is niet meer retourneerbaar."
+"Returned Products","Geretourneerde producten"

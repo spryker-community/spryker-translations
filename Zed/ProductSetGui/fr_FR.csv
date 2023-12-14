@@ -1,0 +1,54 @@
+Activate,Activer
+Active,Actif
+"Add image","Ajouter une image"
+"Add image set","Ajouter un ensemble d'images"
+"Create Product Set","Créer un ensemble de produits"
+Deactivate,Désactiver
+Default,"Par défaut"
+"Delete image","Supprimer l'image"
+"Delete image set","Supprimer l'ensemble d'images"
+"Deselect All","Désélectionner tout"
+"Deselected products","Produits désélectionnés"
+Edit,Modifier
+ID,ID
+"Image Set","Ensemble d'images"
+"Image Set Name","Nom de l'ensemble d'images"
+Inactive,Inactif
+Keywords,Mots-clés
+"Large Image URL","URL de l'image en grand format"
+"List of Sets","Liste des ensembles"
+Name,Nom
+Position,Position
+Preview,Aperçu
+Price,Prix
+"Product details","Détails du produit"
+"Product Sets","Ensembles de produits"
+"Products in this Set","Produits dans cet ensemble"
+"Products to be assigned","Produits à attribuer"
+"Products to be deassigned","Produits à désattribuer"
+"Reorder Product Sets","Réorganiser les ensembles de produits"
+Save,Enregistrer
+"Select All","Sélectionner tout"
+"Select products to assign","Sélectionner les produits à attribuer"
+Selected,Sélectionné
+"Selected products","Produits sélectionnés"
+SEO,SEO
+SKU,SKU
+"Small Image URL","URL de l'image en petit format"
+Status,Statut
+Submit,Soumettre
+Title,Titre
+URL,Url
+View,Voir
+Weight,Poids
+"Weight defines sorting order. Product Sets with higher numbers listed first.","Le poids définit l'ordre de tri. Les ensembles de produits avec des nombres plus élevés sont répertoriés en premier."
+"Product Set Key","Clé de l'ensemble de produits"
+"You need to select a minimum of 2 products.","Vous devez sélectionner un minimum de 2 produits."
+Images,Images
+"View Product Set","Voir l'ensemble de produits"
+"Product Set ""%s"" created successfully.","L'ensemble de produits ""%s"" a été créé avec succès."
+"Product Set #%d activated successfully.","L'ensemble de produits n°%d a été activé avec succès."
+"Product Set #%d deactivated successfully.","L'ensemble de produits n°%d a été désactivé avec succès."
+"Product Set ""%s"" updated successfully.","L'ensemble de produits ""%s"" a été mis à jour avec succès."
+"Product Set #%d deleted successfully.","L'ensemble de produits n°%d a été supprimé avec succès."
+"Number of Products","Nombre de produits"

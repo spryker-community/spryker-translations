@@ -1,0 +1,41 @@
+"Attach customer to company","تعيين العميل للشركة"
+"Business Unit","وحدة الأعمال"
+"Company user deletion confirmation","تأكيد حذف مستخدم الشركة"
+"Company Users","مستخدمو الشركة"
+"Create Company User","إنشاء مستخدم الشركة"
+"Customer Access","وصول العميل"
+"Customer with id `%s` does not exist","العميل بالمعرف `%s` غير موجود"
+E-Mail,"البريد الإلكتروني"
+Email,"البريد الإلكتروني"
+"Edit Company User","تعديل مستخدم الشركة"
+"List of Company Users","قائمة مستخدمي الشركة"
+"Overview of Company Users","نظرة عامة على مستخدمي الشركة"
+"User ID","معرّف المستخدم"
+"Business Unit name","اسم وحدة الأعمال"
+"Attach ""%customer%""","إرفاق ""%customer%"""
+Disable,تعطيل
+"Company user successfully disabled","تم تعطيل مستخدم الشركة بنجاح"
+"Company user successfully enabled","تم تمكين مستخدم الشركة بنجاح"
+Disabled,معطل
+Enabled,ممكّن
+Enable,تمكين
+"User Name","اسم المستخدم"
+"Attach to BU","إرفاق بوحدة الأعمال"
+"Company user has been created.","تم إنشاء مستخدم الشركة."
+"Company User Name","اسم مستخدم الشركة"
+Company,شركة
+"Company name","اسم الشركة"
+"Select company","اختر الشركة"
+Mr,السيد
+Mrs,السيدة
+Ms,السيدة
+Dr,الدكتور
+"Company Name","اسم الشركة"
+Salutation,تحية
+"Select one","اختر واحداً"
+"First Name","الاسم الأول"
+"Last Name","الاسم الأخير"
+Gender,الجنس
+"Send password token through email","إرسال رمز كلمة المرور عبر البريد الإلكتروني"
+Phone,الهاتف
+"Date of birth","تاريخ الميلاد"

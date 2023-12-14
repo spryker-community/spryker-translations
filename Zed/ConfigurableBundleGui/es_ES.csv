@@ -1,0 +1,66 @@
+Actions,Acciones
+Activate,Activar
+Active,Activo
+"Add General Information","Agregar Información General"
+"Add Slot","Agregar Slot"
+"Are you sure you want to delete template","¿Estás seguro de que quieres eliminar la plantilla?"
+"Are you sure you want to delete this slot?","¿Estás seguro de que quieres eliminar este slot?"
+"At first create Configurable bundle Template, after that you will be redirected to the page where you can create slots, and define products per each of them.","Primero crea una plantilla de paquete configurable, luego serás redirigido a la página donde puedes crear slots y definir productos para cada uno de ellos."
+Back,Volver
+"Back to Template list","Volver a la lista de plantillas"
+"Below you can edit the name of your slot for different locales (in different languages).","A continuación puedes editar el nombre de tu slot para diferentes localidades (en diferentes idiomas)."
+Cancel,Cancelar
+"Configurable Bundle Template","Plantilla de Paquete Configurable"
+"Configurable bundle template has been successfully created.","La plantilla de paquete configurable se ha creado correctamente."
+"Configurable bundle template has been successfully deleted.","La plantilla de paquete configurable se ha eliminado correctamente."
+"Configurable bundle template has been successfully updated.","La plantilla de paquete configurable se ha actualizado correctamente."
+"Configurable bundle template has not been created.","La plantilla de paquete configurable no se ha creado."
+"Configurable bundle template has not been deleted.","La plantilla de paquete configurable no se ha eliminado."
+"Configurable bundle template has not been updated.","La plantilla de paquete configurable no se ha actualizado."
+"Configurable bundle template slot has not been created.","El slot de la plantilla de paquete configurable no se ha creado."
+"Configurable bundle template slot has not been deleted.","El slot de la plantilla de paquete configurable no se ha eliminado."
+"Configurable bundle template slot has not been updated.","El slot de la plantilla de paquete configurable no se ha actualizado."
+"Configurable bundle template slot was successfully created.","El slot de la plantilla de paquete configurable se ha creado correctamente."
+"Configurable bundle template slot was successfully deleted.","El slot de la plantilla de paquete configurable se ha eliminado correctamente."
+"Configurable bundle template slot was successfully updated.","El slot de la plantilla de paquete configurable se ha actualizado correctamente."
+"Configurable bundle template slot with id ""%id%"" was not found.","No se encontró el slot de la plantilla de paquete configurable con el id ""%id%""."
+"Configurable bundle template with id ""%id%"" was not found.","No se encontró la plantilla de paquete configurable con el id ""%id%""."
+"Configurable Bundle Templates","Plantillas de Paquete Configurable"
+Confirm,Confirmar
+"Confirm action","Confirmar acción"
+"Create Configurable Bundle Template","Crear Plantilla de Paquete Configurable"
+"Create New Template","Crear Nueva Plantilla"
+"Create Slot","Crear Slot"
+Deactivate,Desactivar
+Delete,Eliminar
+"Delete Configurable Bundle Template","Eliminar Plantilla de Paquete Configurable"
+"Delete Template","Eliminar Plantilla"
+Edit,Editar
+"Edit Configurable Bundle Template","Editar Plantilla de Paquete Configurable"
+"Edit Slot","Editar Slot"
+"Edit Slot for","Editar ranura para"
+for,para
+General,General
+Inactive,Inactivo
+Name,Nombre
+Next,Siguiente
+"Note: you can assign products and categories for a slot in the respective tabs.","Nota: puedes asignar productos y categorías a una ranura en las pestañas respectivas."
+"Nr. of Slots","Nr. de ranuras"
+"Number of Items","Número de elementos"
+"Product ID","ID de producto"
+Save,Guardar
+SKU,SKU
+"Slot details","Detalles de la ranura"
+"Slot ID","ID de la ranura"
+"Slot Name","Nombre de la ranura"
+Slots,Ranuras
+Status,Estado
+"Template ""%template_name%"" has been activated.","La plantilla ""%template_name%"" ha sido activada."
+"Template ""%template_name%"" has deactivated.","La plantilla ""%template_name%"" ha sido desactivada."
+"Template ""%template_name%"" has not been activated.","La plantilla ""%template_name%"" no ha sido activada."
+"Template ""%template_name%"" has not been deactivated.","La plantilla ""%template_name%"" no ha sido desactivada."
+"Template ""%template_name%"" was activated.","La plantilla ""%template_name%"" fue activada."
+"Template ""%template_name%"" was deactivated.","La plantilla ""%template_name%"" fue desactivada."
+"Template details","Detalles de la plantilla"
+"You can add slots on this page. During slot creation you can assign products from a catalog to this slot one by one, import CSV file or assign several categories.","Puedes agregar ranuras en esta página. Durante la creación de la ranura, puedes asignar productos de un catálogo a esta ranura uno por uno, importar un archivo CSV o asignar varias categorías."
+"You can change name and define locals on this page.","Puedes cambiar el nombre y definir locales en esta página."

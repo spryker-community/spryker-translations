@@ -1,0 +1,6 @@
+"The provided key name `%s` is not in valid format. It should only contain letters (a-z) and digits (0-9). Example: `YourExample123`.","De opgegeven sleutelnaam '%s' heeft geen geldig formaat. Het mag alleen letters (a-z) en cijfers (0-9) bevatten. Voorbeeld: 'JouwVoorbeeld123'."
+"Entity with ID `%d` was not found in the database.","Entiteit met ID '%d' is niet gevonden in de database."
+"The key name is not provided.","De sleutelnaam is niet opgegeven."
+"The provided key name `%s` is duplicated. Use another one and try again.","De opgegeven sleutelnaam '%s' is dubbel. Gebruik een andere en probeer opnieuw."
+"Created at","Aangemaakt op"
+"The provided `valid to` date `%s` already expired. Use another one and try again.","De opgegeven 'geldig tot' datum '%s' is al verlopen. Gebruik een andere en probeer opnieuw."

@@ -1,0 +1,28 @@
+"Warehouse user","Utilisateur d'entrepôt"
+"User could not be found.","L'utilisateur n'a pas pu être trouvé."
+"User uuid is missing.","L'UUID de l'utilisateur est manquant."
+"Warehouse user assignments are updated.","Les affectations d'utilisateurs d'entrepôt sont mises à jour."
+"Assign warehouses","Affecter des entrepôts"
+"Assign Warehouse to User","Affecter un entrepôt à un utilisateur"
+"List Users","Liste des utilisateurs"
+"A warehouse can be assigned to multiple users at a time.","Un entrepôt peut être attribué à plusieurs utilisateurs à la fois."
+Remove,Supprimer
+Save,Enregistrer
+"Deselect All","Désélectionner tout"
+"Deselected warehouses","Entrepôts désélectionnés"
+Inactive,Inactif
+Active,Actif
+"Warehouse ID","ID de l'entrepôt"
+Name,Nom
+Status,Statut
+Assigned,Assigné
+Assign,Assigner
+Selected,Sélectionné
+"Select All","Sélectionner tout"
+"List of warehouses","Liste des entrepôts"
+"Assigned warehouses","Entrepôts attribués"
+"Warehouses to be deassigned","Entrepôts à désaffecter"
+"Select warehouses to assign","Sélectionner les entrepôts à attribuer"
+"Warehouses to be assigned","Entrepôts à attribuer"
+"Selected warehouses","Entrepôts sélectionnés"
+"This user is a warehouse user","Cet utilisateur est un utilisateur d'entrepôt"

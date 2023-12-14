@@ -1,0 +1,1943 @@
+cart.remove.items.success,"تمت إزالة المنتجات بنجاح",ar_AE
+cart.add.items.success,"العناصر تمت إضافتها بنجاح",ar_AE
+cart.add.items.error.text,"هناك خطأ ما. نأسف.",ar_AE
+cart.your-order,طلبك,ar_AE
+cart.price,السعر,ar_AE
+cart.shipping.order-item,"+ الشحن",ar_AE
+cart.shipping,الشحن,ar_AE
+cart.total,الإجمالي,ar_AE
+cart.checkout,الدفع,ar_AE
+cart.empty,"سلة التسوق الخاصة بك فارغة!",ar_AE
+cart.cart,"عربة التسوق",ar_AE
+cart.total.discount,تخفيض,ar_AE
+cart.vouchers,قسائم,ar_AE
+cart.discounts,تخفيضات,ar_AE
+cart.item_quantity,الكمية,ar_AE
+cart.item_attributes_needed,"يرجى اختيار المزيد من السمات",ar_AE
+cart.voucher.redeem,"استبدال الرمز",ar_AE
+cart.price.subtotal,"المجموع الفرعي",ar_AE
+cart.price.grand.total,"المجموع الكلي",ar_AE
+cart.total.tax_total,الضريبة,ar_AE
+cart.total.tax_total.calculated_at_checkout,"محسوبة عند الدفع",ar_AE
+cart.delete.item,حذف,ar_AE
+cart.sales-order-threshold,"الحد الأدنى لقيمة الطلب",ar_AE
+cart.title.available_discounts,"الخصومات المتاحة",ar_AE
+checkout.sales-order-threshold,"الحد الأدنى لقيمة الطلب",ar_AE
+sales-order-threshold.expense.name,"تكلفة إضافية",ar_AE
+sales-order-threshold.strategy.soft-minimum-threshold-fixed-fee,"تكلفة إضافية",ar_AE
+sales-order-threshold.strategy.soft-minimum-threshold-flexible-fee,"تكلفة إضافية",ar_AE
+auth.login,التسجيل,ar_AE
+auth.password,"كلمة المرور",ar_AE
+auth.password-forgot,نسيت؟,ar_AE
+auth.email,"البريد الإلكتروني",ar_AE
+auth.im-new-customer,"عميل جديد",ar_AE
+auth.im-already-customer,"لدي حساب بالفعل",ar_AE
+navigation.menu.categories,التصنيفات,ar_AE
+navigation.menu.have-a-look,"من الجدير بالنظر",ar_AE
+page.checkout.errors,"يرجى التحقق من مدخلاتك.",ar_AE
+page.checkout.client.existing,"العميل الحالي",ar_AE
+page.checkout.client.new,"عميل جديد",ar_AE
+customer.password,"كلمة المرور",ar_AE
+password.confirm,"تأكيد كلمة المرور",ar_AE
+page.checkout.address.heading,"1. بيانات العنوان",ar_AE
+page.checkout.address.name,الاسم,ar_AE
+page.checkout.address.billing-address,"عنوان الفوترة",ar_AE
+page.checkout.address.billing-isnt-shipping-address,"عنوان التوصيل المختلف",ar_AE
+page.checkout.address.shipping-address,"عنوان التوصيل",ar_AE
+page.checkout.address.address-example,مثال:</br>قصر واين 1</br>10292 مدينة غوثام</br>ز.ه. ألفريد بينيورث,ar_AE
+page.checkout.address.next-step,"استمر في طريقة الشحن",ar_AE
+page.checkout.address.edit,"تعديل بيانات العنوان",ar_AE
+page.checkout.address.use_selected_address,"استخدم العنوان المحدد",ar_AE
+page.checkout.address.different_delivery_address,"استخدم عنوان توصيل مختلف",ar_AE
+page.checkout.address.different_billing_address,"استخدم عنوان فوترة مختلف",ar_AE
+page.checkout.address.option_group.customer,"عناوين العملاء",ar_AE
+page.checkout.address.option_group.company_business_unit,"عناوين الأعمال",ar_AE
+page.checkout.address.delivery.address_select,"اختر عنوان التسليم",ar_AE
+page.checkout.address.multi_shipment.title,"قم بتعيين كل منتج إلى عنوان تسليمه الخاص",ar_AE
+page.checkout.address.billing.address_select,"اختر عنوان الفوترة",ar_AE
+page.checkout.address.manage_your_addresses,"إدارة عناوينك",ar_AE
+page.checkout.address.address_select.label,"اختر عنوان التسليم",ar_AE
+page.checkout.address.address_select.placeholder,"اختر عنوانًا",ar_AE
+page.checkout.shipment.heading,"2. طريقة الشحن",ar_AE
+page.checkout.shipment.shipping_method_heading,"طريقة الشحن",ar_AE
+page.checkout.shipment.shipment_group_heading,"الشحنة %current% من %total%",ar_AE
+shipment.standart.name,قياسي,ar_AE
+shipment.express.name,تعبير,ar_AE
+shipment.standart.description,"2-4 أيام عمل",ar_AE
+page.checkout.shipping.delivery_time,"وقت التوصيل:",ar_AE
+page.checkout.shipping.day,يوم,ar_AE
+page.checkout.shipping.days,أيام,ar_AE
+page.checkout.shipping.price,السعر:,ar_AE
+shipment.express.description,"24-48 ساعة (أيام عمل)",ar_AE
+page.checkout.shipment.edit,"تعديل طريقة الشحن",ar_AE
+page.checkout.shipment.next-step,"استمر في طريقة الدفع",ar_AE
+page.checkout.shipment.item.quantity,المبلغ,ar_AE
+page.checkout.shipment.item.price,السعر,ar_AE
+page.checkout.shipment.shipping_address.title,"عنوان التوصيل",ar_AE
+page.checkout.shipment.requested_delivery_date.label,"تاريخ التسليم المطلوب",ar_AE
+page.checkout.shipment.requested_delivery_date.placeholder,"اتركه فارغا إذا كنت ترغب في الحصول عليه في أقرب وقت ممكن",ar_AE
+page.checkout.shipment.requested_delivery_date.title,"متى ترغب في التوصيل؟",ar_AE
+page.checkout.payment.heading,"3. طريقة الدفع",ar_AE
+page.checkout.payment.title,"طريقة الدفع",ar_AE
+page.checkout.payment.edit,"تعديل طريقة الدفع",ar_AE
+page.checkout.payment.next-step,"استمر في إتمام الطلب",ar_AE
+page.checkout.summary.billing,"عنوان الفاتورة",ar_AE
+page.checkout.summary.shipping,"عنوان الشحن",ar_AE
+page.checkout.summary.date_of_birth,"تاريخ الميلاد",ar_AE
+page.checkout.summary.card_type,"نوع البطاقة",ar_AE
+page.checkout.summary.card_number,"رقم البطاقة",ar_AE
+page.checkout.summary.name_on_card,"اسم على البطاقة",ar_AE
+page.checkout.summary.card_expires,"تاريخ الانتهاء",ar_AE
+page.checkout.summary.complete_checkout,"إتمام الشراء",ar_AE
+page.checkout.summary.accept_terms_and_conditions,"أوافق على الشروط والأحكام",ar_AE
+page.checkout.finalize.heading,"4. تحقق وأكمل الطلب",ar_AE
+shipment.international.parcel.service,"خدمات الطرود الدولية",ar_AE
+page.checkout.terms,"أوافق على الشروط والأحكام العامة.",ar_AE
+page.checkout.finalize.enter-voucher,"أدخل رمز القسيمة",ar_AE
+page.checkout.finalize.tos,"بالنقر على زر ""اشترِ الآن""، أؤكد قبول شروط الاستخدام.",ar_AE
+page.checkout.finalize.buy-now,"اشترِ الآن",ar_AE
+page.detail.add-to-cart,"أضف إلى السلة",ar_AE
+page.detail.dimensions,قياسات,ar_AE
+page.product.by,بواسطة,ar_AE
+page.product.details,تفاصيل,ar_AE
+page.imprint.url,/ar/imprint,ar_AE
+page.imprint.title,الطبعة,ar_AE
+page.terms.url,/ar/gtc,ar_AE
+page.terms.title,GTC,ar_AE
+page.privacy.url,/ar/privacy,ar_AE
+page.privacy.title,"حماية البيانات",ar_AE
+catalog.currency,€,ar_AE
+catalog.filter.button,تصفية,ar_AE
+catalog.filter.and.sorting.button,"تصفية / ترتيب",ar_AE
+catalog.filter.active,"تصفية نشطة",ar_AE
+catalog.filter.main_color,اللون,ar_AE
+catalog.filter.extras,"الخصائص الأخرى",ar_AE
+catalog.filter.pricerangeFrom,من,ar_AE
+catalog.filter.pricerangeTo,إلى,ar_AE
+catalog.filter.rangeFrom,"نطاق منتجات",ar_AE
+catalog.filter.rangeTo,إلى,ar_AE
+catalog.filter.show,"أدخل الفلتر",ar_AE
+catalog.filter.hide,"إخفاء الفلتر",ar_AE
+catalog.filter.per,"لكل صفحة",ar_AE
+catalog.filter.sort,"فرز حسب",ar_AE
+catalog.filter.rating_up,وأعلى,ar_AE
+catalog.filter.active_rating_up,"النجوم وأعلى",ar_AE
+catalog.itemsFound,"العناصر الموجودة",ar_AE
+catalog.loading,تحميل,ar_AE
+catalog.next,استمر,ar_AE
+catalog.prev,العودة,ar_AE
+catalog.sort,الترتيب,ar_AE
+catalog.sort.relevance,"فرز حسب الأهمية",ar_AE
+catalog.sort.name_asc,"فرز حسب الترتيب الأبجدي التصاعدي",ar_AE
+catalog.sort.name_desc,"فرز حسب الترتيب التنازلي للأسماء",ar_AE
+catalog.sort.price_asc,"فرز حسب السعر تصاعديًا",ar_AE
+catalog.sort.price_desc,"فرز حسب السعر تنازلي",ar_AE
+catalog.sort.rating,"ترتيب حسب تقييمات المنتجات",ar_AE
+catalog.filter.activeFilters,"الفلاتر النشطة",ar_AE
+catalog.filter.resetAllFilters,"إعادة تعيين جميع الفلاتر",ar_AE
+catalog.no-results,"لا توجد نتائج.",ar_AE
+product.filter.category,التصنيفات,ar_AE
+product.filter.price,السعر,ar_AE
+product.filter.rating,"تقييمات المنتج",ar_AE
+shipment.dhl,DHL,ar_AE
+shipment.dhl.paket.name,حزمة,ar_AE
+shipment.dhl.paket.description,"خدمة DHL Paket هي خدمة الشحن السهلة والميسورة التكلفة والسريعة والموثوقة إلى أكثر من 220 دولة حول العالم.",ar_AE
+shipment.dhl.express.name,تعبير,ar_AE
+shipment.dhl.express.description,"قوتنا من 100,000 موظف متفانٍ يعملون حول العالم. المعرفة المحلية وشبكتنا الفريدة تجعلنا أخصائيين دوليين لك.",ar_AE
+shipment.dpd,DPD,ar_AE
+shipment.hermes,هيرميس,ar_AE
+customer.first_name,"الاسم الأول",ar_AE
+customer.last_name,الاسم,ar_AE
+customer.salutation.mr,السيد,ar_AE
+customer.salutation.mrs,السيدة,ar_AE
+customer.salutation.ms,السيدة,ar_AE
+customer.salutation.dr,دكتور,ar_AE
+customer.birth_date,"تاريخ الميلاد (DD.MM.YYYY)",ar_AE
+customer.email,"البريد الإلكتروني",ar_AE
+customer.phone,"رقم الهاتف",ar_AE
+customer.reset.password.error.already.loggedIn,"عميل آخر قام بتسجيل الدخول بالفعل. يرجى تسجيل الخروج لإعادة تعيين كلمة المرور الخاصة بك.",ar_AE
+payment.prepay,"الدفع المسبق",ar_AE
+payment.paypal,"باي بال",ar_AE
+payment.creditcard,"بطاقة الائتمان",ar_AE
+payment.invoice,فاتورة,ar_AE
+payment.cancellation.title,"إلغاء الدفع",ar_AE
+payment.cancellation.message,"لقد قمت بإلغاء الدفع الخاص بك.",ar_AE
+address.street,الشارع,ar_AE
+address.street_nr, الرقم,ar_AE
+address.city,المدينة,ar_AE
+address.zip_code,"الرمز البريدي",ar_AE
+page.checkout.create_account,"إنشاء حساب عميل",ar_AE
+whishlist.whishlist,"قائمة الرغبات",ar_AE
+whishlist.remove,إزالة,ar_AE
+whishlist.reduce,تقليل,ar_AE
+whishlist.increase,زيادة,ar_AE
+whishlist.move.to.cart,"انتقل إلى السلة",ar_AE
+checkout.thank.you,"شكراً لك",ar_AE
+checkout.this.is.demoshop,"هذا متجر تجريبي",ar_AE
+checkout.nothing.will.be.sent,"لذلك، بالطبع، لن يتم إرسال أي شيء!",ar_AE
+global.order.ascendent,أ-ي,ar_AE
+global.show_more,"أظهر المزيد",ar_AE
+global.account,الحساب,ar_AE
+global.order.descendent,ز-أ,ar_AE
+global.close,أغلق,ar_AE
+global.search,البحث,ar_AE
+global.search.results,"نتائج البحث عن",ar_AE
+global.search.spellingSuggestion,"هل تقصد",ar_AE
+global.search.suggestions,"اقتراحات البحث",ar_AE
+global.search.suggestion.in_products,المنتجات,ar_AE
+global.search.suggestion.in_categories,التصنيفات,ar_AE
+global.search.suggestion.in_cms,الصفحات,ar_AE
+global.search.suggestion.no_result,"لا يوجد شيء موجود...",ar_AE
+global.search.suggestion.see_all_products,"انظر إلى جميع المنتجات",ar_AE
+global.benefit.free_returns,"إرجاع مجاني",ar_AE
+global.benefit.warranty,"3 سنوات ضمان",ar_AE
+global.benefit.competitive_prices,"أسعار تنافسية",ar_AE
+global.spryker.shop,"متجر سبرايكر",ar_AE
+global.spryker.motto,"تكنولوجيا عالية الجودة",ar_AE
+global.payment_providers,"مزودي الدفع",ar_AE
+global.shipment_providers,"مزودي الشحن",ar_AE
+global.get_in_touch,"ابقى على تواصل",ar_AE
+global.social,اجتماعي,ar_AE
+global.home,"الصفحة الرئيسية",ar_AE
+global.email.address,"عنوان البريد الإلكتروني",ar_AE
+global.password,"كلمة المرور",ar_AE
+global.permission.failed,"هذا الإجراء ممنوع",ar_AE
+global.recover.password,"استعيد كلمة المرور",ar_AE
+global.accept.terms.and.conditions,"قبول الشروط والأحكام",ar_AE
+global.login,"تسجيل الدخول",ar_AE
+global.create.account,"إنشاء حساب",ar_AE
+global.cart,"عربة التسوق",ar_AE
+global.my-cart,عربتي,ar_AE
+global.no_image_available,"لا توجد صورة متاحة",ar_AE
+global.add-to-cart,"أضف إلى السلة",ar_AE
+global.subscribe.title,"اشترك في نشرتنا الإخبارية",ar_AE
+global.payment_shipping,"الدفع والشحن",ar_AE
+global.top_categories,"أفضل الفئات",ar_AE
+global.popular_brands,"العلامات التجارية الشهيرة",ar_AE
+global.about,حول,ar_AE
+global.contact_us,"اتصل بنا",ar_AE
+global.hint,"جميع الأسعار غير شاملة رسوم الشحن والتوصيل، ما لم يُذكر خلاف ذلك.",ar_AE
+global.thank_certeo,"شكرا جزيلا لأصدقائنا من Certeo.",ar_AE
+global.privacy_nav.imprint,الطبعة,ar_AE
+global.privacy_nav.imprint_url,https://spryker.com/imprint/,ar_AE
+global.privacy_nav.data_privacy,"الخصوصية في البيانات",ar_AE
+global.privacy_nav.data_privacy_url,https://spryker.com/privacy-policy/,ar_AE
+global.build_with,"بنيت بواسطة",ar_AE
+global.build_with.link,https://spryker.com/ar/,ar_AE
+global.phone.number,"+49 (0) 30 208 498 350",ar_AE
+global.email.text,معلومات@spryker.com,ar_AE
+global.select.placeholder.value,"اختر قيمة",ar_AE
+global.show,عرض,ar_AE
+global.hide,إخفاء,ar_AE
+error.404,"خطأ 404",ar_AE
+homepage.carousel.previous,السابق,ar_AE
+homepage.carousel.next,التالي,ar_AE
+customer.signup,"زبون جديد؟",ar_AE
+customer.signin,"تسجيل الدخول",ar_AE
+customer.logout,"تسجيل الخروج",ar_AE
+customer.register,"سجل",ar_AE
+customer.login,"تسجيل الدخول",ar_AE
+customer.please_login,"يرجى تسجيل الدخول",ar_AE
+customer.login.email,"البريد الإلكتروني",ar_AE
+customer.login.password,"كلمة المرور",ar_AE
+customer.login.title,"الوصول إلى حسابك",ar_AE
+customer.registration.title,"إنشاء حساب",ar_AE
+customer.account.no_order,"لا توجد طلبات في الوقت الحالي",ar_AE
+customer.account,"حساب العميل",ar_AE
+customer.account.contact,"اتصل بنا",ar_AE
+customer.account.overview,"نظرة عامة",ar_AE
+customer.account.profile_data,"الملف الشخصي",ar_AE
+customer.account.address,العناوين,ar_AE
+customer.account.order_history,"سجل الطلبات",ar_AE
+customer.account.button.search_filters,"البحث والفلاتر",ar_AE
+customer.account.newsletter,"النشرة الإخبارية",ar_AE
+customer.account.last_orders,"الطلبات الأخيرة",ar_AE
+customer.account.default_billing_address,"العنوان الافتراضي للفواتير",ar_AE
+customer.account.please_specify_billing_address,"يرجى تحديد عنوان الفوترة",ar_AE
+customer.account.default_shipping_address,"العنوان الشحن الافتراضي",ar_AE
+customer.account.default_address,العنوان,ar_AE
+customer.account.default_both_addresses,"العنوان الافتراضي",ar_AE
+customer.account.please_specify_shipping_address,"يرجى تحديد عنوان الشحن",ar_AE
+customer.account.edit_address_information,"تعديل معلومات العنوان",ar_AE
+customer.account.additional_addresses,"عناوين إضافية",ar_AE
+customer.account.button.add_new_address,"أضف عنوان جديد",ar_AE
+customer.account.add_new_address,"تعريف عنوان جديد",ar_AE
+customer.account.deliver_to_multiple_addresses,"توصيل إلى عناوين متعددة",ar_AE
+customer.account.delete.error,"لا يمكن إزالة الحساب",ar_AE
+customer.newsletter.not_subscribed,"عدم الاشتراك في النشرة الإخبارية",ar_AE
+customer.profile.order_history,"الطلبات الأخيرة",ar_AE
+customer.account.no_orders,"لا توجد طلبات في الوقت الحالي",ar_AE
+customer.address.updated,"تم تحديث العنوان بنجاح",ar_AE
+customer.address.delete.success,"تم حذف العنوان بنجاح",ar_AE
+customer.address.added,"تمت إضافة العنوان بنجاح",ar_AE
+customer.address.first_name,"الاسم الأول",ar_AE
+customer.address.last_name,"الاسم الأخير",ar_AE
+customer.address.company,الشركة,ar_AE
+customer.address.address1,الشارع,ar_AE
+customer.address.address2,"رقم المنزل",ar_AE
+customer.address.address3,"إضافة إلى العنوان",ar_AE
+customer.address.zip_code,"الرمز البريدي",ar_AE
+customer.address.city,المدينة,ar_AE
+customer.address.country,الدولة,ar_AE
+customer.address.phone,هاتف,ar_AE
+customer.address.is_default_billing,"هو عنوان الفوترة الافتراضي",ar_AE
+customer.address.is_default_shipping,"عنوان الشحن الافتراضي",ar_AE
+customer.anonymization.success,"تم حذف حسابك بنجاح",ar_AE
+customer.anonymization.failed,"حسابك لا يمكن حذفه",ar_AE
+customer.authorization.success,"قريباً جداً! قمنا بإرسال بريد إلكتروني لتأكيد عنوان بريدك الإلكتروني. يرجى تأكيده لتتمكن من تسجيل الدخول.",ar_AE
+customer.authorization.account_confirmed,"عنوان بريدك الإلكتروني موثق. يرجى تسجيل الدخول للمتابعة.",ar_AE
+customer.error.confirm_email_link.invalid_or_used,"هذا رابط التحقق من البريد الإلكتروني غير صالح أو تم استخدامه بالفعل.",ar_AE
+customer.authorization.validate_email_address,"قريباً جداً! قمنا بإرسال بريد إلكتروني لتأكيد عنوان بريدك الإلكتروني. يرجى تأكيده لتتمكن من تسجيل الدخول.",ar_AE
+customer.authorization.invalid_account,"إذا كان عنوان البريد الإلكتروني هذا قيد الاستخدام بالفعل، ستتلقى رابط إعادة تعيين كلمة المرور. وإلا، يجب عليك التحقق أولاً من صحة عنوان البريد الإلكتروني الخاص بك لإكمال التسجيل. يرجى التحقق من بريدك الإلكتروني.",ar_AE
+customer.profile.change.success,"تم حفظ الملف الشخصي بنجاح",ar_AE
+customer.password.invalid_password,"كلمة المرور الحالية غير صحيحة",ar_AE
+customer.password.invalid,"كلمة المرور غير صحيحة",ar_AE
+customer.password.restore,"تعيين كلمة مرور جديدة",ar_AE
+customer.password.changed,"تم تغيير كلمة المرور بنجاح",ar_AE
+customer.token.invalid,"الرمز غير صالح",ar_AE
+customer.forgotten-password.description,"أدخل عنوان البريد الإلكتروني المرتبط بحسابك.",ar_AE
+customer.forgotten_password.email,"عنوان البريد الإلكتروني",ar_AE
+customer.forgotten-password.title,"استعادة كلمة المرور الخاصة بي",ar_AE
+customer.order.order_id,"رقم الطلب",ar_AE
+customer.order.view_all,"عرض الكل",ar_AE
+customer.order.all_orders,"عرض الطلبات",ar_AE
+customer.order.total,الإجمالي,ar_AE
+customer.order.view_order,"عرض الطلب",ar_AE
+customer.order.reorder,"إعادة الطلب",ar_AE
+customer.order.reorder_all,"إعادة طلب الكل",ar_AE
+customer.order.reorder_selected,"إعادة طلب العناصر المحددة",ar_AE
+customer.order.reorder.error.unable_to_reorder_items,"لا يمكنك إعادة طلب هذه المنتجات مباشرة، يرجى إضافتها إلى سلة التسوق بشكل منفصل.",ar_AE
+customer.order.date,تاريخ,ar_AE
+customer.order.item_sku,SKU,ar_AE
+customer.order.product_name,"اسم المنتج",ar_AE
+customer.order.item_price,السعر,ar_AE
+customer.order.item_quantity,الكمية,ar_AE
+customer.order.item_sum,"إجمالي العناصر",ar_AE
+customer.order.item_amount,المبلغ,ar_AE
+customer.order.subTotal,"المجموع الفرعي",ar_AE
+customer.order.taxTotal,الضريبة,ar_AE
+customer.order.expenseTotal,"تكاليف الشحن (الإجمالي)",ar_AE
+customer.order.shipment,الشحن,ar_AE
+customer.order.discount.total,تخفيض,ar_AE
+customer.order.grandTotal,"المجموع الكلي",ar_AE
+customer.order.shipping_address,"عنوان الشحن",ar_AE
+customer.order.billing_address,"عنوان الفوترة",ar_AE
+customer.order.shipment_method,الشحن,ar_AE
+customer.order.payment_method,"طريقة الدفع",ar_AE
+customer.order.products,المنتجات,ar_AE
+customer.order.payment,الدفع,ar_AE
+customer.order.complete_checkout,"إتمام الشراء",ar_AE
+customer.order.item,العنصر,ar_AE
+customer.order.items,العناصر,ar_AE
+customer.order.items_state,"حالة العناصر",ar_AE
+customer.order.item_options,"خيارات العنصر",ar_AE
+customer.order.overview,"نظرة عامة",ar_AE
+customer.order.summary.items,العناصر,ar_AE
+customer.order.summary.discounts,تخفيضات,ar_AE
+customer.newsletter.subscription,"إعدادات النشرة الإخبارية",ar_AE
+customer.newsletter.subscription_agreement,"أوافق على الاشتراك في النشرة الإخبارية",ar_AE
+customer.newsletter.text,"احصل على خصم 10% على أول طلب لك واستلم تحديثات أسبوعية في صندوق الوارد الخاص بك.",ar_AE
+customer.profile,حسابي,ar_AE
+customer.profile.update,"تحديث الملف الشخصي",ar_AE
+customer.profile.delete,"حذف الحساب",ar_AE
+customer.profile.delete.description,"هذا سيحذف كل معلومات الحساب.",ar_AE
+customer.profile.delete.confirmation_question,"هل أنت متأكد أنك تريد حذف حسابك؟",ar_AE
+customer.profile.first_name,"الاسم الأول",ar_AE
+customer.profile.last_name,"الاسم الأخير",ar_AE
+customer.profile.email,"البريد الإلكتروني",ar_AE
+customer.profile.phone,هاتف,ar_AE
+customer.profile.old_password,"كلمة المرور القديمة",ar_AE
+customer.profile.request.new_password,"كلمة المرور الجديدة",ar_AE
+customer.profile.confirm.new_password,"تأكيد كلمة المرور الجديدة",ar_AE
+customer.profile.address.edit,"تعديل",ar_AE
+customer.profile.address.delete,حذف,ar_AE
+customer.profile.order_details,"تفاصيل الطلب",ar_AE
+customer.password.update,"تغيير كلمة المرور",ar_AE
+customer.password.old_password,"كلمة المرور القديمة",ar_AE
+customer.password.request.new_password,"كلمة المرور الجديدة",ar_AE
+customer.password.confirm.new_password,"تأكيد كلمة المرور",ar_AE
+customer.table.actions,الإجراءات,ar_AE
+profile.form.salutation,تحية,ar_AE
+customer.customer_id,ID,ar_AE
+forms.submit-btn,قدم,ar_AE
+forms.save-btn,حفظ,ar_AE
+forms.submit.login,"تسجيل الدخول",ar_AE
+forms.submit.register,"سجل",ar_AE
+forms.forgot-password,"نسيت كلمة المرور",ar_AE
+forms.first-name,"الاسم الأول",ar_AE
+forms.last-name,"الاسم الأخير",ar_AE
+forms.email,"البريد الإلكتروني",ar_AE
+forms.password,"كلمة المرور",ar_AE
+forms.confirm-password,"تأكيد كلمة المرور",ar_AE
+forms.accept_terms,"قبول الشروط",ar_AE
+address.salutation,تحية,ar_AE
+email.orderEmail.salutationMale,السيد,ar_AE
+email.orderEmail.salutationFemale,السيدة,ar_AE
+mail.trans.customerRegistration.confirmationLink,"تحقق من عنوان بريدك الإلكتروني",ar_AE
+customer.login.failed,"فشل تسجيل الدخول",ar_AE
+customer.email.already.used,"إذا كان عنوان البريد الإلكتروني هذا قيد الاستخدام بالفعل، ستتلقى رابط إعادة تعيين كلمة المرور. وإلا، يجب عليك التحقق أولاً من صحة عنوان البريد الإلكتروني الخاص بك لإكمال التسجيل. يرجى التحقق من بريدك الإلكتروني.",ar_AE
+general.back.button,رجوع,ar_AE
+general.cancel.button,إلغاء,ar_AE
+general.edit.button,"تعديل",ar_AE
+general.required_fields.text,"الحقول المطلوبة",ar_AE
+newsletter.subscription.success,"لقد تم الاشتراك بنجاح في النشرة الإخبارية",ar_AE
+newsletter.unsubscription.success,"لقد قمت بإلغاء الاشتراك بنجاح من النشرة الإخبارية",ar_AE
+newsletter.subscription.already_subscribed,"أنت مشترك بالفعل في النشرة الإخبارية",ar_AE
+newsletter.subscription.email_format_invalid,"تنسيق عنوان البريد الإلكتروني غير صحيح",ar_AE
+customer.authentication.failed,"فشل التوثيق",ar_AE
+customer.email.invalid,"عنوان البريد الإلكتروني غير صحيح",ar_AE
+customer.email.format.invalid,"تنسيق عنوان البريد الإلكتروني غير صحيح",ar_AE
+customer.password.recovery.mail.sent,"إذا كان هناك حساب مرتبط بهذا العنوان البريد الإلكتروني، ستتلقى رسالة بريد إلكتروني تحتوي على تعليمات إضافية.",ar_AE
+customer.address.number,"رقم المنزل",ar_AE
+customer.address.save_new_address,"حفظ العنوان الجديد في دفتر العناوين",ar_AE
+countries.iso.AT,النمسا,ar_AE
+countries.iso.DE,ألمانيا,ar_AE
+countries.iso.NO,النرويج,ar_AE
+countries.iso.CH,سويسرا,ar_AE
+countries.iso.ES,إسبانيا,ar_AE
+countries.iso.GB,"المملكة المتحدة",ar_AE
+customer.billingSameAsShipping,"عنوان الفوترة نفس عنوان الشحن",ar_AE
+checkout.customer.proceed_as_user,"استمر كمستخدم مسجل (سجل الدخول)",ar_AE
+checkout.customer.proceed_as_guest,"استمر كضيف",ar_AE
+checkout.customer.order_as_guest,"أطلب كضيف",ar_AE
+checkout.step.customer.title,"تسجيل الدخول",ar_AE
+checkout.step.address.title,العنوان,ar_AE
+checkout.step.shipment.title,الشحن,ar_AE
+checkout.step.payment.title,الدفع,ar_AE
+checkout.step.summary.title,تأكيد,ar_AE
+checkout.step.shipment,التالي,ar_AE
+checkout.step.address.select_address,"اختر عنوانًا",ar_AE
+checkout.step.payment,التالي,ar_AE
+checkout.step.summary,"اذهب إلى الملخص",ar_AE
+checkout.step.summary.with_method,مع,ar_AE
+checkout.step.summary.items,العناصر,ar_AE
+checkout.step.summary.overview,"نظرة عامة",ar_AE
+checkout.step.summary.sub_total,"المجموع الفرعي",ar_AE
+checkout.step.summary.grand_total,"المجموع الكلي",ar_AE
+checkout.step.summary.payment,الدفع,ar_AE
+checkout.step.summary.shipping,الشحن,ar_AE
+checkout.step.summary.tax,الضريبة,ar_AE
+checkout.step.summary.billing_address,"عنوان الفوترة",ar_AE
+checkout.step.summary.delivery_method,"طريقة التوصيل",ar_AE
+checkout.step.summary.requested_delivery_date,"تاريخ التسليم المطلوب",ar_AE
+checkout.step.summary.delivery_address,"عنوان التوصيل",ar_AE
+checkout.step.summary.products,المنتجات,ar_AE
+checkout.step.place.order,"أرسل طلبك",ar_AE
+checkout.step.payment.must_be_older_than_18_years,"يجب أن تكون على الأقل 18 عامًا.",ar_AE
+checkout.step.success.title,"شكراً لك!",ar_AE
+checkout.step.success.text,"تم تنفيذ طلبك بنجاح. ستتلقى رسالة تأكيد الطلب عبر البريد الإلكتروني في غضون بضع دقائق.",ar_AE
+checkout.step.error.title,"لم يتم تنفيذ طلبك.",ar_AE
+checkout.step.error.text,"هناك خطأ ما. نأسف.",ar_AE
+checkout.back_button,"العودة إلى السلة",ar_AE
+checkout.secure,"الدفع الآمن",ar_AE
+customer.password.change.success,"تم تغيير كلمة المرور بنجاح",ar_AE
+customer.newsletter.subscribed,"الاشتراك في النشرة الإخبارية",ar_AE
+dynamic_entity.validation.invalid_data_format,"تنسيق البيانات غير صالح أو مفقود. يرجى التأكد من توفير البيانات في التنسيق الصحيح. مثال على جسم الطلب: {'data':[{...},{...},..]}",ar_AE
+dynamic_entity.validation.persistence_failed,"فشل في الاحتفاظ بالبيانات. يرجى التحقق من البيانات المقدمة والمحاولة مرة أخرى.",ar_AE
+dynamic_entity.validation.persistence_failed_duplicate_entry,"فشل في الاحتفاظ بالبيانات. يرجى التحقق من البيانات المقدمة والمحاولة مرة أخرى. تكرار الإدخال.",ar_AE
+dynamic_entity.validation.entity_does_not_exist,"لم يتم العثور على الكيان في قاعدة البيانات.",ar_AE
+dynamic_entity.validation.invalid_field_type,"نوع البيانات غير صالح للحقل: %fieldName%",ar_AE
+dynamic_entity.validation.invalid_field_value,"قيمة البيانات غير صالحة للحقل: %fieldName%، رقم الصف: %rowNumber%. قواعد الحقل: %validationRules%",ar_AE
+dynamic_entity.validation.required_field_is_missing,"الحقل المطلوب يجب ألا يكون فارغًا. الحقل: '%fieldName%'",ar_AE
+dynamic_entity.validation.entity_not_found_or_identifier_is_not_creatable,"الكيان `%identifier%` غير موجود بواسطة المعرف، ولا يمكن الاحتفاظ بمعرف جديد. يرجى تحديث الطلب.",ar_AE
+dynamic_entity.validation.modification_of_immutable_field_prohibited,"تعديل الحقل الثابت ""%fieldName%"" ممنوع",ar_AE
+dynamic_entity.validation.missing_identifier,"طلب غير مكتمل - ناقص المعرف",ar_AE
+dynamic_entity.validation.provided_field_is_invalid,"الـ`%fieldName%` المقدم غير صحيح أو غير صالح.",ar_AE
+validator.constraints.password.do_not_match,"كلمات المرور غير متطابقة",ar_AE
+discount.successfully.applied,"تم تطبيق الخصم ""display_name"" بنجاح",ar_AE
+discount.quote_change.discount.not_available,"الخصومات التي اخترتها لعناصر skus التالية غير متوفرة بعد الآن",ar_AE
+discount.quote_change.discount.amount_changed,"تغيرت الخصومات التي اخترتها للعناصر التالية skus",ar_AE
+discount.quote_change.does_not_apply_for_currency,"تم تعطيل قسيمة ""%code%"" لأنها لا تنطبق على هذه العملة.",ar_AE
+discount.voucher_code.usage_limit.reached,"تم الوصول إلى الحد الأقصى لاستخدام رمز القسيمة",ar_AE
+product.unavailable,"المنتج '%sku%' غير متوفر في الوقت الحالي",ar_AE
+product.access.denied,"عذرًا، هذا المنتج غير متوفر.",ar_AE
+product_bundle.unavailable,"المنتج '%productSku%' في حزمة المنتج '%bundleSku%' غير متوفر في الوقت الحالي.",ar_AE
+product.attribute.slug,slug,ar_AE
+product.attribute.variant_id,"ID",ar_AE
+product.attribute.sku,SKU,ar_AE
+product.attribute.image_quality,"جودة الصورة",ar_AE
+product.attribute.lens_system,"نظام العدسة",ar_AE
+product.attribute.focus,التركيز,ar_AE
+product.attribute.shutter,المصراع,ar_AE
+product.attribute.video,فيديو,ar_AE
+product.attribute.screen,الشاشة,ar_AE
+product.attribute.processor,المعالج,ar_AE
+product.attribute.memory,الذاكرة,ar_AE
+product.attribute.display,عرض,ar_AE
+product.attribute.storage,التخزين,ar_AE
+product.attribute.color,اللون,ar_AE
+product.attribute.design,التصميم,ar_AE
+product.attribute.graphics,الرسومات,ar_AE
+product.attribute.camera,كاميرا,ar_AE
+product.attribute.gps,GPS,ar_AE
+product.attribute.weight,الوزن,ar_AE
+product.attribute.waterproof,"مقاوم للماء",ar_AE
+product.attribute.battery,بطارية,ar_AE
+product.attribute.short_description,"الوصف المختصر",ar_AE
+product.attribute.long_description,الوصف,ar_AE
+product.attribute.manufacturer_name,"العلامة التجارية",ar_AE
+product.attribute.product_id,"معرّف المنتج",ar_AE
+product.attribute.image_big,"صورة كبيرة",ar_AE
+product.attribute.image_small,"صورة صغيرة",ar_AE
+product.attribute.license,ترخيص,ar_AE
+product.product_options,"خيارات المنتج",ar_AE
+product.product_options_select,"اختر خيارًا",ar_AE
+product.sets,"مجموعات المنتجات",ar_AE
+product.sets.no-results,"لا توجد نتائج.",ar_AE
+product.set.detail.add-all-to-cart,"أضف الكل إلى السلة",ar_AE
+product.set.detail.set-contents,"المنتجات في هذه المجموعة",ar_AE
+product.set.detail.no-products,"لا توجد منتجات في المجموعة",ar_AE
+product.view,عرض,ar_AE
+product.color-selector,"الألوان المتاحة",ar_AE
+product.relation.similar-products,"منتجات مماثلة",ar_AE
+newsletter.subscribe,"اشترك في النشرة الإخبارية",ar_AE
+newsletter.form.subscribe,اشترك,ar_AE
+newsletter.form.subscribe.text,"احصل على خصم 10٪ على أول طلب لك واحصل على تحديثات أسبوعية في صندوق الوارد الخاص بك.",ar_AE
+pagination.previous,السابق,ar_AE
+pagination.next,التالي,ar_AE
+product.attribute.iso_en,ISO,ar_AE
+product.attribute.waterproof_up_to,"مقاوم للماء حتى",ar_AE
+product.attribute.width,العرض,ar_AE
+product.attribute.touchscreen,"شاشة تعمل باللمس",ar_AE
+product.attribute._none,"يرجى اختيار قيمة السمة",ar_AE
+product.variants,"المتغيرات المنتج",ar_AE
+product.attribute.usb_version,"نسخة USB",ar_AE
+product.attribute.thermal_design_power,"الطاقة التصميمية الحرارية",ar_AE
+product.attribute.processor_boost_frequency,"تعزيز المعالج",ar_AE
+product.attribute.touch_technology,"تقنية اللمس",ar_AE
+product.attribute.video_recording_modes,"أوضاع تسجيل الفيديو",ar_AE
+product.attribute.voice_recording,"تسجيل الصوت",ar_AE
+product.attribute.total_megapixels,"عدد البكسلات الكلي",ar_AE
+product.attribute.white_balance,"توازن اللون الأبيض",ar_AE
+product.attribute.themes,المواضيع,ar_AE
+product.attribute.usb_port,"منفذ يو إس بي",ar_AE
+product.detail.out_of_stock,"هذا المنتج غير متوفر حاليًا.",ar_AE
+product.groups,"مجموعات المنتجات",ar_AE
+cart.pre.check.availability.failed,"العنصر %sku% لديه فقط توافر %stock%.",ar_AE
+cart.pre.check.availability.failed.empty,"المنتج '%sku%' غير متوفر في الوقت الحالي.",ar_AE
+cart.pre.check.availability.failed.lead.product,"المنتجات داخل العنصر 'sku' غير متوفرة في الوقت الحالي.",ar_AE
+mail.auth.restore_password.subject,"كلمة المرور الجديدة لحسابك في Spryker Backoffice",ar_AE
+mail.auth.restore_password.text,"شخص ما طلب كلمة مرور جديدة لحسابك في Spryker Backoffice. إذا لم تكن أنت، فقط تجاهل هذا البريد الإلكتروني. إذا كنت أنت، يرجى اتباع الرابط أدناه:",ar_AE
+mail.auth.restore_password.label,"تغيير كلمة المرور",ar_AE
+mail.sender.name,"Spryker لا رد\n",ar_AE
+mail.sender.email,noreply@demo-spryker.com,ar_AE
+mail.company.status.subject,"شركتك قد تغيرت الحالة",ar_AE
+mail.company.status.text,"شركتك قد تغيرت إلى الحالة:",ar_AE
+mail.company.status.approved,"تمت الموافقة",ar_AE
+mail.company.status.pending,"في انتظار الموافقة",ar_AE
+mail.company.status.denied,مرفوض,ar_AE
+mail.customer.registration.subject,"شكراً لتسجيلك في متجر سبرايكر!",ar_AE
+mail.customer.registration.text,"شكراً لتسجيلك في متجر سبرايكر!",ar_AE
+mail.customer.restore_password.subject,"كلمة المرور الجديدة لحسابك في متجر Spryker",ar_AE
+mail.customer.restore_password.text,"شخص ما طلب كلمة مرور جديدة لحسابك في متجر Spryker. إذا لم تكن أنت، فقط تجاهل هذا البريد الإلكتروني. إذا كنت أنت، يرجى اتباع الرابط أدناه:",ar_AE
+mail.customer.restore_password_confirmation.subject,"تم تغيير كلمة المرور بنجاح!",ar_AE
+mail.customer.restore_password_confirmation.text,"تم تغيير كلمة المرور بنجاح!",ar_AE
+mail.merchant.restore_password.subject,"كلمة المرور الجديدة لحسابك في بوابة تجار سبرايكر",ar_AE
+mail.merchant.restore_password.text,"شخص ما طلب كلمة مرور جديدة لحسابك في بوابة تجار سبرايكر. إذا لم تكن أنت، فقط تجاهل هذا البريد الإلكتروني. إذا كنت أنت، يرجى اتباع الرابط أدناه:",ar_AE
+mail.merchant.restore_password.label,"تغيير كلمة المرور",ar_AE
+mail.newsletter.subscribed.subject,"مرحبًا بك في نشرة Spryker",ar_AE
+mail.newsletter.subscribed.text,"نحن سعداء لأنك قمت بالاشتراك في نشرتنا الإخبارية. سنبذل قصارى جهدنا لتقديم أحدث وأكثر الأخبار والتحديثات إثارة للاهتمام.",ar_AE
+mail.newsletter.subscribed.footer.text,"استمتع بتجربة التسوق الخاصة بك.",ar_AE
+mail.newsletter.unsubscribed.subject,"عذراً لرؤيتك ترحل...",ar_AE
+mail.newsletter.unsubscribed.text,"تم إلغاء اشتراكك في نشرة أخبار متجر Spryker عبر البريد الإلكتروني، ولكن يمكنك دائمًا إدارة اشتراكك في ملف تعريف العميل الخاص بك.",ar_AE
+mail.order.confirmation.subject,"شكراً لطلبك في متجر سبرايكر",ar_AE
+mail.order.confirmation.salutation,مرحبًا,ar_AE
+mail.order.confirmation.text_line_1,"شكرا لتسوقك في متجر سبرايكر!",ar_AE
+mail.order.confirmation.text_line_2,"نود أن نبلغكم بأننا قد استلمنا طلبكم. ستتلقى تأكيد الشحن عبر البريد الإلكتروني منا بمجرد إرسال الطلب.",ar_AE
+mail.order.confirmation.text_line_3,"نأمل أن تعجبك طلبيتك. في حال قررت تغيير رأيك، يمكنك إرجاعها في غضون 14 يومًا.",ar_AE
+mail.order.confirmation.details,"تفاصيل طلبك",ar_AE
+mail.order.confirmation.shipping_address,"عنوان التوصيل",ar_AE
+mail.order.confirmation.billing_address,"عنوان الفوترة",ar_AE
+mail.order.confirmation.order_number,"رقم الطلب",ar_AE
+mail.order.confirmation.price_including_tax,"السعر الإجمالي بما في ذلك الضرائب",ar_AE
+mail.order.confirmation.date,"تاريخ الطلب",ar_AE
+mail.order.confirmation.footer.text_line_1,"استمتع بيوم جميل!",ar_AE
+mail.order.confirmation.footer.text_line_2,"متجرك سبرايكر",ar_AE
+mail.order.confirmation.shipment_details,"تفاصيل الشحن",ar_AE
+mail.order.confirmation.shipment_number,"رقم الشحنة",ar_AE
+mail.order.confirmation.shipping_method,"طريقة الشحن",ar_AE
+mail.order.confirmation.delivery_date,"تاريخ التسليم المطلوب",ar_AE
+mail.order.confirmation.products_in_shipment,"المنتجات حسب الشحن",ar_AE
+mail.order.confirmation.product_title,"عنوان المنتج",ar_AE
+mail.order.confirmation.item_quantity,"كمية العنصر",ar_AE
+mail.order.confirmation.item_sku,"رقم المنتج SKU",ar_AE
+mail.order.confirmation.item_price_including_tax,"السعر الإجمالي للعنصر بما في ذلك الضرائب",ar_AE
+mail.order.shipped.subject,"طلبك %orderReference% في طريقه",ar_AE
+mail.order.shipped.salutation,مرحبًا,ar_AE
+mail.order.shipped.text,"طلبك في طريقه بالفعل.",ar_AE
+mail.order.shipped.details,"تفاصيل طلبك",ar_AE
+mail.order.shipped.order_number,"رقم الطلب",ar_AE
+mail.order.shipped.price_including_tax,"السعر الإجمالي بما في ذلك الضرائب",ar_AE
+mail.order.shipped.date,"تاريخ الطلب",ar_AE
+mail.order.shipped.footer.text_line_1,"استمتع بيوم جميل!",ar_AE
+mail.order.shipped.footer.text_line_2,"متجرك سبرايكر",ar_AE
+mail.order_invoice.subject,"فاتورة: %invoiceReference%",ar_AE
+cart.item.remove.confirm,"هل أنت متأكد أنك تريد إزالة هذا العنصر؟",ar_AE
+cart.voucher.remove,إزالة,ar_AE
+cart.vouchers.clear-all,"مسح الكل",ar_AE
+cart.voucher.apply.failed,"رمز القسيمة الخاص بك غير صالح.",ar_AE
+cart.voucher.apply.successful,"تم تطبيق رمز القسيمة الخاص بك",ar_AE
+cart.voucher.apply.non_applicable,"الرمز الترويجي غير صالح",ar_AE
+cart.code.apply.failed,"تعذر تطبيق الرمز",ar_AE
+cart.code.enter-code,"أدخل رمز القسيمة",ar_AE
+cart.item.bundle.description,"العناصر في الحزمة:",ar_AE
+cart_widget.add_product.separate,"أضف كعنصر منفصل",ar_AE
+checkout.summary.item.bundle.description,"العناصر في الحزمة:",ar_AE
+customer.order.bundled_items,"العناصر في الحزمة:",ar_AE
+customer.order.options,"خيارات المنتج:",ar_AE
+cart.item.option.description,"خيارات المنتج:",ar_AE
+cart.item.sku,SKU,ar_AE
+cart.item.color,اللون,ar_AE
+checkout.summary.item.option.description,"خيارات المنتج:",ar_AE
+invoice.order.address.billing,"عنوان الفوترة",ar_AE
+invoice.order.address.shipping,"عنوان الشحن",ar_AE
+invoice.header,فاتورة,ar_AE
+invoice.order.number,"المرجع الخاص بالطلب",ar_AE
+invoice.customer.number,"المرجع الخاص بالعميل",ar_AE
+invoice.created.at,"تاريخ الفاتورة",ar_AE
+invoice.order.item.sku,SKU,ar_AE
+invoice.order.item.product_name,"اسم المنتج",ar_AE
+invoice.order.item.quantity,"الكمية",ar_AE
+invoice.order.item.price,"سعر العنصر",ar_AE
+invoice.order.item.price_total,"إجمالي العناصر",ar_AE
+invoice.order.grand_total,"المجموع الكلي",ar_AE
+invoice.order.tax_amount,"شامل القيمة المضافة",ar_AE
+invoice.order.expenses.total,"تكاليف الشحن",ar_AE
+invoice.company.address,"Spryker Systems GmbH<br/>شارع جولي-وولفتهورن 1<br />10115 برلين / ألمانيا",ar_AE
+invoice.company.bank.information,"اسم البنك<br/>IBAN 1234 5678 9123 4567 89<br />BIC 12345678<br/>سجل التجارة ABC123456<br />رقم الضريبة 12/345/6789",ar_AE
+invoice.company.contact.information,"+49 (0)30 2084983 50<br/>hello@spryker.com",ar_AE
+DummyPaymentCreditCard,"بطاقة الائتمان",ar_AE
+payment.dummy-payment.credit-card,"ادفع باستخدام بطاقة الائتمان التالية:",ar_AE
+dummyPaymentCreditCard.card_type,"نوع البطاقة",ar_AE
+dummyPaymentCreditCard.card_number,"رقم البطاقة",ar_AE
+dummyPaymentCreditCard.name_on_card,"اسم على البطاقة",ar_AE
+dummyPaymentCreditCard.card_expires,"تاريخ الانتهاء",ar_AE
+dummyPaymentCreditCard.card_security_code,CVC,ar_AE
+DummyPaymentInvoice,فاتورة,ar_AE
+dummyPaymentInvoice.invoice,"ادفع بواسطة الفاتورة:",ar_AE
+dummyPaymentInvoice.date_of_birth,"تاريخ الميلاد",ar_AE
+dummyPaymentInvoice.icon,"شعار الفاتورة",ar_AE
+DummyMarketplacePaymentInvoice,"فاتورة المتجر",ar_AE
+dummyMarketplacePaymentInvoice.invoice,"ادفع بواسطة الفاتورة:",ar_AE
+checkout.payment.provider.DummyMarketplacePayment,"الدفع في سوق دمي",ar_AE
+cart.item.item_price,"سعر السلعة",ar_AE
+cart.item.item_total,"إجمالي العناصر",ar_AE
+product_review.product_ratings,"تقييمات المنتج",ar_AE
+product_review.product_reviews,"مراجعات المنتج",ar_AE
+product_review.on,على,ar_AE
+product_review.summary.star,نجم,ar_AE
+product_review.summary.stars,النجوم,ar_AE
+product_review.summary.out_of,خارج,ar_AE
+product_review.summary.review,مراجعة,ar_AE
+product_review.summary.reviews,المراجعات,ar_AE
+product_review.summary.title,"التقييمات والمراجعات",ar_AE
+product_review.no_reviews,"لا توجد تقييمات لهذا المنتج حتى الآن",ar_AE
+product_review.submit.add_a_review,"أضف تقييمًا",ar_AE
+product_review.submit.rating,تقييم,ar_AE
+product_review.submit.rating.none,"لم يتم اختيار تقييم",ar_AE
+product_review.submit.summary,ملخص,ar_AE
+product_review.submit.description,الوصف,ar_AE
+product_review.submit.nickname,الاسم,ar_AE
+product_review.submit.success,"تم إرسال مراجعة المنتج بنجاح.",ar_AE
+product_review.error.no_customer,"يرجى تسجيل الدخول للوصول إلى هذه الميزة.",ar_AE
+product_review.error.invalid_rating,"يجب تحديد تقييم المنتج.",ar_AE
+cart.promotion.items,"منتجات ترويجية",ar_AE
+checkout.payment_method.invalid,"الدفع في عملية الدفع غير صالحة",ar_AE
+checkout.payment.provider.DummyPayment,"الدفع الوهمي",ar_AE
+checkout.order.duplicate,"الطلب بالرقم المرجعي المعطى {{reference}} موجود بالفعل",ar_AE
+cms.preview.access_denied,"أنت غير مسجل الدخول أو ليس لديك إذن للوصول إلى هذه الصفحة.",ar_AE
+product-cart.validation.error.abstract-product-exists,"المنتج ""sku"" غير موجود",ar_AE
+product-cart.validation.error.concrete-product-exists,"المنتج ""sku"" غير موجود",ar_AE
+cart.item.option.pre.check.validation.error.exists,"خيار المنتج %name% غير متوفر بعد الآن.",ar_AE
+product-cart.validation.error.product-option-value-price-exists,"سعر خيار المنتج للمنتج '%sku%' غير موجود.",ar_AE
+product-cart.validation.error.concrete-product-inactive,"المنتج ""sku"" غير نشط.",ar_AE
+product-approval.message.not-approved,"المنتج ذو الرمز %sku% غير نشط.",ar_AE
+product-cart.info.concrete-product-inactive.removed,"تمت إزالة العنصر الغير نشط %sku% من سلة التسوق الخاصة بك.",ar_AE
+product-cart.info.restricted-product.removed,"تمت إزالة العنصر %sku% من السلة لأنه تم تعطيله.",ar_AE
+reorder.info.restricted-product.removed,"العنصر %sku% لا يمكن إضافته إلى السلة لأنه تم تعطيله.",ar_AE
+product.filter.label,"تصنيفات المنتجات",ar_AE
+product.filter.price-default-chf-gross_mode,السعر,ar_AE
+product.filter.price-default-chf-net_mode,السعر,ar_AE
+product.filter.price-default-eur-net_mode,السعر,ar_AE
+product.filter.price-default-eur-gross_mode,السعر,ar_AE
+price.mode.gross_mode,"أسعار البيع بالجملة",ar_AE
+price.mode.net_mode,"أسعار صافية",ar_AE
+price.mode.incl_vat,"تشمل ضريبة القيمة المضافة",ar_AE
+price.mode.excl_vat,"استبعاد القيمة المضافة",ar_AE
+price_product.error.price_not_found,"سعر المنتج غير موجود.",ar_AE
+cart.pre.check.price.failed,"السعر في العملة المحددة غير موجود للمنتج برقم المرجع '%sku%'. يرجى تغيير العملة أو إزالة المنتج من الطلب.",ar_AE
+price.mode.switch.error,"لا يمكن تغيير وضع السعر عند وجود عناصر في السلة.",ar_AE
+price-cart-connector.info.concrete-product-without-price.removed,"العنصر %sku% بدون سعر تمت إزالته من سلة التسوق الخاصة بك.",ar_AE
+cart.pre.check.shipment.failed,"لا يمكن تطبيق هذه التغييرات. طريقة الشحن غير موجودة. يرجى اختيار طريقة شحن أخرى.",ar_AE
+catalog.view.mode.grid,شبكة,ar_AE
+catalog.view.mode.list,قائمة,ar_AE
+cart.quantity.adjusted,"تم تعديل كمية العنصر المطلوبة بقدر ما لم يتوفر الكمية المحددة.",ar_AE
+catalog.sale,تخفيضات,ar_AE
+catalog.new,جديد,ar_AE
+company.account.page-title,شركتي,ar_AE
+company.account.no-company-title,"لا يوجد شركة",ar_AE
+company.account.name,"اسم الشركة",ar_AE
+company.account,"حساب الشركة",ar_AE
+company.account.address.edit,"تعديل",ar_AE
+company.account.address.delete,حذف,ar_AE
+company.account.shipping_address,"العنوان الشحن الافتراضي",ar_AE
+company.account.billing_address,"العنوان الافتراضي للفواتير",ar_AE
+company.account.address.address1,الشارع,ar_AE
+company.account.address.number," الرقم",ar_AE
+company.account.address.address3,"إضافة إلى العنوان",ar_AE
+company.account.address.zip_code,"الرمز البريدي",ar_AE
+company.account.address.city,المدينة,ar_AE
+company.account.address.country,الدولة,ar_AE
+company.account.address.phone,"رقم الهاتف",ar_AE
+company.account.address,العناوين,ar_AE
+company.account.edit_address_information,"تعديل معلومات العنوان",ar_AE
+company.account.login.title,"الوصول إلى حسابك",ar_AE
+company.account.login.email,"البريد الإلكتروني",ar_AE
+company.account.login.password,"كلمة المرور",ar_AE
+company.account.registration.title,"إنشاء حساب",ar_AE
+company.user.first_name,"الاسم الأول",ar_AE
+company.user.last_name,اللقب,ar_AE
+company.user.salutation.mr,السيد,ar_AE
+company.user.salutation.mrs,السيدة,ar_AE
+company.user.salutation.ms,السيدة,ar_AE
+company.user.salutation.dr,دكتور,ar_AE
+company.account.overview,"نظرة عامة",ar_AE
+company.user.invitation.title.plural,الدعوات,ar_AE
+company.user.invitation.invite_users,"دعوة المستخدمين",ar_AE
+company.user.invitation.imported.title.plural,"دعوات مستوردة",ar_AE
+company.user.invitation.import.title,"استيراد دعوات جديدة",ar_AE
+company.user.invitation.import.download.errors.file,"بعض الدعوات لم يتم استيرادها بنجاح. انقر <a href=""%link%"">هنا</a> لتحميل ملف الأخطاء",ar_AE
+company.user.invitation.import.error.message,"فشل استيراد الدعوات",ar_AE
+company.user.invitation.file,"ملف الدعوات",ar_AE
+company.user.invitation.first.name,"الاسم الأول",ar_AE
+company.user.invitation.last.name,"الاسم الأخير",ar_AE
+company.user.invitation.mail,البريد,ar_AE
+company.user.invitation.business.unit,"وحدة الأعمال",ar_AE
+company.user.invitation.status,الحالة,ar_AE
+company.user.invitation.actions,الإجراءات,ar_AE
+company.user.invitation.status.new,"غير مرسل",ar_AE
+company.user.invitation.status.pending,"قيد الانتظار",ar_AE
+company.user.invitation.status.accepted,مقبول,ar_AE
+company.user.invitation.not.found.message,"الدعوة غير موجودة",ar_AE
+company.user.invitation.send.button,أرسل,ar_AE
+company.user.invitation.sent.success.message,"تم إرسال الدعوة بنجاح",ar_AE
+company.user.invitation.sent.error.message,"لم يتم إرسال الدعوة",ar_AE
+company.user.invitation.send.all.button,"أرسل الكل",ar_AE
+company.user.invitation.sent.all.success.message,"جميع الدعوات تم إرسالها بنجاح",ar_AE
+company.user.invitation.sent.all.none.found.message,"لا توجد دعوات لإرسالها",ar_AE
+company.user.invitation.sent.all.error.message,"بعض الدعوات لم يتم إرسالها بنجاح",ar_AE
+company.user.invitation.resend.title,"إعادة إرسال الدعوة",ar_AE
+company.user.invitation.resend.confirmation.question,"هل أنت متأكد أنك تريد إعادة إرسال الدعوة؟",ar_AE
+company.user.invitation.resend.button,"إعادة إرسال",ar_AE
+company.user.invitation.resent.success.message,"تم إعادة إرسال الدعوة بنجاح",ar_AE
+company.user.invitation.resent.error.message,"لم يتم إعادة إرسال الدعوة",ar_AE
+company.user.invitation.delete.title,"حذف الدعوة",ar_AE
+company.user.invitation.delete.confirmation.question,"هل أنت متأكد أنك تريد حذف الدعوة؟",ar_AE
+company.user.invitation.delete.button,حذف,ar_AE
+company.user.invitation.deleted.success.message,"تم حذف الدعوة بنجاح",ar_AE
+company.user.invitation.deleted.error.message,"لم يتم حذف الدعوة",ar_AE
+company.user.invitation.invalid,"دعوتك غير صالحة",ar_AE
+company.user.invitation.expired,"دعوتك قد انتهت",ar_AE
+company.user.invitation.accepted,"تم استخدام دعوتك بالفعل",ar_AE
+company.user.invitation.import.file.invalid,"الملف المستورد غير صالح",ar_AE
+mail.company.user.invitation.subject,دعوة,ar_AE
+mail.company.user.invitation.body.html,"مرحبًا %name%، تمت دعوتك للانضمام إلى حساب الشركة على متجر سبرايكر للتجربة، يرجى اتباع هذا <a href=""%invitationLink%"">الرابط</a> لإكمال عملية التسجيل الخاصة بك.",ar_AE
+mail.company.user.invitation.body.text,"مرحبًا %name%، تمت دعوتك للانضمام إلى حساب الشركة على متجر سبرايكر للتجربة، يرجى اتباع هذا الرابط %invitationLink% لإكمال عملية التسجيل الخاصة بك.",ar_AE
+company.account.add_new_address,"تعريف عنوان جديد",ar_AE
+company.account.table.actions,الإجراءات,ar_AE
+company.account.business_unit.view,عرض,ar_AE
+company.account.business_unit.create,"إنشاء وحدة عمل تجارية",ar_AE
+company.account.business_unit.edit,"تعديل",ar_AE
+company.account.business_unit.delete,حذف,ar_AE
+company.account.business_unit.address,العناوين,ar_AE
+company.account.business_unit.details,تفاصيل,ar_AE
+company.account.business_unit.description,"بإنشاء وحدة عمل جديدة ، يمكنك تعيين أدوار ووحدات فرعية مختلفة.",ar_AE
+company.company_business_unit.delete.error.has_users,"لا يمكنك حذف وحدة عمل بينما تحتوي على مستخدمين",ar_AE
+company.company_business_unit.delete.confirmation.warning,تحذير,ar_AE
+company.company_business_unit.delete.confirmation.back,رجوع,ar_AE
+company.account.address.is_default_billing,"هو عنوان الفوترة الافتراضي",ar_AE
+company.account.authorization.success,"تم التسجيل بنجاح",ar_AE
+company.account.company_user,المستخدمون,ar_AE
+company.account.company_user.add,"إضافة مستخدم جديد",ar_AE
+company.account.company_role,الأدوار,ar_AE
+company.account.company_role.add,"أضف دورًا جديدًا",ar_AE
+company.account.company_role.default,"الافتراضي",ar_AE
+company.account.company_role.edit,"تعديل",ar_AE
+company.account.company_role.name,الاسم,ar_AE
+company.account.company_role.is_default,"هو الافتراضي",ar_AE
+company.account.company_role.edit_information,"تعديل دور '%role_name%'",ar_AE
+company.account.company_role.details,تفاصيل,ar_AE
+company.account.company_role.view,عرض,ar_AE
+company.account.company_role.user.manage,"إدارة المستخدمين المعينين للشركة",ar_AE
+company.account.company_role.users,المستخدمون,ar_AE
+company.account.company_role.permissions,الأذونات,ar_AE
+company.account.company_role.permission.key,مفتاح,ar_AE
+company.account.company_role.permission.configure,تكوين,ar_AE
+company.account.company_role.permission.manage,"إدارة الأذونات",ar_AE
+company.account.company_role.permission.status,الحالة,ar_AE
+company.account.company_role.permission.assign,تعيين,ar_AE
+company.account.company_role.permission.assigned,"تم تعيينه",ar_AE
+company.account.company_role.permission.unassign,"إلغاء التعيين",ar_AE
+company.account.company_role.permission.unassigned,"غير معين",ar_AE
+company.company_role.delete.error.has_users,"لا يمكنك حذف دور بينما يحتوي على مستخدمين",ar_AE
+company.account.business_unit.name,الاسم,ar_AE
+company.account.business_unit.email,"البريد الإلكتروني",ar_AE
+company.account.business_unit.phone,"رقم الهاتف",ar_AE
+company.account.business_unit.external_url,"الرابط الخارجي",ar_AE
+company.account.business_unit,"وحدات الأعمال",ar_AE
+company.account.business_unit.add,"إنشاء وحدة عمل تجارية",ar_AE
+company.account.business_unit.edit_information,"تعديل وحدة العمل",ar_AE
+company.account.company_name,"اسم الشركة",ar_AE
+company.account.company_user.name,الاسم,ar_AE
+company.account.company_user.role,الأدوار,ar_AE
+company.account.company_user.business_unit,"وحدة الأعمال",ar_AE
+company.account.company_user.edit_information,"تعديل معلومات المستخدم",ar_AE
+company.account.company_user.create.successful,"تم إنشاء مستخدم الشركة بنجاح",ar_AE
+company.account.company_user.update.successful,"تم تحديث مستخدم الشركة بنجاح",ar_AE
+company.account.company_user.delete.successful,"تمت إزالة مستخدم الشركة بنجاح",ar_AE
+company.account.company_user.delete.error,"لا يمكن إزالة مستخدم الشركة",ar_AE
+company.account.company_user.delete.error.delete_yourself,"أنت غير مسموح لك بحذف نفسك",ar_AE
+company.account.company_user.delete.confirmation.warning,تحذير,ar_AE
+company.account.company_user.delete.confirmation.trying_to_delete,"أنت تحاول حذف المستخدم",ar_AE
+company.account.company_user.delete.confirmation.deleted_from_everywhere,"سيتم حذفه من كل مكان",ar_AE
+company.account.company_user.delete,حذف,ar_AE
+customer.access.cannot_see_price,"يرجى تسجيل الدخول لرؤية السعر",ar_AE
+company.account.company_user.delete.back,رجوع,ar_AE
+company.account.company_user.enable,تمكين,ar_AE
+company.account.company_user.disable,تعطيل,ar_AE
+company.account.company_user.status.enable.success,"تم تمكين مستخدم الشركة بنجاح",ar_AE
+company.account.company_user.status.enable.error,"لا يمكن تمكين مستخدم الشركة",ar_AE
+company.account.company_user.status.enable.error.cannot_enable_yourself,"أنت غير مسموح لك بتمكين نفسك",ar_AE
+company.account.company_user.status.disable.success,"تم تعطيل مستخدم الشركة بنجاح",ar_AE
+company.account.company_user.status.disable.error,"لا يمكن تعطيل مستخدم الشركة",ar_AE
+company.account.company_user.status.disable.error.cannot_disable_yourself,"أنت غير مسموح لك بتعطيل نفسك",ar_AE
+quick-order.page-title,"الطلب السريع",ar_AE
+quick-order.input-label.qty,الكمية,ar_AE
+quick-order.input-label.sku,SKU,ar_AE
+quick-order.button.add-more-rows,"أضف المزيد من الصفوف",ar_AE
+quick-order.button.create-order,"إنشاء طلب",ar_AE
+quick-order.button.clear-all-rows,"مسح جميع الصفوف",ar_AE
+quick-order.message.success.the-form-items-have-been-successfully-cleared,"تم مسح عناصر النموذج بنجاح.",ar_AE
+quick-order.errors.items-required,"يرجى إدخال رقم المنتج على الأقل.",ar_AE
+quick-order.errors.quantity-required,"الكمية يجب أن تكون على الأقل 1",ar_AE
+quick-order.errors.quantity-invalid,"القيمة المدخلة للكمية غير صالحة. تم تعديل الكمية إلى القيمة الصالحة التالية.",ar_AE
+quick-order.paste-order.title,"أضف المقالات",ar_AE
+quick-order.paste-order.description,"انسخ والصق مقالاتك مع رمز المنتج والكمية مفصولة بمسافة أو فاصلة منقوطة أو فاصلة.",ar_AE
+quick-order.paste-order.input-placeholder.copy-paste-order,"ألصق طلبك هنا",ar_AE
+quick-order.paste-order.button.verify,تحقق,ar_AE
+quick-order.paste-order.errors.text-order-format-incorrect,"تنسيق الطلب غير صحيح.",ar_AE
+quick-order.paste-order.errors.parser.separator-not-detected,"غير محدد المفصل.",ar_AE
+quick-order.file-upload-order.title,"قم بتحميل طلبك",ar_AE
+quick-order.file-upload-order.description,"اختر ملف",ar_AE
+quick-order.file-upload-order.success-message,"تم تحميل الملف بنجاح",ar_AE
+quick-order.file-upload-order.error-message,"الملف لا يمكن تحميله. انقر هنا %url% لتحميل قالب csv",ar_AE
+quick-order.file-upload-order.file-template-download-message,"انقر هنا لتحميل قالب %template%",ar_AE
+quick-order.file-upload-order.button.upload,تحميل,ar_AE
+quick-order.upload-order.errors.upload-order-invalid-mime-type,"نوع الملف غير صالح.",ar_AE
+quick-order.upload-order.errors.upload-order-invalid-amount-of-rows,"لديك العديد من الصفوف، لا يمكن معالجة الملف.",ar_AE
+quick-order.upload-order.errors.upload-order-invalid-format,"تنسيق غير صالح.",ar_AE
+quick-order.upload-order.errors.upload-order-no-file,"لم يتم إضافة أي ملف.",ar_AE
+quick-order.input-label.sku.name,"SKU أو الاسم",ar_AE
+quick-order.input.placeholder,"البحث حسب رمز المنتج أو الاسم",ar_AE
+quick-order.input-label.measurement_unit,"وحدة القياس",ar_AE
+quick-order.input-label.merchant,تاجر,ar_AE
+quick-order.input-label.price,السعر,ar_AE
+quick-order.search.no_results,"العنصر غير موجود",ar_AE
+quick-order.input-quantity.message.error,"تم تعديل الكمية المطلوبة إلى الكمية الممكنة التالية للمنتج.",ar_AE
+quick-order.upload-order.errors.upload-order-invalid-sku-item,"المنتج بهذا الرمز غير موجود.",ar_AE
+quick-order.upload-order.allowed-file-extensions,"فقط الملفات %extensions% مقبولة",ar_AE
+quick-order.upload-order.browse-file,"لا يوجد ملف محدد. تصفح الملف",ar_AE
+checkout.pre.check.shipment.failed,"طريقة الشحن غير صالحة %method_name% (%carrier_name%).",ar_AE
+checkout.validation.company_address.not_found,"عنوان الشركة بالمعرف %id% غير موجود.",ar_AE
+checkout.validation.company_address.not_applicable,"عناوين الشركة تنطبق فقط على المستخدمين الشركات.",ar_AE
+checkout.validation.item.no_shipment_selected,"لم يتم تحديد شحنة لعنصر العربة %id%.",ar_AE
+checkout.validation.customer_address.not_found,"عنوان العميل بالمعرف %id% غير موجود.",ar_AE
+checkout.validation.customer_address.not_applicable,"عناوين العملاء تنطبق فقط على العملاء.",ar_AE
+measurement_units.item.name,العنصر,ar_AE
+measurement_units.standard.weight.kilo.name,كيلو,ar_AE
+measurement_units.standard.weight.gram.name,جرام,ar_AE
+measurement_units.standard.weight.tone.name,طن,ar_AE
+measurement_units.standard.weight.gbou.name,"أوقية بريطانية",ar_AE
+measurement_units.standard.weight.usou.name,"أونصة أمريكية",ar_AE
+measurement_units.standard.weight.pund.name,جنيه,ar_AE
+measurement_units.standard.weight.huwg.name,"الوزن المئوي",ar_AE
+measurement_units.standard.weight.gbtn.name,"طن جيجابايت",ar_AE
+measurement_units.standard.weight.ustn.name,"طن أمريكي",ar_AE
+measurement_units.standard.weight.oztr.name,"أوقية تروي",ar_AE
+measurement_units.standard.weight.ucwt.name,"القنطار الأمريكي",ar_AE
+measurement_units.standard.length.metr.name,متر,ar_AE
+measurement_units.standard.length.cmet.name,سنتيمتر,ar_AE
+measurement_units.standard.length.mmet.name,ميليمتر,ar_AE
+measurement_units.standard.length.kmet.name,كيلومتر,ar_AE
+measurement_units.standard.length.inch.name,بوصة,ar_AE
+measurement_units.standard.length.yard.name,ساحة,ar_AE
+measurement_units.standard.length.foot.name,قدم,ar_AE
+measurement_units.standard.length.mile.name,ميل,ar_AE
+measurement_units.standard.area.smet.name,"متر مربع",ar_AE
+measurement_units.standard.area.sqki.name,"كيلومتر مربع",ar_AE
+measurement_units.standard.area.smil.name,"مليمتر مربع",ar_AE
+measurement_units.standard.area.scmt.name,"سنتيمتر مربع",ar_AE
+measurement_units.standard.area.sqin.name,"بوصة مربعة",ar_AE
+measurement_units.standard.area.sqfo.name,"قدم مربع",ar_AE
+measurement_units.standard.area.sqmi.name,"ميل مربع",ar_AE
+measurement_units.standard.area.sqya.name,"متر مربع",ar_AE
+measurement_units.standard.area.acre.name,أكر,ar_AE
+measurement_units.standard.area.ares.name,هل,ar_AE
+measurement_units.standard.area.hect.name,هكتار,ar_AE
+measurement_units.standard.litr.name,لتر,ar_AE
+measurement_units.standard.celi.name,سنتيلتر,ar_AE
+measurement_units.standard.mili.name,"مللي لتر",ar_AE
+measurement_units.standard.gbga.name,"جالون غيغابايت",ar_AE
+measurement_units.standard.gbpi.name,"باينت جيجابايت",ar_AE
+measurement_units.standard.uspi.name,"الباينت الأمريكي",ar_AE
+measurement_units.standard.gbqa.name,"جي بي كوارت",ar_AE
+measurement_units.standard.usqa.name,"ربع الجالون الأمريكي",ar_AE
+measurement_units.standard.usga.name,"جالون أمريكي",ar_AE
+measurement_units.standard.barl.name,برميل,ar_AE
+measurement_units.standard.bcuf.name,"مليار قدم مكعب",ar_AE
+measurement_units.standard.bdft.name,"قدم اللوح",ar_AE
+measurement_units.standard.cbme.name,"متر مكعب",ar_AE
+measurement_units.standard.miba.name,"مليون برميل",ar_AE
+measurement_units.standard.dgeu.name,"مكافئ الديزل بالجالون",ar_AE
+measurement_units.standard.ggeu.name,"مكافئ جالون البنزين",ar_AE
+measurement_units.standard.busl.name,البوشل,ar_AE
+measurement_units.recommendation.between-units-info,"الكمية التي اخترتها تقع بين وحدتين أساسيتين",ar_AE
+measurement_units.recommendation.min-violation,"متطلبات الحد الأدنى لكمية المنتج غير مستوفاة",ar_AE
+measurement_units.recommendation.max-violation,"متطلبات الحد الأقصى للكمية للمنتج غير مستوفاة",ar_AE
+measurement_units.recommendation.suggestion,"هل ترغب في إضافة",ar_AE
+measurement_units.new-price,"السعر الجديد",ar_AE
+product.measurement.sales_unit,"وحدة البيع",ar_AE
+cart.pre.check.quantity.min.failed,"متطلبات الحد الأدنى للكمية لمنتج SKU '%sku%' لم تتم ملئها.",ar_AE
+cart.pre.check.quantity.max.failed,"الكمية القصوى للمنتج برقم المرجع '%sku%' تم تجاوزها.",ar_AE
+cart.pre.check.quantity.value.failed,"الكمية غير صحيحة لمنتج SKU '%sku%'.",ar_AE
+cart.pre.check.quantity.interval.failed,"متطلبات فاصل الكمية لمنتج SKU '%sku%' غير مستوفاة.",ar_AE
+persistent_cart.error.quote.not_available,"السلة غير موجودة",ar_AE
+persistent_cart.quote.remove.success,"تم حذف العربة بنجاح",ar_AE
+persistent_cart.quote.remove.can_not_remove_last_cart,"العميل يجب أن يمتلك عربة واحدة على الأقل",ar_AE
+cart_note.cart_page.item.note_added,"تمت إضافة الملاحظة بنجاح إلى العنصر '%sku%'",ar_AE
+cart_note.cart_page.cart.note_added,"تمت إضافة الملاحظة بنجاح إلى السلة",ar_AE
+cart_note.quote_form.enter_note,"أضف ملاحظة للسلة",ar_AE
+cart_note.quote_form.placeholder,"أدخل ملاحظتك",ar_AE
+cart_note.item_form.enter_note,"أضف ملاحظة للعنصر",ar_AE
+cart_note.item_form.placeholder,"أدخل ملاحظتك",ar_AE
+cart_note.form.save,حفظ,ar_AE
+cart_note.form.comment,تعليق,ar_AE
+cart_note.form.add_comment,"أضف تعليقًا",ar_AE
+cart_note.form.edit_comment,"تعديل التعليق",ar_AE
+cart_note.form.remove_comment,"إزالة التعليق",ar_AE
+cart_note.checkout_page.item_note,ملاحظة,ar_AE
+cart_note.checkout_page.quote_note,"ملاحظة السلة",ar_AE
+cart_note.customer_page.item_note,"ملاحظة عنصر الطلب",ar_AE
+cart_note.customer_page.order_note,"ملاحظة الطلب",ar_AE
+cart.validate.items.price.changed,"تم تغيير الأسعار للمنتجات ذات الرمز '%sku%'.",ar_AE
+multi_cart.form.create_cart,"أضف سلة جديدة",ar_AE
+multi_cart.form.quote.name,"اسم السلة",ar_AE
+multi_cart.form.duplicate,"تكرار",ar_AE
+multi_cart.form.edit,"تعديل",ar_AE
+multi_cart.form.edit_cart,"تعديل السلة",ar_AE
+multi_cart.form.edit_cart_information,"تعديل ""cart_name""",ar_AE
+multi_cart.cart.set_default.success,"تم تعيين سلة الشراء '%quote%' بنجاح كسلة الشراء النشطة الخاصة بك.",ar_AE
+multi_cart_page.cart_clear.success,"تم تفريغ السلة بنجاح",ar_AE
+multi_cart_page.cart_delete_confirmation.warning,تحذير,ar_AE
+multi_cart_page.cart_delete_confirmation.trying_to_delete,"أنت تحاول حذف السلة",ar_AE
+multi_cart_page.cart_delete_confirmation.shared_with,"تمت مشاركته مع المستخدمين التاليين",ar_AE
+multi_cart_page.cart_delete_confirmation.from_all_of_them,"سيتم حذفه من جميعها",ar_AE
+multi_cart_page.cart_delete_confirmation.cancel,إلغاء,ar_AE
+multi_cart_page.cart_delete_confirmation.delete,حذف,ar_AE
+multi_cart_page.cart_delete_confirmation.breadcrumbs.shopping_carts,"عربات التسوق",ar_AE
+multi_cart_page.delete_all,"حذف الكل",ar_AE
+multi_cart_widget.cart.cart_name,"اسم السلة",ar_AE
+multi_cart_widget.cart.add,"إنشاء سلة جديدة",ar_AE
+multi_cart_widget.cart.action.change_name,"تغيير الاسم",ar_AE
+multi_cart_widget.cart.action.duplicate,"تكرار",ar_AE
+multi_cart_widget.cart.action.clear,"مسح السلة",ar_AE
+multi_cart_widget.cart.action.delete,"حذف السلة",ar_AE
+multi_cart_widget.cart.action.view,"عرض التفاصيل",ar_AE
+multi_cart_widget.cart.action.set_default,"تعيين نشط",ar_AE
+multi_cart_widget.cart.default,نشط,ar_AE
+multi_cart_widget.cart.item,العنصر,ar_AE
+multi_cart_widget.cart.items,العناصر,ar_AE
+multi_cart_widget.cart.view_all,"جميع العربات",ar_AE
+multi_cart_widget.cart.cart,"عربة التسوق",ar_AE
+multi_cart_widget.cart.carts,"عربات التسوق",ar_AE
+multi_cart_widget.cart.list,"قائمة السلة",ar_AE
+multi_cart_widget.cart.status,الحالة,ar_AE
+multi_cart_widget.cart.sub_total,"المجموع الفرعي",ar_AE
+multi_cart_widget.cart.actions,الإجراءات,ar_AE
+multi_cart_widget.cart.created.success,"تم إنشاء سلة الشراء '%quoteName%' بنجاح",ar_AE
+multi_cart_widget.cart.updated.success,"تم تحديث السلة بنجاح",ar_AE
+multi_cart_widget.cart.remove.confirm,"هل أنت متأكد أنك تريد إزالة هذه العربة؟",ar_AE
+multi_cart_widget.cart.delete.error,"السلة لا يمكن إزالتها",ar_AE
+shared_cart_widget.add_product.separate,"أضف كعنصر منفصل",ar_AE
+shared_cart_widget.cart.share,"مشاركة السلة",ar_AE
+shared_cart_widget.cart.unshare,"إلغاء مشاركة السلة",ar_AE
+shared_cart_widget.cart.dismiss,تجاهل,ar_AE
+shared_cart_widget.share_list.shared_with,"سلة المشتريات المشتركة مع",ar_AE
+shared_cart_widget.share_list.customer_name,المستخدم,ar_AE
+shared_cart_widget.share_list.permission,"مستوى الوصول",ar_AE
+shared_cart_widget.share_list.actions,الإجراءات,ar_AE
+shared_cart_widget.share_list.action.unshare,"إلغاء مشاركة السلة",ar_AE
+shared_cart.share_list.permissions.NO_ACCESS,"لا يوجد وصول",ar_AE
+shared_cart.share_list.permissions.READ_ONLY,"قراءة فقط",ar_AE
+shared_cart.share_list.permissions.FULL_ACCESS,"الوصول الكامل",ar_AE
+shared_cart.share_list.permissions.OWNER_ACCESS,"الوصول للمالك",ar_AE
+shared_cart.form.share_cart,"مشاركة السلة",ar_AE
+shared_cart.form.share_cart.title,"مشاركة سلة التسوق ""cart_name""",ar_AE
+shared_cart.form.customer,المستخدم,ar_AE
+shared_cart.form.select_customer,"اختر المستخدم",ar_AE
+shared_cart.form.select_permissions,الوصول,ar_AE
+shared_cart.form.share_button,شارك,ar_AE
+shared_cart.form.save_button,حفظ,ar_AE
+shared_cart.form.data_empty,"لا يوجد مستخدمون معهم يمكنك مشاركة سلة التسوق.",ar_AE
+shared_cart.share.error.already_exist,"تم مشاركة السلة بالفعل مع هذا العميل",ar_AE
+shared_cart.share.breadcrumbs.share,شارك,ar_AE
+shared_cart.share.breadcrumbs.shopping_carts,"عربات التسوق",ar_AE
+shared_cart.share.form.users,المستخدمون,ar_AE
+shared_cart_page.share.success,"تمت مشاركة العربة بنجاح",ar_AE
+shared_cart_page.unshare.success,"تم إلغاء مشاركة السلة بنجاح",ar_AE
+shared_cart_page.dismiss_confirmation.warning,تحذير,ar_AE
+shared_cart.dismiss.title,"رفض سلة المشتريات المشتركة 'اسم الاقتباس'",ar_AE
+shared_cart_page.share.breadcrumbs.dismiss,تجاهل,ar_AE
+shared_cart_page.cart.dismiss,تجاهل,ar_AE
+shared_cart_page.dismiss_confirmation.trying_to_dismiss,"هل أنت متأكد أنك تريد إلغاء سلة التسوق؟",ar_AE
+shared_cart_page.dismiss.success,"تم إزالة سلة التسوق بنجاح.",ar_AE
+shared_cart.cart.set_default.success,"تم تعيين سلة الشراء '%quote%' بنجاح كسلة شراء نشطة.",ar_AE
+shopping_list.shopping_list,"قوائم التسوق",ar_AE
+shopping_list.item_quantity,الكمية,ar_AE
+shopping_list.remove_all_items,"إزالة الكل",ar_AE
+shopping_list.item_note,تعليق:,ar_AE
+shopping_list.item_note.add,"أضف تعليقًا",ar_AE
+shopping_list.item_note.enter_note,"أضف ملاحظة للعنصر",ar_AE
+customer.account.shopping_list,"قوائم التسوق",ar_AE
+customer.account.shopping_list.access,الوصول,ar_AE
+customer.account.shopping_list.access.full_access,"الوصول الكامل",ar_AE
+customer.account.shopping_list.access.read_only,"قراءة فقط",ar_AE
+customer.account.shopping_list.create.success,"تم إنشاء القائمة '%name%' بنجاح.",ar_AE
+customer.account.shopping_list.create.failed,"إنشاء قائمة التسوق فشل.",ar_AE
+customer.account.shopping_list.overview.create.success,"تم إنشاء قائمة التسوق بنجاح.",ar_AE
+customer.account.shopping_list.overview.shared_with,"مشاركة مع",ar_AE
+customer.account.shopping_list.overview.title,"إدارة قوائم التسوق",ar_AE
+customer.account.shopping_list.overview.enter_name,"أدخل الاسم هنا",ar_AE
+customer.account.shopping_list.overview.add_new,"إنشاء قائمة التسوق",ar_AE
+customer.account.shopping_list.overview.name,الاسم,ar_AE
+customer.account.shopping_list.overview.item_count,"عدد العناصر",ar_AE
+customer.account.shopping_list.overview.modified_date,"تاريخ آخر تحديث",ar_AE
+customer.account.shopping_list.overview.created_date,"تم الإنشاء",ar_AE
+customer.account.shopping_list.overview.actions,الإجراءات,ar_AE
+customer.account.shopping_list.overview.edit,"إعادة تسمية",ar_AE
+customer.account.shopping_list.overview.warning,تحذير,ar_AE
+customer.account.shopping_list.overview.view,عرض,ar_AE
+customer.account.shopping_list.overview.form.new,"إنشاء قائمة تسوق جديدة",ar_AE
+customer.account.shopping_list.overview.delete,حذف,ar_AE
+customer.account.shopping_list.overview.empty,"ليس لديك أي قوائم تسوق حتى الآن.",ar_AE
+customer.account.shopping_list.overview.share,شارك,ar_AE
+customer.account.shopping_list.overview.print,طباعة,ar_AE
+customer.account.shopping_list.overview.dismiss,تجاهل,ar_AE
+shopping_list_page.dismiss_confirmation.trying_to_dismiss,"هل أنت متأكد أنك تريد تجاهل قائمة التسوق؟",ar_AE
+shopping_list_page.dismiss.failed,"قائمة التسوق لم تتم إزالتها.",ar_AE
+shopping_list_page.dismiss.success,"تم إلغاء قائمة التسوق بنجاح.",ar_AE
+customer.account.shopping_list.share.from.share,شارك,ar_AE
+customer.account.shopping_list.share.from.share.title,"شارك ""%name%""",ar_AE
+customer.account.shopping_list.share.from.share_with,"شارك قائمة التسوق مع:",ar_AE
+customer.account.shopping_list.item.select_item,"يجب تحديد منتج واحد على الأقل.",ar_AE
+customer.account.shopping_list.item.add.success,"تمت إضافة العنصر %sku% إلى القائمة.",ar_AE
+customer.account.shopping_list.item.add.failed,"العنصر %sku% لا يمكن إضافته إلى القائمة.",ar_AE
+customer.account.shopping_list.items.added_to_cart.select_list,"يجب تحديد قائمة تسوق واحدة على الأقل.",ar_AE
+customer.account.shopping_list.product,المنتج,ar_AE
+customer.account.shopping_list.price,السعر,ar_AE
+customer.account.shopping_list.overview.variant,الاختلاف,ar_AE
+customer.account.shopping_list.availability,التوفر,ar_AE
+customer.account.shopping_list.available,متوفر,ar_AE
+customer.account.shopping_list.not_available,"حاليا غير متوفر",ar_AE
+customer.account.shopping_list.add-to-cart,"أضف إلى السلة",ar_AE
+customer.account.shopping_list.empty,"حالياً لا توجد عناصر في قائمة التسوق الخاصة بك.",ar_AE
+customer.account.shopping_list.add_all_available_to_cart,"أضف جميع المنتجات المتاحة إلى السلة",ar_AE
+customer.account.shopping_list.quick_add,"إضافة سريعة إلى قائمة التسوق",ar_AE
+customer.account.shopping_list.quick_add.submit,أضف,ar_AE
+customer.account.shopping_list.subtotal,"المجموع الفرعي",ar_AE
+customer.account.shopping_list.print_shopping_list,طباعة,ar_AE
+customer.account.shopping_list.item.not_added,"فشلت إضافة المنتج إلى قائمة التسوق.",ar_AE
+customer.account.shopping_list.add_item.success,"تمت إضافة العنصر إلى قائمة التسوق.",ar_AE
+customer.account.shopping_list.item.remove.success,"تمت إزالة المنتج بنجاح.",ar_AE
+customer.account.shopping_list.item.remove.failed,"لم يتم إزالة المنتج من قائمة التسوق.",ar_AE
+customer.account.shopping_list.updated,"تم تحديث قائمة التسوق بنجاح",ar_AE
+customer.account.shopping_list.clear.success,"تم مسح قائمة التسوق بنجاح.",ar_AE
+customer.account.shopping_list.delete.success,"تم حذف قائمة التسوق بنجاح.",ar_AE
+customer.account.shopping_list.delete.failed,"قائمة التسوق لم تتم حذفها.",ar_AE
+customer.account.shopping_list.delete.you_are_trying_to_delete_shopping_list,"أنت تحاول حذف قائمة التسوق",ar_AE
+customer.account.shopping_list.delete.warning,تحذير,ar_AE
+customer.account.shopping_list.delete.it_belongs_to_follow,"ينتمي إلى التالي",ar_AE
+customer.account.shopping_list.delete.it_will_be_deleted_from_all_of_them,"سيتم حذفها من جميعها!",ar_AE
+customer.account.shopping_list.quantity,الكمية,ar_AE
+customer.account.shopping_list.remove,إزالة,ar_AE
+customer.account.shopping_list.permissions.NO_ACCESS,"لا يوجد وصول",ar_AE
+customer.account.shopping_list.permissions.READ_ONLY,"قراءة فقط",ar_AE
+customer.account.shopping_list.permissions.FULL_ACCESS,"الوصول الكامل",ar_AE
+customer.account.shopping_list.item.added_to_cart.failed,"بعض العناصر المحددة لم تتم إضافتها إلى السلة.",ar_AE
+customer.account.shopping_list.items.added_to_cart.not_found,"لا توجد منتجات متاحة للإضافة إلى السلة.",ar_AE
+customer.account.shopping_list.item.added_to_cart,"تمت إضافة العنصر إلى السلة بنجاح.",ar_AE
+customer.account.shopping_list.item.added_all_available_to_cart,"العناصر المتاحة تمت إضافتها إلى السلة بنجاح.",ar_AE
+customer.account.shopping_list.item.added_all_available_to_cart.failed,"لم يتم إضافة جميع العناصر إلى السلة بنجاح",ar_AE
+validation.not_blank,"هذا الحقل يجب ألا يكون فارغًا.",ar_AE
+validation.invalid_date,"تاريخ يجب أن يكون في الصيغة الصحيحة %s.",ar_AE
+validation.address_number,"هذا القيمة غير صالحة (التنسيق المقبول مثال: 12c).",ar_AE
+validation.zip_code,"هذا الحقل يجب أن يحتوي على 5 أرقام بالضبط.",ar_AE
+validation.min_length,"هذا الحقل يجب أن يكون على الأقل {{ limit }} حرفاً.",ar_AE
+validation.max_length.singular,"هذه القيمة طويلة جداً. يجب أن تحتوي على {{ limit }} حرف أو أقل.",ar_AE
+validation.max_length.plural,"هذه القيمة طويلة جدًا. يجب أن تحتوي على {{ limit }} حرفًا أو أقل.",ar_AE
+validation.email,"هذا القيمة ليست عنوان بريد إلكتروني صحيح.",ar_AE
+validation.choice,"هذه القيمة غير صالحة",ar_AE
+shopping_list.cart.items_add.failed,"العناصر لم يتم إضافتها إلى القائمة",ar_AE
+shopping_list.cart.items_add.success,"تمت إضافة العناصر إلى القائمة",ar_AE
+shopping_list.not_applicable,N/A,ar_AE
+shopping_list_add_items_widget.add_to_shopping_list,"أضف إلى قائمة التسوق",ar_AE
+page.detail.add-to-shopping-list,"أضف إلى قائمة التسوق",ar_AE
+cart.add-to-shopping-list,"أضف إلى قائمة التسوق",ar_AE
+cart.add-to-shopping-list.form,"حفظ السلة في قائمة التسوق",ar_AE
+cart.add-to-shopping-list.form.placeholder,"أدخل اسم قائمة التسوق الجديدة",ar_AE
+cart.add-to-shopping-list.form.add_new,"أضف قائمة تسوق جديدة",ar_AE
+cart.add-to-shopping-list.form.create,"إنشاء قائمة التسوق",ar_AE
+cart.add-to-shopping-list.form.error.empty_name,"من فضلك، أدخل اسم قائمة التسوق",ar_AE
+cart.quick_add_to_cart,"إضافة سريعة إلى السلة",ar_AE
+cart.quick_add_to_cart.submit,"أضف إلى السلة",ar_AE
+product_quick_add_widget.form.quantity,"# الكمية",ar_AE
+product_quick_add_widget.form.error.quantity.required,"الكمية يجب أن تكون على الأقل 1",ar_AE
+product_quick_add_widget.form.error.quantity.max_value_constraint,"الكمية المقدمة مرتفعة جدًا",ar_AE
+product_quick_add_widget.form.error.redirect_route_empty,"موجه التوجيه يجب ألا يكون فارغًا",ar_AE
+product_quick_add_widget.form.error.sku.empty,"SKU يجب ألا يكون فارغًا",ar_AE
+customer.account.shopping_list.overview.add_shopping_list_to_cart,"أضف المحدد إلى",ar_AE
+customer.account.shopping_list.items.added_to_cart.failed,"بعض العناصر لم تتم إضافتها إلى السلة.",ar_AE
+customer.account.shopping_list.items.added_to_cart,"العناصر تمت إضافتها إلى السلة بنجاح.",ar_AE
+customer.account.shopping_list.add_selected_items_to_cart,"أضف العناصر المحددة إلى السلة",ar_AE
+customer.account.shopping_list.share.select_company_user,"اختر العميل",ar_AE
+customer.account.shopping_list.share.select_company_business_unit,"اختر وحدة الأعمال",ar_AE
+customer.account.shopping_list.share.select_permission,"اختر مستوى الوصول",ar_AE
+customer.account.shopping_list.share.error.one_id_required,"يرجى اختيار إما العميل أو وحدة الأعمال لمشاركة قائمة التسوق معها.",ar_AE
+customer.account.shopping_list.share.share_shopping_list_successful,"نجحت مشاركة قائمة التسوق",ar_AE
+customer.account.shopping_list.share.share_shopping_list_fail,"تم مشاركة هذه القائمة التسوق من قبل مع هذه الجهة.",ar_AE
+customer.account.shopping_list.overview.owner,المالك,ar_AE
+customer.account.shopping_list.error.duplicate_name,"قائمة التسوق بنفس الاسم موجودة بالفعل.",ar_AE
+customer.account.shopping_list.error.cannot_update,"تعذر تحديث قائمة التسوق.",ar_AE
+customer.account.shopping_list.share.choose_access,"اختر الوصول",ar_AE
+packaging_unit_type.item.name,العنصر,ar_AE
+packaging_unit_type.ring_500.name,"خاتم (500 متر)",ar_AE
+packaging_unit_type.box.name,صندوق,ar_AE
+packaging_unit_type.palette.name,"لوحة الألوان",ar_AE
+packaging_unit_type.giftbox.name,"صندوق هدايا",ar_AE
+packaging_unit_type.valentines_special.name,"تخفيضات عيد الحب",ar_AE
+packaging_unit_type.pack_5.name,"حزمة 5",ar_AE
+packaging_unit_type.pack_10.name,"حزمة 10",ar_AE
+business_on_behalf_widget.no_selected_company,"وحدتك التجارية",ar_AE
+business_on_behalf_widget.change_company_user,"اختر وحدة الأعمال",ar_AE
+company_user.business_on_behalf.error.company_not_active,"لا يمكنك تحديد هذا المستخدم الخاص بالشركة، الشركة غير نشطة.",ar_AE
+company_user.business_on_behalf.error.company_user_invalid,"لا يمكنك تحديد هذا المستخدم للشركة، فهو غير صالح.",ar_AE
+company_user.change_company_user,"اختر وحدة الأعمال",ar_AE
+company_user.no_company,"لا يوجد وحدة تجارية",ar_AE
+company_user.company_choice,"وحدة الأعمال",ar_AE
+company_user.remember_choice,"تذكر الاختيار",ar_AE
+company_page.company_user_restricted_message,"العملاء العاديين غير مسموح لهم بالتشغيل على صفحات الشركة",ar_AE
+company_page.company_business_unit_restricted_message,"ليس لديك الصلاحيات لأداء هذه العملية",ar_AE
+company_page.validation.error.company_user.unauthorized_request,"طلب غير مصرح به.",ar_AE
+customer.account.print_shopping_list.table.barcode,الباركود,ar_AE
+customer.account.print_shopping_list.table.product_sku,"رمز المنتج",ar_AE
+customer.account.print_shopping_list.table.product_name,"اسم المنتج",ar_AE
+customer.account.print_shopping_list.table.default_price,"السعر الافتراضي",ar_AE
+customer.account.print_shopping_list.table.note,ملاحظة,ar_AE
+customer.account.print_shopping_list.title.shopping_list_id,"معرّف قائمة التسوق",ar_AE
+customer.account.print_shopping_list.title.shopping_list_name,"اسم قائمة التسوق",ar_AE
+company.account.address.delete_confimation_page,"وحدات الأعمال",ar_AE
+company_page.address_delete_confirmation.title,"أنت تحاول حذف العنوان",ar_AE
+company_page.address_delete_confirmation.notification,"تنتمي إلى وحدات الأعمال التالية",ar_AE
+company_page.address_delete_confirmation.delete_notification,"سيتم حذفه من جميعها.",ar_AE
+label.button.submit,موافق,ar_AE
+label.button.cancel,إلغاء,ar_AE
+company.account.create_address_information,"إنشاء معلومات العنوان",ar_AE
+company.account.is_default,الجذر,ar_AE
+message.business_unit_address.create,"تم إنشاء عنوان وحدة الأعمال '%address%' بنجاح.",ar_AE
+message.business_unit_address.update,"تم تحديث عنوان وحدة الأعمال '%address%' بنجاح.",ar_AE
+message.business_unit_address.delete,"تم حذف عنوان وحدة الأعمال بنجاح.",ar_AE
+message.business_unit.create,"تم إنشاء وحدة الأعمال '%unit%' بنجاح.",ar_AE
+message.business_unit.update,"تم تحديث وحدة العمل '%unit%' بنجاح.",ar_AE
+message.business_unit.delete,"تم حذف وحدة العمل '%unit%' بنجاح.",ar_AE
+message.submit_link,حسناً!,ar_AE
+company.business_unit.delete.message.text,"أنت تحاول حذف وحدة الأعمال",ar_AE
+company.account.choose_parent_company_business_unit,"اختر وحدة الأعمال الأم",ar_AE
+company.account.choose_parent_company_business_unit_placeholder,"اسم الوحدة الأم",ar_AE
+company.account.form.fk_parent_company_bu.placeholder,"اسم الوحدة الأم",ar_AE
+company.account.address.delete.message.title,تحذير,ar_AE
+company.account.address.delete.message.description,"أنت تحاول حذف العنوان",ar_AE
+company.account.address.delete.message.belongs,"تنتمي إلى وحدات الأعمال التالية",ar_AE
+company.account.address.delete.message.all,"سيتم حذفه من جميعها",ar_AE
+company.account.address.assign,"تعيين العناوين",ar_AE
+company.account.address.assigned,"العناوين المعينة",ar_AE
+company.account.address.unassigned,"عناوين غير معينة",ar_AE
+company.account.address.assigned.empty,"لا توجد عناوين معينة",ar_AE
+company.account.address.unassigned.empty,"لا يوجد عناوين غير معينة",ar_AE
+product_discontinued_widget.note,ملاحظة,ar_AE
+product_discontinued.super_attribute_discontinued,"متوقف عن الإنتاج",ar_AE
+product_discontinued.message.product_discontinued,"المنتج متوقف عن الإنتاج، يرجى اختيار بديل آخر.",ar_AE
+shopping_list.pre.check.product_discontinued,"المنتج %sku% تم إيقافه، يرجى اختيار بديل آخر.",ar_AE
+cart.pre.check.product_discontinued,"المنتج '%name%' تم إيقافه، يرجى اختيار بديل آخر.",ar_AE
+replacement_for_widget.replacement_for,"بديل لـ",ar_AE
+product_alternative_widget.product_alternative,"المنتجات البديلة",ar_AE
+product_alternative_widget.add_to_shopping_list,"أضف إلى قائمة التسوق",ar_AE
+product_alternative_widget.alternative_for,"بديل لـ",ar_AE
+product_alternative_widget.product_status.discontinued,"متوقف عن الإنتاج",ar_AE
+product_alternative_widget.show_all,"أظهر الكل",ar_AE
+product_alternative_widget.not_applicable,N/A,ar_AE
+place_order.pre_check.product_discontinued,"المنتج '%name%' تم إيقافه، يرجى اختيار بديل آخر",ar_AE
+page.detail.volume_price.quantity,الكمية,ar_AE
+page.detail.volume_price.price,السعر,ar_AE
+customer.order.canceledTotal,"المبلغ الملغى",ar_AE
+customer.order.remunerationTotal,"المجموع الإجمالي للأجر",ar_AE
+customer.order.refundTotal,"إجمالي المبلغ المسترد",ar_AE
+packaging-units.recommendation.amount-min-violation,"متطلبات الحد الأدنى للكمية للمنتج غير مستوفاة",ar_AE
+packaging-units.recommendation.amount-max-violation,"متطلبات الحد الأقصى للكمية للمنتج غير مستوفاة",ar_AE
+packaging-units.recommendation.amount-interval-violation,"متطلبات فترة الكمية للمنتج غير مستوفاة",ar_AE
+packaging_units.recommendation.suggestion,"هل ترغب في إضافة:",ar_AE
+packaging_units.recommendation.between-units-info,"الكمية التي اخترتها تقع بين وحدتين أساسيتين",ar_AE
+packaging_units.cart.quantity,الكمية,ar_AE
+packaging_units.cart.amount,المبلغ,ar_AE
+packaging_units.cart.item,العناصر,ar_AE
+packaging_units.pdp.quantity,الكمية,ar_AE
+packaging_units.pdp.amount,المبلغ,ar_AE
+packaging_units.pdp.sales-units,"وحدات البيع",ar_AE
+cart.pre.check.amount.min.failed,"متطلبات الحد الأدنى لكمية المنتج SKU '%sku%' غير مستوفاة.",ar_AE
+cart.pre.check.amount.max.failed,"الحد الأقصى لكمية المنتج برقم المرجع '%sku%' تم تجاوزه.",ar_AE
+cart.pre.check.amount.interval.failed,"متطلبات فترة الكمية لمنتج SKU '%sku%' غير مستوفاة.",ar_AE
+cart.pre.check.amount.is_not_variable.failed,"متطلبات الكمية الافتراضية لمنتج SKU '%sku%' غير مستوفاة.",ar_AE
+main_slider.btn.title,"تسوق الآن",ar_AE
+show_more.btn.title,"استكشف المزيد",ar_AE
+main_slider_1.url,/ar/office-furniture,ar_AE
+main_slider_2.url,/ar/stationery,ar_AE
+main_slider_3.url,/ar/معدات-المكتب,ar_AE
+company.account.company_role.delete.confirmation.warning,تحذير,ar_AE
+company.account.company_role.delete.confirmation.trying_to_delete,"أنت تحاول حذف دور الشركة",ar_AE
+company.account.company_role.delete.confirmation.deletion_warning,"سيتم حذفها نهائياً من شركتك",ar_AE
+company.account.company_role.delete.back,رجوع,ar_AE
+company.account.company_role.delete,حذف,ar_AE
+company.account.company_role.delete.successful,"تمت إزالة دور الشركة بنجاح",ar_AE
+company.account.company_role.delete.confirmation.assigned_users,"المستخدمون المعينون لهذا الدور",ar_AE
+company.account.company_role.delete.confirmation.assigned_users_message,"لا يمكنك حذف دور الشركة حتى يتم تعيين مستخدمي الشركة",ar_AE
+company.account.company_role.delete.error.cannot_remove,"لا يمكن إزالة دور الشركة",ar_AE
+permission.name.AddCompanyUserPermissionPlugin,"إضافة مستخدمين للشركة",ar_AE
+permission.name.ManageCompanyUserInvitationPermissionPlugin,"دعوة المستخدمين",ar_AE
+permission.name.AddCartItemPermissionPlugin,"أضف العنصر إلى السلة",ar_AE
+permission.name.ChangeCartItemPermissionPlugin,"تغيير العنصر في السلة",ar_AE
+permission.name.RemoveCartItemPermissionPlugin,"إزالة العنصر من السلة",ar_AE
+permission.name.PlaceOrderWithAmountUpToPermissionPlugin,"قم بتقديم الطلب",ar_AE
+permission.name.SeeCompanyMenuPermissionPlugin,"انظر قائمة الشركة",ar_AE
+company.account.company_user.assign_roles.empty_roles.error,"يجب تعيين دور واحد على الأقل للمستخدم",ar_AE
+company.account.company_role.delete.error.default_role,"لا يمكنك حذف دور افتراضي، يرجى تعيين دور افتراضي آخر قبل إجراء عملية الحذف.",ar_AE
+permission.name.CompanyUserStatusChangePermissionPlugin,"تمكين / تعطيل مستخدمي الشركة",ar_AE
+company.account.company_role.create,"إنشاء دور",ar_AE
+company.account.company_role.create.successful,"تم إنشاء الدور بنجاح.",ar_AE
+company.account.company_role.update.successful,"تم تحديث الدور بنجاح.",ar_AE
+company.account.company_user.form.select_roles,"اختر الأدوار",ar_AE
+company.account.company_user.form.select_business_unit,"اختر وحدة الأعمال",ar_AE
+message.business_unit.create.error,"حدث خطأ أثناء محاولة إنشاء وحدة الأعمال '%unit%'.",ar_AE
+message.business_unit.update.error,"حدث خطأ أثناء محاولة تحديث وحدة العمل '%unit%'.",ar_AE
+message.business_unit.delete.error,"حدث خطأ أثناء محاولة حذف وحدة العمل '%unit%'.",ar_AE
+product.sets.widget.title,"تسوق المجموعة",ar_AE
+product.set,"مجموعة المنتجات",ar_AE
+product.set.detail.add_all_to,"أضف الكل إلى",ar_AE
+checkout.success.to_orders.url,/ar/customer/order,ar_AE
+checkout.success.to_orders.title,"اذهب إلى طلباتي",ar_AE
+checkout.success.back_to_home.title,"العودة إلى الصفحة الرئيسية",ar_AE
+customer.account.shopping_list.create_from_cart.choose_shopping_list,"اختر قائمة التسوق",ar_AE
+customer.account.shopping_list.create_from_cart.name,الاسم,ar_AE
+customer.account.shopping_list.create_from_cart.form_title,"'%cart_name%' أضف إلى قائمة التسوق",ar_AE
+customer.account.shopping_list.create_from_cart.title,"أضف إلى قائمة التسوق",ar_AE
+customer.account.shopping_list.shopping_cart,"عربات التسوق",ar_AE
+customer.account.shopping_list.business_unit,"وحدة الأعمال",ar_AE
+customer.account.shopping_list.customer,العميل,ar_AE
+page.multi_cart.shopping_cart.list.title,"عربات التسوق",ar_AE
+page.multi_cart.shopping_cart.list.create_link,"إنشاء سلة التسوق",ar_AE
+page.multi_cart.shopping_cart.list.label.name,الاسم,ar_AE
+page.multi_cart.shopping_cart.list.label.num_of_products,"عدد العناصر",ar_AE
+page.multi_cart.shopping_cart.list.label.prices,الأسعار,ar_AE
+page.multi_cart.shopping_cart.list.label.total,الإجمالي,ar_AE
+page.multi_cart.shopping_cart.list.label.actions,الإجراءات,ar_AE
+page.multi_cart.shopping_cart.list.link.edit_name,"تعديل الاسم",ar_AE
+page.multi_cart.shopping_cart.list.link.duplicate,"تكرار",ar_AE
+page.multi_cart.shopping_cart.list.link.delete,حذف,ar_AE
+page.multi_cart.shopping_cart.list.link.add_to_list,"أضف إلى القائمة",ar_AE
+page.multi_cart.shopping_cart.list.label.item,العنصر,ar_AE
+page.multi_cart.shopping_cart.list.label.items,العناصر,ar_AE
+customer.account.shopping_cart.list.title,"إدارة عربات التسوق",ar_AE
+widget.shared_cart.multi_cart.permissions.READ_ONLY,"قراءة فقط",ar_AE
+widget.shared_cart.multi_cart.permissions.FULL_ACCESS,"الوصول الكامل",ar_AE
+widget.shared_cart.multi_cart.permissions.OWNER_ACCESS,"الوصول للمالك",ar_AE
+page.multi_cart.shopping_cart.list.label.access,الوصول,ar_AE
+widget.shopping_list.multi_cart.to_shopping_list,"إلى قائمة التسوق",ar_AE
+page.multi_cart.shopping_cart.update.title,"تعديل",ar_AE
+page.multi_cart.shopping_cart.create.title,إنشاء,ar_AE
+shopping_list_widget.items,العناصر,ar_AE
+shopping_list_widget.full_access,"الوصول الكامل",ar_AE
+shopping_list_widget.read_only,"قراءة فقط",ar_AE
+shopping_list.create_new_list,"إنشاء قائمة جديدة",ar_AE
+shopping_list.no_lists_created,"ليس لديك أي قوائم تسوق حتى الآن.",ar_AE
+agent.authentication.failed,"فشل التوثيق",ar_AE
+agent.login.title,"الوصول إلى حسابك",ar_AE
+agent.confirm_user_selection,تأكيد,ar_AE
+agent.login.email,"البريد الإلكتروني",ar_AE
+agent.login.password,"كلمة المرور",ar_AE
+agent.login,"تسجيل الدخول للوكيل",ar_AE
+agent.control_bar.username,وكيل:,ar_AE
+agent.control_bar.customer_name,العميل:,ar_AE
+agent.control_bar.logout_as_customer,"المساعدة للعملاء النهائيين",ar_AE
+agent.control_bar.logout,"تسجيل الخروج",ar_AE
+agent.autocomplete.no_results,"لا توجد نتائج",ar_AE
+autocomplete.placeholder,البحث,ar_AE
+bundle.title,"الحزمة تشمل",ar_AE
+shopping_list.all_shopping_lists,"جميع قوائم التسوق",ar_AE
+error_page.title,"الصفحة غير موجودة.",ar_AE
+error_page.home_link,"انتقل إلى الصفحة الرئيسية",ar_AE
+error_page.text,"لم نتمكن من العثور على الصفحة التي تبحث عنها.",ar_AE
+sales-order-threshold.hard-minimum-threshold.de.eur.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+sales-order-threshold.hard-minimum-threshold.de.chf.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+sales-order-threshold.hard-maximum-threshold.de.eur.message,"قيمة السلة لا يمكن أن تكون أعلى من {{threshold}}. يرجى إزالة بعض العناصر لمتابعة الطلب.",ar_AE
+sales-order-threshold.hard-maximum-threshold.de.chf.message,"قيمة السلة لا يمكن أن تكون أعلى من {{threshold}}. يرجى إزالة بعض العناصر لمتابعة الطلب.",ar_AE
+sales-order-threshold.soft-minimum-threshold.de.eur.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج.",ar_AE
+sales-order-threshold.soft-minimum-threshold.de.chf.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج.",ar_AE
+merchant-relationship-threshold.hard.de.eur.mr-8.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+merchant-relationship-threshold.soft.de.eur.mr-8.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج.",ar_AE
+merchant-relationship-threshold.hard.de.eur.mr-9.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+merchant-relationship-threshold.soft.de.eur.mr-9.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج مع رسوم إضافية قدرها {{fee}} لهذا الطلب.",ar_AE
+merchant-relationship-threshold.hard.de.eur.mr-10.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+merchant-relationship-threshold.soft.de.eur.mr-10.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج مع رسوم إضافية قدرها {{fee}} لهذا الطلب.",ar_AE
+merchant-relationship-threshold.hard.de.eur.mr-11.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+merchant-relationship-threshold.soft.de.eur.mr-11.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج مع رسوم إضافية قدرها {{fee}} لهذا الطلب.",ar_AE
+merchant-relationship-threshold.hard.de.eur.mr-12.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+merchant-relationship-threshold.soft.de.eur.mr-12.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج مع رسوم إضافية قدرها {{fee}} لهذا الطلب.",ar_AE
+merchant-relationship-threshold.soft.de.eur.mr-13.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج مع رسوم إضافية قدرها {{fee}} لهذا الطلب.",ar_AE
+merchant-relationship-threshold.soft.de.eur.mr-14.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج مع رسوم إضافية قدرها {{fee}} لهذا الطلب.",ar_AE
+company.account.address.delete.message.text,"أنت تحاول حذف العنوان",ar_AE
+message.business_unit.update.cycle_dependency_error,"لم يتم تحديث وحدة الأعمال '%unit%' للشركة. لا يمكن تعيين وحدة أعمال كابنة لوحدة أعمال فرعية خاصة بها، يرجى التحقق من تسلسل وحدات الأعمال.",ar_AE
+"Only company users are allowed to access this page","فقط المستخدمين الخاصين بالشركة مسموح لهم بالوصول إلى هذه الصفحة.",ar_AE
+shopping_list.not_found,"قائمة التسوق غير موجودة",ar_AE
+shopping_list.already_removed,"تم حذف قائمة التسوق هذه",ar_AE
+shopping_list.no_access,"ليس لديك الصلاحيات لعرض هذه القائمة التسوق",ar_AE
+global.search.pages,الصفحات,ar_AE
+global.search.results.view,عرض,ar_AE
+cms.page.sort.relevance,"فرز حسب الأهمية",ar_AE
+cms.page.sort.name_asc,"فرز حسب الترتيب الأبجدي التصاعدي",ar_AE
+cms.page.sort.name_desc,"فرز حسب الترتيب التنازلي للأسماء",ar_AE
+cms.page.itemsFound,"العناصر الموجودة",ar_AE
+cms.page.filter.per,"لكل صفحة",ar_AE
+cms.page.filter.sort,"فرز حسب",ar_AE
+product-quantity.errors.quantity.min.failed,"الكمية %s لا تفي بمتطلبات المنتج. الحد الأدنى للكمية هو %s.",ar_AE
+product-quantity.errors.quantity.max.failed,"الكمية %s لا تفي بمتطلبات المنتج. الحد الأقصى للكمية هو %s.",ar_AE
+product-quantity.errors.quantity.interval.failed,"الكمية %s لا تلبي متطلبات المنتج. خطوة الكمية هي %s.",ar_AE
+availability_notification.notify_me,"أعلمني عند العودة في المخزون",ar_AE
+availability_notification.do_not_notify_me,"لا تُعلمني عند العودة إلى المخزون",ar_AE
+availability_notification.subscribed,"تم الاشتراك بنجاح",ar_AE
+availability_notification.unsubscribed,"تم إلغاء الاشتراك بنجاح",ar_AE
+availability_notification.successfully_unsubscribed,"تم إلغاء الاشتراك بنجاح",ar_AE
+availability_notification.successfully_unsubscribed_text,"لقد قمت بإلغاء الاشتراك بنجاح في تلقي إشعار عند توفر المنتج مرة أخرى.",ar_AE
+availability_notification_subscription.mail.subscribed.head,"لقد أبلغنا فريق الشراء لدينا عن اشتراكك!",ar_AE
+availability_notification_subscription.mail.subscribed.body,"ستتلقى رسالة بريد إلكتروني عندما يتوفر المنتج مرة أخرى.",ar_AE
+availability_notification_subscription.mail.subscribed.subject,"لقد أبلغنا فريق الشراء لدينا عن اشتراكك!",ar_AE
+availability_notification_subscription.mail.unsubscribed.subject,"لن يتم إشعارك عند توفر المنتج %name% مرة أخرى.",ar_AE
+availability_notification_subscription.mail.unsubscribed.body,"لن يتم إشعارك عند توفر المنتج %name% مرة أخرى.",ar_AE
+availability_notification_subscription.mail.notification.buy_now,"اشترِ الآن",ar_AE
+availability_notification_subscription.mail.notification.subject,"%name% متوفر مرة أخرى!",ar_AE
+availability_notification_subscription.mail.notification.head,"%name% متوفر مرة أخرى!",ar_AE
+availability_notification_subscription.mail.notification.body,"الانتظار قد انتهى، يمكنك الآن إضافة هذا المنتج إلى سلة التسوق الخاصة بك.",ar_AE
+availability_notification_subscription.mail.copyright,"حقوق النشر © السنة الحالية اسم الشركة، جميع الحقوق محفوظة.",ar_AE
+availability_notification_subscription.mail.unsubscribe,"هل ترغب في تغيير كيفية استلامك لهذه الرسائل الإلكترونية؟<br>يمكنك <a target=""_blank"" href=""%link%"" style=""mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underline;"">إلغاء الاشتراك من هذه القائمة</a>.",ar_AE
+availability_notification.email_address,"عنوان البريد الإلكتروني",ar_AE
+product-quantity.notification.quantity.min.failed,"تم تعديل الكمية المطلوبة إلى الكمية الممكنة التالية للمنتج لأن الحد الأدنى للكمية هو %min%.",ar_AE
+product-quantity.notification.quantity.max.failed,"تم تعديل الكمية المطلوبة إلى الكمية الممكنة التالية للمنتج لأن الكمية القصوى هي %max%.",ar_AE
+product-quantity.notification.quantity.interval.failed,"تم تعديل الكمية المطلوبة إلى أقرب كمية ممكنة للمنتج لأن خطوة الكمية هي %step%.",ar_AE
+product-quantity.warning.quantity.min.failed,"تم تعديل الكمية المطلوبة إلى الكمية الممكنة التالية للمنتج لأن الحد الأدنى للكمية هو %min%.",ar_AE
+product-quantity.warning.quantity.max.failed,"تم تعديل الكمية المطلوبة إلى الكمية الممكنة التالية للمنتج لأن الكمية القصوى هي %max%.",ar_AE
+product-quantity.warning.quantity.interval.failed,"تم تعديل الكمية المطلوبة إلى أقرب كمية ممكنة للمنتج لأن خطوة الكمية هي %step%.",ar_AE
+cart.locked.change_denied,"لا يمكنك تعديل هذه العربة لأنها في عملية الموافقة.",ar_AE
+quote_approval.request.send,"أرسل الطلب",ar_AE
+quote_approval.remove,"إلغاء الطلب",ar_AE
+quote_approval.cart.require_approval,"لا يمكنك تنفيذ هذا الطلب بسبب الحد الأقصى للشراء، يرجى إرسال سلة التسوق الخاصة بك للموافقة أو الاتصال بمديرك.",ar_AE
+quote_approval.cart.waiting_approval,"لا يمكنك تنفيذ هذا الطلب بسبب طلب الموافقة المعلق.",ar_AE
+quote_approval.create.approver_cant_approve_quote,"الموافق المحدد غير قادر على الموافقة على طلبك بسبب الحد الأقصى للموافقين.",ar_AE
+quote_approval.create.you_cant_approve_quote,"لا يمكنك الموافقة على هذه العربة أو رفضها لأن المبلغ الخاص بها أعلى من حد الموافقة الخاص بك.",ar_AE
+quote_approval.create.quote_already_approved,"تمت الموافقة بالفعل على هذه العربة التسوق.",ar_AE
+quote_approval.create.quote_already_declined,"تم رفض هذه العربة بالفعل.",ar_AE
+quote_approval.create.quote_already_cancelled,"لا يمكنك العمل بهذه العربة لأنها تم إرسالها بالفعل إلى موافق آخر.",ar_AE
+quote_approval.create.quote_already_waiting_for_approval,"تم إرسال هذه العربة بالفعل للموافقة.",ar_AE
+quote_approval.create.only_quote_owner_can_send_request,"لا يمكنك إرسال السلة للموافقة، يمكن فقط لصاحب السلة القيام بذلك.",ar_AE
+quote_approval.cancel.do_not_have_permission,"ليس لديك الصلاحيات لإلغاء طلب الموافقة.",ar_AE
+quote_approval.request.approval_by,بواسطة,ar_AE
+quote_approval.created,"تم إرسال طلبك للموافقة إلى %first_name% %last_name%.",ar_AE
+quote_approval.removed,"تم إلغاء طلبك للموافقة.",ar_AE
+quote_approval_widget.title,"طلب الموافقة",ar_AE
+quote_approval_widget.limit.unlimited,"غير محدود",ar_AE
+quote_approval_widget.no_approvers_found,"لا يوجد موافقون.",ar_AE
+quote_approval_widget.cart.status.approved,"تمت الموافقة",ar_AE
+quote_approval_widget.cart.status.declined,"تم رفضه",ar_AE
+quote_approval_widget.cart.status.waiting,"في انتظار",ar_AE
+quote_approval_widget.shared_cart_warning,"بعد إرسال سلة التسوق للموافقة، سيتم إلغاء جميع حصصها.",ar_AE
+quote_approval_widget.limit_text,"حد الشراء الخاص بك هو %amount%. للشراء بمبلغ أكبر، يرجى طلب الموافقة من مديرك.",ar_AE
+quote_approval_widget.no_limit_text,"ليس لديك حد للشراء",ar_AE
+quote_approval_widget.quote_not_applicable_for_approval_process,"هذه العربة لا يمكن معالجتها. المعلومات المطلوبة مفقودة.",ar_AE
+quote_approval.request.waiting_for_approval_from,"في انتظار الموافقة من",ar_AE
+quote_approval.request.approved_by,"معتمد من",ar_AE
+quote_approval.request.declined_by,"تم رفضه بواسطة",ar_AE
+quote_approval_widget.cart.status,الحالة,ar_AE
+quote_approval_widget.cart.approve,الموافقة,ar_AE
+quote_approval_widget.cart.decline,رفض,ar_AE
+quote_approval_widget.cart.cancel,إلغاء,ar_AE
+quote_approval_widget.cart.success_message.approved,"تمت الموافقة بنجاح على طلب من %first_name% %last_name%",ar_AE
+quote_approval_widget.cart.success_message.declined,"تم رفض طلب من %first_name% %last_name% بنجاح",ar_AE
+quote_approval_widget.cart.success_message.canceled,"تم إلغاء طلب من %first_name% %last_name% بنجاح",ar_AE
+quote_approval.create.cart_cant_be_sent_for_approval,"السلة لا يمكن إرسالها للموافقة.",ar_AE
+quote_approval.create.cant_send_for_approve_empty_quote,"السلة الفارغة لا يمكن إرسالها للموافقة.",ar_AE
+persistent_cart.quote.label.locked_cart,"السلة مقفلة وتم تعطيل تحرير السلة. لفتح السلة، انقر على",ar_AE
+persistent_cart.quote.label.locked_cart.by_quote_request,"السلة مقفلة بواسطة طلب للحصول على عرض سعر وتم تعطيل تحرير السلة. لفتح السلة، انقر على",ar_AE
+persistent_cart.quote.label.locked_cart.by_quote_approval,"السلة مقفلة بواسطة عملية الموافقة على العرض وتم تعطيل تحرير السلة. لفتح السلة، انقر على",ar_AE
+persistent_cart.quote.label.discarded_locked_cart,"سيتم تجاهل التعديلات الحالية الخاصة بك.",ar_AE
+persistent_cart.quote.button.reset_lock,"إعادة تعيين القفل",ar_AE
+cart_page.quote.reset_lock.success,"تم إعادة تعيين قفل سلة التسوق بنجاح.",ar_AE
+cart_page.quote.label.locked_cart,"السلة المغلقة",ar_AE
+quote_request_widget.request_for_quote,"اطلب عرض أسعار",ar_AE
+quote_request_widget.request_for_quote.list.title,"طلبات العروض",ar_AE
+quote_request_page.quote_request,"طلب العرض",ar_AE
+quote_request_page.quote_request.create,إنشاء,ar_AE
+quote_request_page.quote_request_version.created,"تم تحديث طلب الاقتباس إلى نسخة جديدة.",ar_AE
+quote_request_page.quote_request.submit,"أرسل الطلب",ar_AE
+quote_request_page.quote_request.metadata.label.note,ملاحظات,ar_AE
+quote_request_page.quote_request.metadata.label.delivery_date,"لا تقم بشحن الطلب في وقت لاحق من ذلك",ar_AE
+quote_request_page.quote_request.metadata.label.purchase_order_number,"رقم طلب الشراء",ar_AE
+quote_request_page.quote_request.violations.invalid_date,"هذا التاريخ يجب أن يكون أكبر من التاريخ الحالي.",ar_AE
+quote_request_page.quote_request.created,"تم إنشاء طلب الاقتباس بنجاح.",ar_AE
+quote_request_page.quote_request.list.reference,#المرجع,ar_AE
+quote_request_page.quote_request.list.company,الشركة,ar_AE
+quote_request_page.quote_request.list.business_unit,"وحدة الأعمال",ar_AE
+quote_request_page.quote_request.list.owner,المالك,ar_AE
+quote_request_page.quote_request.list.total,الإجمالي,ar_AE
+quote_request_page.quote_request.list.date,تاريخ,ar_AE
+quote_request_page.quote_request.list.status,الحالة,ar_AE
+quote_request_page.quote_request.list.actions,الإجراءات,ar_AE
+quote_request_page.quote_request.labels.date,تاريخ,ar_AE
+quote_request_page.quote_request.labels.status,الحالة,ar_AE
+quote_request_page.quote_request.labels.valid_till,"صالح حتى",ar_AE
+quote_request_page.quote_request.labels.show_latest_version,"أظهر أحدث إصدار للعميل",ar_AE
+quote_request_page.quote_request.labels.latest_version_is_hidden,"الإصدار الأحدث مخفي عن العميل",ar_AE
+quote_request_page.quote_request.labels.latest_version_is_visible,"أحدث إصدار مرئي للعميل",ar_AE
+quote_request_page.quote_request.labels.history,التاريخ,ar_AE
+quote_request_page.quote_request.labels.customer,العميل,ar_AE
+quote_request_page.quote_request.labels.company,الشركة,ar_AE
+quote_request_page.quote_request.labels.business_unit,"وحدة الأعمال",ar_AE
+quote_request_page.quote_request.labels.information,"معلومات طلب الاقتباس",ar_AE
+quote_request_page.quote_request.labels.version_information,"معلومات الإصدار",ar_AE
+quote_request_page.quote_request.actions.view,عرض,ar_AE
+quote_request_page.quote_request.actions.cancel,إلغاء,ar_AE
+quote_request_page.quote_request.actions.cancel_changes,إلغاء,ar_AE
+quote_request_page.quote_request.actions.save,حفظ,ar_AE
+quote_request_page.quote_request.actions.back_to_list,"العودة إلى القائمة",ar_AE
+quote_request_page.quote_request.actions.back_to_view,"العودة للعرض",ar_AE
+quote_request_page.quote_request.actions.send_to_customer,"أرسل إلى العميل",ar_AE
+quote_request_page.quote_request.actions.send_to_agent,"أرسل إلى الوكيل",ar_AE
+quote_request_page.quote_request.actions.save_and_back_to_edit,"حفظ والعودة للتحرير",ar_AE
+quote_request_page.quote_request.actions.convert_to_cart,"تحويل إلى السلة",ar_AE
+quote_request_page.quote_request.actions.revise,تعديل,ar_AE
+quote_request_page.quote_request.actions.edit,تحرير,ar_AE
+quote_request_page.quote_request.actions.edit_items,"تعديل العناصر",ar_AE
+quote_request_page.quote_request.view.empty,"ليس لديك أي طلبات اقتباس حتى الآن.",ar_AE
+quote_request_page.quote_request.updated,"تم تحديث طلب الاقتباس بنجاح.",ar_AE
+quote_request_page.quote_request.sent_to_customer,"تم إرسال طلب الاقتباس بنجاح إلى العميل.",ar_AE
+quote_request_page.quote_request.sent_to_user,"تم إرسال طلب الاقتباس بنجاح إلى الوكيل للمعالجة.",ar_AE
+quote_request_page.quote_request.use_default_price,"استخدم السعر الافتراضي",ar_AE
+quote_request_page.quote_request.converted_to_cart,"تم تحويل طلب الاقتباس إلى السلة بنجاح.",ar_AE
+quote_request_page.quote_request.edit_items_confirm,"أنت تقوم بتعديل طلب الاقتباس <a href=""%link%"">%reference%</a> إذا قمت بتركه، سيتم إلغاء جميع التغييرات.",ar_AE
+quote_request_page.quote_request.source_price_changes_forbidden,"لا يمكنك تعديل الأسعار في هذا طلب الاقتباس، لأنه غير صالح.",ar_AE
+quote_request.status.waiting,"في انتظار",ar_AE
+quote_request.status.in-progress,"في التقدم",ar_AE
+quote_request.status.ready,جاهز,ar_AE
+quote_request.status.canceled,ملغى,ar_AE
+quote_request.status.closed,مغلق,ar_AE
+quote_request.status.draft,مسودة,ar_AE
+quote_request.validation.success.canceled,"تم إلغاء طلب الاقتباس بنجاح.",ar_AE
+quote_request.validation.converted_to_cart.success,"تم تحويل طلب الاقتباس إلى السلة بنجاح.",ar_AE
+quote_request.validation.error.not_exists,"هذا طلب الاقتباس غير موجود.",ar_AE
+quote_request.validation.error.wrong_status,"حالة طلب الاقتباس غير صحيحة لهذا العملية.",ar_AE
+quote_request.validation.error.company_user_not_found,"المستخدم الخاص بالشركة غير موجود.",ar_AE
+quote_request.validation.error.empty_cart,"لا يمكن إنشاء طلب عرض سعر من عربة فارغة.",ar_AE
+quote_request.checkout.validation.error.version_not_found,"الإصدار المطلوب لطلب العرض غير موجود.",ar_AE
+quote_request.checkout.validation.error.not_found,"طلب الاقتباس غير موجود.",ar_AE
+quote_request.checkout.validation.error.wrong_status,"طلب الاقتباس في حالة خاطئة في الوقت الحالي.",ar_AE
+quote_request.checkout.validation.error.wrong_version,"النسخة المطلوبة لطلب الاقتباس لهذه العربة غير محدثة.",ar_AE
+quote_request.checkout.validation.error.wrong_valid_until,"طلب الاقتباس الذي تم إنشاء هذه العربة منه لم يعد صالحًا.",ar_AE
+quote_request.checkout.convert.error.wrong_valid_until,"طلب الاقتباس غير صالح بعد الآن.",ar_AE
+quote_request.update.validation.error.wrong_valid_until,"تاريخ صلاحية طلب الاقتباس قد انتهى بالفعل. يرجى تغيير التاريخ لإرساله إلى العميل.",ar_AE
+quote_request.update.validation.concurrent,"تعذر تحديث طلب الاقتباس بسبب تداخل عملاء متعددين.",ar_AE
+agent.account.overview,"نظرة عامة",ar_AE
+agent.account.quote_request,"طلبات السعر",ar_AE
+agent.account.page_title,وكيل,ar_AE
+agent.account.profile_data,"ملف الوكيل",ar_AE
+quote_request_agent_widget.quote_request,"طلب السعر",ar_AE
+quote_request_agent_widget.items,العناصر,ar_AE
+quote_request_agent_widget.no_request_created,"ليس لديك أي طلبات اقتباس حتى الآن.",ar_AE
+quote_request_agent_widget.create_new_request,"طلب عرض جديد",ar_AE
+quote_request_agent_widget.view_all_requests,"عرض جميع الطلبات",ar_AE
+quote_request_agent_widget.form.select_customer,"اختر عميلًا",ar_AE
+quote_request_agent_page.form.invalid_price,"سعر غير صالح.",ar_AE
+permission.name.PlaceOrderPermissionPlugin,"اشترِ حتى الإجمالي الكبير (يتطلب ""إرسال السلة للموافقة"")",ar_AE
+permission.name.RequestQuoteApprovalPermissionPlugin,"أرسل السلة للموافقة (يتطلب ""شراء حتى الإجمالي الكبير"")",ar_AE
+permission.name.ApproveQuotePermissionPlugin,"الموافقة على المجموع الكلي حتى",ar_AE
+company_page.multi_currency_type.name.cent_amount.EUR,"المبلغ المركزي",ar_AE
+company_page.multi_currency_type.name.cent_amount.CHF,"المبلغ بالسنتيم",ar_AE
+company_page.multi_currency_type.label,"تكوين الإذن",ar_AE
+company_page.company_role_permission.permission_not_found_error,"لم يتم العثور على الإذن",ar_AE
+company_page.company_role_permission.permission_save_error,"تم تحديث إعدادات الإذن",ar_AE
+company_page.company_role_permission.permission_save_success,"تم تحديث إعدادات الإذن",ar_AE
+quote.validation.error.price_mode_is_missing,"وضع السعر مفقود",ar_AE
+quote.validation.error.price_mode_is_incorrect,"وضع السعر غير صحيح",ar_AE
+quote.validation.error.currency_is_missing,"العملة مفقودة",ar_AE
+quote.validation.error.currency_is_incorrect,"وضع العملة غير صحيح",ar_AE
+resource_share.activator.error.strategy_expects_logged_in_customer,"يرجى تسجيل الدخول للوصول إلى الموارد المشتركة المطلوبة.",ar_AE
+resource_share.reader.error.resource_is_not_found_by_provided_uuid,"المورد غير موجود بواسطة UUID المقدم.",ar_AE
+resource_share.generation.error.resource_type_is_not_defined,"نوع المورد غير محدد.",ar_AE
+resource_share.generation.error.customer_reference_is_not_defined,"الإشارة المرجعية للعميل غير محددة.",ar_AE
+resource_share.validation.error.resource_share_is_expired,"الموارد المشتركة منتهية الصلاحية.",ar_AE
+resource-share.link.error.no-route,"المسار الموجه لا يجب أن يكون فارغًا.",ar_AE
+persistent_cart_share.error.resource_is_not_available,"العربة التي تحاول الوصول إليها غير متاحة.",ar_AE
+persistent_cart_share.error.quote_is_not_available,"العربة التي تحاول الوصول إليها غير متاحة.",ar_AE
+persistent_cart_share.share_options.external.PREVIEW,معاينة,ar_AE
+persistent_cart_share.share_options.internal.READ_ONLY,"قراءة فقط",ar_AE
+persistent_cart_share.share_options.internal.FULL_ACCESS,"الوصول الكامل",ar_AE
+persistent_cart_share.copy,نسخة,ar_AE
+persistent_cart_share.external_users,"المستخدمون الخارجيون",ar_AE
+persistent_cart_share.internal_users,"المستخدمون الداخليون",ar_AE
+persistent_cart_share.title,"مشاركة السلة عبر الرابط",ar_AE
+clipboard.copy.success,"تم نسخه بنجاح إلى الحافظة!",ar_AE
+clipboard.copy.error,"نسخ النص إلى الحافظة غير مدعوم من قبل المتصفح الخاص بك. حاول نسخ النص يدوياً.",ar_AE
+persistent_cart_share_page.preview,"معاينة: %title%",ar_AE
+shared_cart.resource_share.strategy.error.cart_access_denied,"الرابط الخاص بالسلة غير صحيح أو حاول تسجيل الدخول باستخدام حساب مستخدم آخر للشركة.",ar_AE
+shared_cart.resource_share.strategy.error.unable_to_share_cart,"غير قادر على مشاركة سلة التسوق مع العميل المقدم.",ar_AE
+shared_cart.resource_share.strategy.success.cart_share_access_updated,"تم تحديث مستوى الوصول.",ar_AE
+category.office.furniture,"أثاث المكاتب",ar_AE
+comment.validation.error.comment_not_found,"التعليق غير موجود.",ar_AE
+comment.validation.error.access_denied,"الوصول مرفوض.",ar_AE
+comment.validation.error.comment_thread_not_found,"الموضوع غير موجود.",ar_AE
+comment.validation.error.comment_thread_already_exists,"توجد سلسلة تعليقات بالفعل.",ar_AE
+comment.validation.error.invalid_message_length,"طول الرسالة غير صحيح.",ar_AE
+comment.validation.error.comment_tag_not_available,"التعليق غير متاح.",ar_AE
+comment.validation.error.customer_not_set,"لا يمكن إنشاء التعليق بدون عميل صالح",ar_AE
+comment.validation.error.company_user_not_set,"لا يمكن إنشاء التعليق بدون مستخدم شركة صالح.",ar_AE
+comment.validation.error.owner_not_set,"لا يمكن إنشاء التعليق على %owner% غير المعروف",ar_AE
+comment_widget.comments_to_cart,"تعليقات إلى السلة",ar_AE
+comment_widget.form.add_comment,أضف,ar_AE
+comment_widget.form.update_comment,تحديث,ar_AE
+comment_widget.form.remove_comment,إزالة,ar_AE
+comment_widget.form.edit_comment,"تعديل",ar_AE
+comment_widget.form.cancel_comment,إلغاء,ar_AE
+comment_widget.form.you,أنت,ar_AE
+comment_widget.form.attach,مرفق,ar_AE
+comment_widget.form.unattach,"إلغاء الارتباط",ar_AE
+comment_widget.form.all,جميع,ar_AE
+comment_widget.form.attached,"مرفق",ar_AE
+comment_widget.form.button_default,زر,ar_AE
+comment_widget.form.edited,"تم التعديل",ar_AE
+comment_widget.form.tags,العلامات,ar_AE
+comment_widget.form.placeholder.add_comment,"اكتب تعليقًا",ar_AE
+comment_widget.tags.all,جميع,ar_AE
+comment_widget.tags.delivery,التوصيل,ar_AE
+comment_widget.tags.important,مهم,ar_AE
+comment_widget.error_message.unexpected_error,"حدث خطأ غير متوقع.",ar_AE
+shipment.validation.not_found,"طريقة الشحن غير موجودة.",ar_AE
+billing.address.validation.is_missing,"عنوان الفوترة مفقود",ar_AE
+billing.address.country.validation.not_found,"عنوان الفوترة للبلد غير موجود لرمز البلد: %code%",ar_AE
+shipping.address.country.validation.not_found,"عنوان الشحن غير موجود للبلد المرتبط برمز البلد: %code%",ar_AE
+product_search_widget.search.product_discontinued_prefix,"[متوقف عن الإنتاج]",ar_AE
+configurable_bundle.template.name.1,"حزمة المكتب",ar_AE
+configurable_bundle.template.name.2,"حزمة العرض",ar_AE
+configurable_bundle.template_slots.slot-1.name,"فتحة 1",ar_AE
+configurable_bundle.template_slots.slot-2.name,"الفتحة 2",ar_AE
+configurable_bundle.template_slots.slot-3.name,"الفتحة 3",ar_AE
+configurable_bundle.template_slots.slot-4.name,"الفتحة 4",ar_AE
+configurable_bundle.template_slots.slot-5.name,"الفتحة 5",ar_AE
+configurable_bundle.template_slots.slot-6.name,"الفتحة 6",ar_AE
+configurable_bundle.template.validation.error.not_exists,"قالب الحزمة القابلة للتكوين غير موجود.",ar_AE
+configurable_bundle.slot.validation.error.not_exists,"قالب فتحة الحزمة القابلة للتكوين غير موجود.",ar_AE
+configurable_bundle.template.validation.error.already_activated,"القالب المجمع المكون مفعل بالفعل.",ar_AE
+configurable_bundle.template.validation.error.already_deactivated,"القالب المجمع المكون معطل بالفعل.",ar_AE
+configured_bundle.quantity,الكمية:,ar_AE
+configured_bundle.multiplier,x,ar_AE
+configured_bundle.price,"سعر السلعة:",ar_AE
+configured_bundle.bundle_total,"إجمالي الحزمة:",ar_AE
+configured_bundle.total,"إجمالي العناصر:",ar_AE
+configured_bundle.remove,إزالة,ar_AE
+configured_bundle.order.items,"العناصر في الحزمة:",ar_AE
+configured_bundle.item_sku,SKU:,ar_AE
+configured_bundle_cart.error.configured_bundle_not_found,"الحزمة المكونة بالرقم التعريفي المقدم غير موجودة في السلة.",ar_AE
+configured_bundle_cart.error.configured_bundle_cannot_be_removed,"لا يمكن إزالة حزمة التكوين المُعدة من السلة.",ar_AE
+configured_bundle_cart.error.configured_bundle_cannot_be_updated,"الحزمة المكونة لا يمكن تحديثها.",ar_AE
+configured_bundle_cart.error.configured_bundle_cannot_be_added,"لا يمكن إضافة حزمة التكوين إلى السلة.",ar_AE
+configured_bundle_widget.configured_bundle.removed,"تمت إزالة حزمة التكوين بنجاح.",ar_AE
+configured_bundle_widget.configured_bundle.updated,"تم تحديث حزمة التكوين بنجاح.",ar_AE
+product_search_widget.search.no_results,"لم يتم العثور على المنتجات.",ar_AE
+configurable_bundle_page.select,اختر,ar_AE
+configurable_bundle_page.unselect,"إلغاء التحديد",ar_AE
+configurable_bundle_page.edit,تحرير,ar_AE
+configurable_bundle_page.configurator,المُكوّن,ar_AE
+configurable_bundle_page.configurable_bundle_list,"قائمة حزمة قابلة للتكوين",ar_AE
+configurable_bundle_page.choose_bundle_to_configure,"اختر حزمة للتكوين",ar_AE
+configurable_bundle_page.configurator.templates_not_found,"لا توجد قوالب متاحة.",ar_AE
+configurable_bundle_page.template_not_found,"قالب حزمة قابلة للتكوين غير موجود.",ar_AE
+configurable_bundle_page.invalid_template_slot_combination,"قالب/فتحة غير صالحة.",ar_AE
+configurable_bundle_page.configurator.tip.header,"أنشئ حزمتك الخاصة.",ar_AE
+configurable_bundle_page.configurator.tip.text,"لإنشاء الحزمة، يرجى تحديد الفتحة من الجانب الأيسر واختيار المنتج من القائمة.",ar_AE
+configurable_bundle_page.configurator.selected_product,"المنتج المحدد",ar_AE
+configurable_bundle_page.configurator.summary,ملخص,ar_AE
+configurable_bundle_page.configurator.add_to_cart,"أضف إلى السلة",ar_AE
+configurable_bundle_page.configurator.summary_page_locked,"المنتج لم يتم تكوينه لزيارة صفحة الملخص على الأقل.",ar_AE
+configurable_bundle_page.configurator.summary_page_total,الإجمالي,ar_AE
+configurable_bundle_page.configurator.added_to_cart,"تمت إضافة حزمة التكوين بنجاح إلى السلة.",ar_AE
+configurable_bundle_page.configurator.slot_became_unavailable,"تم تعطيل الفتحة المكونة بمعرف '%id%'.",ar_AE
+configurable_bundle_page.configurator.product_became_unavailable,"المنتج برقم المرجع '%sku%' المكون للفتحة برقم المعرف '%id%' أصبح غير متوفر.",ar_AE
+configurable_bundle_page.configurator.sku,"الرمز المميز:",ar_AE
+configurable_bundle_page.configurator.slot_page.title,"أنشئ حزمتك الخاصة بسرعة وسهولة باستخدام أداة التكوين لدينا",ar_AE
+configurable_bundle_page.configurator.slot_page.back_link,"العودة إلى الحزم",ar_AE
+agent_page.error.customer_already_logged_in,"أنت بالفعل مسجل الدخول كعميل، يرجى تسجيل الخروج أولاً، ثم المتابعة",ar_AE
+configurable_bundle_note.enter_note,"أضف ملاحظة للحزمة المكونة",ar_AE
+configurable_bundle_note.note,"ملاحظة حول حزمة التكوين:",ar_AE
+configurable_bundle_note.form.save,حفظ,ar_AE
+configurable_bundle_note.note_added,"تمت إضافة الملاحظة بنجاح إلى الحزمة المكونة",ar_AE
+sales_configured_bundle_widget.success.items_added_to_cart_as_individual_products,"يرجى ملاحظة: تمت إضافة عناصر الحزمة المكونة إلى السلة كمنتجات فردية.",ar_AE
+sales_configured_bundle_widget.returnable_state,"غير قابل للإرجاع",ar_AE
+sales_configured_bundle_widget.quantity,الكمية:,ar_AE
+configured_bundle_widget.items,العناصر,ar_AE
+quantity_option.amount,"(= %value% %name%)",ar_AE
+customer.account.shopping_list_item.error.product_not_active,"المنتج غير نشط.",ar_AE
+order_custom_reference.reference_saved,"تم حفظ مرجع الطلب المخصص بنجاح.",ar_AE
+order_custom_reference.reference_not_saved,"الإشارة المرجعية المخصصة لم تتغير.",ar_AE
+order_custom_reference.validation.error.message_invalid_length,"طول مرجع الطلب المخصص غير صالح.",ar_AE
+order_custom_reference.title,"المرجع الخاص بالطلب المخصص",ar_AE
+order_custom_reference.form.placeholder,"أضف مرجع الطلب المخصص",ar_AE
+order_custom_reference.save,حفظ,ar_AE
+cart.item.sales_unit.not_found,"وحدة البيع غير موجودة للمنتج برمز المنتج '%sku%'.",ar_AE
+cart.item.packaging_unit.not_found,"وحدة التعبئة غير موجودة للمنتج برمز SKU '%sku%'.",ar_AE
+quote_request_agent_page.checkout.step.save_rfq.title,"حفظ طلب السعر",ar_AE
+quote_request_page.quote_request.saved,"تم حفظ طلب الاقتباس بنجاح.",ar_AE
+quote_request_page.quote_request.actions.edit_address,"تعديل العنوان",ar_AE
+quote_request_page.quote_request.actions.edit_shipment,"تعديل الشحنة",ar_AE
+quote_request_page.quote_request.edit_address_confirm,"أنت تقوم بتعديل طلب الاقتباس <a href=""%link%"">%reference%</a> إذا قمت بتركه، سيتم إلغاء جميع التغييرات.",ar_AE
+quote_request_page.quote_request.edit_shipment_confirm,"أنت تقوم بتعديل طلب الاقتباس <a href=""%link%"">%reference%</a> إذا قمت بتركه، سيتم إلغاء جميع التغييرات.",ar_AE
+quote_request_page.quote_request.shipment_counter,"الشحنة %index% من %length%",ar_AE
+quote_request_page.quote_request.empty_shipment_data,"لا يوجد عنوان شحن / طريقة شحن محددة.",ar_AE
+quote_request_page.quote_request.title_create,"إنشاء طلب عرض سعر",ar_AE
+quote_request_page.quote_request.title_edit,"تعديل #%id%",ar_AE
+quote_request_page.quote_request.title_attention,تنبيه,ar_AE
+quote_request_page.quote_request.title_addresses,العناوين,ar_AE
+quote_request_page.quote_request.title_billing_address,"عنوان الفوترة",ar_AE
+quote_request_page.quote_request.title_delivery_address,"عنوان التوصيل",ar_AE
+quote_request_page.quote_request.title_shipment_method,"طريقة الشحن",ar_AE
+quote_request_page.quote_request.breadcrumb.create,إنشاء,ar_AE
+quote_request_page.quote_request.breadcrumb.edit,تعديل,ar_AE
+quote_request_page.quote_request.breadcrumb.attention,تنبيه,ar_AE
+quote_request_page.quote_request.multiple_delivery_address,"عناوين تسليم متعددة.",ar_AE
+quote_request_page.quote_request.multiple_shipment_method,"طرق شحن متعددة.",ar_AE
+quote_request_page.quote_request.empty_page,"اقتباسك فارغ!",ar_AE
+quote_request_page.quote_request.empty_delivery_address,"لا يوجد عنوان تسليم مضاف.",ar_AE
+quote_request_page.quote_request.empty_address,"لا يوجد عنوان مضاف.",ar_AE
+quote_request_page.quote_request.empty_shipment_method,"لا يوجد طريقة شحن مضافة.",ar_AE
+quote_request_page.quote_request.cta_add_address,"أضف عنوان",ar_AE
+quote_request_page.quote_request.cta_edit_address,"تعديل العنوان",ar_AE
+quote_request_page.quote_request.cta_add_shipment_method,"أضف طريقة الشحن",ar_AE
+quote_request_page.quote_request.cta_edit_shipment_method,"تعديل طريقة الشحن",ar_AE
+quote_request_page.quote_request.item,"%count% عنصرًا",ar_AE
+quote_request_page.quote_request.shipments,الشحن,ar_AE
+checkout.step.summary.shipment_costs_total,"إجمالي الشحن",ar_AE
+maintenance.search.gui_is_not_set_up,"لكي تتمكن من فحص بيانات البحث، يرجى تثبيت وحدة واجهة المستخدم الرسومية المناسبة لمزود البحث الخاص بك (على سبيل المثال spryker/search-elasticsearch-gui لـ Elasticsearch).",ar_AE
+customer.order.number_of_items,"عدد العناصر",ar_AE
+customer.order.reference,المرجع,ar_AE
+customer.order.email,"البريد الإلكتروني",ar_AE
+customer.order.company_user,"مستخدم الشركة",ar_AE
+customer.order_history.search_type.all,جميع,ar_AE
+customer.order_history.search_type.orderReference,"المرجع الخاص بالطلب",ar_AE
+customer.order_history.search_type.itemName,"اسم المنتج",ar_AE
+customer.order_history.search_type.itemSku,"رمز المنتج",ar_AE
+customer.order_history.search,البحث,ar_AE
+customer.order_history.date_from,من,ar_AE
+customer.order_history.date_to,إلى,ar_AE
+customer.order_history.apply,تطبيق,ar_AE
+customer.order_history.is_order_items_visible,"عرض المنتجات في نتائج البحث",ar_AE
+customer.order_history.active_filters,"الفلاتر النشطة:",ar_AE
+customer.order_history.reset_all,"إعادة تعيين الكل",ar_AE
+company_page.label.business_unit,"وحدة الأعمال",ar_AE
+company_page.choice.my_orders,طلباتي,ar_AE
+company_page.choice.company_orders,"طلبات الشركة",ar_AE
+permission.name.SeeCompanyOrdersPermissionPlugin,"عرض طلبات الشركة",ar_AE
+permission.name.SeeBusinessUnitOrdersPermissionPlugin,"عرض طلبات وحدة الأعمال",ar_AE
+return.return_reasons.damaged.name,تالف,ar_AE
+return.return_reasons.wrong-item.name,"العنصر الخاطئ",ar_AE
+return.return_reasons.no_longer_needed.name,"لا يلزم بعد الآن",ar_AE
+return.return_policy.returnable_till.message,"قابل للإرجاع حتى: %date%",ar_AE
+return_page.default_title,الإرجاعات,ar_AE
+return_page.title,"إنشاء إرجاع",ar_AE
+return_page.return_reasons.select_reason.placeholder,"اختر السبب",ar_AE
+return_page.return_reasons.custom_reason.placeholder,"السبب المخصص",ar_AE
+cart_page.error_message.unexpected_error,"حدث خطأ غير متوقع.",ar_AE
+order_invoice.invoice_template.table.number,"موقع الكتروني",ar_AE
+order_invoice.invoice_template.table.quantity,الكمية,ar_AE
+order_invoice.invoice_template.table.name,العنصر,ar_AE
+order_invoice.invoice_template.table.tax,"معدل الضريبة",ar_AE
+order_invoice.invoice_template.table.price,السعر,ar_AE
+order_invoice.invoice_template.table.subtotal,"المجموع الفرعي",ar_AE
+order_invoice.invoice_template.table.discount,تخفيض,ar_AE
+order_invoice.invoice_template.table.tax.included,"هذا يشمل %tax_rate%% ضريبة القيمة المضافة صافي",ar_AE
+order_invoice.invoice_template.table.tax.name,"ضريبة القيمة المضافة",ar_AE
+order_invoice.invoice_template.table.grandtotal,"المجموع الكلي",ar_AE
+order_invoice.invoice_template.reference,"رقم الفاتورة:",ar_AE
+order_invoice.invoice_template.introduction,"نقوم بتحصيل المبلغ عن البضائع التالية:",ar_AE
+order_invoice.invoice_template.company.name,"شركة سبرايكر سيستمز غمبه برلين",ar_AE
+order_invoice.invoice_template.company.address,"جولي-فولفتورن-شتراسه 1<br>10115 برلين <br> ألمانيا",ar_AE
+order_invoice.invoice_template.company.group,"مجموعة شركات سبرايكر سيستمز غمبه",ar_AE
+order_invoice.invoice_template.merchant.name,"شركة سبرايكر سيستمز غمبه برلين",ar_AE
+order_invoice.invoice_template.merchant.address,"شارع جولي-فولفتورن 1 + 10115 برلين",ar_AE
+order_invoice.invoice_template.table.total.net,"إجمالي صافي",ar_AE
+return_page.list.title,الإرجاعات,ar_AE
+return_page.account.no_return,"لا يوجد إرجاع في الوقت الحالي",ar_AE
+return_page.return.return_ref,"المرجع للإرجاع",ar_AE
+return_page.return.order_ref,"المرجع الخاص بالطلب",ar_AE
+return_page.return.number_of_items,"عدد العناصر",ar_AE
+return_page.return.date,"تاريخ العودة",ar_AE
+return_page.return.items_state,"حالة العناصر",ar_AE
+return_page.return.view_return,"عرض العودة",ar_AE
+return_page.return.print_return,"طباعة الفاتورة",ar_AE
+return_page.breadcrumb.returns,الإرجاعات,ar_AE
+return_page.breadcrumb.create_return,"إنشاء إرجاع",ar_AE
+return_page.details.page_title,"تفاصيل الإرجاع",ar_AE
+return_page.details.actions.back_to_list,"العودة إلى القائمة",ar_AE
+return_page.details.actions.print_slip,"طباعة الفاتورة",ar_AE
+return_page.details.total.items_to_return,"العناصر المراد إرجاعها",ar_AE
+return_page.details.total.items_to_return.count,العناصر,ar_AE
+return_page.details.total.remuneration_total,"المجموع الإجمالي للأجر",ar_AE
+return_page.item.options,"خيارات المنتج:",ar_AE
+return_page.table.actions,الإجراءات,ar_AE
+return_page.button.return_list,الإرجاعات,ar_AE
+return_page.return_reasons.title,السبب:,ar_AE
+return_page.return_reasons.empty,—,ar_AE
+return_page.return.created,"تم إنشاء المرتجع بنجاح",ar_AE
+return_page.return.title,"إنشاء إرجاع",ar_AE
+return_page.order_reference,"الرقم المرجعي للطلب:",ar_AE
+return_page.order_date,"تاريخ الطلب:",ar_AE
+return_page.return_reference,"إرجاع المرجع:",ar_AE
+return_page.return_date,"تاريخ العودة:",ar_AE
+return_page.button_text,"إنشاء إرجاع",ar_AE
+return_page.item_sku,SKU:,ar_AE
+return_page.quantity,الكمية:,ar_AE
+return_page.returnable_state,"غير قابل للإرجاع",ar_AE
+return_page.create_return.validation.selected_items,"يجب تحديد منتج واحد على الأقل.",ar_AE
+return_page.button.create_return,"إنشاء إرجاع",ar_AE
+return_page.slip.return_reference,"إرجاع واسترداد",ar_AE
+return_page.slip.return_date,"تاريخ العودة",ar_AE
+return_page.slip.order_reference,"رقم الطلب",ar_AE
+return_page.slip.barcode,الباركود,ar_AE
+return_page.slip.product_sku,"رمز المنتج",ar_AE
+return_page.slip.product_name,"اسم المنتج",ar_AE
+return_page.slip.default_price,"السعر الافتراضي",ar_AE
+return_page.slip.quantity,الكمية,ar_AE
+return_page.slip.total_price,"السعر الإجمالي",ar_AE
+return_page.slip.return_reason,"سبب الإرجاع",ar_AE
+return_page.slip.items_to_return,"العناصر المراد إرجاعها",ar_AE
+return_page.slip.remuneration_total,"المجموع الإجمالي للأجر",ar_AE
+sales_product_bundle_widget.returnable_text,"قابل للإرجاع حتى:",ar_AE
+sales_product_bundle_widget.returnable_state,"غير قابل للإرجاع",ar_AE
+sales_product_bundle_widget.item_sku,SKU:,ar_AE
+sales_product_bundle_widget.quantity,الكمية:,ar_AE
+sales_product_bundle_widget.item.options,"خيارات المنتج:",ar_AE
+oms.state.new,جديد,ar_AE
+oms.state.waiting,انتظار,ar_AE
+oms.state.in-progress,"في التقدم",ar_AE
+oms.state.ready,جاهز,ar_AE
+oms.state.canceled,ملغى,ar_AE
+oms.state.closed,مغلق,ar_AE
+oms.state.draft,مسودة,ar_AE
+oms.state.payment-pending,"الدفع قيد الانتظار",ar_AE
+oms.state.paid,مدفوع,ar_AE
+oms.state.confirmed,"تم التأكيد",ar_AE
+oms.state.exported,"تم التصدير",ar_AE
+oms.state.shipped,"تم الشحن",ar_AE
+oms.state.delivered,"تم التوصيل",ar_AE
+oms.state.ready-for-return,"جاهز للإرجاع",ar_AE
+oms.state.refunded,مسترد,ar_AE
+oms.state.returned,"تم الإرجاع",ar_AE
+oms.state.waiting-for-return,"في انتظار العودة",ar_AE
+oms.state.shipped-to-customer,"تم شحنها إلى العميل",ar_AE
+oms.state.sent-to-merchant,"تم إرسالها إلى التاجر",ar_AE
+oms.state.shipped-by-merchant,"تم شحنه من قبل التاجر",ar_AE
+oms.state.return-canceled,"إلغاء الإرجاع",ar_AE
+oms.state.invoice-generated,"فاتورة تم إنشاؤها",ar_AE
+oms.state.reservation-cancelled,"تم إلغاء الحجز",ar_AE
+oms.state.reservation-cancellation-pending,"إلغاء الحجز قيد الانتظار",ar_AE
+return.create_return.validation.returnable_items_error,"لا يمكن إنشاء إرجاع لأنه يحتوي على عناصر غير قابلة للإرجاع",ar_AE
+return.create_return.validation.store_error,"لا يمكن إنشاء إرجاع - تم اختيار متجر خاطئ",ar_AE
+return.create_return.validation.items_error,"لا يمكن إنشاء إرجاع لهذه المجموعة من العناصر",ar_AE
+form.csrf.error.text,"هناك خطأ ما. نأسف.",ar_AE
+checkbox-select-all.title,"حدد الكل",ar_AE
+sales.error.customer_order_not_found,"الطلب الخاص بالعميل غير موجود.",ar_AE
+sales.error.order_cannot_be_canceled_due_to_wrong_item_state,"لا يمكن إلغاء الطلب بسبب حالة العنصر الخاطئ.",ar_AE
+order_cancel_widget.cancel_order,"إلغاء الطلب",ar_AE
+order_cancel_widget.order.cancelled,"تم إلغاء الطلب بنجاح.",ar_AE
+product_cart_item.remove,"× إزالة",ar_AE
+mail.trans.availability_notification.subtitle,"الانتظار قد انتهى! أضف هذا المنتج إلى سلة التسوق الخاصة بك الآن.",ar_AE
+mail.trans.availability_notification.title.part2,"متوفر مرة أخرى!",ar_AE
+mail.trans.availability_notification_subscription.subtitle,"ستتلقى رسالة بريد إلكتروني عندما يتوفر المنتج مرة أخرى.",ar_AE
+mail.trans.availability_notification_subscription.title,"لقد أبلغنا فريق الشراء لدينا عن اشتراكك!",ar_AE
+mail.trans.availability_notification_unsubscribed.subtitle,"لن يتم إعلامك عند توفر المنتج مرة أخرى.",ar_AE
+mail.trans.availability_notification_unsubscribed.title.part1,"اشتراكك في",ar_AE
+mail.trans.availability_notification_unsubscribed.title.part2,"تم إلغاءه",ar_AE
+mail.trans.common.go_to_shop,"اذهب إلى المتجر",ar_AE
+mail.trans.common.hello_for_first_name,مرحبًا,ar_AE
+mail.trans.common.my_account,حسابي,ar_AE
+mail.trans.customer_registration.change_info,"يمكنك تغيير معلوماتك (عنوان التسليم، عنوان البريد الإلكتروني، كلمة المرور، إلخ) في حسابي.",ar_AE
+mail.trans.customer_registration.registration_success,"تم تسجيلك في متجر سبرايكر بنجاح!",ar_AE
+mail.trans.customer_registration.title,"شكراً لتسجيلك في متجر سبرايكر!",ar_AE
+mail.trans.customer_restored_password_confirmation.title,"تم تغيير كلمة المرور بنجاح",ar_AE
+mail.trans.customer_restore_password.change_password,"تغيير كلمة المرور",ar_AE
+mail.trans.customer_restore_password.subtitle,"شخص ما طلب كلمة مرور جديدة لحسابك في متجر Spryker. إذا لم تكن أنت من قام بذلك، يرجى تجاهل هذا البريد الإلكتروني. إذا كنت أنت من قام بذلك، يرجى اتباع التعليمات في الزر أدناه.",ar_AE
+mail.trans.customer_restore_password.title,"كلمة المرور الجديدة لحسابك في متجر Spryker",ar_AE
+mail.trans.footer.contact_email_address,معلومات@spryker.com,ar_AE
+mail.trans.footer.if_you_have_further_questions,"إذا كان لديك أي أسئلة إضافية، يرجى التواصل مع خدمة العملاء لدينا على",ar_AE
+mail.trans.footer.shop_address,"جولي-فولفتورن-شتراس 1",ar_AE
+mail.trans.footer.shop_city,برلين,ar_AE
+mail.trans.footer.shop_name,"شركة سبرايكر سيستمز غمبه",ar_AE
+mail.trans.footer.shop_phone,"+49 (0) 30 208 498 350",ar_AE
+mail.trans.footer.shopping_experience,"استمتع بتجربة التسوق الخاصة بك.",ar_AE
+mail.trans.footer.shop_zip_code,10115,ar_AE
+mail.trans.footer.your_team,"فريقك في سبرايكر!",ar_AE
+mail.trans.header.shop_name,"متجر سبرايكر",ar_AE
+mail.trans.newsletter_subscribed.subtitle,"سنبذل قصارى جهدنا لتقديم أحدث وأكثر الأخبار والتحديثات إثارة وصلة.",ar_AE
+mail.trans.newsletter_subscribed.title,"نحن سعداء لأنك قمت بالاشتراك في نشرتنا الإخبارية.",ar_AE
+mail.trans.newsletter_unsubscribed.subtitle,"تم إلغاء اشتراكك في نشرة أخبار متجر Spryker. يمكنك دائمًا إدارة اشتراكك في ملف تعريف العميل الخاص بك.",ar_AE
+mail.trans.newsletter_unsubscribed.title,"عذراً لرؤيتك ترحل...",ar_AE
+mail.trans.order.billing_address,"عنوان الفوترة",ar_AE
+mail.trans.order.delivery_address,"عنوان التوصيل",ar_AE
+mail.trans.order.delivery_method,"طريقة الشحن",ar_AE
+mail.trans.order.discounts_total,تخفيضات,ar_AE
+mail.trans.order.grand_total,"المجموع الكلي",ar_AE
+mail.trans.order.order_date,"تاريخ الطلب",ar_AE
+mail.trans.order.order_details,"تفاصيل الطلب",ar_AE
+mail.trans.order.order_reference,"المرجع الخاص بالطلب",ar_AE
+mail.trans.order.quantity,الكمية,ar_AE
+mail.trans.order.requested_delivery_date,"تاريخ التسليم المطلوب",ar_AE
+mail.trans.order.shipment_costs_total,"تكاليف الشحن (الإجمالي)",ar_AE
+mail.trans.order.shipment_for_number.part1,الشحن,ar_AE
+mail.trans.order.shipment_for_number.part2,من,ar_AE
+mail.trans.order.subtotal,"المجموع الفرعي",ar_AE
+mail.trans.order.taxes,الضرائب,ar_AE
+mail.trans.order_confirmation.subtitle,"نود أن نبلغكم بأننا قد استلمنا طلبكم. يمكنكم توقع تأكيد الشحن عبر البريد الإلكتروني بمجرد إرسال الطلب. نأمل أن تعجبكم طلبيتكم، ولكن إذا قررتم تغيير رأيكم، يرجى إرجاعها في غضون 14 يومًا.",ar_AE
+mail.trans.order_confirmation.title,"شكرا لتسوقك في متجر سبرايكر!",ar_AE
+mail.trans.restore_password.change_password,"تغيير كلمة المرور",ar_AE
+mail.trans.restore_password.subtitle,"شخص ما طلب كلمة مرور جديدة لحسابك في مكتب Spryker الخاص بك. إذا لم تكن أنت، يرجى تجاهل هذا البريد الإلكتروني. إذا كنت أنت، يرجى اتباع التعليمات في الزر أدناه.",ar_AE
+mail.trans.restore_password.title,"كلمة المرور الجديدة لحسابك في مكتب سبرايكر الخاص بك",ar_AE
+mail.trans.order_shipped.title,"طلبك في طريقه!",ar_AE
+mail.trans.company_status.title,"تم تغيير حالة شركتك إلى",ar_AE
+mail.trans.customer_registration.confirmation_link,"تحقق من عنوان بريدك الإلكتروني",ar_AE
+password.weak,ضعيف,ar_AE
+password.medium,متوسط,ar_AE
+password.strong,قوي,ar_AE
+password.very_strong,"قوي جداً",ar_AE
+password.message,"حاول تطويل كلمة المرور أو إضافة أرقام أو رموز.",ar_AE
+customer.password.error.deny_list,"هذا الرقم السري يعتبر شائعًا. يرجى استخدام رقم سري آخر.",ar_AE
+customer.password.error.sequence,"لقد تكررت نفس الحرف مرات كثيرة.",ar_AE
+customer.password.error.character_set,"يجب أن تحتوي كلمة المرور على الأقل على حرف واحد من كل مجموعة مسموح بها: حرف كبير، حرف صغير، رقم وحرف خاص.",ar_AE
+error.429,"طلبات كثيرة جدًا",ar_AE
+security_blocker_page.error.account_blocked,"عدد محاولات تسجيل الدخول من عنوانك الحالي كثيرة جدًا. يرجى الانتظار %minutes% دقائق قبل المحاولة مرة أخرى.",ar_AE
+security_blocker_backoffice_gui.error.account_blocked,"عدد محاولات تسجيل الدخول من عنوانك الحالي كثيرة جدًا. يرجى الانتظار %minutes% دقائق قبل المحاولة مرة أخرى.",ar_AE
+security_blocker_merchant_portal_gui.error.account_blocked,"عدد محاولات تسجيل الدخول من عنوانك الحالي كثيرة جدًا. يرجى الانتظار %minutes% دقائق قبل المحاولة مرة أخرى.",ar_AE
+payment_foreign.thank_you,"شكراً لك",ar_AE
+payment_foreign.go_to_my_account,"اذهب إلى ""حسابي""",ar_AE
+payment_foreign.success.order.placement.message,"تم دفع طلبك بنجاح. ستتلقى رسالة تأكيد طلبك عبر البريد الإلكتروني في غضون بضع دقائق. يمكنك التحقق وتتبع طلبك في حسابك.",ar_AE
+customer.login.remember_me,تذكرني,ar_AE
+merchant.sold_by,"تم بيعه بواسطة:",ar_AE
+merchant_search_widget.all_merchants,"جميع التجار",ar_AE
+merchant_search_widget.merchants,التجار,ar_AE
+merchant_profile.email,"عنوان البريد الإلكتروني",ar_AE
+merchant_profile.address,العنوان,ar_AE
+merchant_profile.phone,هاتف,ar_AE
+merchant_profile.terms_and_conditions,"الشروط والأحكام",ar_AE
+merchant_profile.cancellation_policy,"سياسة الإلغاء",ar_AE
+merchant_profile.imprint,الطبعة,ar_AE
+merchant_profile.privacy,"الخصوصية في البيانات",ar_AE
+merchant_profile.delivery_time,"وقت التوصيل",ar_AE
+merchant_product.message.invalid,"المنتج ""%sku%"" مع التاجر ""%merchant_reference%"" غير موجود.",ar_AE
+merchant_product.sold_by,"تم بيعه بواسطة",ar_AE
+merchant_product_offer.view_seller,"عرض البائع",ar_AE
+merchant_product_offer.sold_by,"تم بيعه بواسطة",ar_AE
+merchant_product_offer_widget.merchant_name,تاجر,ar_AE
+product-offer.info.product-offer-inactive.removed,"تمت إزالة العنصر الغير نشط %sku% من سلة التسوق الخاصة بك.",ar_AE
+product-offer.info.reference.invalid,"المرجع الخاص بعرض المنتج غير موجود للمنتج ذو الرمز '%sku%'.",ar_AE
+product-offer.message.not-active-or-approved,"العرض غير نشط للمنتج برمز المنتج '%sku%'.",ar_AE
+merchant_weekday_schedule.new_year,"يوم رأس السنة الجديدة",ar_AE
+merchant_weekday_schedule.good_friday,"الجمعة العظيمة",ar_AE
+merchant_weekday_schedule.easter_sunday,"الأحد الفصحي",ar_AE
+merchant_weekday_schedule.easter_monday,"الاثنين الفصحي",ar_AE
+merchant_weekday_schedule.may_day,"يوم العمال",ar_AE
+merchant_weekday_schedule.ascension_of_christ,"صعود المسيح",ar_AE
+merchant_weekday_schedule.whit_sunday,"الأحد الأبيض",ar_AE
+merchant_weekday_schedule.whit_monday,"الاثنين الأبيض",ar_AE
+merchant_weekday_schedule.corpus_christi,"كوربوس كريستي",ar_AE
+merchant_weekday_schedule.day_of_german_unity,"يوم الوحدة الألمانية",ar_AE
+merchant_weekday_schedule.all_saints_day,"يوم جميع القديسين",ar_AE
+merchant_weekday_schedule.1st_christmas_day,"اليوم الأول من عيد الميلاد",ar_AE
+merchant_weekday_schedule.2nd_christmas_day,"اليوم الثاني من عيد الميلاد",ar_AE
+merchant_weekday_schedule.sunday_opening,"فتح أبوابنا يوم الأحد",ar_AE
+merchant_opening_hours.opening_hours_title,"ساعات العمل",ar_AE
+merchant_opening_hours.special_opening_hours_title,"ساعات العمل الخاصة",ar_AE
+merchant_opening_hours.public_holidays_title,"العطل الرسمية",ar_AE
+merchant_opening_hours.opening_hours_closed,مغلق,ar_AE
+merchant_opening_hours.day.title.monday,الاثنين,ar_AE
+merchant_opening_hours.day.title.tuesday,الثلاثاء,ar_AE
+merchant_opening_hours.day.title.wednesday,الأربعاء,ar_AE
+merchant_opening_hours.day.title.thursday,الخميس,ar_AE
+merchant_opening_hours.day.title.friday,الجمعة,ar_AE
+merchant_opening_hours.day.title.saturday,السبت,ar_AE
+merchant_opening_hours.day.title.sunday,الأحد,ar_AE
+checkout.item.option.pre.condition.validation.error.exists,"خيار المنتج %name% غير متوفر بعد الآن.",ar_AE
+product.filter.merchant_name,تاجر,ar_AE
+merchant_sales_order.merchant_order_id,"رقم طلب التاجر",ar_AE
+merchant_sales_return.message.items_from_different_merchant_detected,"هناك منتجات من تجار مختلفين في طلبك. يمكنك فقط إرجاع منتجات من تاجر واحد في كل مرة.",ar_AE
+merchant_sales_return_widget.create_form.different_merchants_info,"هناك منتجات من تجار مختلفين في طلبك. يمكنك فقط إرجاع منتجات من تاجر واحد في كل مرة.",ar_AE
+shopping_list.pre.check.product_offer,"عذرًا، لم يتم العثور على عرض المنتج.",ar_AE
+shopping_list.pre.check.product_offer.approved,"العرض المقدم للمنتج غير معتمد.",ar_AE
+shopping_list.pre.check.product_offer.is_active,"العرض المنتج غير نشط.",ar_AE
+shopping_list.pre.check.product_merchant_inactive,"التاجر غير نشط.",ar_AE
+shopping_list.pre.check.product_merchant_not_approved,"التاجر غير معتمد.",ar_AE
+shopping_list.pre.check.product_offer.store_invalid,"العرض المتاح للمنتج غير متوافق مع المتجر الحالي.",ar_AE
+shopping_list.pre.check.product.store_invalid,"المنتج ليس متوافقًا مع المتجر الحالي.",ar_AE
+sales-order-threshold.hard-minimum-threshold.us.usd.message,"يجب عليك إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الأدنى الموصى به. لا يمكنك المتابعة مع عملية الدفع.",ar_AE
+sales-order-threshold.hard-maximum-threshold.us.usd.message,"قيمة السلة لا يمكن أن تكون أعلى من {{threshold}}. يرجى إزالة بعض العناصر لمتابعة الطلب.",ar_AE
+sales-order-threshold.soft-minimum-threshold.us.usd.message,"تحتاج إلى إضافة عناصر بقيمة {{threshold}} لتجاوز الحد الموصى به، ولكن إذا كنت ترغب في ذلك يمكنك المتابعة إلى الخروج.",ar_AE
+countries.iso.US,"الولايات المتحدة الأمريكية",ar_AE
+product_bundle_product_detail_page_items_list_widget.title.bundle_includes,"الحزمة تشمل",ar_AE
+product_configuration.checkout.validation.error.is_not_complete,"تكوين المنتج غير مكتمل.",ar_AE
+product_configuration.validation.error.not_valid_response_checksum,"الرجاء توفير مجموعة التحقق الصحيحة للرد",ar_AE
+product_configuration.validation.error.expired_timestamp,"تم تقديم الطابع الزمني المنتهي",ar_AE
+product_configuration.access_token.request.error.can_not_obtain_access_token,"لا يمكن الحصول على رمز الوصول",ar_AE
+product_configuration.error.configured_item_not_found_in_cart,"المنتج المُكوّن '%sku%' غير موجود.",ar_AE
+product_configuration.error.availability.failed,"المنتج متوفر بنسبة %availability%.",ar_AE
+product_configuration.response.validation.error,"فشل في التحقق من استجابة مكون المنتج.",ar_AE
+product_configuration.error.configuration_not_found,"تعذر العثور على تكوين المنتج للمنتج '%sku%'.",ar_AE
+product_configuration_storage.validation.error.group_key_is_not_provided,"يجب توفير مفتاح المجموعة",ar_AE
+product_configuration_widget.configure,تكوين,ar_AE
+product_configuration_widget.complete,"تم إكمال التكوين!",ar_AE
+product_configuration_widget.not_complete,"التكوين غير مكتمل.",ar_AE
+product_configuration_widget.quote_not_valid,"هذه العربة لا يمكن معالجتها. يرجى تكوين العناصر داخل العربة.",ar_AE
+product_configuration.quote_request.validation.error.incomplete,"يجب عليك إكمال تكوين المنتجات لتأكيد العرض.",ar_AE
+product_configuration_shopping_list.error.configuration_not_found,"تعذر العثور على تكوين المنتج لعنصر قائمة التسوق '%uuid%'.",ar_AE
+product_configuration_shopping_list.error.item_not_found,"عنصر قائمة التسوق غير موجود.",ar_AE
+product_configurator_gateway_page.source_type_not_blank,"المصدر هو معلمة مطلوبة",ar_AE
+product_configurator_gateway_page.sku_not_blank,"مطلوب معرف المنتج كمعلمة",ar_AE
+product_configurator_gateway_page.configurator_key_not_blank,"مفتاح المكون الإضافي هو معلمة مطلوبة",ar_AE
+product_configurator_gateway_page.quantity_required,"الكمية هي معلمة مطلوبة",ar_AE
+product_configurator_gateway_page.item_group_key_required,"مفتاح المجموعة هو معلمة مطلوبة",ar_AE
+product_configurator_gateway_page.shopping_list_item_uuid_required,"مطلوب معرف عنصر قائمة التسوق كمعلمة.",ar_AE
+product_configurator_gateway_page.configurator_key_is_not_supported,"مفتاح المكون غير مدعوم.",ar_AE
+demo_date_time_configurator_page.checkout.validation.error.price_is_not_valid,"سعر تكوين المنتج غير صالح",ar_AE
+permission.name.SeeCompanyUsersPermissionPlugin,"عرض مستخدمي الشركة",ar_AE
+store_widget.switcher.store,المتجر:,ar_AE
+store.validation.store_not_found,"المتجر غير موجود",ar_AE
+auth.register,سجل,ar_AE
+company.account.company_user.edit,تعديل,ar_AE

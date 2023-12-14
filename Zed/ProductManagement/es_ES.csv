@@ -1,0 +1,108 @@
+Activate,Activar
+Active,Activo
+"Add General Information","Añadir Información General"
+"Add image","Añadir imagen"
+"Add image set","Añadir conjunto de imágenes"
+"Add Product Concrete","Añadir Producto Concreto"
+"Add Variant","Añadir Variante"
+"Assigned products","Productos asignados"
+Attributes,Atributos
+"Available in stores","Disponible en tiendas"
+"Below are the product variants listed. Each variant may be edited independent from the others.","A continuación se enumeran las variantes del producto. Cada variante se puede editar de forma independiente de las demás."
+"Below the name and description for your product can be edited for different locales (in different languages).","A continuación se pueden editar el nombre y la descripción de su producto para diferentes ubicaciones (en diferentes idiomas)."
+"Below you can choose between your predefined tax sets and edit the price of your product.","A continuación, puede elegir entre sus conjuntos de impuestos predefinidos y editar el precio de su producto."
+"Bundle availability based on assigned products:","Disponibilidad del paquete basada en los productos asignados:"
+Categories,Categorías
+"CMS Block list","Lista de bloques CMS"
+"Configurable Product Attributes","Atributos de producto configurable"
+"Contains bundles","Contiene paquetes"
+"Create a Product","Crear un producto"
+"Create Bundle Product","Crear producto de paquete"
+"Create Product","Crear producto"
+Deactivate,Desactivar
+Deactivated,Desactivado
+Default,Predeterminado
+"Delete image","Eliminar imagen"
+"Delete image set","Eliminar conjunto de imágenes"
+Edit,Editar
+"Edit Product Abstract","Editar Resumen del Producto"
+"Edit Product Concrete","Editar Producto Concreto"
+"Enter price.","Ingrese el precio."
+"Enter stock value. In case you create multiple variants, the stock can be managed under ""Product Variants"" and this input field will be ignored.","Ingrese el valor del stock. En caso de crear varias variantes, el stock se puede gestionar en ""Variantes de producto"" y este campo de entrada se ignorará."
+General,General
+"Gross price","Precio bruto"
+"Image Set","Conjunto de imágenes"
+"Image Sets","Conjuntos de imágenes"
+Large,Grande
+"List Products","Lista de productos"
+"Manage Attributes","Gestionar atributos"
+"Merchant Price Dimension","Dimensión de precio del comerciante"
+"Multiple images can be grouped to an image set. An image set has a name for identification and may contain a small and a large version of each image","Se pueden agrupar varias imágenes en un conjunto de imágenes. Un conjunto de imágenes tiene un nombre para su identificación y puede contener una versión pequeña y una versión grande de cada imagen"
+n/a,n/a
+"Net price","Precio neto"
+"Never out of stock","Nunca sin stock"
+"No categories found.","No se encontraron categorías."
+"No records","No hay registros"
+"Note: Deactivated product variants are not available in the shop anymore.","Nota: Las variantes de productos desactivadas ya no están disponibles en la tienda."
+"Note: Image sets can be used for different purposes such as being displayed in the catalog or the product detail page or elsewhere.","Nota: Los conjuntos de imágenes se pueden utilizar para diferentes propósitos, como mostrarse en el catálogo o en la página de detalles del producto o en otros lugares."
+"Note: Meta data are snippets of text describing a page’s content. The meta data appear only in the page’s code, not in its content.","Nota: Los metadatos son fragmentos de texto que describen el contenido de una página. Los metadatos solo aparecen en el código de la página, no en su contenido."
+"Note: The price that you edit here is only displayed in the shop catalog and the product detail page for the non configured product (Not product variant)","Nota: El precio que edites aquí solo se mostrará en el catálogo de la tienda y en la página de detalles del producto para el producto no configurado (no la variante del producto)."
+"Note: The SKU is not editable after saving anymore.","Nota: El SKU no se puede editar después de guardar."
+"Note: The SKU prefix, just like the SKUs of your product variants, are not editable after saving anymore.","Nota: El prefijo del SKU, al igual que los SKU de las variantes de producto, no se pueden editar después de guardar."
+"Price & Tax","Precio y impuestos"
+"Price & Taxes","Precio y impuestos"
+"Product bundle does not have variants!","¡El paquete de productos no tiene variantes!"
+"Product Group ID","ID del grupo de productos"
+"Product Groups","Grupos de productos"
+"Product has been activated.","El producto ha sido activado."
+"Product has been deactivated.","El producto ha sido desactivado."
+"Product ID","ID del producto"
+"Product Image(s)","Imagen(es) del producto"
+"Product type","Tipo de producto"
+"Product variants","Variantes de producto"
+Quantity,Cantidad
+Save,Guardar
+"Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a web search engine's unpaid results — often referred to as ""natural,"" ""organic,"" or ""earned"" results.","La optimización para motores de búsqueda (SEO) es el proceso de afectar la visibilidad de un sitio web o una página web en los resultados no pagados de un motor de búsqueda web, a menudo conocidos como resultados ""naturales"", ""orgánicos"" o ""ganados""."
+"Select attributes and corresponding values.","Seleccionar atributos y valores correspondientes."
+"SEO (Meta Information)","SEO (Información meta)"
+Small,Pequeño
+"Stock Type","Tipo de stock"
+"Store relation","Relación con la tienda"
+"Tax Set","Conjunto de impuestos"
+"The product [%s] does not exist.","El producto [%s] no existe."
+"The product [%s] was saved successfully.","El producto [%s] se guardó correctamente."
+"The product [%s] you are trying to edit, does not exist.","El producto [%s] que estás intentando editar no existe."
+"There is no super attribute defined. <a href=""%url%"">Define super attributes</a> in order to be able to create variants.","No se ha definido ningún superatributo. <a href=""%url%"">Define superatributos</a> para poder crear variantes."
+Type,Tipo
+Variants,Variantes
+"View Product Abstract","Ver resumen del producto"
+"View Product Concrete","Ver producto concreto"
+Product,Producto
+Products,Productos
+Availability,Disponibilidad
+"New from","Nuevo desde"
+"New to","Nuevo hasta"
+"At least one price should be specified","Debe especificarse al menos un precio"
+"Please enter at least an SKU and a Name of the product in every locale in the General section","Por favor, introduzca al menos un SKU y un nombre del producto en cada idioma en la sección General"
+"The product [%s] was added successfully.","El producto [%s] se ha añadido correctamente."
+Images,Imágenes
+"Add Volume Price","Añadir precio por volumen"
+"Is bundle","Es un paquete"
+"View Concrete Product","Ver producto concreto"
+"Edit Concrete Product","Editar producto concreto"
+"Super attributes","Super atributos"
+"Valid from","Válido desde"
+"Valid to","Válido hasta"
+Searchable,Buscable
+Stock,Stock
+"Sort order","Orden de clasificación"
+"Assign bundled products","Asignar productos incluidos"
+"Valid From (Time in UTC)","Válido desde (Hora en UTC)"
+"Valid To (Time in UTC)","Válido hasta (Hora en UTC)"
+Remove,Eliminar
+quantity,Cantidad
+Price,Precio
+"id product","ID del producto"
+select,seleccionar
+"Product name","Nombre del producto"
+Types,Tipos

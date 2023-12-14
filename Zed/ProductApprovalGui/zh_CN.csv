@@ -1,0 +1,16 @@
+"Abstract product was not found",未找到摘要产品
+"Approval status",批准状态
+approved,已批准
+denied,已拒绝
+approval_status_action.approved,批准
+approval_status_action.denied,拒绝
+approval_status_action.draft,返回草稿
+approval_status_action.waiting_for_approval,发送审批
+active,活动
+inactive,非活动
+"The approval status was updated.",批准状态已更新
+"The approval status was not updated.",批准状态未更新
+"Abstract product was not found.",未找到摘要产品
+waiting_for_approval,等待批准
+status,状态
+Approval,批准

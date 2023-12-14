@@ -1,0 +1,66 @@
+Actions,الإجراءات
+Activate,تفعيل
+Active,نشط
+"Add General Information","إضافة معلومات عامة"
+"Add Slot","إضافة فتحة"
+"Are you sure you want to delete template","هل أنت متأكد أنك تريد حذف القالب؟"
+"Are you sure you want to delete this slot?","هل أنت متأكد أنك تريد حذف هذه الفتحة؟"
+"At first create Configurable bundle Template, after that you will be redirected to the page where you can create slots, and define products per each of them.","أولاً، قم بإنشاء قالب حزمة قابلة للتكوين، ثم سيتم توجيهك إلى الصفحة حيث يمكنك إنشاء الفتحات وتعريف المنتجات لكل منها."
+Back,العودة
+"Back to Template list","العودة إلى قائمة القوالب"
+"Below you can edit the name of your slot for different locales (in different languages).","أدناه يمكنك تعديل اسم فتحة الخاص بك لمختلف اللغات."
+Cancel,إلغاء
+"Configurable Bundle Template","قالب حزمة قابل للتكوين"
+"Configurable bundle template has been successfully created.","تم إنشاء قالب حزمة قابل للتكوين بنجاح."
+"Configurable bundle template has been successfully deleted.","تم حذف قالب حزمة قابل للتكوين بنجاح."
+"Configurable bundle template has been successfully updated.","تم تحديث قالب حزمة قابل للتكوين بنجاح."
+"Configurable bundle template has not been created.","لم يتم إنشاء قالب حزمة قابل للتكوين."
+"Configurable bundle template has not been deleted.","لم يتم حذف قالب حزمة قابل للتكوين."
+"Configurable bundle template has not been updated.","لم يتم تحديث قالب حزمة قابل للتكوين."
+"Configurable bundle template slot has not been created.","لم يتم إنشاء فتحة قالب حزمة قابل للتكوين."
+"Configurable bundle template slot has not been deleted.","لم يتم حذف قالب فتحة حزمة قابلة للتكوين."
+"Configurable bundle template slot has not been updated.","لم يتم تحديث قالب فتحة حزمة قابلة للتكوين."
+"Configurable bundle template slot was successfully created.","تم إنشاء قالب فتحة حزمة قابلة للتكوين بنجاح."
+"Configurable bundle template slot was successfully deleted.","تم حذف قالب فتحة حزمة قابلة للتكوين بنجاح."
+"Configurable bundle template slot was successfully updated.","تم تحديث قالب فتحة حزمة قابلة للتكوين بنجاح."
+"Configurable bundle template slot with id ""%id%"" was not found.","لم يتم العثور على قالب فتحة حزمة قابلة للتكوين بالمعرف ""%id%""."
+"Configurable bundle template with id ""%id%"" was not found.","لم يتم العثور على قالب حزمة قابلة للتكوين بالمعرف ""%id%""."
+"Configurable Bundle Templates","قوالب حزمة قابلة للتكوين"
+Confirm,تأكيد
+"Confirm action","تأكيد الإجراء"
+"Create Configurable Bundle Template","إنشاء قالب حزمة قابلة للتكوين"
+"Create New Template","إنشاء قالب جديد"
+"Create Slot","إنشاء فتحة"
+Deactivate,"إلغاء التنشيط"
+Delete,حذف
+"Delete Configurable Bundle Template","حذف قالب حزمة قابلة للتكوين"
+"Delete Template","حذف القالب"
+Edit,تحرير
+"Edit Configurable Bundle Template","تحرير قالب حزمة قابلة للتكوين"
+"Edit Slot","تحرير الفتحة"
+"Edit Slot for","تعديل الفتحة لـ"
+for,لـ
+General,عام
+Inactive,"غير نشط"
+Name,الاسم
+Next,التالي
+"Note: you can assign products and categories for a slot in the respective tabs.","ملاحظة: يمكنك تعيين المنتجات والفئات للفتحة في علامات التبويب المعنية."
+"Nr. of Slots","عدد الفتحات"
+"Number of Items","عدد العناصر"
+"Product ID","معرف المنتج"
+Save,حفظ
+SKU,SKU
+"Slot details","تفاصيل الفتحة"
+"Slot ID","معرف الفتحة"
+"Slot Name","اسم الفتحة"
+Slots,فتحات
+Status,الحالة
+"Template ""%template_name%"" has been activated.","تم تفعيل القالب ""%template_name%""."
+"Template ""%template_name%"" has deactivated.","تم إلغاء تفعيل القالب ""%template_name%""."
+"Template ""%template_name%"" has not been activated.","لم يتم تفعيل القالب ""%template_name%""."
+"Template ""%template_name%"" has not been deactivated.","القالب ""%template_name%"" لم يتم إلغاؤه."
+"Template ""%template_name%"" was activated.","تم تفعيل القالب ""%template_name%""."
+"Template ""%template_name%"" was deactivated.","تم إلغاء القالب ""%template_name%""."
+"Template details","تفاصيل القالب"
+"You can add slots on this page. During slot creation you can assign products from a catalog to this slot one by one, import CSV file or assign several categories.","يمكنك إضافة فتحات في هذه الصفحة. أثناء إنشاء الفتحة يمكنك تعيين المنتجات من الكتالوج لهذه الفتحة واحدة تلو الأخرى، استيراد ملف CSV أو تعيين عدة فئات."
+"You can change name and define locals on this page.","يمكنك تغيير الاسم وتعريف المحليات في هذه الصفحة."

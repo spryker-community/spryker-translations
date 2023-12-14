@@ -1,0 +1,21 @@
+"Back to Merchant Relationship Thresholds","Retour aux seuils de relation marchande"
+"Edit Merchant Relationship Threshold","Modifier le seuil de relation marchande"
+"Enter minimum order value","Entrer la valeur de commande minimale"
+"Hard Threshold","Seuil dur"
+"Hard Maximum Threshold","Seuil maximum dur"
+"Merchant relationship name","Nom de la relation marchande"
+"Merchant relationships","Relations marchandes"
+Message,Message
+Save,Enregistrer
+"Soft Threshold","Seuil souple"
+"Soft Threshold with fixed fee","Seuil souple avec frais fixes"
+"Soft Threshold with flexible fee","Seuil souple avec frais flexibles"
+"Soft Threshold with message","Seuil souple avec message"
+"Store and Currency","Magasin et devise"
+"The Merchant Relationship Threshold is saved successfully.","Le seuil de relation marchande est enregistré avec succès."
+Thresholds,Seuils
+Soft,Souple
+Hard,Dur
+"The Merchant Relationship Thresholds is saved successfully.","Les seuils de relation marchande sont enregistrés avec succès."
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Vous pouvez utiliser les espaces réservés <code>{{threshold}}</code> et <code>{{fee}}</code>"
+"BU name","Nom de l'unité d'activité"

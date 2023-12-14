@@ -1,0 +1,37 @@
+"Back to Orders","Terug naar Bestellingen"
+"Back to Reclamatinos","Terug naar Reclamaties"
+"Can not create reclamation","Kan geen reclamatie aanmaken"
+"Canceled amount","Geannuleerd bedrag"
+"Create connected order","Verbonden bestelling aanmaken"
+"Create reclamation","Reclamatie aanmaken"
+Created,Aangemaakt
+Discount,Korting
+"GRAND TOTAL",Totaalbedrag
+"Included tax amount","Inclusief belastingbedrag"
+"Item total","Artikel Totaal"
+"List of Reclamations","Lijst met Reclamaties"
+"No order items provided","Geen bestelitems verstrekt"
+"No reclamation with given id %s","Geen reclamatie met het opgegeven id %s"
+Option,Optie
+Order,Bestelling
+"Order id","Bestelling id"
+"OrderItem with id %s not belong to order %s","Bestelitem met id %s behoort niet tot de bestelling %s"
+"Overview of reclamation:","Overzicht van reclamatie:"
+"Overview of reclamations","Overzicht van reclamaties"
+Product,Product
+"Reclamation id:%s for order %s sucessfully created","Reclamatie id:%s voor bestelling %s succesvol aangemaakt"
+"Reclamation item refunded","Reclamatie-item terugbetaald"
+"Reclamation item with id %s not exists","Reclamatie-item met id %s bestaat niet"
+"Reclamation state",Reclamatiestatus
+"Reclamation with id %s closed","Reclamatie met id %s gesloten"
+"Reclamation with id %s not exists","Reclamatie met id %s bestaat niet"
+"Reclamation with id %s not own this item %s","Reclamatie met id %s bezit dit item %s niet"
+Shipment,Verzending
+"Show less","Minder weergeven"
+"Show more","Meer weergeven"
+Sku,SKU
+State,Status
+"Sub total",Subtotaal
+Total,Totaal
+"Unit Price",Eenheidsprijs
+"Variant Details",Variantdetails

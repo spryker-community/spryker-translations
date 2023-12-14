@@ -1,0 +1,58 @@
+Return,Ritorno
+"Return Reference","Riferimento di ritorno"
+Items,Articoli
+Actions,Azioni
+View,Visualizza
+"Return ID","ID di ritorno"
+"Order Reference","Riferimento ordine"
+"Returned Items","Articoli restituiti"
+"Return Date","Data di ritorno"
+"Print Slip","Stampa scontrino"
+"List of Returns","Elenco dei resi"
+Returns,Resi
+"Return Ref","Riferimento ritorno"
+Barcode,"Codice a barre"
+"Product SKU","SKU prodotto"
+"Product Name","Nome prodotto"
+"Default Price","Prezzo predefinito"
+Qty,Qtà
+"Total Price","Prezzo totale"
+"Return Reason","Motivo del reso"
+Reason,Motivo
+"Order Ref","Riferimento ordine"
+"Return with id ""%id%"" was not found.","Il reso con ID ""%id%"" non è stato trovato."
+"Items to Return","Articoli da restituire"
+"Remuneration Total","Totale rimborso"
+"Remuneration total","Totale rimborso"
+"Custom reason","Motivo personalizzato"
+"Select reason","Seleziona motivo"
+"Return has not been created.","Il reso non è stato creato."
+"Order with id ""%id%"" was not found.","L'ordine con ID ""%id%"" non è stato trovato."
+"Return was successfully created.","Il reso è stato creato con successo."
+"Create Return","Crea reso"
+"Back to Order","Torna all'ordine"
+"General information","Informazioni generali"
+"Order reference","Riferimento ordine"
+"Select Items to Return","Seleziona articoli da restituire"
+Product,Prodotto
+Quantity,Quantità
+Price,Prezzo
+"Item total","Totale articolo"
+"Return Policy","Politica di reso"
+State,Stato
+"Create return","Crea reso"
+"Requested return with ID ""%id%"" was not found.","Il reso richiesto con ID ""%id%"" non è stato trovato."
+"Customer reference","Riferimento cliente"
+Customer,Cliente
+Name,Nome
+Email,Email
+"Retured Items","Articoli restituiti"
+"Trigger all matching states","Attiva tutti gli stati corrispondenti"
+Total,Totale
+"Back to Returns","Torna ai resi"
+"Print Return Slip","Stampa modulo di reso"
+"Overview of Return","Panoramica del reso"
+"selected items","articoli selezionati"
+of,di
+"Item selected for return is not eligible for return anymore.","L'articolo selezionato per il reso non è più idoneo per il reso."
+"Returned Products","Prodotti restituiti"

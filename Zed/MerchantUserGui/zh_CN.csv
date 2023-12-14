@@ -1,0 +1,26 @@
+"Add Merchant User",添加商户用户
+Back,返回
+"Back to Merchant Users",返回到商户用户
+Deactivate,停用
+Deactivated,已停用
+Delete,删除
+Deleted,已删除
+Create,创建
+"It will be deleted from everywhere",它将从所有地方删除
+"Merchant user ID is incorrect.",商户用户ID不正确。
+"Merchant user was deleted successfully.",商户用户已成功删除。
+"Merchant user was not deleted.",商户用户未被删除。
+"No users can be added till the merchant has been created. Please, add the required merchant information and save it.",在商户创建之前无法添加用户。请添加所需的商户信息并保存。
+Save,保存
+"User status can't be updated.",无法更新用户状态。
+"User status has been updated.",用户状态已更新。
+Users,用户
+"You are trying to delete merchant user",您正在尝试删除商户用户
+"Merchant user was successfully created.",商户用户已成功创建。
+Edit,编辑
+Activate,激活
+Active,活动
+E-mail,电子邮件
+Status,状态
+"Last Name",姓
+"First Name",名

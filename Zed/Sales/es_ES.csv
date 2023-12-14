@@ -1,0 +1,105 @@
+"<1d | 1d-7d | >7d","<1d | 1d-7d | >7d"
+"Address successfully updated.","Dirección actualizada correctamente."
+Addresses,Direcciones
+"All orders of the customer","Todos los pedidos del cliente"
+"Back to Orders","Volver a los pedidos"
+"Canceled amount","Cantidad cancelada"
+"Cart Notes","Notas del carrito"
+Comments,Comentarios
+"Customer Full Name ","Nombre completo del cliente"
+"Customer Full Name","Nombre completo del cliente"
+"Customer successfully updated.","Cliente actualizado correctamente."
+Discount,Descuento
+"GRAND TOTAL","Total general"
+"Grand Total","Total general"
+"Hide history","Ocultar historial"
+"incl. %tax_amount% % tax","incl. %tax_amount% % impuesto"
+"Included tax amount","Cantidad de impuesto incluido"
+"Item total","Total de artículos"
+Items,Artículos
+Legend,Leyenda
+"List of orders","Lista de pedidos"
+Matrix,Matriz
+Note,Nota
+"Number of Items","Número de artículos"
+Option,Opción
+"Order Matrix","Matriz de pedido"
+"Order Source","Fuente del pedido"
+"Order State","Estado del pedido"
+Orders,Pedidos
+"Overview of Order Matrix","Resumen de la matriz de pedidos"
+"Overview of Orders","Resumen de pedidos"
+Payments,Pagos
+Product,Producto
+Quantity,Cantidad
+Sales,Ventas
+Save,Guardar
+"Send Message","Enviar mensaje"
+Shipment,Envío
+"Show history","Mostrar historial"
+"Show less","Mostrar menos"
+"Show more","Mostrar más"
+Sku,SKU
+State,Estado
+"Sub total",Subtotal
+Subtotal,Subtotal
+Totals,Totales
+"Trigger all matching states","Activar todos los estados coincidentes"
+"Trigger event","Activar evento"
+"Unique Product Quantity","Cantidad de productos únicos"
+"Unit Price","Precio unitario"
+"Variant Details","Detalles de la variante"
+"View Order","Ver pedido"
+"View Order:","Ver pedido:"
+"Remuneration total","Total de remuneración"
+"Trigger all matching states inside this order","Activar todos los estados coincidentes dentro de este pedido"
+"Previous orders count","Recuento de pedidos anteriores"
+Name,Nombre
+E-mail,"Correo electrónico"
+"Order date","Fecha del pedido"
+Refunds,Reembolsos
+"Discounts & Vouchers","Descuentos y vales"
+"Order Items","Artículos del pedido"
+Reference,Referencia
+"Order Overview","Resumen del pedido"
+"Total taxes","Impuestos totales"
+Reclamations,Reclamaciones
+Claim,Reclamación
+"payment pending","Pago pendiente"
+exported,Exportado
+shipped,Enviado
+delivered,Entregado
+refunded,Reembolsado
+closed,Cerrado
+pay,Pagar
+ship,Enviar
+stock-update,"Actualizar stock"
+close,Cerrar
+refund,Reembolsar
+execute-return,"Ejecutar devolución"
+cancel-return,"Cancelar devolución"
+ship-return,"Enviar devolución de vuelta al cliente"
+delivery-return,"Entregar devolución de vuelta al cliente"
+cancel,Cancelar
+"skip timeout","Saltar tiempo de espera"
+"Refund total","Reembolso total"
+"Comment successfully added","Comentario añadido correctamente."
+"Address Details","Detalles de dirección"
+"Middle name","Segundo nombre"
+"Po box","Apartado de correos"
+"Zip code","Código postal"
+Address1,"Dirección 1"
+Address2,"Dirección 2"
+"Cell phone","Teléfono móvil"
+"Edit Address for Order: %idSalesOrder%","Editar dirección para pedido: %idSalesOrder%"
+new,Nuevo
+cancelled,Cancelado
+paid,Pagado
+waiting,Esperando
+confirmed,Confirmado
+returned,Devuelto
+"invoice generated","Factura generada"
+"waiting for return","Esperando devolución"
+"return canceled","Devolución cancelada"
+"shipped to customer","Enviado al cliente"
+invoice-generate,"Generar factura"

@@ -1,0 +1,19 @@
+"Edit Global threshold","Modifica soglia globale"
+"Edit Threshold Settings","Modifica impostazioni soglia"
+"Global threshold","Soglia globale"
+"Minimum Hard Threshold","Soglia minima rigida"
+"Maximum Hard Threshold","Soglia massima rigida"
+"Minimum Order Value settings saved.","Impostazioni valore ordine minimo salvate."
+Save,Salva
+"Soft Threshold","Soglia soft"
+"The Global Threshold is saved successfully.","La soglia globale è stata salvata con successo."
+"Threshold Settings","Impostazioni soglia"
+Threshold,Soglia
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","Puoi utilizzare i segnaposto <b>{{threshold}}</b> <b>{{fee}}</b>"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Puoi utilizzare i segnaposto <code>{{threshold}}</code> e <code>{{fee}}</code>"
+"The Global Thresholds is saved successfully.","Le soglie globali sono state salvate con successo."
+"Store and Currency","Negozio e valuta"
+"Enter threshold value","Inserisci valore soglia"
+"Threshold settings","Impostazioni soglia"
+Soft,Soft
+Hard,Rigida

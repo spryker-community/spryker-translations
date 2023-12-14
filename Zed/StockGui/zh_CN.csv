@@ -1,0 +1,24 @@
+Actions,操作
+Active,活跃
+Administration,管理
+"Available in store",商店有货
+"Available in the following store(s)",以下商店有货
+Configuration,配置
+"Create Warehouse",创建仓库
+"Edit Warehouse",编辑仓库
+Inactive,不活跃
+"Is this warehouse available?",该仓库是否可用？
+Name,名称
+No,否
+Status,状态
+"Stock not found",未找到库存
+"Store relation",商店关系
+"Store Relation",商店关系
+"This name is already in use.",该名称已被使用。
+View,查看
+"View Warehouse: ",查看仓库：
+"Warehouse has been successfully saved",仓库已成功保存
+"Warehouse has been successfully updated",仓库已成功更新
+"Warehouse ID",仓库ID
+Warehouses,仓库
+Yes,是

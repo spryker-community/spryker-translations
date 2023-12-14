@@ -1,0 +1,37 @@
+"Back to Orders",返回订单
+"Back to Reclamatinos",返回退货
+"Can not create reclamation",无法创建退货
+"Canceled amount",取消金额
+"Create connected order",创建关联订单
+"Create reclamation",创建退货
+Created,已创建
+Discount,折扣
+"GRAND TOTAL",总计
+"Included tax amount",包含税额
+"Item total",商品总计
+"List of Reclamations",退货列表
+"No order items provided",未提供订单商品
+"No reclamation with given id %s",没有给定id的退货
+Option,选项
+Order,订单
+"Order id",订单ID
+"OrderItem with id %s not belong to order %s","具有id %s 的订单商品不属于订单 %s"
+"Overview of reclamation:",退货概览:
+"Overview of reclamations",退货概览
+Product,商品
+"Reclamation id:%s for order %s sucessfully created","为订单 %s 创建的退货id：%s 成功"
+"Reclamation item refunded",退货商品已退款
+"Reclamation item with id %s not exists","不存在id为 %s 的退货商品"
+"Reclamation state",退货状态
+"Reclamation with id %s closed","id为 %s 的退货已关闭"
+"Reclamation with id %s not exists","不存在id为 %s 的退货"
+"Reclamation with id %s not own this item %s","id为 %s 的退货不属于该商品 %s"
+Shipment,发货
+"Show less",显示更少
+"Show more",显示更多
+Sku,SKU
+State,状态
+"Sub total",小计
+Total,总计
+"Unit Price",单价
+"Variant Details",变体详情

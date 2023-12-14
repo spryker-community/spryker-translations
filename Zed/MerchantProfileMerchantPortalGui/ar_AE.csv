@@ -1,0 +1,59 @@
+"About Your Store","حول متجرك"
+"Addition to address","إضافة إلى العنوان"
+"Average Delivery Time","متوسط وقت التوصيل"
+"Banner URL","عنوان URL للبانر"
+"Business Info","معلومات العمل"
+"Cancellation Policy","سياسة الإلغاء"
+City,المدينة
+Company,الشركة
+"Company Name","اسم الشركة"
+"Contact Details & Address","تفاصيل الاتصال والعنوان"
+"Contact Person","تفاصيل الشخص الذي يمكن الاتصال به"
+Country,البلد
+"Data Privacy","خصوصية البيانات"
+Description,الوصف
+Dr,الدكتور
+Email,"البريد الإلكتروني"
+"Fax number","رقم الفاكس"
+"First Name","الاسم الأول"
+Imprint,"العلامة التجارية"
+"Is Active",نشط
+"Last Name","الاسم الأخير"
+Latitude,"خط العرض"
+"Logo URL","رابط الشعار"
+Longitude,"خط الطول"
+"Merchant Reference","المرجع التجاري"
+Mr,السيد
+Mrs,السيدة
+Ms,الآنسة
+Number,الرقم
+"Online Profile","الملف الشخصي عبر الإنترنت"
+"Store Status","حالة المتجر"
+"Phone Number","رقم الهاتف"
+Profile,"الملف الشخصي"
+profile.status.message.online,"هذا يعني أن متجرك متاح عبر الإنترنت ويمكن للأشخاص رؤيته."
+profile.status.message.offline,"هذا يعني أن متجرك متاح عبر الإنترنت ويمكن للأشخاص رؤيته."
+"Provide a logo URL","قدم رابط الشعار"
+"Provide a banner URL","قدم رابط البانر"
+"Provide Average Delivery Time","قدم وقت التوصيل المتوسط"
+"Provide Data Privacy","قدم خصوصية البيانات"
+"Provide Imprint","قدم البصمة"
+"Provide Cancellation Policy","توفير سياسة الإلغاء"
+"Provide Terms & Conditions","توفير الشروط والأحكام"
+"Provide the URL of your Store","توفير عنوان URL لمتجرك"
+"Registration number","رقم التسجيل"
+Role,الدور
+Save,حفظ
+select.default.placeholder,اختيار
+"Store Profile URL","عنوان URL لملف تعريف المتجر"
+store.state.online,"متجرك متاح عبر الإنترنت"
+store.state.offline,"متجرك متاح عبر الإنترنت"
+Street,الشارع
+"Tell us about your store","أخبرنا عن متجرك"
+"Terms & Conditions","الشروط والأحكام"
+"The Profile has been changed successfully.","تم تغيير الملف الشخصي بنجاح."
+Title,العنوان
+"Your Store is online","متجرك متصل بالإنترنت"
+"Visual assets","الأصول المرئية"
+"Zip Code","الرمز البريدي"
+Stores,المتاجر

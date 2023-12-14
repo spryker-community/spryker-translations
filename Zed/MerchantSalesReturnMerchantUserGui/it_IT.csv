@@ -1,0 +1,52 @@
+"My Returns","I miei resi"
+Return,Reso
+"Merchant for current user not found.","Merchant per l'utente corrente non trovato."
+"Merchant sales order #%d not found.","Ordine di vendita del merchant #%d non trovato."
+"Return was successfully created.","Il reso è stato creato con successo."
+"Return has not been created.","Il reso non è stato creato."
+"Requested return with ID %id% was not found.","Il reso richiesto con ID %id% non è stato trovato."
+"Status change triggered successfully.","Cambio di stato avvenuto con successo."
+"Request is invalid","La richiesta non è valida."
+"Parameter redirect not found.","Parametro redirect non trovato."
+"Item selected for return is not eligible for return anymore.","L'articolo selezionato per il reso non è più idoneo per il reso."
+"Select reason","Seleziona il motivo"
+View,Visualizza
+"Print Slip","Stampa la ricevuta"
+"Return ID","ID del reso"
+"Return Reference","Riferimento del reso"
+"Order Reference","Riferimento dell'ordine"
+"Marketplace Order Reference","Riferimento dell'ordine del marketplace"
+"Returned Products","Prodotti restituiti"
+"Return Date","Data del reso"
+State,Stato
+Actions,Azioni
+Sku,Sku
+"incl. %tax_amount% % tax","incl. %tax_amount% % tasse"
+"Show history","Mostra cronologia"
+"Hide history","Nascondi cronologia"
+"Create Return","Crea reso"
+"Back to Order","Torna all'ordine"
+"Merchant Order Reference","Riferimento dell'ordine del merchant"
+"Merchant Order References","Riferimenti dell'ordine del merchant"
+"Select Items to Return","Seleziona gli articoli da restituire"
+Product,Prodotto
+Quantity,Quantità
+Price,Prezzo
+Total,Totale
+"Return policy","Politica di reso"
+Customer,Cliente
+"Customer Reference","Riferimento del cliente"
+Name,Nome
+Email,Email
+"General information","Informazioni generali"
+"Returned Items","Articoli restituiti"
+Reason,Motivo
+"Trigger all matching states","Attiva tutti gli stati corrispondenti"
+of,di
+"selected items","articoli selezionati"
+"Trigger event","Attiva evento"
+items,articoli
+"Remuneration Total","Totale rimborso"
+"Overview of Return","Panoramica del reso"
+"Back to Returns","Torna alle restituzioni"
+"Print Return Slip","Stampa modulo di reso"

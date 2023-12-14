@@ -1,0 +1,55 @@
+"1. General Information","1. 一般信息"
+"2. Translations","2. 翻译"
+Add,添加
+"Add Attribute",添加属性
+"Allow input any value other than predefined ones",允许输入除预定义值以外的任何值
+"Attribute ID",属性ID
+"Attribute key",属性键
+"Attribute Key",属性键
+"Attribute list",属性列表
+"Attribute name translation",属性名称翻译
+"Attributes and their values are used by the backoffice application. They are unique and cannot contain special characters.",属性和它们的值由后台应用程序使用。它们是唯一的，不能包含特殊字符。
+Back,返回
+"Back to List",返回列表
+"Back to Product Abstract",返回产品摘要
+"Back to Product List",返回产品列表
+"Create a Product Attribute",创建产品属性
+"Create Product Attribute",创建产品属性
+date,日期
+datetime,日期时间
+Edit,编辑
+"Edit Product",编辑产品
+"Edit Product Abstract",编辑产品摘要
+float,浮点数
+"General Information",一般信息
+"Input type",输入类型
+"Manage Attributes for Product",管理产品属性
+"Manage Attributes for Product Abstract",管理产品摘要属性
+number,数字
+"Predefined value translations",预定义值翻译
+"Predefined values",预定义值
+"Product Abstract Attributes Management",产品摘要属性管理
+"Product abstract attributes saved",产品摘要属性已保存
+"Product attribute was created successfully.",产品属性创建成功。
+"Product attribute was not created.",产品属性未创建。
+"Product attribute was updated successfully.",产品属性更新成功。
+"Product Attributes",产品属性
+"Product Attributes Management",产品属性管理
+"Product attributes saved",产品属性已保存
+Save,保存
+select,选择
+"Super attribute",超级属性
+text,文本
+textarea,文本区域
+time,时间
+"Translate predefined values",翻译预定义值
+"Translation was updated successfully.",翻译已成功更新。
+"Type first three letters of an existing attribute key for suggestions.",输入现有属性键的前三个字母以获取建议。
+Values,值
+"View Attribute",查看属性
+"You can add new values by pressing ""Enter"" after each element",您可以在每个元素后按下“Enter”来添加新值
+Remove,移除
+"Edit Product Attribute",编辑产品属性
+"Edit Attribute Translations",编辑属性翻译
+"Predefined Values",预定义值
+"Please select attribute key first",请先选择属性键。

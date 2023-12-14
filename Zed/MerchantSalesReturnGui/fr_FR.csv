@@ -1,0 +1,15 @@
+"General information","Informations générales"
+"Order reference","Référence de commande"
+"Select Items to Return","Sélectionnez les articles à retourner"
+"You can only return products from one merchant at a time.","Vous ne pouvez retourner que des produits d'un seul marchand à la fois."
+"Merchant Order %row% of %length%","Commande du marchand %row% sur %length%"
+"Fullfilled by merchant","Fourni par le marchand"
+"Merchant Order Reference","Référence de commande du marchand"
+Product,Produit
+Quantity,Quantité
+Price,Prix
+Total,Total
+"Return policy","Politique de retour"
+State,État
+"Select reason","Sélectionnez la raison"
+"Create return","Créer un retour"

@@ -1,0 +1,10 @@
+Amount,Bedrag
+"Payment method",Betaalmethode
+"Payment provider",Betalingsaanbieder
+"Payment method key ""%paymentMethodKey%"" used more then once among requested entities.","Betaalmethode sleutel ""%paymentMethodKey%"" wordt meerdere keren gebruikt bij de gevraagde entiteiten."
+"Payment method name ""%paymentMethodName%"" used more then once among requested entities.","Betaalmethode naam ""%paymentMethodName%"" wordt meerdere keren gebruikt bij de gevraagde entiteiten."
+"Payment provider with key ""%paymentProviderKey%"" already exists.","Betalingsaanbieder met sleutel ""%paymentProviderKey%"" bestaat al."
+"Payment method with key ""%paymentMethodKey%"" already exists.","Betaalmethode met sleutel ""%paymentMethodKey%"" bestaat al."
+"Payment provider key ""%paymentProviderKey%"" used more then once among requested entities.","Betalingsaanbieder sleutel ""%paymentProviderKey%"" wordt meerdere keren gebruikt bij de gevraagde entiteiten."
+"Payment provider name ""%paymentProviderName%"" used more then once among requested entities.","Betalingsaanbieder naam ""%paymentProviderName%"" wordt meerdere keren gebruikt bij de gevraagde entiteiten."
+"Payment provider with id ""%paymentProviderId%"" is unknown.","Betalingsaanbieder met id ""%paymentProviderId%"" is onbekend."

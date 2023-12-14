@@ -1,0 +1,19 @@
+"Edit Global threshold","تعديل الحد العالمي"
+"Edit Threshold Settings","تعديل إعدادات الحد"
+"Global threshold","الحد العالمي"
+"Minimum Hard Threshold","الحد الأدنى الصعب"
+"Maximum Hard Threshold","الحد الأقصى الصعب"
+"Minimum Order Value settings saved.","تم حفظ إعدادات الحد الأدنى لقيمة الطلب."
+Save,حفظ
+"Soft Threshold","الحد الناعم"
+"The Global Threshold is saved successfully.","تم حفظ الحد العالمي بنجاح."
+"Threshold Settings","إعدادات الحد"
+Threshold,"الحد الأدنى"
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","يمكنك استخدام العناصر النائبة <b>{{threshold}}</b> <b>{{fee}}</b>"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","يمكنك استخدام العناصر النائبة <code>{{threshold}}</code> و <code>{{fee}}</code>"
+"The Global Thresholds is saved successfully.","تم حفظ الحدود العالمية بنجاح."
+"Store and Currency","المتجر والعملة"
+"Enter threshold value","أدخل قيمة الحد الأدنى"
+"Threshold settings","إعدادات الحد الأدنى"
+Soft,ناعم
+Hard,صعب

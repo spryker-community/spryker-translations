@@ -1,0 +1,13 @@
+Actions,Acciones
+Add,Añadir
+"Available Product Sets","Conjuntos de productos disponibles"
+"Clear locale","Borrar localización"
+content_product_set_gui.template.cart-button-btm,"Añadir todo al carrito (parte inferior)"
+content_product_set_gui.template.cart-button-top,"Añadir todo al carrito (parte superior)"
+content_product_set_gui.template.default,Predeterminado
+Delete,Eliminar
+ID,ID
+Name,Nombre
+"Number of Products","# de productos"
+"Product Set","Conjunto de productos"
+Status,Estado

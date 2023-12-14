@@ -1,0 +1,28 @@
+"Warehouse user","Usuario de almacén"
+"User could not be found.","No se pudo encontrar el usuario."
+"User uuid is missing.","Falta el UUID del usuario."
+"Warehouse user assignments are updated.","Se han actualizado las asignaciones de usuarios de almacén."
+"Assign warehouses","Asignar almacenes"
+"Assign Warehouse to User","Asignar almacén a usuario"
+"List Users","Listar usuarios"
+"A warehouse can be assigned to multiple users at a time.","Se puede asignar un almacén a varios usuarios a la vez."
+Remove,Eliminar
+Save,Guardar
+"Deselect All","Deseleccionar todo"
+"Deselected warehouses","Almacenes deseleccionados"
+Inactive,Inactivo
+Active,Activo
+"Warehouse ID","ID de almacén"
+Name,Nombre
+Status,Estado
+Assigned,Asignado
+Assign,Asignar
+Selected,Seleccionado
+"Select All","Seleccionar todo"
+"List of warehouses","Lista de almacenes"
+"Assigned warehouses","Almacenes asignados"
+"Warehouses to be deassigned","Almacenes a desasignar"
+"Select warehouses to assign","Seleccionar almacenes para asignar"
+"Warehouses to be assigned","Almacenes a asignar"
+"Selected warehouses","Almacenes seleccionados"
+"This user is a warehouse user","Este usuario es un usuario de almacén"

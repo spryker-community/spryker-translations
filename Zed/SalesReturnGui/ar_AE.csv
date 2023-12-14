@@ -1,0 +1,58 @@
+Return,العودة
+"Return Reference","مرجع العودة"
+Items,العناصر
+Actions,الإجراءات
+View,عرض
+"Return ID","معرف العودة"
+"Order Reference","مرجع الطلب"
+"Returned Items","العناصر المُرجعة"
+"Return Date","تاريخ العودة"
+"Print Slip","طباعة الإيصال"
+"List of Returns","قائمة العوائد"
+Returns,العوائد
+"Return Ref","إرجاع المرجع"
+Barcode,الباركود
+"Product SKU","رمز المنتج"
+"Product Name","اسم المنتج"
+"Default Price","السعر الافتراضي"
+Qty,الكمية
+"Total Price","السعر الإجمالي"
+"Return Reason","سبب الإرجاع"
+Reason,السبب
+"Order Ref","رقم الطلب"
+"Return with id ""%id%"" was not found.","لم يتم العثور على إرجاع بالمعرف ""%id%""."
+"Items to Return","العناصر المراد إرجاعها"
+"Remuneration Total","إجمالي التعويض"
+"Remuneration total","إجمالي التعويض"
+"Custom reason","سبب مخصص"
+"Select reason","اختر السبب"
+"Return has not been created.","لم يتم إنشاء الإرجاع."
+"Order with id ""%id%"" was not found.","لم يتم العثور على الطلب بالمعرف ""%id%""."
+"Return was successfully created.","تم إنشاء الإرجاع بنجاح."
+"Create Return","إنشاء إرجاع"
+"Back to Order","العودة إلى الطلب"
+"General information","معلومات عامة"
+"Order reference","مرجع الطلب"
+"Select Items to Return","اختر العناصر للإرجاع"
+Product,المنتج
+Quantity,الكمية
+Price,السعر
+"Item total","إجمالي العنصر"
+"Return Policy","سياسة الإرجاع"
+State,الحالة
+"Create return","إنشاء إرجاع"
+"Requested return with ID ""%id%"" was not found.","لم يتم العثور على الإرجاع المطلوب بالمعرف ""%id%""."
+"Customer reference","مرجع العميل"
+Customer,العميل
+Name,الاسم
+Email,"البريد الإلكتروني"
+"Retured Items","العناصر المُرجَعة"
+"Trigger all matching states","تفعيل جميع الحالات المطابقة"
+Total,المجموع
+"Back to Returns","العودة إلى الإرجاع"
+"Print Return Slip","طباعة إيصال الإرجاع"
+"Overview of Return","نظرة عامة على الإرجاع"
+"selected items","العناصر المحددة"
+of,من
+"Item selected for return is not eligible for return anymore.","العنصر المحدد للإرجاع غير مؤهل للإرجاع بعد الآن."
+"Returned Products","المنتجات المُرجَعة"

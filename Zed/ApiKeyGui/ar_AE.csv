@@ -1,0 +1,29 @@
+Administration,الإدارة
+"API Keys","مفاتيح واجهة برمجة التطبيقات"
+Name,الاسم
+ID,المعرف
+Key,المفتاح
+Edit,تعديل
+Delete,حذف
+Create,إنشاء
+Back,العودة
+Save,حفظ
+"Created by","تم الإنشاء بواسطة"
+"Back to API Keys","العودة إلى مفاتيح واجهة برمجة التطبيقات"
+"Create API Key","إنشاء مفتاح واجهة برمجة التطبيقات"
+"Edit API Key","تعديل مفتاح واجهة برمجة التطبيقات"
+Actions,الإجراءات
+"API key `%s` created successfully. Note, it will not be shown again. Please ensure you save it securely for future use.","تم إنشاء مفتاح واجهة برمجة التطبيقات `%s` بنجاح. يرجى ملاحظة أنه لن يتم عرضه مرة أخرى. يرجى التأكد من حفظه بشكل آمن للاستخدام المستقبلي."
+"API Key with ID `%d` does not exist.","مفتاح واجهة برمجة التطبيقات بالمعرف `%d` غير موجود."
+"The new API key is `%s`. Note, it will not be shown again. Please ensure you save it securely for future use.","المفتاح الجديد لواجهة برمجة التطبيقات هو `%s`. يرجى ملاحظة أنه لن يتم عرضه مرة أخرى. يرجى التأكد من حفظه بشكل آمن للاستخدام المستقبلي."
+"API key has been successfully removed","تمت إزالة مفتاح واجهة برمجة التطبيقات بنجاح"
+"API key can not be removed","لا يمكن إزالة مفتاح واجهة برمجة التطبيقات"
+"Regenerate Key","إعادة توليد المفتاح"
+"Delete API Key","حذف مفتاح واجهة برمجة التطبيقات"
+"API key updated successfully.","تم تحديث مفتاح واجهة برمجة التطبيقات بنجاح."
+"API key removal confirmation","تأكيد حذف مفتاح واجهة برمجة التطبيقات"
+"Are you sure you want to delete this API key?","هل أنت متأكد أنك تريد حذف هذا المفتاح؟"
+"No, I want to keep this API key","لا ، أريد الاحتفاظ بهذا المفتاح"
+"We highly recommend setting an expiration date to the token, because of security reasons.","نوصي بشدة بتعيين تاريخ انتهاء صلاحية الرمز المميز ، بسبب أسباب أمان."
+"Expires on","تنتهي في"
+"⚠️ Never","⚠️ أبدًا"

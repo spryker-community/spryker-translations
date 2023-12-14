@@ -1,0 +1,21 @@
++Add,+Add
+Actions,Ações
+Active,Ativo
+Cancel,Cancelar
+Delete,Excluir
+"Go Back",Voltar
+ID,ID
+Inactive,Inativo
+"List of Blocks for ""%SLOT_NAME%"" Slot","Lista de Blocos para o Slot ""%SLOT_NAME%"""
+"Move Down","Mover para Baixo"
+"Move Up","Mover para Cima"
+Name,Nome
+Save,Salvar
+"Select or type a block name to assign","Selecionar ou digitar um nome de bloco para atribuir"
+SprykerCmsSlotBlock,Spryker
+Status,Status
+Stores,Lojas
+"There are unsaved changes","Existem alterações não salvas"
+"Valid From (Included)","Válido de (Incluído)"
+"Valid To (Excluded)","Válido até (Excluído)"
+"View Block","Visualizar Bloco"

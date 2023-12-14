@@ -1,0 +1,16 @@
+"Abstract product was not found","لم يتم العثور على المنتج المجرد"
+"Approval status","حالة الموافقة"
+approved,"تمت الموافقة"
+denied,"تم الرفض"
+approval_status_action.approved,الموافقة
+approval_status_action.denied,الرفض
+approval_status_action.draft,"العودة إلى المسودة"
+approval_status_action.waiting_for_approval,"إرسال للموافقة"
+active,نشط
+inactive,"غير نشط"
+"The approval status was updated.","تم تحديث حالة الموافقة."
+"The approval status was not updated.","لم يتم تحديث حالة الموافقة."
+"Abstract product was not found.","لم يتم العثور على المنتج المجرد."
+waiting_for_approval,"في انتظار الموافقة"
+status,الحالة
+Approval,الموافقة

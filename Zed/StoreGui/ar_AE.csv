@@ -1,0 +1,20 @@
+Administration,الإدارة
+"Manage Stores","إدارة المتاجر"
+Name,الاسم
+"Store ID","معرف المتجر"
+Stores,المتاجر
+"Stores (Multi-store per Zed feature is disabled)","المتاجر (تم تعطيل ميزة متعددة المتاجر لكل ميزة زد)"
+"Create Store","إنشاء متجر"
+"Back to Stores","العودة إلى المتاجر"
+"Edit Store","تحرير المتجر"
+"View Store","عرض المتجر"
+Actions,الإجراءات
+Locales,المواقع
+Currencies,العملات
+"Store created successfully","تم إنشاء المتجر بنجاح"
+"Store updated successfully","تم تحديث المتجر بنجاح"
+"Store with id `%s` does not exist","المتجر بالمعرف `%s` غير موجود"
+Store,المتجر
+"Store: %s","المتجر: %s"
+Important,مهم
+"Store Name is not editable after creation. Store is not deletable after creation, please refer to Spryker documentation.","اسم المتجر غير قابل للتعديل بعد الإنشاء. المتجر غير قابل للحذف بعد الإنشاء، يرجى الرجوع إلى وثائق سبرايكر."

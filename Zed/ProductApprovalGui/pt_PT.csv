@@ -1,0 +1,16 @@
+"Abstract product was not found","Produto abstrato não encontrado"
+"Approval status","Estado de aprovação"
+approved,Aprovado
+denied,Negado
+approval_status_action.approved,Aprovar
+approval_status_action.denied,Negar
+approval_status_action.draft,"Voltar para o rascunho"
+approval_status_action.waiting_for_approval,"Enviar para aprovação"
+active,Ativo
+inactive,Inativo
+"The approval status was updated.","O estado de aprovação foi atualizado."
+"The approval status was not updated.","O estado de aprovação não foi atualizado."
+"Abstract product was not found.","Produto abstrato não encontrado."
+waiting_for_approval,"Aguardando aprovação"
+status,Status
+Approval,Aprovação

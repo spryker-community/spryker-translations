@@ -1,0 +1,20 @@
+Administration,Administratie
+"Manage Stores","Winkels beheren"
+Name,Naam
+"Store ID",Winkel-ID
+Stores,Winkels
+"Stores (Multi-store per Zed feature is disabled)","Winkels (Multi-store per Zed-functie is uitgeschakeld)"
+"Create Store","Winkel aanmaken"
+"Back to Stores","Terug naar winkels"
+"Edit Store","Winkel bewerken"
+"View Store","Winkel bekijken"
+Actions,Acties
+Locales,Talen
+Currencies,Valuta's
+"Store created successfully","Winkel succesvol aangemaakt"
+"Store updated successfully","Winkel succesvol bijgewerkt"
+"Store with id `%s` does not exist","Winkel met id `%s` bestaat niet"
+Store,Winkel
+"Store: %s","Winkel: %s"
+Important,Belangrijk
+"Store Name is not editable after creation. Store is not deletable after creation, please refer to Spryker documentation.","Winkelnaam kan niet worden bewerkt na aanmaak. Winkel kan niet worden verwijderd na aanmaak, raadpleeg de Spryker-documentatie."

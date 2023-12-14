@@ -1,0 +1,55 @@
+"1. General Information","1. Información general"
+"2. Translations","2. Traducciones"
+Add,Añadir
+"Add Attribute","Añadir atributo"
+"Allow input any value other than predefined ones","Permitir introducir cualquier valor distinto de los predefinidos"
+"Attribute ID","ID de atributo"
+"Attribute key","Clave de atributo"
+"Attribute Key","Clave de atributo"
+"Attribute list","Lista de atributos"
+"Attribute name translation","Traducción del nombre del atributo"
+"Attributes and their values are used by the backoffice application. They are unique and cannot contain special characters.","Los atributos y sus valores son utilizados por la aplicación de backoffice. Son únicos y no pueden contener caracteres especiales."
+Back,Volver
+"Back to List","Volver a la lista"
+"Back to Product Abstract","Volver al resumen del producto"
+"Back to Product List","Volver a la lista de productos"
+"Create a Product Attribute","Crear un atributo de producto"
+"Create Product Attribute","Crear atributo de producto"
+date,fecha
+datetime,"fecha y hora"
+Edit,Editar
+"Edit Product","Editar producto"
+"Edit Product Abstract","Editar resumen del producto"
+float,"número decimal"
+"General Information","Información general"
+"Input type","Tipo de entrada"
+"Manage Attributes for Product","Gestionar atributos para el producto"
+"Manage Attributes for Product Abstract","Gestionar atributos para el resumen del producto"
+number,número
+"Predefined value translations","Traducciones de valores predefinidos"
+"Predefined values","Valores predefinidos"
+"Product Abstract Attributes Management","Gestión de atributos del resumen del producto"
+"Product abstract attributes saved","Atributos del resumen del producto guardados"
+"Product attribute was created successfully.","El atributo de producto se creó correctamente."
+"Product attribute was not created.","El atributo de producto no se creó."
+"Product attribute was updated successfully.","El atributo de producto se actualizó correctamente."
+"Product Attributes","Atributos del producto"
+"Product Attributes Management","Gestión de atributos del producto"
+"Product attributes saved","Atributos del producto guardados"
+Save,Guardar
+select,seleccionar
+"Super attribute","Super atributo"
+text,texto
+textarea,textarea
+time,tiempo
+"Translate predefined values","Traducir valores predefinidos"
+"Translation was updated successfully.","La traducción se actualizó correctamente."
+"Type first three letters of an existing attribute key for suggestions.","Escriba las primeras tres letras de una clave de atributo existente para obtener sugerencias."
+Values,Valores
+"View Attribute","Ver atributo"
+"You can add new values by pressing ""Enter"" after each element","Puede agregar nuevos valores presionando ""Enter"" después de cada elemento"
+Remove,Eliminar
+"Edit Product Attribute","Editar atributo del producto"
+"Edit Attribute Translations","Editar traducciones de atributos"
+"Predefined Values","Valores predefinidos"
+"Please select attribute key first","Por favor, seleccione primero la clave del atributo."

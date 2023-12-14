@@ -1,0 +1,20 @@
+Administration,管理
+"Manage Stores",管理商店
+Name,名称
+"Store ID",商店ID
+Stores,商店
+"Stores (Multi-store per Zed feature is disabled)",商店（禁用多商店功能）
+"Create Store",创建商店
+"Back to Stores",返回商店
+"Edit Store",编辑商店
+"View Store",查看商店
+Actions,操作
+Locales,语言环境
+Currencies,货币
+"Store created successfully",商店创建成功
+"Store updated successfully",商店更新成功
+"Store with id `%s` does not exist",ID为`%s`的商店不存在
+Store,商店
+"Store: %s",商店：%s
+Important,重要
+"Store Name is not editable after creation. Store is not deletable after creation, please refer to Spryker documentation.",商店名称在创建后不可编辑。商店在创建后不可删除，请参考Spryker文档。

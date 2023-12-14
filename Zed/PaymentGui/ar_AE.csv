@@ -1,0 +1,24 @@
+Actions,الإجراءات
+Active,نشط
+"Available in Store","متوفر في المتجر"
+"Available in the following store(s)","متوفر في المتجر (المتاجر) التالي (التالية)"
+Configuration,التكوين
+Edit,تحرير
+"Edit Payment Method: %s","تحرير طريقة الدفع: %s"
+Inactive,"غير نشط"
+"Is the Payment Method active?","هل طريقة الدفع نشطة؟"
+"Is this payment method active?","هل هذه الطريقة الدفع نشطة؟"
+"List Payment Methods","قائمة طرق الدفع"
+Name,الاسم
+"Payment Method Key","مفتاح طريقة الدفع"
+"Payment method not found","لم يتم العثور على طريقة الدفع"
+"Payment Methods","طرق الدفع"
+"Payment Provider","مزود الدفع"
+Provider,مزود
+Save,حفظ
+Status,الحالة
+"Store relation","علاقة المتجر"
+View,عرض
+"View Payment Method: %s","عرض طريقة الدفع: %s"
+"Payment method has been successfully updated","تم تحديث طريقة الدفع بنجاح"
+"Payment Management","إدارة الدفع"

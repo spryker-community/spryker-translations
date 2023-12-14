@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.project/
+nbproject/
+.buildpath/
+.settings/
+*.sublime-*
+
+# tooling
+vendor/

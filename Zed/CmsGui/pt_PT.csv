@@ -1,0 +1,71 @@
+Activate,Ativar
+"Back to CMS","Voltar para CMS"
+by,por
+"Cms page with id %s doesn't exist","A página CMS com o ID %s não existe"
+Compare,Comparar
+"Content Management","Gestão de Conteúdo"
+"Create CMS Page","Criar Página CMS"
+"Create new CMS Page","Criar nova Página CMS"
+"Create page","Criar página"
+"Created at:","Criado em:"
+Deactivate,Desativar
+Description:,Descrição:
+"Discard Draft","Descartar Rascunho"
+"Edit CMS Page:","Editar Página CMS:"
+"Edit page","Editar página"
+"Edit placeholders","Editar espaços reservados"
+"Edit Placeholders:","Editar Espaços Reservados:"
+"Fill in general page information","Preencha as informações gerais da página"
+"Fill in SEO information","Preencha as informações de SEO"
+"In Shop","Na Loja"
+"In Zed","Em Zed"
+"Is active:","Está ativo:"
+"Is searchable:","É pesquisável:"
+Keywords:,Palavras-chave:
+"List of CMS pages","Lista de páginas CMS"
+Locale,Local
+"Meta Description","Descrição Meta"
+"Meta Keywords","Palavras-chave Meta"
+"Meta Title","Título Meta"
+"Missing placeholders for selected template.","Espaços reservados ausentes para o modelo selecionado."
+n/a,n/a
+Name,Nome
+Name:,Nome:
+on,ligado
+"Overview of CMS Pages","Visão geral das páginas CMS"
+Page,Página
+"Page was updated successfully","A página foi atualizada com sucesso"
+"Page with version %d successfully published.","A página com a versão %d foi publicada com sucesso."
+Pages,Páginas
+"Placeholder translations successfully updated","As traduções de espaços reservados foram atualizadas com sucesso."
+Publish,Publicar
+"Rollback to Selected Version","Reverter para a Versão Selecionada"
+Save,Salvar
+Template:,Modelo:
+Title:,Título:
+"Translation key:","Chave de Tradução:"
+Url,Url
+Urls,Urls
+"Valid from:","Válido de (incluído):"
+"Valid to:","Válido até (excluído):"
+"Version History","Histórico de Versões"
+"Version History:","Histórico de Versões:"
+View,Visualizar
+"View CMS Page:","Visualizar Página CMS:"
+"You are editing a <br>draft </b> page. To make your changes visible in Yves, publish the page. Publishing the page will create a new version for this page","Você está editando uma página <b>rascunho</b>. Para tornar suas alterações visíveis na Loja, publique a página. A publicação da página criará uma nova versão para esta página."
+"You are viewing a published page. It was published","Você está visualizando uma página publicada. Ela foi publicada"
+"You can edit the page or placeholders to modify the current working draft. You can publish the current working draft to create a new version","Você pode editar a página ou espaços reservados para modificar o rascunho de trabalho atual. Você pode publicar o rascunho de trabalho atual para criar uma nova versão"
+"CMS Redirect","Redirecionamento CMS"
+"Is searchable","É pesquisável"
+"Page was not created.","A página não foi criada."
+"Page was created successfully.","A página foi criada com sucesso."
+"You are editing a <b>draft</b> page. To make your changes visible in the shop, publish the page. Publishing the page will create a new version for this page.","Você está editando uma página <b>rascunho</b>. Para tornar suas alterações visíveis na loja, publique a página. A publicação da página criará uma nova versão para esta página."
+"Store relation","Relação de Loja"
+Placeholders,"Espaços Reservados"
+title,Título
+content,Conteúdo
+"View CMS Page","Visualizar Página CMS"
+"Draft data successfully discarded.","Dados de rascunho descartados com sucesso."
+"Page was deactivated successfully.","Página desativada com sucesso."
+"Page was activated successfully.","Página ativada com sucesso."
+"Edit Placeholders","Editar Espaços Reservados"

@@ -1,0 +1,58 @@
+Return,Devolución
+"Return Reference","Referencia de devolución"
+Items,Artículos
+Actions,Acciones
+View,Ver
+"Return ID","ID de devolución"
+"Order Reference","Referencia de pedido"
+"Returned Items","Artículos devueltos"
+"Return Date","Fecha de devolución"
+"Print Slip","Imprimir comprobante"
+"List of Returns","Lista de devoluciones"
+Returns,Devoluciones
+"Return Ref","Ref de devolución"
+Barcode,"Código de barras"
+"Product SKU","SKU del producto"
+"Product Name","Nombre del producto"
+"Default Price","Precio predeterminado"
+Qty,Cantidad
+"Total Price","Precio total"
+"Return Reason","Motivo de devolución"
+Reason,Motivo
+"Order Ref","Ref de pedido"
+"Return with id ""%id%"" was not found.","No se encontró la devolución con el id ""%id%""."
+"Items to Return","Artículos para devolver"
+"Remuneration Total","Total de remuneración"
+"Remuneration total","Total de remuneración"
+"Custom reason","Motivo personalizado"
+"Select reason","Seleccionar motivo"
+"Return has not been created.","La devolución no se ha creado."
+"Order with id ""%id%"" was not found.","No se encontró el pedido con el id ""%id%""."
+"Return was successfully created.","La devolución se ha creado correctamente."
+"Create Return","Crear devolución"
+"Back to Order","Volver al pedido"
+"General information","Información general"
+"Order reference","Referencia de pedido"
+"Select Items to Return","Seleccionar artículos para devolver"
+Product,Producto
+Quantity,Cantidad
+Price,Precio
+"Item total","Total del artículo"
+"Return Policy","Política de devoluciones"
+State,Estado
+"Create return","Crear devolución"
+"Requested return with ID ""%id%"" was not found.","No se encontró la devolución solicitada con ID ""%id%""."
+"Customer reference","Referencia del cliente"
+Customer,Cliente
+Name,Nombre
+Email,Email
+"Retured Items","Artículos devueltos"
+"Trigger all matching states","Activar todos los estados coincidentes"
+Total,Total
+"Back to Returns","Volver a devoluciones"
+"Print Return Slip","Imprimir hoja de devolución"
+"Overview of Return","Resumen de devolución"
+"selected items","artículos seleccionados"
+of,de
+"Item selected for return is not eligible for return anymore.","El artículo seleccionado para devolución ya no es elegible para devolución."
+"Returned Products","Productos devueltos"

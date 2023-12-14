@@ -1,0 +1,79 @@
+Actions,Acciones
+"Are you sure about deleting this delivery method?","¿Estás seguro de eliminar este método de entrega?"
+"Availability plugin","Plugin de disponibilidad"
+"Available in Store","Disponible en tienda"
+Carrier,Transportista
+"Carrier Company","Compañía de transporte"
+"Carrier was created successfully.","El transportista se creó correctamente."
+"Carrier with the same name already exists.","Ya existe un transportista con el mismo nombre."
+Configuration,Configuración
+"Create Delivery Method","Crear método de entrega"
+"Create new carrier company","Crear nueva compañía de transporte"
+"Create new delivery method","Crear nuevo método de entrega"
+Delete,Eliminar
+"Delete Delivery Method","Eliminar método de entrega"
+"Delete Delivery Method: %s","Eliminar método de entrega: %s"
+"Delivery Method Key","Clave del método de entrega"
+"Delivery method not found.","Método de entrega no encontrado."
+"Delivery method was deleted successfully.","El método de entrega se eliminó correctamente."
+"Delivery Methods","Métodos de entrega"
+"Delivery Time plugin","Plugin de tiempo de entrega"
+Edit,Editar
+"Edit Delivery Method: %s","Editar método de entrega: %s"
+Enabled?,¿Habilitado?
+"Is this delivery method active?","¿Está activo este método de entrega?"
+"List of delivery methods","Lista de métodos de entrega"
+"List Shipment Methods","Lista de métodos de envío"
+"Method Name",Nombre
+Name,Nombre
+"New address","Nueva dirección"
+"No, I want to keep this delivery method","No, quiero mantener este método de entrega"
+None,Ninguno
+"Price & Tax","Precio y impuestos"
+"Price plugin","Plugin de precio"
+Save,Guardar
+"Select one","Seleccionar uno"
+"Shipment method has been successfully saved","El método de envío se ha guardado correctamente"
+"Shipment method has been successfully updated","El método de envío se ha actualizado correctamente"
+"Shipment method is not found","No se encuentra el método de envío"
+"Shipment method not found","Método de envío no encontrado"
+"Shipment n° %shipmentNumber%","Envío nº %shipmentNumber%"
+Status,Estado
+"Store relation","Relación de tienda"
+"Store Relation","Relación de tienda"
+"Tax set","Conjunto de impuestos"
+"This name is already in use.","Este nombre ya está en uso."
+"This shipment method key is already in use.","Esta clave de método de envío ya está en uso."
+View,Ver
+"View Delivery Method: %s","Ver método de entrega: %s"
+"Yes, delete this delivery method","Sí, eliminar este método de entrega"
+"Trigger all matching states of order inside this shipment","Activar todos los estados coincidentes del pedido dentro de este envío"
+Shipment,Envío
+of,de
+"Delivery Address","Dirección de entrega"
+"Delivery Method","Método de entrega"
+"Request delivery date","Solicitar fecha de entrega"
+"Shipping Method","Método de envío"
+Shipments,Envíos
+"Available in the following store(s)","Disponible en la(s) siguiente(s) tienda(s)"
+"Is active","Está activo"
+"Add Carrier Company","Agregar compañía de transporte"
+"Create Shipment","Crear envío"
+"Edit Shipment","Editar envío"
+"New Shipment for Order: %idSalesOrder%","Nuevo envío para el pedido: %idSalesOrder%"
+"Address 1","Dirección 1"
+"Address 2","Dirección 2"
+"ZIP code","Código postal"
+Cellphone,"Teléfono celular"
+"Shipment method","Método de envío"
+"Requested delivery date","Fecha de entrega solicitada"
+"Order items inside this shipment","Artículos del pedido dentro de este envío"
+"Current shipment","Envío actual"
+"Please fill out this field.","Por favor, complete este campo."
+"Please select an item in the list.","Por favor, seleccione un elemento de la lista."
+-select-,-seleccionar-
+"Shipment has been successfully created.","El envío se ha creado correctamente."
+"Edit Shipment for Order: N%idSalesOrder%","Editar envío para el pedido: N%idSalesOrder%"
+"Shipment has been successfully edited.","El envío se ha editado correctamente."
+"Item total",Total
+"Shipping Costs","Costos de envío"

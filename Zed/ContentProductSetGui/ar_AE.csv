@@ -1,0 +1,13 @@
+Actions,الإجراءات
+Add,إضافة
+"Available Product Sets","مجموعات المنتجات المتاحة"
+"Clear locale","مسح اللغة"
+content_product_set_gui.template.cart-button-btm,"إضافة الكل إلى زر السلة السفلي"
+content_product_set_gui.template.cart-button-top,"إضافة الكل إلى زر السلة العلوي"
+content_product_set_gui.template.default,الافتراضي
+Delete,حذف
+ID,المعرّف
+Name,الاسم
+"Number of Products","# من المنتجات"
+"Product Set","مجموعة المنتجات"
+Status,الحالة

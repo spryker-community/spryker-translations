@@ -1,0 +1,21 @@
+"Back to Merchant Relationship Thresholds","Volver a los umbrales de relación con el comerciante"
+"Edit Merchant Relationship Threshold","Editar umbral de relación con el comerciante"
+"Enter minimum order value","Introducir valor mínimo de pedido"
+"Hard Threshold","Umbral duro"
+"Hard Maximum Threshold","Umbral máximo duro"
+"Merchant relationship name","Nombre de la relación con el comerciante"
+"Merchant relationships","Relaciones con el comerciante"
+Message,Mensaje
+Save,Guardar
+"Soft Threshold","Umbral suave"
+"Soft Threshold with fixed fee","Umbral suave con tarifa fija"
+"Soft Threshold with flexible fee","Umbral suave con tarifa flexible"
+"Soft Threshold with message","Umbral suave con mensaje"
+"Store and Currency","Tienda y moneda"
+"The Merchant Relationship Threshold is saved successfully.","El umbral de relación con el comerciante se ha guardado correctamente."
+Thresholds,Umbrales
+Soft,Suave
+Hard,Duro
+"The Merchant Relationship Thresholds is saved successfully.","Los umbrales de relación con el comerciante se han guardado correctamente."
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Puedes utilizar los marcadores <code>{{threshold}}</code> y <code>{{fee}}</code>"
+"BU name","Nombre de la BU"

@@ -1,0 +1,21 @@
++Add,+Add
+Actions,Actions
+Active,Active
+Cancel,Cancel
+Delete,Delete
+"Go Back","Go Back"
+ID,ID
+Inactive,Inactive
+"List of Blocks for ""%SLOT_NAME%"" Slot","List of Blocks for ""%SLOT_NAME%"" Slot"
+"Move Down","Move Down"
+"Move Up","تحرك لأعلى"
+Name,الاسم
+Save,حفظ
+"Select or type a block name to assign","حدد أو اكتب اسم كتلة للتعيين"
+SprykerCmsSlotBlock,سبرايكر
+Status,الحالة
+Stores,المتاجر
+"There are unsaved changes","هناك تغييرات غير محفوظة"
+"Valid From (Included)","صالح من (مشمول)"
+"Valid To (Excluded)","صالح حتى (غير مشمول)"
+"View Block","عرض الكتلة"

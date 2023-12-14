@@ -1,0 +1,28 @@
+"Warehouse user",仓库用户
+"User could not be found.",找不到用户。
+"User uuid is missing.",缺少用户uuid。
+"Warehouse user assignments are updated.",仓库用户分配已更新。
+"Assign warehouses",分配仓库
+"Assign Warehouse to User",将仓库分配给用户
+"List Users",用户列表
+"A warehouse can be assigned to multiple users at a time.",一个仓库可以同时分配给多个用户。
+Remove,移除
+Save,保存
+"Deselect All",取消全选
+"Deselected warehouses",取消选择的仓库
+Inactive,不活动
+Active,活动
+"Warehouse ID",仓库ID
+Name,名称
+Status,状态
+Assigned,已分配
+Assign,分配
+Selected,已选择
+"Select All",全选
+"List of warehouses",仓库列表
+"Assigned warehouses",已分配的仓库
+"Warehouses to be deassigned",待取消分配的仓库
+"Select warehouses to assign",选择要分配的仓库
+"Warehouses to be assigned",待分配的仓库
+"Selected warehouses",已选择的仓库
+"This user is a warehouse user",该用户是仓库用户

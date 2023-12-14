@@ -1,0 +1,34 @@
+"Abstract product name","Abstract product name"
+"Abstract product name:","Abstract product name:"
+Activate,Activeren
+"Add Product Relations","Productrelaties toevoegen"
+"Assign related products","Toegewezen gerelateerde producten"
+"Create relation","Relatie maken"
+Deactivate,Deactiveren
+Edit,Bewerken
+"Edit Product Relations","Productrelaties bewerken"
+"Failed to delete relation.","Relatie verwijderen is mislukt."
+"Is active:","Is actief:"
+"List Product relations","Lijst met productrelaties"
+"Number of products","Aantal producten"
+"Please select product from the list below","Selecteer een product uit de onderstaande lijst"
+"Product relation successfully created","Productrelatie succesvol aangemaakt"
+"Product relation successfully modified","Productrelatie succesvol gewijzigd"
+"Product relation with id ""%d"" not found.","Productrelatie met id ""%d"" niet gevonden."
+"Related products","Gerelateerde producten"
+related-products,"Gerelateerde producten"
+"Relation successfully activated.","Relatie succesvol geactiveerd."
+"Relation successfully deactivated.","Relatie succesvol gedeactiveerd."
+"Relation successfully deleted.","Relatie succesvol verwijderd."
+"Relation type",Relatietype
+"Relation type:",Relatietype:
+Save,Opslaan
+Select,Selecteren
+"Select product","Product selecteren"
+"Selected product","Geselecteerd product"
+"Selected product already has ""%s"" relation type.","Geselecteerd product heeft al het relatietype ""%s""."
+Sku:,Sku:
+up-selling,Upselling
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.","Regelmatig bijwerken: Wanneer dit is geselecteerd, wordt deze productrelatie automatisch regelmatig bijgewerkt op basis van de voorwaarden van de relatie."
+"View in Shop","Bekijken in winkel"
+"View relations","Relaties bekijken"

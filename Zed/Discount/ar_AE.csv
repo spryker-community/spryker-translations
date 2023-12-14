@@ -1,0 +1,105 @@
+Activate,تفعيل
+"Add group","إضافة مجموعة"
+"Add Random Generated Code Length","إضافة طول رمز مولد عشوائي"
+"Add rule","إضافة قاعدة"
+Amount:,المبلغ:
+"Apply to query:","تطبيق على الاستعلام:"
+"Batch Value","قيمة الدُفعة"
+"Calculator type","نوع الآلة الحاسبة"
+"Cart Rules","قواعد السلة"
+Conditions,الشروط
+"Could not change discount visibility.","لم يتمكن من تغيير رؤية الخصم."
+"Create new discount","إنشاء خصم جديد"
+"Create new Discount","إنشاء خصم جديد"
+"Create voucher codes for the discount","إنشاء رموز قسيمة للخصم"
+Deactivate,"إلغاء التنشيط"
+"Define what to apply the discount to","تحديد ما يجب تطبيق الخصم عليه"
+"Define when to apply the discount","تحديد متى يجب تطبيق الخصم"
+"Delete codes","حذف الرموز"
+Description,الوصف
+Description:,الوصف:
+"Discount calculation","حساب الخصم"
+"Discount collection type","نوع تطبيق الخصم"
+"Discount List","قائمة الخصومات"
+"Discount successfully activated","تم تفعيل الخصم بنجاح"
+"Discount successfully created, but not activated.","تم إنشاء الخصم بنجاح، ولكنه غير مفعل."
+"Discount successfully deactivated","تم إلغاء تفعيل الخصم بنجاح"
+"Discount successfully updated.","تم تحديث الخصم بنجاح"
+"Discount Type:","نوع الخصم:"
+"Discount with id %s doesn't exist","الخصم بالمعرف %s غير موجود"
+"Discount with this name is already used.","اسم الخصم مستخدم بالفعل."
+Edit,تعديل
+"Edit discount","تعديل الخصم"
+"Enter your custom code as a string. If selected in the next step, additional random characters are added at the end of this string. Use the placeholder [code] to indicate where you want random characters to be generated.","أدخل رمزك المخصص كسلسلة نصية. إذا تم اختياره في الخطوة التالية، يتم إضافة حروف عشوائية إضافية في نهاية هذه السلسلة. استخدم العنصر النائب [code] للإشارة إلى الموقع الذي ترغب في إنشاء الأحرف العشوائية."""
+Examples,أمثلة
+Exclusive:,حصري:
+Explanation,توضيح
+Export,تصدير
+Field,حقل
+"Fill in the general discount information","املأ معلومات الخصم العامة"
+"General Information","معلومات عامة"
+"Generated Discount Codes","الرموز الترويجية المولدة"
+"List of Discounts","قائمة الخصومات"
+"Matches all elements which have a ""width"" attribute defined, but with any ""width"" value","يطابق جميع العناصر التي لديها سمة ""العرض"" محددة، ولكن بأي قيمة ""العرض"""
+"Matches elements with the exact same SKU: ""SKU-1""","يطابق العناصر بنفس SKU بالضبط: ""SKU-1"""
+"Max nr. of uses","الحد الأقصى لعدد الاستخدامات"
+"Max number of uses (0 = Infinite usage)","الحد الأقصى لعدد الاستخدامات (0 = استخدام غير محدود)"
+N/A,"غير متوفر"
+Name,الاسم
+Name:,الاسم:
+No,لا
+"No additional random characters","لا توجد أحرف عشوائية إضافية"
+"No conditions, discount always applied.","لا توجد شروط، يتم تطبيق الخصم دائمًا."
+"No returns for this order","لا يوجد إرجاع لهذا الطلب"
+"No voucher codes were deleted.","لم يتم حذف أي رموز القسيمة."
+Operation,العملية
+Overview,"نظرة عامة"
+"Plain query","استعلام عادي"
+"Please fill all required fields.","يرجى ملء جميع الحقول المطلوبة."
+"Query builder","مُنشئ الاستعلام"
+"Query String","سلسلة الاستعلام"
+Save,حفظ
+"Store relation:","علاقة المتجر:"
+"Successfully deleted ""%d"" vouchers.","تم حذف ""%d"" قسائم بنجاح."
+"Summary explaining promotion. Displayed with eligible products where applicable.","ملخص يشرح العرض الترويجي. يتم عرضه مع المنتجات المؤهلة عند الاقتضاء."
+"The discount cannot end before the starting date.","لا يمكن أن ينتهي الخصم قبل تاريخ البدء."
+"This value is not a valid datetime.","هذا القيمة ليست تاريخًا صالحًا."
+Type:,النوع:
+"Unique, short, and descriptive. Displayed in cart calculation.","فريد وقصير وواضح. يتم عرضه في حساب العربة."
+Used,مستخدم
+"Valid from:","صالح من (مشمول):"
+"Valid From (Time in UTC)","صالح من (الوقت بتوقيت عالمي منسق)"
+"Valid To (Time in UTC)","صالح حتى (الوقت بتوقيت عالمي منسق)"
+"Valid until:","صالح حتى (غير مشمول):"
+Value,القيمة
+Voucher,قسيمة
+"Voucher Code","رمز القسيمة"
+Yes,نعم
+"Add code","إضافة الرمز"
+Active,نشط
+Inactive,"غير نشط"
+"Create Discount","إنشاء خصم"
+"Discount Type","نوع الخصم"
+"Cart rules","قواعد السلة"
+"Voucher codes","رموز القسائم"
+"Calculator percentage","النسبة المئوية"
+"Calculator fixed","المبلغ الثابت"
+"Discount application type","نوع تطبيق الخصم"
+Delete,حذف
+"Apply when","تطبيق عند"
+"The discount can be applied if the query applies for at least X item(s).","يمكن تطبيق الخصم إذا كان الاستعلام ينطبق على X عنصر (عناصر) على الأقل."
+"Discount successfully activated.","تم تفعيل الخصم بنجاح."
+"Discount successfully deactivated.","تم إلغاء الخصم بنجاح."
+"Custom code","الرمز المخصص"
+Generate,توليد
+"You must provide length or custom code values.","يجب عليك تقديم قيمة الطول أو الرمز المخصص."
+"No available codes to generate. Select higher code length.","لا توجد أكواد متاحة للتوليد. حدد طول رمز أعلى."
+"Edit Discount","تحرير الخصم"
+"Voucher codes successfully generated.","تم توليد رموز القسيمة بنجاح."
+"Voucher code successfully deleted.","تم حذف رمز القسيمة بنجاح."
+"Apply to","تطبيق على"
+"CSRF token is not valid.","CSRF token is not valid."
+"Enter an integer %min%-%max%. Discounts are calculated in sequential order, starting from %min%. The default value is %max%.","Enter an integer %min%-%max%. Discounts are calculated in sequential order, starting from %min%. The default value is %max%."
+"Invalid entry. Please enter an integer %min%-%max%","Invalid entry. Please enter an integer %min%-%max%"
+Priority,Priority
+"Enter an integer %min%-%max%.","Enter an integer %min%-%max%."

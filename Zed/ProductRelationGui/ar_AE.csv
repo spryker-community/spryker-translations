@@ -1,0 +1,68 @@
+"Abstract product name","اسم المنتج المجرد"
+"Abstract product name:","اسم المنتج المجرد:"
+Activate,تفعيل
+Active,نشط
+"Add Product Relations","إضافة علاقات المنتج"
+"Are you sure about deleting this product relation?","هل أنت متأكد من حذف هذه العلاقة المنتج؟"
+"Assign related products","تعيين منتجات ذات صلة"
+"Create Product Relation","إنشاء علاقة المنتج"
+"Create relation","إنشاء علاقة"
+Deactivate,"إلغاء التفعيل"
+"Delete Product Relation","حذف علاقة المنتج"
+Edit,تحرير
+"Edit Product Relations","تحرير علاقات المنتج"
+"Failed to delete relation.","فشل في حذف العلاقة."
+General,عام
+Inactive,"غير نشط"
+"Is active:","هل هو نشط:"
+"It is impossible to update product relation #%d","من المستحيل تحديث علاقة المنتج #%d"
+"List of Product Relations","قائمة علاقات المنتج"
+"List Product relations","قائمة علاقات المنتج"
+"No, I want to keep this product relation","لا، أريد الاحتفاظ بهذا العلاقة المنتج"
+"Number of products","عدد المنتجات"
+"Please select product from the list below","يرجى تحديد المنتج من القائمة أدناه"
+"Please select product from the list below *","يرجى تحديد المنتج من القائمة أدناه *"
+"Product owning the relation","المنتج الذي يمتلك العلاقة"
+"Product relation #%d not found","علاقة المنتج #%d غير موجودة"
+"Product relation key","مفتاح علاقة المنتج"
+"Product relation successfully created","تم إنشاء علاقة المنتج بنجاح"
+"Product relation successfully modified","تم تعديل علاقة المنتج بنجاح"
+"Product relation with id ""%id%"" not found.","علاقة المنتج بالمعرف ""%id%"" غير موجودة."
+"Product Relations","علاقات المنتج"
+"Related products","المنتجات ذات الصلة"
+related-products,"المنتجات ذات الصلة"
+"Relation #%d successfully deleted.","تم حذف العلاقة #%d بنجاح."
+"Relation successfully activated.","تم تفعيل العلاقة بنجاح."
+"Relation successfully deactivated.","تم إلغاء تفعيل العلاقة بنجاح."
+"Relation successfully deleted.","تم حذف العلاقة بنجاح."
+"Relation type","نوع العلاقة"
+"Relation type:","نوع العلاقة:"
+Save,حفظ
+Select,اختر
+"Select product","اختر المنتج"
+"Select Stores","اختر المتاجر"
+"Selected product","المنتج المحدد"
+"Selected product already has ""%s"" relation type.","المنتج المحدد لديه بالفعل نوع علاقة ""%s""."
+Sku:,"رمز المنتج:"
+Status,الحالة
+"Store relation","علاقة المتجر"
+Stores,المتاجر
+up-selling,"التسويق الإضافي"
+"Update regularly","تحديث بانتظام"
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.","تحديث بانتظام: عند تحديد هذا الخيار، سيتم تحديث هذا العلاقة المنتج تلقائيا بشكل منتظم وفقًا لشروط العلاقة."
+"View in Shop","عرض في المتجر"
+"View Product Relation: %s","عرض علاقة المنتج: %s"
+"View relations","عرض العلاقات"
+"Product Relation Key","مفتاح العلاقة المنتج"
+"Abstract SKU","SKU مجرد"
+"Select a relation type","اختر نوع العلاقة"
+select,اختر
+"Add rule","إضافة قاعدة"
+"Add group","إضافة مجموعة"
+Delete,حذف
+"Edit Product Relation","تعديل علاقة المنتج"
+"Is active",نشط
+"Yes, delete this product relation","نعم، حذف هذه العلاقة للمنتج"
+"Number of Products","عدد المنتجات"
+Store,متجر
+"CSRF token is not valid.","CSRF token غير صالح."

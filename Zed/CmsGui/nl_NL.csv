@@ -1,0 +1,71 @@
+Activate,Activeren
+"Back to CMS","Terug naar CMS"
+by,door
+"Cms page with id %s doesn't exist","Cms-pagina met id %s bestaat niet"
+Compare,Vergelijken
+"Content Management",Contentbeheer
+"Create CMS Page","CMS-pagina maken"
+"Create new CMS Page","Nieuwe CMS-pagina maken"
+"Create page","Pagina maken"
+"Created at:","Aangemaakt op:"
+Deactivate,Deactiveren
+Description:,Beschrijving:
+"Discard Draft","Concept verwijderen"
+"Edit CMS Page:","CMS-pagina bewerken:"
+"Edit page","Pagina bewerken"
+"Edit placeholders","Plaatsaanduidingen bewerken"
+"Edit Placeholders:","Plaatsaanduidingen bewerken:"
+"Fill in general page information","Vul algemene pagina-informatie in"
+"Fill in SEO information","Vul SEO-informatie in"
+"In Shop","In winkel"
+"In Zed","In Zed"
+"Is active:","Is actief:"
+"Is searchable:","Is doorzoekbaar:"
+Keywords:,Trefwoorden:
+"List of CMS pages","Lijst met CMS-pagina's"
+Locale,Locatie
+"Meta Description",Meta-omschrijving
+"Meta Keywords",Meta-trefwoorden
+"Meta Title",Meta-titel
+"Missing placeholders for selected template.","Ontbrekende plaatsaanduidingen voor geselecteerde sjabloon."
+n/a,n/a
+Name,Naam
+Name:,Naam:
+on,aan
+"Overview of CMS Pages","Overzicht van CMS-pagina's"
+Page,Pagina
+"Page was updated successfully","Pagina is succesvol bijgewerkt"
+"Page with version %d successfully published.","Pagina met versie %d succesvol gepubliceerd."
+Pages,Pagina's
+"Placeholder translations successfully updated","Plaatsaanduidingvertalingen succesvol bijgewerkt"
+Publish,Publiceren
+"Rollback to Selected Version","Terugzetten naar geselecteerde versie"
+Save,Opslaan
+Template:,Sjabloon:
+Title:,Titel:
+"Translation key:",Vertalingscode:
+Url,Url
+Urls,Urls
+"Valid from:","Geldig van (inclusief):"
+"Valid to:","Geldig tot (exclusief):"
+"Version History",Versiegeschiedenis
+"Version History:",Versiegeschiedenis:
+View,Bekijken
+"View CMS Page:","Bekijk CMS-pagina:"
+"You are editing a <br>draft </b> page. To make your changes visible in Yves, publish the page. Publishing the page will create a new version for this page","Je bewerkt een <b>concept</b> pagina. Om je wijzigingen zichtbaar te maken in de winkel, publiceer de pagina. Het publiceren van de pagina zal een nieuwe versie voor deze pagina maken."
+"You are viewing a published page. It was published","Je bekijkt een gepubliceerde pagina. Het is gepubliceerd"
+"You can edit the page or placeholders to modify the current working draft. You can publish the current working draft to create a new version","Je kunt de pagina of plaatshouders bewerken om de huidige conceptversie aan te passen. Je kunt de huidige conceptversie publiceren om een nieuwe versie te maken."
+"CMS Redirect",CMS-omleiding
+"Is searchable","Is doorzoekbaar"
+"Page was not created.","Pagina is niet aangemaakt."
+"Page was created successfully.","Pagina is succesvol aangemaakt."
+"You are editing a <b>draft</b> page. To make your changes visible in the shop, publish the page. Publishing the page will create a new version for this page.","Je bewerkt een <b>concept</b> pagina. Om je wijzigingen zichtbaar te maken in de winkel, publiceer de pagina. Het publiceren van de pagina zal een nieuwe versie voor deze pagina maken."
+"Store relation",Winkelrelatie
+Placeholders,Plaatshouders
+title,Titel
+content,Inhoud
+"View CMS Page","Bekijk CMS-pagina"
+"Draft data successfully discarded.","Conceptgegevens succesvol verwijderd."
+"Page was deactivated successfully.","Pagina is succesvol gedeactiveerd."
+"Page was activated successfully.","Pagina is succesvol geactiveerd."
+"Edit Placeholders","Plaatshouders bewerken"

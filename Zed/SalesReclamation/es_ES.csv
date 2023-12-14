@@ -1,0 +1,37 @@
+"Back to Orders","Volver a Pedidos"
+"Back to Reclamatinos","Volver a Reclamaciones"
+"Can not create reclamation","No se puede crear reclamación"
+"Canceled amount","Cantidad cancelada"
+"Create connected order","Crear pedido conectado"
+"Create reclamation","Crear reclamación"
+Created,Creado
+Discount,Descuento
+"GRAND TOTAL","Total general"
+"Included tax amount","Cantidad de impuestos incluida"
+"Item total","Total de artículos"
+"List of Reclamations","Lista de reclamaciones"
+"No order items provided","No se proporcionaron elementos de pedido"
+"No reclamation with given id %s","No se encontró ninguna reclamación con el ID proporcionado %s"
+Option,Opción
+Order,Pedido
+"Order id","ID de pedido"
+"OrderItem with id %s not belong to order %s","El elemento de pedido con el ID %s no pertenece al pedido %s"
+"Overview of reclamation:","Resumen de la reclamación:"
+"Overview of reclamations","Resumen de reclamaciones"
+Product,Producto
+"Reclamation id:%s for order %s sucessfully created","Reclamación con ID:%s para el pedido %s creada exitosamente"
+"Reclamation item refunded","Artículo de reclamación reembolsado"
+"Reclamation item with id %s not exists","El artículo de reclamación con el ID %s no existe"
+"Reclamation state","Estado de la reclamación"
+"Reclamation with id %s closed","Reclamación con ID %s cerrada"
+"Reclamation with id %s not exists","La reclamación con ID %s no existe"
+"Reclamation with id %s not own this item %s","La reclamación con ID %s no es propietaria de este artículo %s"
+Shipment,Envío
+"Show less","Mostrar menos"
+"Show more","Mostrar más"
+Sku,SKU
+State,Estado
+"Sub total",Subtotal
+Total,Total
+"Unit Price","Precio unitario"
+"Variant Details","Detalles de la variante"

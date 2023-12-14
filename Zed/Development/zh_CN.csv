@@ -1,0 +1,61 @@
+adjacency,邻接性
+"Adjacency Matrix",邻接矩阵
+Application,应用
+"Architecture Sniffer",架构嗅探器
+"Architecture sniffer results",架构嗅探器结果
+Back,返回
+"Check for violations",检查违规
+"Composer dependencies",Composer依赖
+"Composer dev only dependencies",仅限Composer开发依赖
+"Core module",核心模块
+Count,计数
+"Declared in composer.json",在composer.json中声明
+"Declared in composer.json (dev)",在composer.json中声明（开发）
+Dependency,依赖
+Dependencies,依赖项
+"Dependency graphs of all core modules",所有核心模块的依赖图
+detailed,详细
+"Dev only dependencies",仅限开发依赖
+Development,开发
+"Display all architecture rules",显示所有架构规则
+"Download CSV",下载CSV
+"Found in src",在src中找到
+"Found in test",在测试中找到
+From,来自
+in,在
+"in src",在src中
+"in tests",在测试中
+Incoming,传入
+"Incoming dependencies of the",传入的依赖项
+"Indirect Incoming",间接传入
+"Indirect Outgoing",间接传出
+"Indirect Stability",间接稳定性
+"List all used plugins",列出所有使用的插件
+module,模块
+Module,模块
+"Module name",模块名称
+"Module overview",模块概述
+Namespace,命名空间
+"No architecture violations detected",未检测到架构违规
+"No plugins used in this Module",此模块未使用插件
+out,出
+Outgoing,外发
+"Outgoing dependencies of the",外发依赖
+"Plugins used in Projects DependencyProvider",项目DependencyProvider中使用的插件
+Priority:,优先级:
+"Project module",项目模块
+Reload,重新加载
+require,要求
+require-dev,要求开发
+"show all used plugins",显示所有使用的插件
+"Simple Dependency Graph",简单依赖图
+"Spryker Stability",Spryker稳定性
+Stability,稳定性
+"Stability is calculated by ""incoming dependencies / ( incoming dependencies + outgoing dependencies )"" the result will be between 0 (stable) and 1 (unstable)","稳定性通过""入站依赖/(入站依赖+出站依赖)""计算，结果将在0（稳定）和1（不稳定）之间"
+"Stability of all core modules",所有核心模块的稳定性
+"Suggested dependencies",建议的依赖关系
+SUM,总和
+To,至
+"Used Plugins",已使用的插件
+"You must specify a bundle for which the graph should be build",您必须指定一个要构建图形的捆绑包
+"You need to run ""vendor/bin/console dev:dependency:build-tree"" to calculate stability for all bundles.","您需要运行""vendor/bin/console dev:dependency:build-tree""来计算所有捆绑包的稳定性。"

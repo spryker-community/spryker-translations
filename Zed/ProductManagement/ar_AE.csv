@@ -1,0 +1,108 @@
+Activate,تفعيل
+Active,نشط
+"Add General Information","إضافة معلومات عامة"
+"Add image","إضافة صورة"
+"Add image set","إضافة مجموعة صور"
+"Add Product Concrete","إضافة منتج محدد"
+"Add Variant","إضافة متغير"
+"Assigned products","المنتجات المعينة"
+Attributes,السمات
+"Available in stores","متوفر في المتاجر"
+"Below are the product variants listed. Each variant may be edited independent from the others.","أدناه تم سرد الإصدارات المنتج. يمكن تحرير كل إصدار بشكل مستقل عن الآخرين."
+"Below the name and description for your product can be edited for different locales (in different languages).","يمكن تحرير اسم المنتج ووصفه للغات مختلفة أدناه."
+"Below you can choose between your predefined tax sets and edit the price of your product.","يمكنك اختيار مجموعات الضرائب المحددة مسبقًا وتحرير سعر المنتج أدناه."
+"Bundle availability based on assigned products:","توافر الحزمة بناءً على المنتجات المعينة:"
+Categories,الفئات
+"CMS Block list","قائمة كتل CMS"
+"Configurable Product Attributes","سمات المنتج القابل للتكوين"
+"Contains bundles","يحتوي على حزم"
+"Create a Product","إنشاء منتج"
+"Create Bundle Product","إنشاء منتج حزمة"
+"Create Product","إنشاء المنتج"
+Deactivate,"إلغاء التنشيط"
+Deactivated,"تم إلغاء التنشيط"
+Default,الافتراضي
+"Delete image","حذف الصورة"
+"Delete image set","حذف مجموعة الصور"
+Edit,تعديل
+"Edit Product Abstract","تعديل المنتج الملخص"
+"Edit Product Concrete","تعديل المنتج المحدد"
+"Enter price.","أدخل السعر."
+"Enter stock value. In case you create multiple variants, the stock can be managed under ""Product Variants"" and this input field will be ignored.","أدخل قيمة المخزون. في حال إنشاء عدة متغيرات، يمكن إدارة المخزون تحت ""المتغيرات المنتج"" وسيتم تجاهل حقل الإدخال هذا."
+General,عام
+"Gross price","السعر الإجمالي"
+"Image Set","مجموعة الصور"
+"Image Sets","مجموعات الصور"
+Large,كبير
+"List Products","قائمة المنتجات"
+"Manage Attributes","إدارة السمات"
+"Merchant Price Dimension","بعد التاجر للسعر"
+"Multiple images can be grouped to an image set. An image set has a name for identification and may contain a small and a large version of each image","يمكن تجميع صور متعددة في مجموعة صور. تحتوي مجموعة الصور على اسم للتعرف وقد تحتوي على نسخة صغيرة ونسخة كبيرة من كل صورة"
+n/a,"غير متوفر"
+"Net price","السعر الصافي"
+"Never out of stock","متوفر دائمًا"
+"No categories found.","لم يتم العثور على فئات."
+"No records","لا توجد سجلات"
+"Note: Deactivated product variants are not available in the shop anymore.","ملاحظة: الإصدارات المعطلة للمنتج غير متوفرة في المتجر بعد الآن."
+"Note: Image sets can be used for different purposes such as being displayed in the catalog or the product detail page or elsewhere.","ملاحظة: يمكن استخدام مجموعات الصور لأغراض مختلفة مثل العرض في الكتالوج أو صفحة تفاصيل المنتج أو في أي مكان آخر."
+"Note: Meta data are snippets of text describing a page’s content. The meta data appear only in the page’s code, not in its content.","ملاحظة: بيانات التعريف الفرعية هي مقتطفات من النص تصف محتوى الصفحة. تظهر بيانات التعريف الفرعية فقط في كود الصفحة وليس في محتواها."
+"Note: The price that you edit here is only displayed in the shop catalog and the product detail page for the non configured product (Not product variant)","ملاحظة: السعر الذي تقوم بتحريره هنا يتم عرضه فقط في كتالوج المتجر وصفحة تفاصيل المنتج للمنتج غير المكون (ليس الإصدار المنتج)"
+"Note: The SKU is not editable after saving anymore.","ملاحظة: لا يمكن تحرير SKU بعد الحفظ بعد الآن."
+"Note: The SKU prefix, just like the SKUs of your product variants, are not editable after saving anymore.","ملاحظة: بادئة SKU ، تمامًا مثل SKUs لمتغيرات المنتج الخاصة بك ، لا يمكن تحريرها بعد الحفظ بعد الآن."
+"Price & Tax","السعر والضريبة"
+"Price & Taxes","السعر والضرائب"
+"Product bundle does not have variants!","الحزمة المنتج ليس لديها متغيرات!"
+"Product Group ID","معرف مجموعة المنتج"
+"Product Groups","مجموعات المنتجات"
+"Product has been activated.","تم تنشيط المنتج."
+"Product has been deactivated.","تم إلغاء تنشيط المنتج."
+"Product ID","معرف المنتج"
+"Product Image(s)","صور المنتج"
+"Product type","نوع المنتج"
+"Product variants","المتغيرات المنتج"
+Quantity,الكمية
+Save,حفظ
+"Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a web search engine's unpaid results — often referred to as ""natural,"" ""organic,"" or ""earned"" results.","تحسين محرك البحث (SEO) هو عملية تأثير رؤية موقع ويب أو صفحة ويب في نتائج البحث غير المدفوعة لمحرك البحث على الويب - في كثير من الأحيان يشار إليها بـ ""النتائج الطبيعية"" أو ""العضوية"" أو ""المكتسبة""."
+"Select attributes and corresponding values.","حدد السمات والقيم المقابلة."
+"SEO (Meta Information)","SEO (معلومات ميتا)"
+Small,صغير
+"Stock Type","نوع المخزون"
+"Store relation","علاقة المتجر"
+"Tax Set","مجموعة الضرائب"
+"The product [%s] does not exist.","المنتج [%s] غير موجود."
+"The product [%s] was saved successfully.","تم حفظ المنتج [%s] بنجاح."
+"The product [%s] you are trying to edit, does not exist.","المنتج [%s] الذي تحاول تعديله غير موجود."
+"There is no super attribute defined. <a href=""%url%"">Define super attributes</a> in order to be able to create variants.","لا يوجد سمة فائقة محددة. <a href=""%url%"">حدد سمات فائقة</a> لتتمكن من إنشاء البدائل."
+Type,النوع
+Variants,البدائل
+"View Product Abstract","عرض المنتج المجرد"
+"View Product Concrete","عرض المنتج المحدد"
+Product,المنتج
+Products,المنتجات
+Availability,التوفر
+"New from","جديد من"
+"New to","جديد إلى"
+"At least one price should be specified","يجب تحديد سعر واحد على الأقل"
+"Please enter at least an SKU and a Name of the product in every locale in the General section","يرجى إدخال رمز المنتج واسم المنتج في كل لغة في القسم العام"
+"The product [%s] was added successfully.","تمت إضافة المنتج [%s] بنجاح."
+Images,الصور
+"Add Volume Price","إضافة سعر الحجم"
+"Is bundle","هل هو حزمة"
+"View Concrete Product","عرض منتج ملموس"
+"Edit Concrete Product","تعديل منتج ملموس"
+"Super attributes","سمات فائقة"
+"Valid from","صالح من"
+"Valid to","صالح إلى"
+Searchable,"قابل للبحث"
+Stock,المخزون
+"Sort order","ترتيب الفرز"
+"Assign bundled products","تعيين المنتجات المجمعة"
+"Valid From (Time in UTC)","صالح من (الوقت بتوقيت عالمي موحد)"
+"Valid To (Time in UTC)","صالح حتى (الوقت بتوقيت عالمي منسق)"
+Remove,إزالة
+quantity,الكمية
+Price,السعر
+"id product","معرف المنتج"
+select,اختر
+"Product name","اسم المنتج"
+Types,الأنواع

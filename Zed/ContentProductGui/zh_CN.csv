@@ -1,0 +1,19 @@
+"Abstract Product List",抽象产品列表
+Actions,操作
+Active,活动
+"Add more products",添加更多产品
+"Add to list",添加到列表
+content_product_abstract_list.template.bottom-title,底部标题
+content_product_abstract_list.template.default,默认
+content_product_abstract_list.template.top-title,顶部标题
+Delete,删除
+ID,ID
+Image,图片
+Inactive,非活动
+"Move Down",下移
+"Move Up",上移
+Name,名称
+Selected,已选择
+SKU,SKU
+Status,状态
+Stores,商店

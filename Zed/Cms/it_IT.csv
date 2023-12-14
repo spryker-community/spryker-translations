@@ -1,0 +1,32 @@
+Activate,Attiva
+"Add a Cms block","Aggiungi un blocco CMS"
+"Add a Cms page","Aggiungi una pagina CMS"
+"Add CMS Block","Aggiungi blocco CMS"
+"Add CMS Page","Aggiungi pagina CMS"
+"Add CMS Redirect","Aggiungi reindirizzamento CMS"
+"Back to CMS","Torna a CMS"
+"CMS blocks","Blocchi CMS"
+Deactivate,Disattiva
+"Delete CMS Block","Elimina blocco CMS"
+"Delete CMS Page","Elimina pagina CMS"
+"Edit a Cms Block","Modifica un blocco CMS"
+"Edit a Cms page","Modifica una pagina CMS"
+"From Url","Da URL"
+"ID redirect URL is not set.","L'ID dell'URL di reindirizzamento non è impostato."
+Loading...,"Caricamento in corso..."
+"New template(s) detected and added to the template list.","Nuovi template rilevati e aggiunti alla lista dei template."
+"Redirect status code","Codice di stato del reindirizzamento"
+"Redirect was created successfully.","Il reindirizzamento è stato creato con successo."
+"Redirect was deleted successfully.","Il reindirizzamento è stato eliminato con successo."
+"Redirect was updated successfully.","Il reindirizzamento è stato aggiornato con successo."
+Redirects,Reindirizzamenti
+Save,Salva
+"Save All","Salva tutto"
+"To Url","Verso URL"
+"URL is already used.","L'URL è già in uso."
+"URL must start with a slash","L'URL deve iniziare con una barra"
+"Create new CMS Redirect","Crea nuovo reindirizzamento CMS"
+"Please select",Seleziona
+"Edit CMS Redirect","Modifica reindirizzamento CMS"
+"URL's second character cannot be slash","Il secondo carattere dell'URL non può essere una barra"
+"URL cannot contain backslash sign, you can use '%5C' instead","L'URL non può contenere il segno di backslash, puoi usare '%5C' al suo posto"

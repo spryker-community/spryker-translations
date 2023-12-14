@@ -1,0 +1,29 @@
+Administration,管理
+"API Keys",API密钥
+Name,名称
+ID,ID
+Key,密钥
+Edit,编辑
+Delete,删除
+Create,创建
+Back,返回
+Save,保存
+"Created by",创建者
+"Back to API Keys",返回API密钥
+"Create API Key",创建API密钥
+"Edit API Key",编辑API密钥
+Actions,操作
+"API key `%s` created successfully. Note, it will not be shown again. Please ensure you save it securely for future use.",API密钥`%s`创建成功。请注意，它将不再显示。请确保将其安全保存以供将来使用。
+"API Key with ID `%d` does not exist.",ID为`%d`的API密钥不存在。
+"The new API key is `%s`. Note, it will not be shown again. Please ensure you save it securely for future use.",新的API密钥为`%s`。请注意，它将不再显示。请确保将其安全保存以供将来使用。
+"API key has been successfully removed",API密钥已成功删除
+"API key can not be removed",无法删除API密钥
+"Regenerate Key",重新生成密钥
+"Delete API Key",删除API密钥
+"API key updated successfully.",API密钥更新成功。
+"API key removal confirmation",API密钥删除确认
+"Are you sure you want to delete this API key?",您确定要删除此API密钥吗？
+"No, I want to keep this API key",不，我想保留此API密钥
+"We highly recommend setting an expiration date to the token, because of security reasons.",出于安全原因，我们强烈建议设置令牌的过期日期。
+"Expires on",过期时间
+"⚠️ Never","⚠️ 永不"

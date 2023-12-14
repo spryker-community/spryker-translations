@@ -1,0 +1,28 @@
+"Warehouse user","مستخدم المستودع"
+"User could not be found.","تعذر العثور على المستخدم."
+"User uuid is missing.","مفتاح المستخدم مفقود."
+"Warehouse user assignments are updated.","تم تحديث تعيينات مستخدم المستودع."
+"Assign warehouses","تعيين المستودعات"
+"Assign Warehouse to User","تعيين المستودع للمستخدم"
+"List Users","قائمة المستخدمين"
+"A warehouse can be assigned to multiple users at a time.","يمكن تعيين مستودع واحد لعدة مستخدمين في نفس الوقت."
+Remove,إزالة
+Save,حفظ
+"Deselect All","إلغاء تحديد الكل"
+"Deselected warehouses","المستودعات غير المحددة"
+Inactive,"غير نشط"
+Active,نشط
+"Warehouse ID","معرف المستودع"
+Name,الاسم
+Status,الحالة
+Assigned,"تم تعيينه"
+Assign,تعيين
+Selected,محدد
+"Select All","حدد الكل"
+"List of warehouses","قائمة المستودعات"
+"Assigned warehouses","المستودعات المعينة"
+"Warehouses to be deassigned","المستودعات التي ستتم إلغاء تعيينها"
+"Select warehouses to assign","حدد المستودعات للتعيين"
+"Warehouses to be assigned","المستودعات التي ستتم تعيينها"
+"Selected warehouses","المستودعات المحددة"
+"This user is a warehouse user","هذا المستخدم هو مستخدم مستودع"

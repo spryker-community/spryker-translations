@@ -1,0 +1,2 @@
+"Configurable bundle template slot with id ""%id%"" was not found.","No se encontró la ranura de la plantilla de paquete configurable con el ID ""%id%""."
+"Unable to delete Product List since it's used by Configurable Bundle Template ""%template%"" (""%slot%"" slot).","No se puede eliminar la lista de productos ya que es utilizada por la plantilla de paquete configurable ""%template%"" (ranura ""%slot%"")."

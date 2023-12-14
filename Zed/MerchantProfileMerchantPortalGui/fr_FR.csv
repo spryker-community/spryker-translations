@@ -1,0 +1,59 @@
+"About Your Store","À propos de votre magasin"
+"Addition to address","Ajout à l'adresse"
+"Average Delivery Time","Temps moyen de livraison"
+"Banner URL","URL de la bannière"
+"Business Info","Informations sur l'entreprise"
+"Cancellation Policy","Politique d'annulation"
+City,Ville
+Company,Société
+"Company Name","Nom de l'entreprise"
+"Contact Details & Address","Coordonnées et adresse de contact"
+"Contact Person","Détails de la personne à contacter"
+Country,Pays
+"Data Privacy","Confidentialité des données"
+Description,Description
+Dr,Dr
+Email,Email
+"Fax number","Numéro de fax"
+"First Name",Prénom
+Imprint,"Mentions légales"
+"Is Active","Est actif"
+"Last Name","Nom de famille"
+Latitude,Latitude
+"Logo URL","URL du logo"
+Longitude,Longitude
+"Merchant Reference","Référence du commerçant"
+Mr,M.
+Mrs,Mme
+Ms,Mlle
+Number,Numéro
+"Online Profile","Profil en ligne"
+"Store Status","Statut du magasin"
+"Phone Number","Numéro de téléphone"
+Profile,Profil
+profile.status.message.online,"Cela signifie que votre magasin est disponible en ligne et que les gens peuvent le voir."
+profile.status.message.offline,"Cela signifie que votre magasin est disponible en ligne et que les gens peuvent le voir."
+"Provide a logo URL","Fournir une URL de logo"
+"Provide a banner URL","Fournir une URL de bannière"
+"Provide Average Delivery Time","Fournir le temps moyen de livraison"
+"Provide Data Privacy","Fournir la confidentialité des données"
+"Provide Imprint","Fournir les mentions légales"
+"Provide Cancellation Policy","Fournir la politique d'annulation"
+"Provide Terms & Conditions","Fournir les conditions générales"
+"Provide the URL of your Store","Fournir l'URL de votre magasin"
+"Registration number","Numéro d'enregistrement"
+Role,Rôle
+Save,Enregistrer
+select.default.placeholder,Sélectionner
+"Store Profile URL","URL du profil du magasin"
+store.state.online,"Votre magasin est en ligne"
+store.state.offline,"Votre magasin est en ligne"
+Street,Rue
+"Tell us about your store","Parlez-nous de votre magasin"
+"Terms & Conditions","Conditions générales"
+"The Profile has been changed successfully.","Le profil a été modifié avec succès."
+Title,Titre
+"Your Store is online","Votre magasin est en ligne"
+"Visual assets","Ressources visuelles"
+"Zip Code","Code postal"
+Stores,Magasins

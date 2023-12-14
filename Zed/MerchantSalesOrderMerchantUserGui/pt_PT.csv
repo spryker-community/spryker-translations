@@ -1,0 +1,59 @@
+"Overview of Orders","Visão geral de pedidos"
+"List of Orders","Lista de pedidos"
+"My Orders","Meus pedidos"
+"Order Reference","Referência do pedido"
+"Marketplace Order Reference","Referência do pedido do marketplace"
+Created,Criado
+Customer,Cliente
+Email,Email
+"Order State","Estado do pedido"
+"Grand Total","Total geral"
+"Number of items","Número de itens"
+Actions,Ações
+View,Visualizar
+"Merchant Order Overview","Visão geral do pedido do comerciante"
+Reference,Referência
+Name,Nome
+"Previous orders count","Contagem de pedidos anteriores"
+"Billing address","Endereço de faturamento"
+"Merchant Order Reference","Referência do pedido do comerciante"
+"Order date","Data do pedido"
+Totals,Totais
+Option,Opção
+Subtotal,Subtotal
+Discount,Desconto
+"Cancelled amount","Valor cancelado"
+"GRAND TOTAL","TOTAL GERAL"
+"Total taxes","Total de impostos"
+"Remuneration total","Total de remuneração"
+"Merchant order doesn't exist.","O pedido do comerciante não existe."
+Shipment,Remessa
+of,de
+"Delivery Address","Endereço de entrega"
+"Delivery Method","Método de entrega"
+"Shipping Method","Método de envio"
+"Shipping Costs","Custos de envio"
+"Request delivery date","Solicitar data de entrega"
+"Trigger all matching states of order inside this shipment","Acionar todos os estados correspondentes do pedido dentro desta remessa"
+"Merchant Order Items","Itens do pedido do comerciante"
+Product,Produto
+Quantity,Quantidade
+"Unit Price","Preço unitário"
+"Item total","Total do item"
+State,Estado
+"Trigger event","Evento de disparo"
+"Variant Details","Detalhes da variante"
+"Show less","Mostrar menos"
+"Show more","Mostrar mais"
+"incl. %tax_amount% % tax","incl. %tax_amount% % tax"
+"Show history","Mostrar histórico"
+"Hide history","Ocultar histórico"
+Sku,SKU
+"Shipment has been successfully created.","O envio foi criado com sucesso."
+"Shipment has not been created.","O envio não foi criado."
+"Merchant sales order #%d not found.","Pedido de venda do comerciante #%d não encontrado."
+"Shipment has been successfully updated.","O envio foi atualizado com sucesso."
+"Shipment has not been updated.","O envio não foi atualizado."
+"Shipment #%d not found.","Envio #%d não encontrado."
+"New Shipment for Order: %idMerchantSalesOrder%","Novo envio para o pedido: %idMerchantSalesOrder%"
+"Back to Orders","Voltar para os pedidos"

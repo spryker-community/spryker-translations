@@ -1,0 +1,6 @@
+"The provided key name `%s` is not in valid format. It should only contain letters (a-z) and digits (0-9). Example: `YourExample123`.","提供的键名 `%s` 不符合有效格式。它只能包含字母（a-z）和数字（0-9）。示例：`YourExample123`。"
+"Entity with ID `%d` was not found in the database.","在数据库中找不到ID为 `%d` 的实体。"
+"The key name is not provided.",未提供键名。
+"The provided key name `%s` is duplicated. Use another one and try again.","提供的键名 `%s` 重复。请使用其他键名并重试。"
+"Created at",创建于
+"The provided `valid to` date `%s` already expired. Use another one and try again.","提供的 `valid to` 日期 `%s` 已过期。请使用其他日期并重试。"

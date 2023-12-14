@@ -1,0 +1,7 @@
+Reclamations,المطالبات
+"Create Reclamation","إنشاء مطالبة"
+"Reclamation id:%s for order %s successfully created","تم إنشاء مطالبة برقم %s للطلب %s بنجاح."
+Open,مفتوح
+Closed,مغلق
+"Reclamation with id %id% closed","تم إغلاق المطالبة برقم %id%."
+"CSRF token is not valid.","رمز CSRF غير صالح."

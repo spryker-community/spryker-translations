@@ -1,0 +1,6 @@
+"This field is missing.","Questo campo manca."
+"This value is not valid.","Questo valore non è valido."
+"The set of Store, Currency, and Quantity needs to be unique.","L'insieme di Negozio, Valuta e Quantità deve essere unico."
+"Gross Default and/or Net Default price is required for volume price.","Il prezzo predefinito lordo e/o netto è richiesto per il prezzo di volume."
+"Invalid volume quantity.","Quantità di volume non valida."
+"For a volume price the Gross and Net base price needs to be set.","Per un prezzo di volume è necessario impostare il prezzo base lordo e netto."

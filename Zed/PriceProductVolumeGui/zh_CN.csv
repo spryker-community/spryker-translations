@@ -1,0 +1,11 @@
+Currency,货币
+"Enter a quantity and the item price that should be applied if customer buys above that threshold",输入数量和商品价格，如果客户购买超过该阈值，则应用该价格
+"Price Dimension Name",价格维度名称
+"Price Type",价格类型
+Store,商店
+"Save and add more rows",保存并添加更多行
+"Save and exit",保存并退出
+"Volume prices successfully saved.",成功保存体积价格。
+"Volume prices",体积价格
+"Edit volume prices for product",编辑产品的体积价格
+"Edit volume prices",编辑体积价格

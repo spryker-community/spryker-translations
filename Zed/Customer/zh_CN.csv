@@ -1,0 +1,59 @@
+"Add Customer",添加客户
+"Add new Address",添加新地址
+"Address Line 1",地址行1
+"Address Line 2",地址行2
+"Address Line 3",地址行3
+Back,返回
+"Back to Customer View",返回到客户视图
+"Back to Customers",返回到客户
+"Back to Manage Addresses",返回到管理地址
+City,城市
+Company,公司
+Country,国家
+Customers,客户
+"Customer deletion confirmation",确认删除客户
+"Customer does not exist",客户不存在
+"Customer Reference",客户参考
+"Customer successfully deleted",客户删除成功
+"Customer was created successfully.",客户创建成功
+"Customer was not created.",客户未创建
+"Customer was not updated.",客户未更新
+"Customer was updated successfully.",客户更新成功
+"Customer with id `%s` does not exist",ID为'%s'的客户不存在
+"Date of birth",出生日期
+Delete,删除
+"Delete account",删除账户
+"Edit Address",编辑地址
+"Edit Customer",编辑客户
+Email,电子邮件
+"First Name",名字
+"First name",名字
+"Form was not submitted.",表单未提交
+Gender,性别
+"Last name",姓氏
+"List Customers",客户列表
+Locale,区域设置
+Phone,电话
+"Registered at",注册于
+Salutation,称谓
+Save,保存
+"Select one",选择一个
+"Send password token through email",通过电子邮件发送密码令牌
+View,查看
+"View Customer",查看客户
+"Zed Account Reference",Zed账户参考
+ZipCode,邮政编码
+"Registration Date",注册日期
+"Billing Address",账单地址
+"Shipping Address",送货地址
+"Attach to company",附属于公司
+"Add a customer",添加客户
+"Comment successfully added",评论成功添加。
+"Address (2nd line)",地址（第二行）
+"Address (3rd line)",地址（第三行）
+"Last Name",姓氏
+"Zip Code",邮政编码
+Actions,操作
+Status,状态
+Comment,评论
+Store,商店

@@ -1,0 +1,54 @@
+Activate,تفعيل
+Active,نشط
+"Add image","إضافة صورة"
+"Add image set","إضافة مجموعة صور"
+"Create Product Set","إنشاء مجموعة منتجات"
+Deactivate,"إلغاء التفعيل"
+Default,الافتراضي
+"Delete image","حذف الصورة"
+"Delete image set","حذف مجموعة الصور"
+"Deselect All","إلغاء تحديد الكل"
+"Deselected products","المنتجات الملغاة"
+Edit,تعديل
+ID,المعرف
+"Image Set","مجموعة الصور"
+"Image Set Name","اسم مجموعة الصور"
+Inactive,"غير نشط"
+Keywords,"الكلمات الرئيسية"
+"Large Image URL","عنوان URL الكبير للصورة"
+"List of Sets","قائمة المجموعات"
+Name,الاسم
+Position,الموضع
+Preview,معاينة
+Price,السعر
+"Product details","تفاصيل المنتج"
+"Product Sets","مجموعات المنتجات"
+"Products in this Set","المنتجات في هذه المجموعة"
+"Products to be assigned","المنتجات التي ستتم تعيينها"
+"Products to be deassigned","المنتجات التي ستتم إلغاء تعيينها"
+"Reorder Product Sets","إعادة ترتيب مجموعات المنتجات"
+Save,حفظ
+"Select All","اختر الكل"
+"Select products to assign","حدد المنتجات للتعيين"
+Selected,محدد
+"Selected products","المنتجات المحددة"
+SEO,"تحسين محركات البحث"
+SKU,"رمز المنتج"
+"Small Image URL","عنوان الصورة الصغيرة"
+Status,الحالة
+Submit,إرسال
+Title,العنوان
+URL,Url
+View,View
+Weight,Weight
+"Weight defines sorting order. Product Sets with higher numbers listed first.","الوزن يحدد ترتيب الفرز. يتم عرض مجموعات المنتجات ذات الأرقام الأعلى أولاً."
+"Product Set Key","مفتاح مجموعة المنتجات"
+"You need to select a minimum of 2 products.","يجب عليك تحديد الحد الأدنى لـ 2 منتجات."
+Images,الصور
+"View Product Set","عرض مجموعة المنتجات"
+"Product Set ""%s"" created successfully.","تم إنشاء مجموعة المنتجات ""%s"" بنجاح."
+"Product Set #%d activated successfully.","تم تنشيط مجموعة المنتجات #%d بنجاح."
+"Product Set #%d deactivated successfully.","تم إلغاء مجموعة المنتجات #%d بنجاح."
+"Product Set ""%s"" updated successfully.","تم تحديث مجموعة المنتجات ""%s"" بنجاح."
+"Product Set #%d deleted successfully.","تم حذف مجموعة المنتجات #%d بنجاح."
+"Number of Products","عدد المنتجات"

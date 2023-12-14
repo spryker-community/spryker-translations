@@ -1,0 +1,23 @@
+Add,Aggiungi
+"Add new Carrier Company","Aggiungi nuova Compagnia di Spedizioni"
+"Add new Shipment Method","Aggiungi nuovo Metodo di Spedizione"
+"Availability plugin","Plugin di Disponibilità"
+Carrier,"Compagnia di Spedizioni"
+"Carrier was created successfully.","La Compagnia di Spedizioni è stata creata con successo."
+"Carrier with the same name already exists.","Esiste già una Compagnia di Spedizioni con lo stesso nome."
+"Create new Shipment Carrier","Crea nuova Compagnia di Spedizioni"
+"Delivery time plugin","Plugin di Tempi di Consegna"
+"Edit Shipment Method","Modifica Metodo di Spedizione"
+Enabled?,Attiva
+"List Shipment Methods","Elenco dei metodi di spedizione"
+Method,Metodo
+"New Shipment Method","Nuovo Metodo di Spedizione"
+Price,Prezzo
+"Price plugin","Plugin di Prezzo"
+Save,Salva
+"Select one","Seleziona uno"
+"Shipment Method","Metodo di Spedizione"
+"Shipment method ""%s"" was created successfully.","Il metodo di spedizione ""%s"" è stato creato con successo."
+"Shipment method ""%s"" was updated successfully.","Il metodo di spedizione ""%s"" è stato aggiornato con successo."
+"Shipment method with such name already exists for selected shipment provider.","Esiste già un metodo di spedizione con lo stesso nome per il provider di spedizione selezionato."
+"Shipment Methods","Metodi di Spedizione"

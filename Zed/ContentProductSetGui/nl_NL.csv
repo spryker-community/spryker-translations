@@ -1,0 +1,13 @@
+Actions,Acties
+Add,Toevoegen
+"Available Product Sets","Beschikbare productsets"
+"Clear locale","Locale wissen"
+content_product_set_gui.template.cart-button-btm,"Alles toevoegen aan winkelwagen onderaan"
+content_product_set_gui.template.cart-button-top,"Alles toevoegen aan winkelwagen bovenaan"
+content_product_set_gui.template.default,Standaard
+Delete,Verwijderen
+ID,ID
+Name,Naam
+"Number of Products","Aantal producten"
+"Product Set",Productset
+Status,Status

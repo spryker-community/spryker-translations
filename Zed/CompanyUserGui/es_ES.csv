@@ -1,0 +1,41 @@
+"Attach customer to company","Asignar cliente a empresa"
+"Business Unit","Unidad de negocio"
+"Company user deletion confirmation","Confirmación de eliminación de usuario de empresa"
+"Company Users","Usuarios de empresa"
+"Create Company User","Crear usuario de empresa"
+"Customer Access","Acceso del cliente"
+"Customer with id `%s` does not exist","El cliente con el id `%s` no existe"
+E-Mail,"Correo electrónico"
+Email,Email
+"Edit Company User","Editar usuario de empresa"
+"List of Company Users","Lista de usuarios de empresa"
+"Overview of Company Users","Resumen de usuarios de empresa"
+"User ID","ID de usuario"
+"Business Unit name","Nombre de la unidad de negocio"
+"Attach ""%customer%""","Adjuntar ""%customer%"""
+Disable,Desactivar
+"Company user successfully disabled","Usuario de empresa desactivado correctamente"
+"Company user successfully enabled","Usuario de empresa activado correctamente"
+Disabled,Desactivado
+Enabled,Activado
+Enable,Activar
+"User Name","Nombre de usuario"
+"Attach to BU","Adjuntar a BU"
+"Company user has been created.","El usuario de empresa ha sido creado."
+"Company User Name","Nombre de usuario de empresa"
+Company,Empresa
+"Company name","Nombre de empresa"
+"Select company","Seleccionar empresa"
+Mr,Sr.
+Mrs,Sra.
+Ms,Sra.
+Dr,Dr.
+"Company Name","Nombre de empresa"
+Salutation,Tratamiento
+"Select one","Seleccionar uno"
+"First Name",Nombre
+"Last Name",Apellido
+Gender,Género
+"Send password token through email","Enviar token de contraseña por correo electrónico"
+Phone,Teléfono
+"Date of birth","Fecha de nacimiento"

@@ -1,0 +1,71 @@
+Activate,تفعيل
+"Back to CMS","العودة إلى CMS"
+by,بواسطة
+"Cms page with id %s doesn't exist","صفحة CMS بالمعرف %s غير موجودة"
+Compare,مقارنة
+"Content Management","إدارة المحتوى"
+"Create CMS Page","إنشاء صفحة CMS جديدة"
+"Create new CMS Page","إنشاء صفحة CMS جديدة"
+"Create page","إنشاء صفحة"
+"Created at:","تم الإنشاء في:"
+Deactivate,تعطيل
+Description:,الوصف:
+"Discard Draft","تجاهل المسودة"
+"Edit CMS Page:","تحرير صفحة CMS:"
+"Edit page","تحرير الصفحة"
+"Edit placeholders","تحرير العناصر النائبة"
+"Edit Placeholders:","تحرير العناصر النائبة:"
+"Fill in general page information","املأ معلومات الصفحة العامة"
+"Fill in SEO information","املأ معلومات تحسين محركات البحث"
+"In Shop","في المتجر"
+"In Zed","في زد"
+"Is active:",نشط:
+"Is searchable:","قابل للبحث:"
+Keywords:,"الكلمات الرئيسية:"
+"List of CMS pages","قائمة الصفحات في نظام إدارة المحتوى"
+Locale,اللغة
+"Meta Description","وصف الفوقية"
+"Meta Keywords","الكلمات الرئيسية الفوقية"
+"Meta Title","عنوان الفوقية"
+"Missing placeholders for selected template.","العناصر المفقودة للقوالب المحددة."
+n/a,n/a
+Name,الاسم
+Name:,الاسم:
+on,على
+"Overview of CMS Pages","نظرة عامة على صفحات CMS"
+Page,صفحة
+"Page was updated successfully","تم تحديث الصفحة بنجاح"
+"Page with version %d successfully published.","تم نشر الصفحة بالإصدار %d بنجاح."
+Pages,صفحات
+"Placeholder translations successfully updated","تم تحديث الترجمات البديلة بنجاح"
+Publish,نشر
+"Rollback to Selected Version","العودة إلى النسخة المحددة"
+Save,حفظ
+Template:,القالب:
+Title:,العنوان:
+"Translation key:","مفتاح الترجمة:"
+Url,رابط
+Urls,روابط
+"Valid from:","صالح من (شامل):"
+"Valid to:","صالح حتى (غير مشمول):"
+"Version History","تاريخ الإصدار"
+"Version History:","تاريخ الإصدار:"
+View,عرض
+"View CMS Page:","عرض صفحة CMS:"
+"You are editing a <br>draft </b> page. To make your changes visible in Yves, publish the page. Publishing the page will create a new version for this page","أنت تقوم بتحرير صفحة <b>مسودة</b>. لجعل التغييرات الخاصة بك مرئية في متجر الإلكتروني، قم بنشر الصفحة. سيؤدي نشر الصفحة إلى إنشاء نسخة جديدة لهذه الصفحة."
+"You are viewing a published page. It was published","أنت تعرض صفحة منشورة. تم نشرها"
+"You can edit the page or placeholders to modify the current working draft. You can publish the current working draft to create a new version","يمكنك تحرير الصفحة أو العناصر النائبة لتعديل المسودة الحالية. يمكنك نشر المسودة الحالية لإنشاء نسخة جديدة"
+"CMS Redirect","إعادة توجيه CMS"
+"Is searchable","قابل للبحث"
+"Page was not created.","لم يتم إنشاء الصفحة."
+"Page was created successfully.","تم إنشاء الصفحة بنجاح."
+"You are editing a <b>draft</b> page. To make your changes visible in the shop, publish the page. Publishing the page will create a new version for this page.","أنت تقوم بتحرير صفحة <b>مسودة</b>. لجعل التغييرات الخاصة بك مرئية في المتجر، قم بنشر الصفحة. سيؤدي نشر الصفحة إلى إنشاء نسخة جديدة لهذه الصفحة."
+"Store relation","علاقة المتجر"
+Placeholders,"العناصر النائبة"
+title,العنوان
+content,المحتوى
+"View CMS Page","عرض صفحة CMS"
+"Draft data successfully discarded.","تم تجاهل بيانات المسودة بنجاح."
+"Page was deactivated successfully.","تم إلغاء تنشيط الصفحة بنجاح."
+"Page was activated successfully.","تم تنشيط الصفحة بنجاح."
+"Edit Placeholders","تعديل العناصر النائبة"

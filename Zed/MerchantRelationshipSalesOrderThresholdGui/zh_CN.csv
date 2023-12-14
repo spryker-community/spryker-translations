@@ -1,0 +1,21 @@
+"Back to Merchant Relationship Thresholds",返回商户关系阈值
+"Edit Merchant Relationship Threshold",编辑商户关系阈值
+"Enter minimum order value",输入最低订单金额
+"Hard Threshold",硬阈值
+"Hard Maximum Threshold",硬最大阈值
+"Merchant relationship name",商户关系名称
+"Merchant relationships",商户关系
+Message,消息
+Save,保存
+"Soft Threshold",软阈值
+"Soft Threshold with fixed fee",带固定费用的软阈值
+"Soft Threshold with flexible fee",带灵活费用的软阈值
+"Soft Threshold with message",带消息的软阈值
+"Store and Currency",商店和货币
+"The Merchant Relationship Threshold is saved successfully.",商户关系阈值保存成功。
+Thresholds,阈值
+Soft,软
+Hard,硬
+"The Merchant Relationship Thresholds is saved successfully.",商户关系阈值保存成功。
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>",您可以使用占位符<code>{{threshold}}</code>和<code>{{fee}}</code>
+"BU name",BU名称

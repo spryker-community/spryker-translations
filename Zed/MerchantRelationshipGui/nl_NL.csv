@@ -1,0 +1,31 @@
+"Add Merchant relation","Toevoegen handelsrelatie"
+"Assigned Business Units","Toegewezen bedrijfseenheden"
+"Back to Merchant relations","Terug naar handelsrelaties"
+"Business Unit Owner","Eigenaar bedrijfseenheid"
+Company,Bedrijf
+Confirm,bevestigen
+"Create Merchant Relation","Handelsrelatie maken"
+"Edit Merchant Relation","Handelsrelatie bewerken"
+"Edit Merchant Relation:","Handelsrelatie bewerken:"
+ID,ID:
+"List of Merchant relation","Lijst met handelsrelaties"
+Merchant,Handelaar
+"Merchant Name",Handelaarsnaam
+"Merchant relation created successfully.","Handelsrelatie succesvol aangemaakt."
+"Merchant relation deleted successfully.","Handelsrelatie succesvol verwijderd."
+"Merchant relation has not been created.","Handelsrelatie is niet aangemaakt."
+"Merchant relation is not found.","Handelsrelatie niet gevonden."
+"Merchant relation updated successfully.","Handelsrelatie succesvol bijgewerkt."
+"Merchant Relations",Handelsrelaties
+"Merchant Relation with ID ""%id%"" doesn\'t exist.","Handelsrelatie met ID ""%id%"" bestaat niet."
+Merchants,Handelaren
+"Overview of Merchant relation","Overzicht van handelsrelatie"
+Save,Opslaan
+"Select Company","Selecteer bedrijf"
+"Select merchant","Selecteer handelaar"
+"Select business unit","Selecteer bedrijfseenheid"
+"Please select an item in the list","Selecteer een item in de lijst"
+"Delete Merchant Relation","Verwijder handelsrelatie"
+"Merchant Relation deletion confirmation","Bevestiging verwijderen handelsrelatie"
+"Are you sure you want to delete this Merchant Relation?","Weet u zeker dat u de handelsrelatie wilt verwijderen?"
+Cancel,Annuleren

@@ -1,0 +1,49 @@
+"Add a file",添加文件
+"Add MIME type",添加MIME类型
+"Back to File Directory Elements",返回文件目录元素
+"Back to File Tree",返回文件树
+"Back to MIME type list",返回MIME类型列表
+Cancel,取消
+confirm,确认
+"Confirm deleting",确认删除
+"Create Directory Element",创建目录元素
+"Create File Directory",创建文件目录
+Date,日期
+"Delete Directory",删除目录
+"Directory element details",目录元素详情
+"Do you want to remove the folder with all files?",您是否要删除包含所有文件的文件夹？
+"Edit file",编辑文件
+"Edit MIME type",编辑MIME类型
+"Failed to delete MIME type",删除MIME类型失败
+"File Directory tree updated successfully.",文件目录树更新成功。
+"File List",文件列表
+"File Manager",文件管理器
+"File name",文件名
+"File Tree",文件树
+"File type",文件类型
+"File type is not allowed for uploading",不允许上传该文件类型
+"File upload",文件上传
+"File was not found",未找到文件
+"Files list",文件列表
+"MIME type",MIME类型
+"MIME type already exists",MIME类型已存在
+"MIME type settings",MIME类型设置
+"MIME type was successfully deleted",MIME类型删除成功
+"MIME type was successfully saved",MIME类型保存成功
+Save,保存
+"Save order",保存顺序
+"Specify a file name or use real one",指定文件名
+"The file directory was added successfully.",文件目录添加成功
+"The file was added successfully.",文件添加成功
+"The file was edited successfully.",文件编辑成功
+"Upload a file",上传文件
+"Upload a file or specify a new file name",上传文件或指定新文件名
+"Use file name",使用文件名
+"View file",查看文件
+"Is allowed",是否允许
+"Add File",添加文件
+"File Directories Tree",文件目录树
+"Overview of File Tree",文件树概览
+"You cannot remove the only version of the file.",您不能删除文件的唯一版本。
+"Available extensions for MIME type. Comma separated.",可用的MIME类型扩展名。逗号分隔。
+"There are no MIME types or extensions configured.",没有配置MIME类型或扩展名。

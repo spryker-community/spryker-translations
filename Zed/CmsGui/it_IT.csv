@@ -1,0 +1,71 @@
+Activate,Attiva
+"Back to CMS","Torna a CMS"
+by,di
+"Cms page with id %s doesn't exist","La pagina CMS con ID %s non esiste"
+Compare,Confronta
+"Content Management","Gestione dei contenuti"
+"Create CMS Page","Crea pagina CMS"
+"Create new CMS Page","Crea nuova pagina CMS"
+"Create page","Crea pagina"
+"Created at:","Creato il:"
+Deactivate,Disattiva
+Description:,Descrizione:
+"Discard Draft","Annulla bozza"
+"Edit CMS Page:","Modifica pagina CMS:"
+"Edit page","Modifica pagina"
+"Edit placeholders","Modifica segnaposto"
+"Edit Placeholders:","Modifica segnaposti:"
+"Fill in general page information","Compila le informazioni generali della pagina"
+"Fill in SEO information","Compila le informazioni SEO"
+"In Shop","Nel negozio"
+"In Zed","In Zed"
+"Is active:","È attivo:"
+"Is searchable:","È ricercabile:"
+Keywords:,"Parole chiave:"
+"List of CMS pages","Elenco delle pagine CMS"
+Locale,Locale
+"Meta Description","Meta descrizione"
+"Meta Keywords","Meta parole chiave"
+"Meta Title","Meta titolo"
+"Missing placeholders for selected template.","Segnaposti mancanti per il template selezionato."
+n/a,n/a
+Name,Nome
+Name:,Nome:
+on,on
+"Overview of CMS Pages","Panoramica delle pagine CMS"
+Page,Pagina
+"Page was updated successfully","La pagina è stata aggiornata con successo"
+"Page with version %d successfully published.","La pagina con versione %d è stata pubblicata con successo."
+Pages,Pagine
+"Placeholder translations successfully updated","Le traduzioni dei segnaposti sono state aggiornate con successo"
+Publish,Pubblica
+"Rollback to Selected Version","Ripristina alla versione selezionata"
+Save,Salva
+Template:,Template:
+Title:,Titolo:
+"Translation key:","Chiave di traduzione:"
+Url,Url
+Urls,Urls
+"Valid from:","Valido da (incluso):"
+"Valid to:","Valido fino (escluso):"
+"Version History","Cronologia delle versioni"
+"Version History:","Cronologia delle versioni:"
+View,Visualizza
+"View CMS Page:","Visualizza pagina CMS:"
+"You are editing a <br>draft </b> page. To make your changes visible in Yves, publish the page. Publishing the page will create a new version for this page","Stai modificando una pagina <b>bozza</b>. Per rendere le tue modifiche visibili nel negozio, pubblica la pagina. La pubblicazione della pagina creerà una nuova versione per questa pagina."
+"You are viewing a published page. It was published","Stai visualizzando una pagina pubblicata. È stata pubblicata"
+"You can edit the page or placeholders to modify the current working draft. You can publish the current working draft to create a new version","Puoi modificare la pagina o i segnaposti per modificare la bozza di lavoro corrente. Puoi pubblicare la bozza di lavoro corrente per creare una nuova versione"
+"CMS Redirect","Reindirizzamento CMS"
+"Is searchable","È ricercabile"
+"Page was not created.","La pagina non è stata creata."
+"Page was created successfully.","La pagina è stata creata con successo."
+"You are editing a <b>draft</b> page. To make your changes visible in the shop, publish the page. Publishing the page will create a new version for this page.","Stai modificando una pagina <b>bozza</b>. Per rendere le tue modifiche visibili nel negozio, pubblica la pagina. La pubblicazione della pagina creerà una nuova versione per questa pagina."
+"Store relation","Relazione negozio"
+Placeholders,Segnaposti
+title,Titolo
+content,Contenuto
+"View CMS Page","Visualizza pagina CMS"
+"Draft data successfully discarded.","Dati bozza scartati con successo."
+"Page was deactivated successfully.","La pagina è stata disattivata con successo."
+"Page was activated successfully.","La pagina è stata attivata con successo."
+"Edit Placeholders","Modifica segnaposti"

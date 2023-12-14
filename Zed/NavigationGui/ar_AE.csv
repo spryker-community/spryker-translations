@@ -1,0 +1,25 @@
+"Are you sure about deleting this navigation?","هل أنت متأكد من حذف هذا التنقل؟"
+"Are you sure you remove the selected node and all its children?","هل أنت متأكد أنك تريد إزالة العقدة المحددة وجميع أبنائها؟"
+"Back to Navigation Elements","العودة إلى عناصر التنقل"
+"Create child node","إنشاء عقدة فرعية"
+"Create Navigation Element","إنشاء عنصر تنقل"
+"Delete Navigation","حذف التنقل"
+"Delete selected node","حذف العقدة المحددة"
+Duplicate,تكرار
+"Duplicate Navigation Element","تكرار عنصر التنقل"
+"Edit node","تحرير العقدة"
+Key,مفتاح
+Name,الاسم
+"Navigation element details","تفاصيل عنصر التنقل"
+"Navigation element %d was deleted successfully.","تم حذف عنصر التنقل %d بنجاح."
+"Navigation element %d was not found.","لم يتم العثور على عنصر التنقل %d."
+"Navigation removal confirmation","تأكيد إزالة التنقل"
+"Navigation tree","شجرة التنقل"
+"No, I want to keep this navigation","لا، أرغب في الاحتفاظ بهذا التنقل"
+Save,حفظ
+"Save order","حفظ الترتيب"
+Search,البحث
+"Yes, delete this navigation","نعم، احذف هذا التنقل"
+"Overview of Navigation Elements","نظرة عامة على عناصر التنقل"
+"Navigation element %d was activated successfully.","تم تنشيط عنصر التنقل %d بنجاح."
+"Navigation element %d was deactivated successfully.","تم إلغاء تنشيط عنصر التنقل %d بنجاح."

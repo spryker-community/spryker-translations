@@ -1,0 +1,5 @@
+approved,Aprovado
+denied,Negado
+"Merchant is not found.","Merchant não encontrado."
+"Merchant status transition is not valid.","A transição de status do Merchant não é válida."
+waiting-for-approval,"Aguardando aprovação"

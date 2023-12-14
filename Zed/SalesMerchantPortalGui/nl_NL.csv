@@ -1,0 +1,61 @@
+Created,Aangemaakt
+Customer,Klant
+Email,E-mail
+"Grand Total",Totaalbedrag
+"Order State",Bestelstatus
+"Merchant Reference",Handelaarsreferentie
+"No. of Items","Aantal items"
+Orders,Bestellingen
+Reference,Referentie
+Search,Zoeken
+States,Statussen
+Store,Winkel
+Stores,Winkels
+Details,Details
+Order,Bestelling
+"Order date",Besteldatum
+"Number of products","Aantal producten"
+Items,Items
+Shipments,Zendingen
+Subtotal,Subtotaal
+Shipment,Verzending
+"Included Taxes","Inclusief belastingen"
+"Client name",Klantnaam
+"Client email","Klant e-mail"
+"Total orders","Totaal bestellingen"
+Overview,Overzicht
+Totals,Totalen
+"From the last %daysNumber% days","Van de laatste %daysNumber% dagen"
+"Manage Orders","Beheer bestellingen"
+New,Nieuw
+"Per Store","Per winkel"
+"The state is updated successfully.","De status is succesvol bijgewerkt."
+"Only matching states items will be updated.","Alleen overeenkomende items met status worden bijgewerkt."
+"Order's Items state","Status van bestelitems"
+"Merchant order not found for id %d.","Handelaarsbestelling niet gevonden voor id %d."
+"Event name is empty.","Evenementnaam is leeg."
+"Merchant order ids are empty.","Handelaarsbestelling-ids zijn leeg."
+Method,Methode
+Carrier,Vervoerder
+"Delivery address",Afleveradres
+"Requested Date","Gevraagde datum"
+SKU,SKU
+Image,Afbeelding
+Name,Naam
+Quantity,Hoeveelheid
+State,Status
+"There are no applicable actions for the selected items.","Er zijn geen toepasbare acties voor de geselecteerde items."
+"Shipment %index% of %total%","Verzending %index% van %total%"
+"Canceled Amount","Geannuleerd bedrag"
+"Discount Amount",Kortingsbedrag
+"Canceled By Merchant","Geannuleerd door verkoper"
+Shipped,Verzonden
+Delivered,Afgeleverd
+initiate,Initiëren
+ship,Verzenden
+deliver,Bezorgen
+close,Sluiten
+"cancel by merchant","Annuleren door verkoper"
+"merchant split pending","Verdeling door verkoper in behandeling"
+"sent to merchant","Verzonden naar verkoper"
+"shipped by merchant","Verzonden door verkoper"

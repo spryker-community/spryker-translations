@@ -1,0 +1,145 @@
+Attributes,属性
+Categories,类别
+Currencies,货币
+Currency,货币
+Default,默认
+Description,描述
+Image,图片
+"Image Set",图片集
+Images,图片
+"Manage Product",管理产品
+Name,名称
+Offline,离线
+Online,在线
+"Approval Status",审核状态
+waiting_for_approval,等待审核
+approved,已审核
+denied,已拒绝
+draft,草稿
+approval_status_action.approved,批准
+approval_status_action.denied,拒绝
+approval_status_action.draft,返回草稿
+approval_status_action.waiting_for_approval,发送审核
+"Product successfully created!",产品创建成功！
+"Please resolve all errors.",请解决所有错误。
+Price,价格
+Products,产品
+"Product Details",产品详情
+"Provide a name",提供名称
+"Provide description",提供描述
+Save,保存
+Select,选择
+"Select Stores",选择商店
+"Select Tax Set",选择税收设置
+"Select Categories",选择类别
+SKU,SKU
+"Search by SKU, Name",按SKU、名称搜索
+Store,商店
+Stores,商店
+"Super Attributes",超级属性
+"Tax Set",税收设置
+"The Product is saved.",产品已保存。
+"The value cannot be empty. Please fill in this input.",值不能为空。请填写此输入。
+Variants,变体
+Visibility,可见性
+"Success! The Price is deleted.",成功！价格已删除。
+"Something went wrong, please try again.",出了点问题，请重试。
+"Product prices saved successfully.",产品价格保存成功。
+Net,净
+Gross,毛
+Delete,删除
+Add,添加
+Active,活跃
+Inactive,非活跃
+Search,搜索
+Status,状态
+"Valid From",有效起始日期
+"Valid To",有效结束日期
+Validity,有效性
+"Validity Dates & Time",有效日期和时间
+"Enabling an option below will overwrite the existing input.",启用下面的选项将覆盖现有输入。
+"Bulk edit %number% variants",批量编辑%number%个变体
+"The first date cannot be later than the second one.",第一个日期不能晚于第二个日期。
+"The first date is the same as the second one.",第一个日期与第二个日期相同。
+"The second date cannot be earlier than the first one.",第二个日期不能早于第一个日期。
+From,从
+To,到
+"Bulk edit",批量编辑
+Searchability,可搜索性
+"Use Abstract Product prices",使用抽象产品价格
+"Select Locales",选择区域设置
+Stock,库存
+Quantity,数量
+"Always in stock",始终有库存
+"Enter quantity",输入数量
+"Reserved Stock",保留库存
+"This concrete product is not owned by this merchant.",此具体产品不属于此商家。
+"Create Abstract Product",创建抽象产品
+English,英语
+German,德语
+"The rest of the locales will be defined once the product has been created.",产品创建后将定义其余区域设置。
+"Create an Abstract Product",创建一个抽象产品
+"with 1 Concrete Product",与1个具体产品
+"Autogenerate SKU",自动生成SKU
+"Same as Abstract Product",与抽象产品相同
+"Concrete Products’ Preview",具体产品预览
+"with multiple Concrete Products",与多个具体产品
+"Super Attribute",超级属性
+Values,值
+"No concretes created yet",尚未创建具体产品
+"to be created",待创建
+"Autogenerate SKUs",自动生成SKU
+"Same Name as Abstract Product",与抽象产品同名
+"Super attribute value",超级属性值
+"Name default",名称默认
+"Invalid value provided. Please use only alphanumeric characters and . - _","提供的值无效。请仅使用字母数字字符和. - _"
+"Concrete Product SKU already exists",具体产品SKU已存在
+"SKU Prefix already exists",SKU前缀已存在
+"Abstract product has 1 concrete product",抽象产品有1个具体产品
+"Abstract product has multiple concrete products",抽象产品有多个具体产品
+"The value cannot be empty. Please select one.",值不能为空。请选择一个。
+"SKU Prefix",SKU前缀
+"SKU Prefix already exists in collection",SKU前缀已存在于集合中
+"Enter SKU prefix",输入SKU前缀
+"Add Image Set",添加图像集
+"Set name",设置名称
+"Delete Image Set",删除图像集
+"Image Ordered",图像排序
+"Small Image URL",小图像URL
+"Large Image URL",大图像URL
+"Add Image",添加图像
+"Abstract Product",抽象产品
+"Abstract Product Details",抽象产品详情
+"Concrete Products",具体产品
+"The attribute %attribute% already exists. Please define another one",属性%attribute%已存在。请定义另一个
+"Please fill in at least one value",请至少填写一个值
+"Success! The Attribute is deleted",成功！属性已删除
+"The value cannot be blank. Please fill in this input",值不能为空。请填写此输入
+"Provide meta title",提供元标题
+"Provide meta keywords",提供元关键词
+"Provide meta description",提供元描述
+"Concrete Product",具体产品
+"Concrete Product is active",具体产品正在使用
+"Use Abstract Product name for all locales",对于所有语言环境，请使用抽象产品名称
+"Use Abstract Product description for all locales",对于所有语言环境，请使用抽象产品描述
+"Use Abstract Product price for all locales",对于所有语言环境，请使用抽象产品价格
+"Use Abstract Product images for all locales",对于所有语言环境，请使用抽象产品图片
+"Super attribute was not deleted",超级属性未被删除
+"Add Concrete Products",添加具体产品
+Create,创建
+"This value should not be blank.",此值不能为空
+"Combination of super attribute values already exists.",超级属性值的组合已存在
+"This abstract product is not owned by this merchant.",此抽象产品不属于此商家
+"Invalid value provided. Please use only alphanumeric characters and  . - _",提供的值无效。请仅使用字母数字字符和.-_
+"This value needs to be unique.",此值必须是唯一的
+"This value already exists.",此值已存在
+"Success! %d Concrete Products are saved.",成功！已保存%d个具体产品
+"Success! %d Concrete Product is saved.",成功！已保存%d个具体产品
+"The approval status was updated.",批准状态已更新
+"The approval status was not updated.",批准状态未更新
+"Abstract product was not found.",未找到抽象产品
+"Send for Approval",发送审核
+"Enter SKU",输入SKU
+"Enter name",输入名称
+"Select at least one value",至少选择一个值
+"Once this product is created, you will no longer be able to add additional concrete products.",创建此产品后，您将无法再添加其他具体产品。

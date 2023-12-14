@@ -1,0 +1,52 @@
+"My Returns","As Minhas Devoluções"
+Return,Devolução
+"Merchant for current user not found.","Não foi encontrado o comerciante para o utilizador atual."
+"Merchant sales order #%d not found.","Não foi encontrado o pedido de venda do comerciante #%d."
+"Return was successfully created.","A devolução foi criada com sucesso."
+"Return has not been created.","A devolução não foi criada."
+"Requested return with ID %id% was not found.","Não foi encontrada a devolução solicitada com o ID %id%."
+"Status change triggered successfully.","A alteração de estado foi efetuada com sucesso."
+"Request is invalid","O pedido é inválido."
+"Parameter redirect not found.","O parâmetro de redirecionamento não foi encontrado."
+"Item selected for return is not eligible for return anymore.","O item selecionado para devolução já não é elegível para devolução."
+"Select reason","Selecionar motivo"
+View,Ver
+"Print Slip","Imprimir Talão"
+"Return ID","ID da Devolução"
+"Return Reference","Referência da Devolução"
+"Order Reference","Referência do Pedido"
+"Marketplace Order Reference","Referência do Pedido no Marketplace"
+"Returned Products","Produtos Devolvidos"
+"Return Date","Data da Devolução"
+State,Estado
+Actions,Ações
+Sku,SKU
+"incl. %tax_amount% % tax","incl. %tax_amount% % de imposto"
+"Show history","Mostrar histórico"
+"Hide history","Ocultar histórico"
+"Create Return","Criar Devolução"
+"Back to Order","Voltar ao Pedido"
+"Merchant Order Reference","Referência do Pedido do Comerciante"
+"Merchant Order References","Referências do Pedido do Comerciante"
+"Select Items to Return","Selecionar Itens para Devolução"
+Product,Produto
+Quantity,Quantidade
+Price,Preço
+Total,Total
+"Return policy","Política de Devolução"
+Customer,Cliente
+"Customer Reference","Referência do Cliente"
+Name,Nome
+Email,Email
+"General information","Informações gerais"
+"Returned Items","Itens devolvidos"
+Reason,Motivo
+"Trigger all matching states","Ativar todos os estados correspondentes"
+of,de
+"selected items","itens selecionados"
+"Trigger event","Ativar evento"
+items,itens
+"Remuneration Total","Total de Remuneração"
+"Overview of Return","Visão geral da devolução"
+"Back to Returns","Voltar para Devoluções"
+"Print Return Slip","Imprimir comprovante de devolução"

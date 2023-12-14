@@ -1,0 +1,32 @@
+Activate,激活
+"Add a Cms block",添加CMS块
+"Add a Cms page",添加CMS页面
+"Add CMS Block",添加CMS块
+"Add CMS Page",添加CMS页面
+"Add CMS Redirect",添加CMS重定向
+"Back to CMS",返回CMS
+"CMS blocks",CMS块
+Deactivate,停用
+"Delete CMS Block",删除CMS块
+"Delete CMS Page",删除CMS页面
+"Edit a Cms Block",编辑CMS块
+"Edit a Cms page",编辑CMS页面
+"From Url",从URL
+"ID redirect URL is not set.",ID重定向URL未设置。
+Loading...,加载中...
+"New template(s) detected and added to the template list.",检测到新模板并添加到模板列表。
+"Redirect status code",重定向状态码
+"Redirect was created successfully.",重定向创建成功。
+"Redirect was deleted successfully.",重定向删除成功。
+"Redirect was updated successfully.",重定向更新成功。
+Redirects,重定向
+Save,保存
+"Save All",全部保存
+"To Url",到URL
+"URL is already used.",URL已被使用。
+"URL must start with a slash",URL必须以斜杠开头
+"Create new CMS Redirect",创建新的CMS重定向
+"Please select",请选择
+"Edit CMS Redirect",编辑CMS重定向
+"URL's second character cannot be slash",URL的第二个字符不能是斜杠
+"URL cannot contain backslash sign, you can use '%5C' instead",URL不能包含反斜杠符号，您可以使用'%5C'代替

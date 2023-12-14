@@ -1,0 +1,29 @@
+"Edit Data Exchange API Configuration",编辑数据交换API配置
+"Back to Data Exchange API Configuration",返回数据交换API配置
+"Create Data Exchange API Configuration",创建数据交换API配置
+ID,ID
+Actions,操作
+"Table name",表名
+"Resource name",资源名
+"Is enabled",是否启用
+Identifier,标识符
+Status,状态
+Inactive,不活动
+Active,活动
+Enabled,启用
+Name,名称
+"Visible Name",可见名称
+Type,类型
+Creatable,可创建
+Editable,可编辑
+Required,必填
+Min,最小值
+Max,最大值
+"Min Length",最小长度
+"Max Length",最大长度
+Scale,刻度
+Precision,精度
+Edit,编辑
+Create,创建
+"Download API Specification",下载API规范
+"Documentation generation is in progress, please refresh the page in %s minute(s).",文档生成正在进行中，请在%s分钟后刷新页面。

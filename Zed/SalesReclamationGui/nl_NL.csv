@@ -1,0 +1,7 @@
+Reclamations,Klachten
+"Create Reclamation","Klacht aanmaken"
+"Reclamation id:%s for order %s successfully created","Klacht met id:%s voor bestelling %s succesvol aangemaakt."
+Open,Open
+Closed,Gesloten
+"Reclamation with id %id% closed","Klacht met id %id% gesloten."
+"CSRF token is not valid.","CSRF-token is niet geldig."

@@ -1,0 +1,59 @@
+"Add Customer","Adicionar Cliente"
+"Add new Address","Adicionar novo Endereço"
+"Address Line 1","Linha de Endereço 1"
+"Address Line 2","Linha de Endereço 2"
+"Address Line 3","Linha de Endereço 3"
+Back,Voltar
+"Back to Customer View","Voltar para a Visualização do Cliente"
+"Back to Customers","Voltar para os Clientes"
+"Back to Manage Addresses","Voltar para Gerenciar Endereços"
+City,Cidade
+Company,Empresa
+Country,País
+Customers,Clientes
+"Customer deletion confirmation","Confirmação de exclusão do cliente"
+"Customer does not exist","Cliente não existe"
+"Customer Reference","Referência do Cliente"
+"Customer successfully deleted","Cliente excluído com sucesso"
+"Customer was created successfully.","Cliente criado com sucesso"
+"Customer was not created.","Cliente não foi criado"
+"Customer was not updated.","Cliente não foi atualizado"
+"Customer was updated successfully.","Cliente atualizado com sucesso"
+"Customer with id `%s` does not exist","Cliente com o id `%s` não existe"
+"Date of birth","Data de nascimento"
+Delete,Excluir
+"Delete account","Excluir conta"
+"Edit Address","Editar Endereço"
+"Edit Customer","Editar Cliente"
+Email,Email
+"First Name","Primeiro Nome"
+"First name","Primeiro Nome"
+"Form was not submitted.","O formulário não foi enviado"
+Gender,Gênero
+"Last name",Sobrenome
+"List Customers","Lista de clientes"
+Locale,Localidade
+Phone,Telefone
+"Registered at","Registrado em"
+Salutation,Saudação
+Save,Salvar
+"Select one","Selecionar um"
+"Send password token through email","Enviar token de senha por email"
+View,Ver
+"View Customer","Ver Cliente"
+"Zed Account Reference","Referência da Conta Zed"
+ZipCode,"Código Postal"
+"Registration Date","Data de Registro"
+"Billing Address","Endereço de Cobrança"
+"Shipping Address","Endereço de Envio"
+"Attach to company","Anexar à empresa"
+"Add a customer","Adicionar um cliente"
+"Comment successfully added","Comentário adicionado com sucesso."
+"Address (2nd line)","Endereço (2ª linha)"
+"Address (3rd line)","Endereço (3ª linha)"
+"Last Name",Sobrenome
+"Zip Code","Código Postal"
+Actions,Ações
+Status,Status
+Comment,Comentário
+Store,Loja

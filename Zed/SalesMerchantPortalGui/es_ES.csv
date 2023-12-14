@@ -1,0 +1,61 @@
+Created,Creado
+Customer,Cliente
+Email,Email
+"Grand Total",Total
+"Order State","Estado del pedido"
+"Merchant Reference","Referencia del comerciante"
+"No. of Items","N.º de artículos"
+Orders,Pedidos
+Reference,Referencia
+Search,Buscar
+States,Estados
+Store,Tienda
+Stores,Tiendas
+Details,Detalles
+Order,Pedido
+"Order date","Fecha del pedido"
+"Number of products","Número de productos"
+Items,Artículos
+Shipments,Envíos
+Subtotal,Subtotal
+Shipment,Envío
+"Included Taxes","Impuestos incluidos"
+"Client name","Nombre del cliente"
+"Client email","Email del cliente"
+"Total orders","Total de pedidos"
+Overview,Resumen
+Totals,Totales
+"From the last %daysNumber% days","Desde los últimos %daysNumber% días"
+"Manage Orders","Gestionar pedidos"
+New,Nuevo
+"Per Store","Por tienda"
+"The state is updated successfully.","El estado se ha actualizado correctamente."
+"Only matching states items will be updated.","Solo se actualizarán los elementos que coincidan con los estados."
+"Order's Items state","Estado de los elementos del pedido"
+"Merchant order not found for id %d.","No se encontró el pedido del comerciante para el id %d."
+"Event name is empty.","El nombre del evento está vacío."
+"Merchant order ids are empty.","Los ids de pedido del comerciante están vacíos."
+Method,Método
+Carrier,Transportista
+"Delivery address","Dirección de entrega"
+"Requested Date","Fecha solicitada"
+SKU,SKU
+Image,Imagen
+Name,Nombre
+Quantity,Cantidad
+State,Estado
+"There are no applicable actions for the selected items.","No hay acciones aplicables para los elementos seleccionados."
+"Shipment %index% of %total%","Envío %index% de %total%"
+"Canceled Amount","Importe cancelado"
+"Discount Amount","Importe de descuento"
+"Canceled By Merchant","Cancelado por el comerciante"
+Shipped,Enviado
+Delivered,Entregado
+initiate,Iniciar
+ship,Enviar
+deliver,Entregar
+close,Cerrar
+"cancel by merchant","Cancelar por el comerciante"
+"merchant split pending","División pendiente del comerciante"
+"sent to merchant","Enviado al comerciante"
+"shipped by merchant","Enviado por el comerciante"

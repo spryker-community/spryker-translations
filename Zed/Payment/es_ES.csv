@@ -1,0 +1,10 @@
+Amount,Cantidad
+"Payment method","Método de pago"
+"Payment provider","Proveedor de pago"
+"Payment method key ""%paymentMethodKey%"" used more then once among requested entities.","La clave del método de pago ""%paymentMethodKey%"" se utiliza más de una vez entre las entidades solicitadas."
+"Payment method name ""%paymentMethodName%"" used more then once among requested entities.","El nombre del método de pago ""%paymentMethodName%"" se utiliza más de una vez entre las entidades solicitadas."
+"Payment provider with key ""%paymentProviderKey%"" already exists.","Ya existe un proveedor de pago con la clave ""%paymentProviderKey%""."
+"Payment method with key ""%paymentMethodKey%"" already exists.","Ya existe un método de pago con la clave ""%paymentMethodKey%""."
+"Payment provider key ""%paymentProviderKey%"" used more then once among requested entities.","La clave del proveedor de pago ""%paymentProviderKey%"" se utiliza más de una vez entre las entidades solicitadas."
+"Payment provider name ""%paymentProviderName%"" used more then once among requested entities.","El nombre del proveedor de pago ""%paymentProviderName%"" se utiliza más de una vez entre las entidades solicitadas."
+"Payment provider with id ""%paymentProviderId%"" is unknown.","El proveedor de pago con el id ""%paymentProviderId%"" es desconocido."

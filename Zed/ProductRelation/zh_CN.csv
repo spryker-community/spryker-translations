@@ -1,0 +1,34 @@
+"Abstract product name",抽象产品名称
+"Abstract product name:",抽象产品名称:
+Activate,激活
+"Add Product Relations",添加产品关系
+"Assign related products",分配相关产品
+"Create relation",创建关系
+Deactivate,停用
+Edit,编辑
+"Edit Product Relations",编辑产品关系
+"Failed to delete relation.",无法删除关系。
+"Is active:",是否激活:
+"List Product relations",产品关系列表
+"Number of products",产品数量
+"Please select product from the list below",请从下面的列表中选择产品
+"Product relation successfully created",产品关系创建成功
+"Product relation successfully modified",产品关系修改成功
+"Product relation with id ""%d"" not found.","未找到ID为""%d""的产品关系。"
+"Related products",相关产品
+related-products,相关产品
+"Relation successfully activated.",关系成功激活
+"Relation successfully deactivated.",关系成功停用
+"Relation successfully deleted.",关系成功删除
+"Relation type",关系类型
+"Relation type:",关系类型:
+Save,保存
+Select,选择
+"Select product",选择产品
+"Selected product",已选择产品
+"Selected product already has ""%s"" relation type.","已选择的产品已经具有""%s""关系类型。"
+Sku:,SKU:
+up-selling,升级销售
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.","定期更新: 当您选择此选项时，该产品关系将根据关系的条件自动定期更新。"
+"View in Shop",在商店中查看
+"View relations",查看关系

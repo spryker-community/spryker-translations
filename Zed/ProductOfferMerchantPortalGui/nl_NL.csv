@@ -1,0 +1,90 @@
+Active,Actief
+"Add Offer","Voeg aanbieding toe"
+Approved,Goedgekeurd
+approved,Goedgekeurd
+"Always in stock","Altijd op voorraad"
+Created,Aangemaakt
+"Created from","Gemaakt van"
+"Created to","Gemaakt om"
+"At least one store must be selected.","Er moet minstens één winkel geselecteerd worden."
+"Create Offer","Aanbieding maken"
+Denied,Geweigerd
+denied,Geweigerd
+waiting_for_approval,"Wachten op goedkeuring"
+"Expiring in %daysNumber% days","Verloopt over %daysNumber% dagen"
+From,Van
+"Has stock","Op voorraad"
+Image,Afbeelding
+Inactive,Inactief
+"List of Products","Lijst van producten"
+"Low on Stock","Weinig op voorraad"
+"Manage Offers","Beheer aanbiedingen"
+"Manage Offer","Beheer aanbieding"
+"Merchant SKU","Merchant SKU"
+Name,Naam
+"Never out of stock","Nooit uit voorraad"
+"Offer is active","Aanbieding is actief"
+Offers,Aanbiedingen
+Offline,Offline
+"On Marketplace","Op marktplaats"
+Online,Online
+"Out of stock","Uit voorraad"
+Pending,"In behandeling"
+Reference,Referentie
+Search,Zoeken
+"Offer Reference",Aanbiedingsreferentie
+Price,Prijs
+Quantity,Hoeveelheid
+"Search by SKU, Name","Zoeken op SKU, Naam"
+SKU,SKU
+Status,Status
+Stock,Voorraad
+Stores,Winkels
+Updated,Bijgewerkt
+"Updated from","Bijgewerkt van"
+"Updated to","Bijgewerkt tot"
+"The Offer is saved.","De aanbieding is opgeslagen."
+"The Offer is not saved.","De aanbieding is niet opgeslagen."
+Valid,Geldig
+"Valid From","Geldig vanaf"
+"Valid, online & with Stock","Geldig, online & met voorraad"
+"Valid To","Geldig tot"
+Visibility,Zichtbaarheid
+"With Offers","Met aanbiedingen"
+"With Stock","Met voorraad"
+"Without Offers","Zonder aanbiedingen"
+"Description & Details","Beschrijving & Details"
+"The first date cannot be later than the second one.","De eerste datum kan niet later zijn dan de tweede."
+"The first date is the same as the second one.","De eerste datum is hetzelfde als de tweede."
+"The second date cannot be earlier than the first one.","De tweede datum kan niet eerder zijn dan de eerste."
+"This means that the offer does not appear online and noone can see it.","Dit betekent dat de aanbieding niet online verschijnt en niemand het kan zien."
+To,Naar
+"Gross Default","Bruto standaard"
+"Gross Original","Bruto origineel"
+"Net Default","Netto standaard"
+"Net Original","Netto origineel"
+Offer,Aanbieding
+Save,Opslaan
+Create,Creëren
+"Validity Dates",Geldigheidsdata
+"Offer visibility",Aanbiedingszichtbaarheid
+select.default.placeholder,Selecteren
+"Enter SKU","SKU invoeren"
+"Enter quantity","Hoeveelheid invoeren"
+"To create your offer, choose a product from the list below.","Om uw aanbieding te maken, kies een product uit de onderstaande lijst."
+"This value is not valid.","Deze waarde is niet geldig."
+"This field is missing.","Dit veld ontbreekt."
+"The set of inputs Store and Currency needs to be unique.","De set invoerwaarden Winkel en Valuta moet uniek zijn."
+"The set of inputs Store, Currency, and Quantity needs to be unique.","De set invoerwaarden Winkel, Valuta en Hoeveelheid moet uniek zijn."
+"Success! The Price is deleted.","Succes! De prijs is verwijderd."
+"Something went wrong, please try again.","Er is iets misgegaan, probeer het opnieuw."
+"Offer prices saved successfully.","Aanbiedingsprijzen succesvol opgeslagen."
+Cancel,Annuleren
+Add,Toevoegen
+"Approval Status",Goedkeuringsstatus
+Product,Product
+"Offer status",Aanbiedingsstatus
+"Volume Quantity","Hoeveelheid in volume"
+"A Price for Quantity of 2 or above requires a Price for 1 for this set of inputs Store, Currency, and Quantity.","Een prijs voor een hoeveelheid van 2 of meer vereist een prijs voor 1 voor deze set invoerwinkels, valuta en hoeveelheid."
+"To save an Offer please resolve all errors.","Om een aanbieding op te slaan, los alle fouten op."
+Currencies,Valuta

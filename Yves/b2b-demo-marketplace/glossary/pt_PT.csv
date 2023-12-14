@@ -1,0 +1,1943 @@
+cart.remove.items.success,"Produtos removidos com sucesso",pt_PT
+cart.add.items.success,"Itens adicionados com sucesso",pt_PT
+cart.add.items.error.text,"Algo correu mal. Desculpe.",pt_PT
+cart.your-order,"A sua Encomenda",pt_PT
+cart.price,Preço,pt_PT
+cart.shipping.order-item,"+ Envio",pt_PT
+cart.shipping,Envio,pt_PT
+cart.total,Total,pt_PT
+cart.checkout,"Finalizar compra",pt_PT
+cart.empty,"O seu carrinho de compras está vazio!",pt_PT
+cart.cart,Carrinho,pt_PT
+cart.total.discount,Desconto,pt_PT
+cart.vouchers,Vales,pt_PT
+cart.discounts,Descontos,pt_PT
+cart.item_quantity,Quantidade,pt_PT
+cart.item_attributes_needed,"Por favor, selecione mais atributos.",pt_PT
+cart.voucher.redeem,"Resgatar código",pt_PT
+cart.price.subtotal,Subtotal,pt_PT
+cart.price.grand.total,"Total Geral",pt_PT
+cart.total.tax_total,Imposto,pt_PT
+cart.total.tax_total.calculated_at_checkout,"calculado no momento do pagamento",pt_PT
+cart.delete.item,Eliminar,pt_PT
+cart.sales-order-threshold,"Valor Mínimo de Encomenda",pt_PT
+cart.title.available_discounts,"Descontos disponíveis",pt_PT
+checkout.sales-order-threshold,"Valor Mínimo de Encomenda",pt_PT
+sales-order-threshold.expense.name,"Taxa adicional",pt_PT
+sales-order-threshold.strategy.soft-minimum-threshold-fixed-fee,"Taxa adicional",pt_PT
+sales-order-threshold.strategy.soft-minimum-threshold-flexible-fee,"Taxa adicional",pt_PT
+auth.login,Registar-se,pt_PT
+auth.password,Palavra-passe,pt_PT
+auth.password-forgot,Esqueceu-se?,pt_PT
+auth.email,E-mail,pt_PT
+auth.register,Registar,pt_PT
+auth.im-new-customer,"Novo Cliente",pt_PT
+auth.im-already-customer,"Já tenho uma conta",pt_PT
+navigation.menu.categories,Categorias,pt_PT
+navigation.menu.have-a-look,"Vale a pena dar uma olhada",pt_PT
+page.checkout.errors,"Por favor, verifique a sua entrada.",pt_PT
+page.checkout.client.existing,"Cliente existente",pt_PT
+page.checkout.client.new,"Novo Cliente",pt_PT
+customer.password,Palavra-passe,pt_PT
+password.confirm,"Confirmar senha",pt_PT
+page.checkout.address.heading,"1. Dados de Endereço",pt_PT
+page.checkout.address.name,Nome,pt_PT
+page.checkout.address.billing-address,"Morada de Faturação",pt_PT
+page.checkout.address.billing-isnt-shipping-address,"Endereço de Entrega Diferente",pt_PT
+page.checkout.address.shipping-address,"Morada de Entrega",pt_PT
+page.checkout.address.address-example,"Exemplo:</br>Wayne Manor 1</br>10292 Gotham City</br>z.H. Alfred Pennyworth",pt_PT
+page.checkout.address.next-step,"Continuar para o Método de Envio",pt_PT
+page.checkout.address.edit,"editar Dados de Endereço",pt_PT
+page.checkout.address.use_selected_address,"Utilizar endereço selecionado",pt_PT
+page.checkout.address.different_delivery_address,"Utilize um endereço de entrega diferente",pt_PT
+page.checkout.address.different_billing_address,"Utilizar um endereço de faturação diferente",pt_PT
+page.checkout.address.option_group.customer,"Endereços do cliente",pt_PT
+page.checkout.address.option_group.company_business_unit,"Endereços comerciais",pt_PT
+page.checkout.address.delivery.address_select,"Selecione um endereço de entrega",pt_PT
+page.checkout.address.multi_shipment.title,"Atribua a cada produto o seu próprio endereço de entrega.",pt_PT
+page.checkout.address.billing.address_select,"Selecione um endereço de faturação",pt_PT
+page.checkout.address.manage_your_addresses,"Gerir os seus endereços",pt_PT
+page.checkout.address.address_select.label,"Selecione um endereço de entrega",pt_PT
+page.checkout.address.address_select.placeholder,"Selecione um endereço",pt_PT
+page.checkout.shipment.heading,"2. Método de Envio",pt_PT
+page.checkout.shipment.shipping_method_heading,"Método de Envio",pt_PT
+page.checkout.shipment.shipment_group_heading,"Envio %current% de %total%",pt_PT
+shipment.standart.name,Padrão,pt_PT
+shipment.express.name,Expresso,pt_PT
+shipment.standart.description,"2-4 dias úteis",pt_PT
+page.checkout.shipping.delivery_time,"Tempo de entrega:",pt_PT
+page.checkout.shipping.day,dia,pt_PT
+page.checkout.shipping.days,dias,pt_PT
+page.checkout.shipping.price,Preço:,pt_PT
+shipment.express.description,"24-48 horas (dias úteis)",pt_PT
+page.checkout.shipment.edit,"editar Método de Envio",pt_PT
+page.checkout.shipment.next-step,"Continuar para o Método de Pagamento",pt_PT
+page.checkout.shipment.item.quantity,Quantidade,pt_PT
+page.checkout.shipment.item.price,Preço,pt_PT
+page.checkout.shipment.shipping_address.title,"Morada de entrega",pt_PT
+page.checkout.shipment.requested_delivery_date.label,"Data de entrega solicitada",pt_PT
+page.checkout.shipment.requested_delivery_date.placeholder,"Deixe em branco se quiser o mais rápido possível.",pt_PT
+page.checkout.shipment.requested_delivery_date.title,"Quando deseja ser entregue?",pt_PT
+page.checkout.payment.heading,"3. Método de Pagamento",pt_PT
+page.checkout.payment.title,"Método de pagamento",pt_PT
+page.checkout.payment.edit,"editar Método de Pagamento",pt_PT
+page.checkout.payment.next-step,"Continuar para finalizar a encomenda",pt_PT
+page.checkout.summary.billing,"Morada de Faturação",pt_PT
+page.checkout.summary.shipping,"Morada de Envio",pt_PT
+page.checkout.summary.date_of_birth,"Data de Nascimento",pt_PT
+page.checkout.summary.card_type,"Tipo de Cartão",pt_PT
+page.checkout.summary.card_number,"Número do Cartão",pt_PT
+page.checkout.summary.name_on_card,"Nome no Cartão",pt_PT
+page.checkout.summary.card_expires,"Data de validade",pt_PT
+page.checkout.summary.complete_checkout,"Finalizar compra",pt_PT
+page.checkout.summary.accept_terms_and_conditions,"Aceito os termos e condições",pt_PT
+page.checkout.finalize.heading,"4. Verificar e finalizar encomenda",pt_PT
+shipment.international.parcel.service,"Serviços Internacionais de Envio de Encomendas",pt_PT
+page.checkout.terms,"Aceito os termos e condições gerais.",pt_PT
+page.checkout.finalize.enter-voucher,"Introduzir código do voucher",pt_PT
+page.checkout.finalize.tos,"Com um clique no botão ""Comprar agora"", confirmo os Termos e Condições Gerais.",pt_PT
+page.checkout.finalize.buy-now,"Comprar agora",pt_PT
+page.detail.add-to-cart,"Adicionar ao Carrinho",pt_PT
+page.detail.dimensions,Medições,pt_PT
+page.product.by,por,pt_PT
+page.product.details,Detalhes,pt_PT
+page.imprint.url,/pt/impressão,pt_PT
+page.imprint.title,Impressão,pt_PT
+page.terms.url,/pt/gtc,pt_PT
+page.terms.title,GTC,pt_PT
+page.privacy.url,/pt/privacidade,pt_PT
+page.privacy.title,"Privacidade de dados",pt_PT
+catalog.currency,€,pt_PT
+catalog.filter.button,Filtro,pt_PT
+catalog.filter.and.sorting.button,"Filtrar / Ordenar",pt_PT
+catalog.filter.active,"Filtro Ativo",pt_PT
+catalog.filter.main_color,Cor,pt_PT
+catalog.filter.extras,"Outras características",pt_PT
+catalog.filter.pricerangeFrom,de,pt_PT
+catalog.filter.pricerangeTo,para,pt_PT
+catalog.filter.rangeFrom,"Gama de produtos",pt_PT
+catalog.filter.rangeTo,para,pt_PT
+catalog.filter.show,"inserir filtro",pt_PT
+catalog.filter.hide,"ocultar filtro",pt_PT
+catalog.filter.per,"Por página",pt_PT
+catalog.filter.sort,"Ordenar por",pt_PT
+catalog.filter.rating_up,"& Acima",pt_PT
+catalog.filter.active_rating_up,"Estrelas e acima",pt_PT
+catalog.itemsFound,"Itens encontrados",pt_PT
+catalog.loading,"A carregar",pt_PT
+catalog.next,continuar,pt_PT
+catalog.prev,voltar,pt_PT
+catalog.sort,Ordenação,pt_PT
+catalog.sort.relevance,"Ordenar por relevância",pt_PT
+catalog.sort.name_asc,"Ordenar por nome ascendente",pt_PT
+catalog.sort.name_desc,"Ordenar por nome descendente",pt_PT
+catalog.sort.price_asc,"Ordenar por preço ascendente",pt_PT
+catalog.sort.price_desc,"Ordenar por preço decrescente",pt_PT
+catalog.sort.rating,"Ordenar por classificações do produto",pt_PT
+catalog.filter.activeFilters,"Filtros ativos",pt_PT
+catalog.filter.resetAllFilters,"Repor todos os filtros",pt_PT
+catalog.no-results,"Sem resultados.",pt_PT
+product.filter.category,Categorias,pt_PT
+product.filter.price,"Intervalo de preços",pt_PT
+product.filter.rating,"Avaliações do Produto",pt_PT
+shipment.dhl,DHL,pt_PT
+shipment.dhl.paket.name,Pacote,pt_PT
+shipment.dhl.paket.description,"DHL Paket é o serviço de envio fácil, acessível, rápido e confiável para mais de 220 países ao redor do mundo.",pt_PT
+shipment.dhl.express.name,Expresso,pt_PT
+shipment.dhl.express.description,"A nossa força de 100.000 funcionários empenhados está a trabalhar em todo o mundo. O conhecimento local e a nossa rede única tornam-nos os seus Especialistas Internacionais.",pt_PT
+shipment.dpd,DPD,pt_PT
+shipment.hermes,Hermes,pt_PT
+customer.first_name,"Primeiro Nome",pt_PT
+customer.last_name,Nome,pt_PT
+customer.salutation.mr,Sr.,pt_PT
+customer.salutation.mrs,Sra.,pt_PT
+customer.salutation.ms,Sra.,pt_PT
+customer.salutation.dr,Dr.,pt_PT
+customer.birth_date,"Data de nascimento (DD.MM.AAAA)",pt_PT
+customer.email,E-Mail,pt_PT
+customer.phone,"Número de telefone",pt_PT
+customer.reset.password.error.already.loggedIn,"Outro cliente já iniciou sessão. Por favor, faça logout para redefinir a sua senha.",pt_PT
+payment.prepay,Pré-pagamento,pt_PT
+payment.paypal,PayPal,pt_PT
+payment.creditcard,"Cartão de crédito",pt_PT
+payment.invoice,Fatura,pt_PT
+payment.cancellation.title,"Cancelamento de pagamento",pt_PT
+payment.cancellation.message,"Cancelou o seu pagamento.",pt_PT
+address.street,Rua,pt_PT
+address.street_nr,Número,pt_PT
+address.city,Cidade,pt_PT
+address.zip_code,"Código postal",pt_PT
+page.checkout.create_account,"Criar conta de cliente",pt_PT
+whishlist.whishlist,"Lista de desejos",pt_PT
+whishlist.remove,Remover,pt_PT
+whishlist.reduce,Reduzir,pt_PT
+whishlist.increase,Aumentar,pt_PT
+whishlist.move.to.cart,"Mover para o carrinho",pt_PT
+checkout.thank.you,Obrigado,pt_PT
+checkout.this.is.demoshop,"Esta é uma loja de demonstração",pt_PT
+checkout.nothing.will.be.sent,"Portanto, é claro, nada será enviado!",pt_PT
+global.order.ascendent,A-Z,pt_PT
+global.show_more,"Mostrar Mais",pt_PT
+global.account,Conta,pt_PT
+global.order.descendent,Z-A,pt_PT
+global.close,Fechar,pt_PT
+global.search,Pesquisar,pt_PT
+global.search.results,"Resultados para",pt_PT
+global.search.spellingSuggestion,"Quis dizer",pt_PT
+global.search.suggestions,"Sugestões de pesquisa",pt_PT
+global.search.suggestion.in_products,Produtos,pt_PT
+global.search.suggestion.in_categories,Categorias,pt_PT
+global.search.suggestion.in_cms,Páginas,pt_PT
+global.search.suggestion.no_result,"Nada encontrado...",pt_PT
+global.search.suggestion.see_all_products,"Ver todos os produtos",pt_PT
+global.benefit.free_returns,"Devoluções Gratuitas",pt_PT
+global.benefit.warranty,"3 Anos de Garantia",pt_PT
+global.benefit.competitive_prices,"Preços competitivos",pt_PT
+global.spryker.shop,"Spryker Loja",pt_PT
+global.spryker.motto,"tecnologia com qualidade",pt_PT
+global.payment_providers,"Fornecedores de pagamento",pt_PT
+global.shipment_providers,"Fornecedores de envio",pt_PT
+global.get_in_touch,"Entre em contato",pt_PT
+global.social,Social,pt_PT
+global.home,Início,pt_PT
+global.email.address,"Endereço de Email",pt_PT
+global.password,Palavra-passe,pt_PT
+global.permission.failed,"Esta ação é proibida.",pt_PT
+global.recover.password,"Recuperar Palavra-passe",pt_PT
+global.accept.terms.and.conditions,"Aceitar Termos e Condições",pt_PT
+global.login,"Iniciar sessão",pt_PT
+global.create.account,"Criar Conta",pt_PT
+global.cart,Carrinho,pt_PT
+global.my-cart,"O Meu Carrinho",pt_PT
+global.no_image_available,"Sem imagem disponível",pt_PT
+global.add-to-cart,"Adicionar ao Carrinho",pt_PT
+global.subscribe.title,"Subscreva a nossa Newsletter",pt_PT
+global.payment_shipping,"Pagamento e Envio",pt_PT
+global.top_categories,"Principais categorias",pt_PT
+global.popular_brands,"Marcas Populares",pt_PT
+global.about,Sobre,pt_PT
+global.contact_us,Contacte-nos,pt_PT
+global.hint,"Todos os preços excluem taxas de envio e manuseio, salvo indicação em contrário.",pt_PT
+global.thank_certeo,"Um grande obrigado aos nossos amigos da Certeo.",pt_PT
+global.privacy_nav.imprint,Impressão,pt_PT
+global.privacy_nav.imprint_url,https://spryker.com/impressao/,pt_PT
+global.privacy_nav.data_privacy,"Privacidade de dados",pt_PT
+global.privacy_nav.data_privacy_url,https://spryker.com/politica-de-privacidade/,pt_PT
+global.build_with,"Construído com\n",pt_PT
+global.build_with.link,https://spryker.com/,pt_PT
+global.phone.number,"+49 (0) 30 208 498 350",pt_PT
+global.email.text,info@spryker.com,pt_PT
+global.select.placeholder.value,"Selecione um valor",pt_PT
+global.show,Mostrar,pt_PT
+global.hide,Ocultar,pt_PT
+error.404,"Erro 404",pt_PT
+homepage.carousel.previous,Anterior,pt_PT
+homepage.carousel.next,Seguinte,pt_PT
+customer.signup,"Novo cliente?",pt_PT
+customer.signin,"Iniciar sessão",pt_PT
+customer.logout,"Terminar sessão",pt_PT
+customer.register,Registar,pt_PT
+customer.login,"Iniciar sessão",pt_PT
+customer.please_login,"Por favor, faça login",pt_PT
+customer.login.email,Email,pt_PT
+customer.login.password,Palavra-passe,pt_PT
+customer.login.title,"Aceda à sua conta",pt_PT
+customer.registration.title,"Criar conta",pt_PT
+customer.account.no_order,"Neste momento não existem encomendas.",pt_PT
+customer.account,"Conta de Cliente",pt_PT
+customer.account.contact,Contacto,pt_PT
+customer.account.overview,"Visão geral",pt_PT
+customer.account.profile_data,Perfil,pt_PT
+customer.account.address,Endereços,pt_PT
+customer.account.order_history,"Histórico de Pedidos",pt_PT
+customer.account.button.search_filters,"Pesquisa e Filtros",pt_PT
+customer.account.newsletter,Newsletter,pt_PT
+customer.account.last_orders,"Últimas Encomendas",pt_PT
+customer.account.default_billing_address,"Morada de Faturação Padrão",pt_PT
+customer.account.please_specify_billing_address,"Por favor, indique o endereço de faturação.",pt_PT
+customer.account.default_shipping_address,"Endereço de Envio Padrão",pt_PT
+customer.account.default_address,Morada,pt_PT
+customer.account.default_both_addresses,"Endereço Padrão",pt_PT
+customer.account.please_specify_shipping_address,"Por favor, indique o endereço de envio.",pt_PT
+customer.account.edit_address_information,"Editar Informações de Endereço",pt_PT
+customer.account.additional_addresses,"Endereços Adicionais",pt_PT
+customer.account.button.add_new_address,"Adicionar novo endereço",pt_PT
+customer.account.add_new_address,"Definir novo endereço",pt_PT
+customer.account.deliver_to_multiple_addresses,"Entregar em várias moradas",pt_PT
+customer.account.delete.error,"A conta não pode ser removida.",pt_PT
+customer.newsletter.not_subscribed,"Sem subscrição na newsletter",pt_PT
+customer.profile.order_history,"Últimas Encomendas",pt_PT
+customer.account.no_orders,"Neste momento não existem encomendas.",pt_PT
+customer.address.updated,"O endereço foi atualizado com sucesso.",pt_PT
+customer.address.delete.success,"Endereço eliminado com sucesso",pt_PT
+customer.address.added,"Endereço adicionado com sucesso",pt_PT
+customer.address.first_name,"Primeiro Nome",pt_PT
+customer.address.last_name,Apelido,pt_PT
+customer.address.company,Empresa,pt_PT
+customer.address.address1,Rua,pt_PT
+customer.address.address2,Número,pt_PT
+customer.address.address3,"Adição ao endereço",pt_PT
+customer.address.zip_code,"Código Postal",pt_PT
+customer.address.city,Cidade,pt_PT
+customer.address.country,País,pt_PT
+customer.address.phone,Telefone,pt_PT
+customer.address.is_default_billing,"É o endereço de faturação predefinido",pt_PT
+customer.address.is_default_shipping,"É o endereço de envio padrão",pt_PT
+customer.anonymization.success,"A sua conta foi eliminada com sucesso.",pt_PT
+customer.anonymization.failed,"A sua conta não pôde ser eliminada.",pt_PT
+customer.authorization.success,"Quase lá! Enviamos um email para validar o seu endereço de email. Por favor, confirme-o para poder fazer login.",pt_PT
+customer.authorization.account_confirmed,"O seu endereço de email foi validado. Por favor, faça login para continuar.",pt_PT
+customer.error.confirm_email_link.invalid_or_used,"Este link de verificação de email é inválido ou já foi utilizado.",pt_PT
+customer.authorization.validate_email_address,"Quase lá! Enviamos um email para validar o seu endereço de email. Por favor, confirme-o para poder fazer login.",pt_PT
+customer.authorization.invalid_account,"Se este endereço de e-mail já estiver em uso, você receberá um link para redefinir a senha. Caso contrário, você deve primeiro validar seu endereço de e-mail para concluir o registro. Por favor, verifique seu e-mail.",pt_PT
+customer.profile.change.success,"Perfil foi guardado com sucesso",pt_PT
+customer.password.invalid_password,"A palavra-passe atual está incorreta.",pt_PT
+customer.password.invalid,"A palavra-passe é inválida.",pt_PT
+customer.password.restore,"Definir uma nova senha",pt_PT
+customer.password.changed,"A sua palavra-passe foi alterada com sucesso.",pt_PT
+customer.token.invalid,"Token inválido",pt_PT
+customer.forgotten-password.description,"Insira o endereço de e-mail associado à sua conta.",pt_PT
+customer.forgotten_password.email,"Endereço de Email",pt_PT
+customer.forgotten-password.title,"Recuperar a minha senha",pt_PT
+customer.order.order_id,"Id do Pedido",pt_PT
+customer.order.view_all,"Ver Todos",pt_PT
+customer.order.all_orders,"Ver encomendas",pt_PT
+customer.order.total,Total,pt_PT
+customer.order.view_order,"Ver Encomenda",pt_PT
+customer.order.reorder,Reordenar,pt_PT
+customer.order.reorder_all,"Reordenar tudo",pt_PT
+customer.order.reorder_selected,"Reordenar itens selecionados",pt_PT
+customer.order.reorder.error.unable_to_reorder_items,"Não é possível reordenar esses produtos diretamente, por favor adicione-os ao seu carrinho separadamente.",pt_PT
+customer.order.date,Data,pt_PT
+customer.order.item_sku,SKU,pt_PT
+customer.order.product_name,"Nome do produto",pt_PT
+customer.order.item_price,Preço,pt_PT
+customer.order.item_quantity,Quantidade,pt_PT
+customer.order.item_sum,"Total do item",pt_PT
+customer.order.item_amount,Quantidade,pt_PT
+customer.order.subTotal,Subtotal,pt_PT
+customer.order.taxTotal,Imposto,pt_PT
+customer.order.expenseTotal,"Custos de envio (total)",pt_PT
+customer.order.shipment,Envio,pt_PT
+customer.order.discount.total,Desconto,pt_PT
+customer.order.grandTotal,"Total Geral",pt_PT
+customer.order.shipping_address,"Morada de envio",pt_PT
+customer.order.billing_address,"Morada de faturação",pt_PT
+customer.order.shipment_method,Envio,pt_PT
+customer.order.payment_method,"Método de pagamento",pt_PT
+customer.order.products,Produtos,pt_PT
+customer.order.payment,Pagamento,pt_PT
+customer.order.complete_checkout,"Finalizar compra",pt_PT
+customer.order.item,Item,pt_PT
+customer.order.items,Itens,pt_PT
+customer.order.items_state,"Estado dos itens",pt_PT
+customer.order.item_options,"Opções do item",pt_PT
+customer.order.overview,"Visão geral",pt_PT
+customer.order.summary.items,Itens,pt_PT
+customer.order.summary.discounts,Descontos,pt_PT
+customer.newsletter.subscription,"Definições de newsletter",pt_PT
+customer.newsletter.subscription_agreement,"Concordo com a subscrição da newsletter",pt_PT
+customer.newsletter.text,"Receba 10% de desconto na sua primeira encomenda e receba atualizações semanais na sua caixa de entrada.",pt_PT
+customer.profile,"A minha conta",pt_PT
+customer.profile.update,"Atualizar Perfil",pt_PT
+customer.profile.delete,"Eliminar Conta",pt_PT
+customer.profile.delete.description,"Isto irá apagar todas as informações da conta.",pt_PT
+customer.profile.delete.confirmation_question,"Tem a certeza de que deseja eliminar a sua conta?",pt_PT
+customer.profile.first_name,"Primeiro Nome",pt_PT
+customer.profile.last_name,Apelido,pt_PT
+customer.profile.email,Email,pt_PT
+customer.profile.phone,Telefone,pt_PT
+customer.profile.old_password,"Senha Antiga",pt_PT
+customer.profile.request.new_password,"Nova Palavra-passe",pt_PT
+customer.profile.confirm.new_password,"Confirmar Nova Palavra-passe",pt_PT
+customer.profile.address.edit,Editar,pt_PT
+customer.profile.address.delete,Eliminar,pt_PT
+customer.profile.order_details,"Detalhes do Pedido",pt_PT
+customer.password.update,"Alterar Palavra-passe",pt_PT
+customer.password.old_password,"Senha Antiga",pt_PT
+customer.password.request.new_password,"Nova Palavra-passe",pt_PT
+customer.password.confirm.new_password,"Confirmar Palavra-passe",pt_PT
+customer.table.actions,Ações,pt_PT
+profile.form.salutation,Saudação,pt_PT
+customer.customer_id,ID,pt_PT
+forms.submit-btn,Submeter,pt_PT
+forms.save-btn,Guardar,pt_PT
+forms.submit.login,"Iniciar sessão",pt_PT
+forms.submit.register,Registar,pt_PT
+forms.forgot-password,"Esqueceu a senha",pt_PT
+forms.first-name,"Primeiro Nome",pt_PT
+forms.last-name,Apelido,pt_PT
+forms.email,Email,pt_PT
+forms.password,Palavra-passe,pt_PT
+forms.confirm-password,"Confirmar Palavra-passe",pt_PT
+forms.accept_terms,"Aceitar Termos",pt_PT
+address.salutation,Saudação,pt_PT
+email.orderEmail.salutationMale,Sr.,pt_PT
+email.orderEmail.salutationFemale,Sra.,pt_PT
+mail.trans.customerRegistration.confirmationLink,"Valide o seu endereço de email",pt_PT
+customer.login.failed,"Falha no login",pt_PT
+customer.email.already.used,"Se este endereço de e-mail já estiver em uso, você receberá um link para redefinir a senha. Caso contrário, você deve primeiro validar seu endereço de e-mail para concluir o registro. Por favor, verifique seu e-mail.",pt_PT
+general.back.button,Voltar,pt_PT
+general.cancel.button,Cancelar,pt_PT
+general.edit.button,Editar,pt_PT
+general.required_fields.text,"*Campos obrigatórios",pt_PT
+newsletter.subscription.success,"Subscreveu com sucesso a newsletter.",pt_PT
+newsletter.unsubscription.success,"Você cancelou com sucesso a inscrição na newsletter",pt_PT
+newsletter.subscription.already_subscribed,"Já está inscrito na newsletter",pt_PT
+newsletter.subscription.email_format_invalid,"Formato de endereço de email inválido",pt_PT
+customer.authentication.failed,"Falha na autenticação",pt_PT
+customer.email.invalid,"O endereço de email é inválido",pt_PT
+customer.email.format.invalid,"Formato de endereço de email inválido",pt_PT
+customer.password.recovery.mail.sent,"Se houver uma conta associada a este endereço de email, você receberá um email com instruções adicionais.",pt_PT
+customer.address.number,Número,pt_PT
+customer.address.save_new_address,"Guardar novo endereço no livro de endereços",pt_PT
+countries.iso.AT,Áustria,pt_PT
+countries.iso.DE,Alemanha,pt_PT
+countries.iso.NO,Noruega,pt_PT
+countries.iso.CH,Suíça,pt_PT
+countries.iso.ES,Espanha,pt_PT
+countries.iso.GB,"Reino Unido",pt_PT
+customer.billingSameAsShipping,"Morada de faturação igual à morada de envio",pt_PT
+checkout.customer.proceed_as_user,"Proceder como utilizador registado (registe-se)",pt_PT
+checkout.customer.proceed_as_guest,"Proceder como convidado",pt_PT
+checkout.customer.order_as_guest,"Encomendar como convidado",pt_PT
+checkout.step.customer.title,"Iniciar sessão",pt_PT
+checkout.step.address.title,Morada,pt_PT
+checkout.step.shipment.title,Envio,pt_PT
+checkout.step.payment.title,Pagamento,pt_PT
+checkout.step.summary.title,Confirmar,pt_PT
+checkout.step.shipment,Seguinte,pt_PT
+checkout.step.address.select_address,"Selecione um endereço",pt_PT
+checkout.step.payment,Seguinte,pt_PT
+checkout.step.summary,"Ir para Resumo",pt_PT
+checkout.step.summary.with_method,Com,pt_PT
+checkout.step.summary.items,Itens,pt_PT
+checkout.step.summary.overview,"Visão geral",pt_PT
+checkout.step.summary.sub_total,Subtotal,pt_PT
+checkout.step.summary.grand_total,"Total Geral",pt_PT
+checkout.step.summary.payment,Pagamento,pt_PT
+checkout.step.summary.shipping,Envio,pt_PT
+checkout.step.summary.tax,Imposto,pt_PT
+checkout.step.summary.billing_address,"Morada de Faturação",pt_PT
+checkout.step.summary.delivery_method,"Método de entrega",pt_PT
+checkout.step.summary.requested_delivery_date,"Data de entrega solicitada",pt_PT
+checkout.step.summary.delivery_address,"Morada de Entrega",pt_PT
+checkout.step.summary.products,Produtos,pt_PT
+checkout.step.place.order,"Submeta o seu pedido",pt_PT
+checkout.step.payment.must_be_older_than_18_years,"Deve ter pelo menos 18 anos de idade.",pt_PT
+checkout.step.success.title,Obrigado!,pt_PT
+checkout.step.success.text,"A sua encomenda foi efetuada com sucesso. Irá receber o email de confirmação da encomenda dentro de alguns minutos.",pt_PT
+checkout.step.error.title,"A sua encomenda não foi efetuada.",pt_PT
+checkout.step.error.text,"Algo correu mal. Desculpe.",pt_PT
+checkout.back_button,"Voltar ao carrinho",pt_PT
+checkout.secure,"Finalizar compra segura",pt_PT
+customer.password.change.success,"Alteração de senha bem-sucedida",pt_PT
+customer.newsletter.subscribed,"Subscreveu a newsletter",pt_PT
+dynamic_entity.validation.invalid_data_format,"Formato de dados inválido ou em falta. Por favor, certifique-se de que os dados são fornecidos no formato correto. Exemplo de corpo de pedido: {'data':[{...},{...},..]}",pt_PT
+dynamic_entity.validation.persistence_failed,"Falha ao persistir os dados. Por favor, verifique os dados fornecidos e tente novamente.",pt_PT
+dynamic_entity.validation.persistence_failed_duplicate_entry,"Falha ao persistir os dados. Por favor, verifique os dados fornecidos e tente novamente. A entrada está duplicada.",pt_PT
+dynamic_entity.validation.entity_does_not_exist,"A entidade não pôde ser encontrada na base de dados.",pt_PT
+dynamic_entity.validation.invalid_field_type,"Tipo de dados inválido para o campo: %fieldName%",pt_PT
+dynamic_entity.validation.invalid_field_value,"Valor de dados inválido para o campo: %fieldName%, número da linha: %rowNumber%. Regras do campo: %validationRules%",pt_PT
+dynamic_entity.validation.required_field_is_missing,"O campo obrigatório não pode estar vazio. Campo: '%fieldName%'",pt_PT
+dynamic_entity.validation.entity_not_found_or_identifier_is_not_creatable,"Entidade `%identifier%` não encontrada pelo identificador e o novo identificador não pode ser persistido. Por favor, atualize a solicitação.",pt_PT
+dynamic_entity.validation.modification_of_immutable_field_prohibited,"Modificação do campo imutável `%fieldName%` é proibida.",pt_PT
+dynamic_entity.validation.missing_identifier,"Pedido incompleto - falta de identificador",pt_PT
+dynamic_entity.validation.provided_field_is_invalid,"O `%fieldName%` fornecido está incorreto ou inválido.",pt_PT
+validator.constraints.password.do_not_match,"As palavras-passe não coincidem",pt_PT
+discount.successfully.applied,"O desconto ""display_name"" foi aplicado com sucesso.",pt_PT
+discount.quote_change.discount.not_available,"Os descontos que escolheu para os seguintes itens skus já não estão disponíveis.",pt_PT
+discount.quote_change.discount.amount_changed,"Os descontos que selecionou para os seguintes itens skus foram alterados.",pt_PT
+discount.quote_change.does_not_apply_for_currency,"O voucher ""%code%"" foi desativado porque não é aplicável a esta moeda.",pt_PT
+discount.voucher_code.usage_limit.reached,"Limite de utilização do código de voucher atingido",pt_PT
+product.unavailable,"O produto '%sku%' não está disponível no momento.",pt_PT
+product.access.denied,"Desculpe, este produto não está disponível.",pt_PT
+product_bundle.unavailable,"O produto '%productSku%' no Produto de Pacote '%bundleSku%' não está disponível no momento.",pt_PT
+product.attribute.slug,slug,pt_PT
+product.attribute.variant_id,ID,pt_PT
+product.attribute.sku,SKU,pt_PT
+product.attribute.image_quality,"Qualidade da Imagem",pt_PT
+product.attribute.lens_system,"Sistema de Lentes",pt_PT
+product.attribute.focus,Foco,pt_PT
+product.attribute.shutter,Estoreira,pt_PT
+product.attribute.video,Vídeo,pt_PT
+product.attribute.screen,Ecrã,pt_PT
+product.attribute.processor,Processador,pt_PT
+product.attribute.memory,Memória,pt_PT
+product.attribute.display,Exibição,pt_PT
+product.attribute.storage,Armazenamento,pt_PT
+product.attribute.color,Cor,pt_PT
+product.attribute.design,Design,pt_PT
+product.attribute.graphics,Gráficos,pt_PT
+product.attribute.camera,Câmara,pt_PT
+product.attribute.gps,GPS,pt_PT
+product.attribute.weight,Peso,pt_PT
+product.attribute.waterproof,Impermeável,pt_PT
+product.attribute.battery,Bateria,pt_PT
+product.attribute.short_description,"Descrição breve",pt_PT
+product.attribute.long_description,Descrição,pt_PT
+product.attribute.manufacturer_name,Marca,pt_PT
+product.attribute.product_id,"ID do Produto",pt_PT
+product.attribute.image_big,"Imagem grande",pt_PT
+product.attribute.image_small,"Imagem pequena",pt_PT
+product.attribute.license,Licença,pt_PT
+product.product_options,"Opções do Produto",pt_PT
+product.product_options_select,"Selecione uma opção",pt_PT
+product.sets,"Conjuntos de Produtos",pt_PT
+product.sets.no-results,"Sem resultados.",pt_PT
+product.set.detail.add-all-to-cart,"Adicionar tudo ao carrinho",pt_PT
+product.set.detail.set-contents,"Produtos neste conjunto",pt_PT
+product.set.detail.no-products,"Nenhum produto no conjunto",pt_PT
+product.view,Ver,pt_PT
+product.color-selector,"Cores Disponíveis",pt_PT
+product.relation.similar-products,"Produtos semelhantes",pt_PT
+newsletter.subscribe,"Subscreva a newsletter",pt_PT
+newsletter.form.subscribe,Subscrever,pt_PT
+newsletter.form.subscribe.text,"Receba <b>10% de desconto</b> na sua primeira encomenda e receba atualizações semanais na sua caixa de entrada.",pt_PT
+pagination.previous,Anterior,pt_PT
+pagination.next,Seguinte,pt_PT
+product.attribute.iso_en,ISO,pt_PT
+product.attribute.waterproof_up_to,"À prova de água até",pt_PT
+product.attribute.width,Largura,pt_PT
+product.attribute.touchscreen,"Ecrã tátil",pt_PT
+product.attribute._none,"Por favor, selecione um valor de atributo.",pt_PT
+product.variants,"Variantes do Produto",pt_PT
+product.attribute.usb_version,"versão USB",pt_PT
+product.attribute.thermal_design_power,"Potência de design térmico",pt_PT
+product.attribute.processor_boost_frequency,"Aumento do Processador",pt_PT
+product.attribute.touch_technology,"Tecnologia tátil",pt_PT
+product.attribute.video_recording_modes,"Modos de gravação de vídeo",pt_PT
+product.attribute.voice_recording,"Gravação de voz",pt_PT
+product.attribute.total_megapixels,"Total de megapixels",pt_PT
+product.attribute.white_balance,"Equilíbrio de branco",pt_PT
+product.attribute.themes,Temas,pt_PT
+product.attribute.usb_port,"porta USB",pt_PT
+product.detail.out_of_stock,"Este produto não está atualmente disponível.",pt_PT
+product.groups,"Grupos de Produtos",pt_PT
+cart.pre.check.availability.failed,"O item %sku% só tem disponibilidade de %stock%.",pt_PT
+cart.pre.check.availability.failed.empty,"O produto '%sku%' não está disponível no momento.",pt_PT
+cart.pre.check.availability.failed.lead.product,"Os produtos dentro do item 'sku' não estão disponíveis no momento.",pt_PT
+mail.auth.restore_password.subject,"Nova palavra-passe para a sua conta do Spryker Backoffice",pt_PT
+mail.auth.restore_password.text,"Alguém solicitou uma nova senha para a sua conta do Spryker Backoffice. Se não foi você, ignore este e-mail. Se foi você, por favor, siga o link abaixo:",pt_PT
+mail.auth.restore_password.label,"Alterar Palavra-passe",pt_PT
+mail.sender.name,"Spryker Sem Resposta",pt_PT
+mail.sender.email,noreply@demo-spryker.com,pt_PT
+mail.company.status.subject,"A sua empresa alterou o estado",pt_PT
+mail.company.status.text,"A sua empresa mudou de estado para:",pt_PT
+mail.company.status.approved,Aprovado,pt_PT
+mail.company.status.pending,"Aguardando Aprovação",pt_PT
+mail.company.status.denied,Negado,pt_PT
+mail.customer.registration.subject,"Obrigado por se inscrever na Spryker Shop!",pt_PT
+mail.customer.registration.text,"Obrigado por se inscrever na Spryker Shop!",pt_PT
+mail.customer.restore_password.subject,"Nova palavra-passe para a sua conta na loja Spryker",pt_PT
+mail.customer.restore_password.text,"Alguém solicitou uma nova senha para a sua conta na loja Spryker. Se não foi você, ignore este email. Se foi você, por favor, siga o link abaixo:",pt_PT
+mail.customer.restore_password_confirmation.subject,"A sua palavra-passe foi alterada com sucesso!",pt_PT
+mail.customer.restore_password_confirmation.text,"A sua palavra-passe foi alterada com sucesso!",pt_PT
+mail.merchant.restore_password.subject,"Nova palavra-passe para a sua conta no Portal do Comerciante Spryker",pt_PT
+mail.merchant.restore_password.text,"Alguém solicitou uma nova senha para a sua conta no Portal do Comerciante Spryker. Se não foi você, ignore este e-mail. Se foi você, por favor, siga o link abaixo:",pt_PT
+mail.merchant.restore_password.label,"Alterar Palavra-passe",pt_PT
+mail.newsletter.subscribed.subject,"Bem-vindo ao boletim informativo da Spryker",pt_PT
+mail.newsletter.subscribed.text,"Estamos entusiasmados por teres subscrevido a nossa newsletter. Faremos o nosso melhor para te fornecer as notícias e atualizações mais relevantes e emocionantes.",pt_PT
+mail.newsletter.subscribed.footer.text,"Desfrute da sua experiência de compras.",pt_PT
+mail.newsletter.unsubscribed.subject,"Lamentamos vê-lo partir...",pt_PT
+mail.newsletter.unsubscribed.text,"O seu endereço de email foi removido da newsletter da loja Spryker, mas pode sempre gerir a sua subscrição no seu perfil de cliente.",pt_PT
+mail.order.confirmation.subject,"Obrigado pela sua encomenda na loja Spryker.",pt_PT
+mail.order.confirmation.salutation,Olá,pt_PT
+mail.order.confirmation.text_line_1,"Obrigado por comprar na loja Spryker!",pt_PT
+mail.order.confirmation.text_line_2,"Escrevemos para informar que recebemos o seu pedido. Você receberá uma confirmação de envio por e-mail assim que o pedido for enviado.",pt_PT
+mail.order.confirmation.text_line_3,"Esperamos que goste da sua encomenda. Caso mude de ideias, pode devolvê-la dentro de 14 dias.",pt_PT
+mail.order.confirmation.details,"Detalhes do seu pedido",pt_PT
+mail.order.confirmation.shipping_address,"Morada de entrega",pt_PT
+mail.order.confirmation.billing_address,"Morada de faturação",pt_PT
+mail.order.confirmation.order_number,"Número do pedido",pt_PT
+mail.order.confirmation.price_including_tax,"Preço total incluindo impostos",pt_PT
+mail.order.confirmation.date,"Data do pedido",pt_PT
+mail.order.confirmation.footer.text_line_1,"Tenha um ótimo dia!",pt_PT
+mail.order.confirmation.footer.text_line_2,"A sua Loja Spryker",pt_PT
+mail.order.confirmation.shipment_details,"Detalhes do envio",pt_PT
+mail.order.confirmation.shipment_number,"Número de envio",pt_PT
+mail.order.confirmation.shipping_method,"Método de envio",pt_PT
+mail.order.confirmation.delivery_date,"Data de entrega solicitada",pt_PT
+mail.order.confirmation.products_in_shipment,"Produtos por envio",pt_PT
+mail.order.confirmation.product_title,"Título do produto",pt_PT
+mail.order.confirmation.item_quantity,"Quantidade do item",pt_PT
+mail.order.confirmation.item_sku,"Artigo SKU",pt_PT
+mail.order.confirmation.item_price_including_tax,"Preço total do item incluindo impostos",pt_PT
+mail.order.shipped.subject,"A sua encomenda %orderReference% está a caminho.",pt_PT
+mail.order.shipped.salutation,Olá,pt_PT
+mail.order.shipped.text,"A sua encomenda já está a caminho.",pt_PT
+mail.order.shipped.details,"Detalhes do seu pedido",pt_PT
+mail.order.shipped.order_number,"Número do pedido",pt_PT
+mail.order.shipped.price_including_tax,"Preço total incluindo impostos",pt_PT
+mail.order.shipped.date,"Data do pedido",pt_PT
+mail.order.shipped.footer.text_line_1,"Tenha um ótimo dia!",pt_PT
+mail.order.shipped.footer.text_line_2,"A sua Loja Spryker",pt_PT
+mail.order_invoice.subject,"Fatura: %invoiceReference%",pt_PT
+cart.item.remove.confirm,"Tem a certeza de que deseja remover este item?",pt_PT
+cart.voucher.remove,Remover,pt_PT
+cart.vouchers.clear-all,"Limpar tudo",pt_PT
+cart.voucher.apply.failed,"O seu código de voucher é inválido.",pt_PT
+cart.voucher.apply.successful,"O seu código de voucher foi aplicado.",pt_PT
+cart.voucher.apply.non_applicable,"O código do voucher é inválido.",pt_PT
+cart.code.apply.failed,"O código não pôde ser aplicado.",pt_PT
+cart.code.enter-code,"Introduzir código do voucher",pt_PT
+cart.item.bundle.description,"Itens no pacote:",pt_PT
+cart_widget.add_product.separate,"Adicionar como item separado",pt_PT
+checkout.summary.item.bundle.description,"Itens no pacote:",pt_PT
+customer.order.bundled_items,"Itens no pacote:",pt_PT
+customer.order.options,"Opções do produto:",pt_PT
+cart.item.option.description,"Opções do produto:",pt_PT
+cart.item.sku,SKU,pt_PT
+cart.item.color,Cor,pt_PT
+checkout.summary.item.option.description,"Opções do produto:",pt_PT
+invoice.order.address.billing,"Morada de faturação",pt_PT
+invoice.order.address.shipping,"Morada de envio",pt_PT
+invoice.header,Fatura,pt_PT
+invoice.order.number,"Referência do pedido",pt_PT
+invoice.customer.number,"Referência do cliente",pt_PT
+invoice.created.at,"Data da fatura",pt_PT
+invoice.order.item.sku,SKU,pt_PT
+invoice.order.item.product_name,"NOME DO PRODUTO",pt_PT
+invoice.order.item.quantity,QUANTIDADE,pt_PT
+invoice.order.item.price,"PREÇO DO ITEM",pt_PT
+invoice.order.item.price_total,"TOTAL DO PEDIDO",pt_PT
+invoice.order.grand_total,"TOTAL GERAL",pt_PT
+invoice.order.tax_amount,"Incl. IVA",pt_PT
+invoice.order.expenses.total,"Custos de envio",pt_PT
+invoice.company.address,"Spryker Systems GmbH<br/>Julie-Wolfthorn-Straße 1<br />10115 Berlim / Alemanha",pt_PT
+invoice.company.bank.information,"Nome do Banco<br/>IBAN 1234 5678 9123 4567 89<br />BIC 12345678<br/>Registo Comercial ABC123456<br />Número de Contribuinte 12/345/6789",pt_PT
+invoice.company.contact.information,"+49 (0)30 2084983 50<br/>hello@spryker.com",pt_PT
+DummyPaymentCreditCard,"Cartão de Crédito",pt_PT
+payment.dummy-payment.credit-card,"Pague com o seguinte cartão de crédito:",pt_PT
+dummyPaymentCreditCard.card_type,"Tipo de Cartão",pt_PT
+dummyPaymentCreditCard.card_number,"Número do Cartão",pt_PT
+dummyPaymentCreditCard.name_on_card,"Nome no Cartão",pt_PT
+dummyPaymentCreditCard.card_expires,"Data de validade",pt_PT
+dummyPaymentCreditCard.card_security_code,CVC,pt_PT
+DummyPaymentInvoice,Fatura,pt_PT
+dummyPaymentInvoice.invoice,"Pagar com fatura:",pt_PT
+dummyPaymentInvoice.date_of_birth,"Data de Nascimento",pt_PT
+dummyPaymentInvoice.icon,invoice-logo,pt_PT
+DummyMarketplacePaymentInvoice,"Fatura do Marketplace",pt_PT
+dummyMarketplacePaymentInvoice.invoice,"Pagar com fatura:",pt_PT
+checkout.payment.provider.DummyMarketplacePayment,"Pagamento do Mercado Fictício",pt_PT
+cart.item.item_price,"Preço do item",pt_PT
+cart.item.item_total,"Total do item",pt_PT
+product_review.product_ratings,"Avaliações do Produto",pt_PT
+product_review.product_reviews,"Avaliações do Produto",pt_PT
+product_review.on,em,pt_PT
+product_review.summary.star,estrela,pt_PT
+product_review.summary.stars,estrelas,pt_PT
+product_review.summary.out_of,de,pt_PT
+product_review.summary.review,revisão,pt_PT
+product_review.summary.reviews,avaliações,pt_PT
+product_review.summary.title,"Avaliações e Comentários",pt_PT
+product_review.no_reviews,"Ainda não há avaliações para este produto.",pt_PT
+product_review.submit.add_a_review,"Adicionar uma Avaliação",pt_PT
+product_review.submit.rating,Classificação,pt_PT
+product_review.submit.rating.none,"Nenhuma classificação foi selecionada",pt_PT
+product_review.submit.summary,Resumo,pt_PT
+product_review.submit.description,Descrição,pt_PT
+product_review.submit.nickname,Nome,pt_PT
+product_review.submit.success,"A avaliação do produto foi enviada com sucesso.",pt_PT
+product_review.error.no_customer,"Por favor, faça login para aceder a esta funcionalidade.",pt_PT
+product_review.error.invalid_rating,"A classificação do produto deve ser selecionada.",pt_PT
+cart.promotion.items,"Produtos promocionais",pt_PT
+checkout.payment_method.invalid,"O pagamento do checkout não é válido.",pt_PT
+checkout.payment.provider.DummyPayment,"Pagamento fictício",pt_PT
+checkout.order.duplicate,"A encomenda com a referência fornecida {{reference}} já existe.",pt_PT
+cms.preview.access_denied,"Não tem sessão iniciada ou não tem permissão para aceder a esta página.",pt_PT
+product-cart.validation.error.abstract-product-exists,"Produto ""sku"" não encontrado",pt_PT
+product-cart.validation.error.concrete-product-exists,"Produto ""sku"" não encontrado",pt_PT
+cart.item.option.pre.check.validation.error.exists,"A opção de produto %name% já não está disponível.",pt_PT
+product-cart.validation.error.product-option-value-price-exists,"Preço da opção do produto para o produto '%sku%' não encontrado.",pt_PT
+product-cart.validation.error.concrete-product-inactive,"O produto ""sku"" não está ativo.",pt_PT
+product-approval.message.not-approved,"O produto com o código %sku% não está ativo.",pt_PT
+product-cart.info.concrete-product-inactive.removed,"O item inativo %sku% foi removido do seu carrinho de compras.",pt_PT
+product-cart.info.restricted-product.removed,"O item %sku% foi removido do carrinho porque foi desativado.",pt_PT
+reorder.info.restricted-product.removed,"O item %sku% não pôde ser adicionado ao carrinho porque foi desativado.",pt_PT
+product.filter.label,"Etiquetas de Produto",pt_PT
+product.filter.price-default-chf-gross_mode,"Intervalo de preços",pt_PT
+product.filter.price-default-chf-net_mode,"Intervalo de preços",pt_PT
+product.filter.price-default-eur-net_mode,"Intervalo de preços",pt_PT
+product.filter.price-default-eur-gross_mode,"Intervalo de preços",pt_PT
+price.mode.gross_mode,"Preços brutos",pt_PT
+price.mode.net_mode,"Preços líquidos",pt_PT
+price.mode.incl_vat,"incl IVA",pt_PT
+price.mode.excl_vat,"excl IVA",pt_PT
+price_product.error.price_not_found,"Preço do produto não encontrado.",pt_PT
+cart.pre.check.price.failed,"Preço na moeda selecionada não encontrado para o produto com o código '%sku%'. Por favor, altere a moeda ou remova o produto do pedido.",pt_PT
+price.mode.switch.error,"Não é possível alterar o modo de preço quando há itens no carrinho.",pt_PT
+price-cart-connector.info.concrete-product-without-price.removed,"Item %sku% sem preço foi removido do seu carrinho de compras.",pt_PT
+cart.pre.check.shipment.failed,"Não é possível aplicar estas alterações. O método de envio não foi encontrado. Por favor, selecione outro método de envio.",pt_PT
+catalog.view.mode.grid,Grade,pt_PT
+catalog.view.mode.list,Lista,pt_PT
+cart.quantity.adjusted,"A quantidade solicitada do item foi ajustada, uma vez que a quantidade selecionada não está disponível.",pt_PT
+catalog.sale,Venda,pt_PT
+catalog.new,Novo,pt_PT
+company.account.page-title,"A Minha Empresa",pt_PT
+company.account.no-company-title,"Sem Empresa",pt_PT
+company.account.name,"Nome da Empresa",pt_PT
+company.account,"Conta da Empresa",pt_PT
+company.account.address.edit,Editar,pt_PT
+company.account.address.delete,Eliminar,pt_PT
+company.account.shipping_address,"Endereço de Envio Padrão",pt_PT
+company.account.billing_address,"Morada de Faturação Padrão",pt_PT
+company.account.address.address1,Rua,pt_PT
+company.account.address.number,Número,pt_PT
+company.account.address.address3,"Adição ao endereço",pt_PT
+company.account.address.zip_code,"Código postal",pt_PT
+company.account.address.city,Cidade,pt_PT
+company.account.address.country,País,pt_PT
+company.account.address.phone,"Número de telefone",pt_PT
+company.account.address,Endereços,pt_PT
+company.account.edit_address_information,"Editar Informações de Endereço",pt_PT
+company.account.login.title,"Aceda à sua conta",pt_PT
+company.account.login.email,Email,pt_PT
+company.account.login.password,Palavra-passe,pt_PT
+company.account.registration.title,"Criar conta",pt_PT
+company.user.first_name,"Primeiro Nome",pt_PT
+company.user.last_name,Apelido,pt_PT
+company.user.salutation.mr,Sr.,pt_PT
+company.user.salutation.mrs,Sra.,pt_PT
+company.user.salutation.ms,Sra.,pt_PT
+company.user.salutation.dr,Dr.,pt_PT
+company.account.overview,"Visão geral",pt_PT
+company.user.invitation.title.plural,Convites,pt_PT
+company.user.invitation.invite_users,"Convidar utilizadores",pt_PT
+company.user.invitation.imported.title.plural,"Convites importados",pt_PT
+company.user.invitation.import.title,"Importar novos convites",pt_PT
+company.user.invitation.import.download.errors.file,"Alguns convites não puderam ser importados. Clique <a href=""%link%"">aqui</a> para baixar o arquivo de erros.",pt_PT
+company.user.invitation.import.error.message,"Convites importados falharam",pt_PT
+company.user.invitation.file,"Ficheiro de convites",pt_PT
+company.user.invitation.first.name,"Primeiro Nome",pt_PT
+company.user.invitation.last.name,Apelido,pt_PT
+company.user.invitation.mail,Correio,pt_PT
+company.user.invitation.business.unit,"Unidade de Negócio",pt_PT
+company.user.invitation.status,Estado,pt_PT
+company.user.invitation.actions,Ações,pt_PT
+company.user.invitation.status.new,"Não Enviado",pt_PT
+company.user.invitation.status.pending,Pendente,pt_PT
+company.user.invitation.status.accepted,Aceite,pt_PT
+company.user.invitation.not.found.message,"Convite não encontrado",pt_PT
+company.user.invitation.send.button,Enviar,pt_PT
+company.user.invitation.sent.success.message,"Convite enviado com sucesso",pt_PT
+company.user.invitation.sent.error.message,"O convite não foi enviado",pt_PT
+company.user.invitation.send.all.button,"Enviar Tudo",pt_PT
+company.user.invitation.sent.all.success.message,"Todos os convites foram enviados com sucesso.",pt_PT
+company.user.invitation.sent.all.none.found.message,"Nenhum convite encontrado para enviar.",pt_PT
+company.user.invitation.sent.all.error.message,"Alguns convites não foram enviados.",pt_PT
+company.user.invitation.resend.title,"Reenviar convite",pt_PT
+company.user.invitation.resend.confirmation.question,"Tem a certeza de que deseja reenviar o convite?",pt_PT
+company.user.invitation.resend.button,Reenviar,pt_PT
+company.user.invitation.resent.success.message,"Convite reenviado com sucesso",pt_PT
+company.user.invitation.resent.error.message,"O convite não foi reenviado.",pt_PT
+company.user.invitation.delete.title,"Eliminar convite",pt_PT
+company.user.invitation.delete.confirmation.question,"Tem a certeza de que deseja eliminar o convite?",pt_PT
+company.user.invitation.delete.button,Eliminar,pt_PT
+company.user.invitation.deleted.success.message,"Convite eliminado com sucesso",pt_PT
+company.user.invitation.deleted.error.message,"O convite não foi eliminado.",pt_PT
+company.user.invitation.invalid,"O seu convite não é válido.",pt_PT
+company.user.invitation.expired,"O seu convite expirou",pt_PT
+company.user.invitation.accepted,"O seu convite já foi utilizado.",pt_PT
+company.user.invitation.import.file.invalid,"O ficheiro de importação não é válido",pt_PT
+mail.company.user.invitation.subject,Convite,pt_PT
+mail.company.user.invitation.body.html,"Olá %name%, Foste convidado(a) a juntar-te a uma Conta Empresarial na loja de demonstração Spryker. Por favor, segue este <a href=""%invitationLink%"">link</a> para completares o teu registo.",pt_PT
+mail.company.user.invitation.body.text,"Olá %name%, foste convidado(a) a juntar-te a uma Conta Empresarial na loja de demonstração Spryker. Por favor, segue este link %invitationLink% para completares o teu registo.",pt_PT
+company.account.add_new_address,"Definir novo endereço",pt_PT
+company.account.table.actions,Ações,pt_PT
+company.account.business_unit.view,Ver,pt_PT
+company.account.business_unit.create,"Criar Unidade de Negócio",pt_PT
+company.account.business_unit.edit,Editar,pt_PT
+company.account.business_unit.delete,Eliminar,pt_PT
+company.account.business_unit.address,Endereços,pt_PT
+company.account.business_unit.details,Detalhes,pt_PT
+company.account.business_unit.description,"Ao criar uma nova unidade de negócio, você pode definir diferentes funções e subunidades.",pt_PT
+company.company_business_unit.delete.error.has_users,"Não é possível excluir uma unidade de negócio enquanto ela contiver usuários.",pt_PT
+company.company_business_unit.delete.confirmation.warning,Aviso,pt_PT
+company.company_business_unit.delete.confirmation.back,Voltar,pt_PT
+company.account.address.is_default_billing,"É o endereço de faturação predefinido",pt_PT
+company.account.authorization.success,"Registo concluído com sucesso",pt_PT
+company.account.company_user,Utilizadores,pt_PT
+company.account.company_user.add,"Adicionar novo utilizador",pt_PT
+company.account.company_role,Funções,pt_PT
+company.account.company_role.add,"Adicionar novo papel",pt_PT
+company.account.company_role.default,Padrão,pt_PT
+company.account.company_role.edit,Editar,pt_PT
+company.account.company_role.name,Nome,pt_PT
+company.account.company_role.is_default,"É o Padrão",pt_PT
+company.account.company_role.edit_information,"Editar função '%role_name%'",pt_PT
+company.account.company_role.details,Detalhes,pt_PT
+company.account.company_role.view,Ver,pt_PT
+company.account.company_role.user.manage,"Gerir utilizadores da empresa atribuídos",pt_PT
+company.account.company_role.users,Utilizadores,pt_PT
+company.account.company_role.permissions,Permissões,pt_PT
+company.account.company_role.permission.key,Chave,pt_PT
+company.account.company_role.permission.configure,Configurar,pt_PT
+company.account.company_role.permission.manage,"Gerir permissões",pt_PT
+company.account.company_role.permission.status,Estado,pt_PT
+company.account.company_role.permission.assign,Atribuir,pt_PT
+company.account.company_role.permission.assigned,Atribuído,pt_PT
+company.account.company_role.permission.unassign,Desassociar,pt_PT
+company.account.company_role.permission.unassigned,"Não atribuído",pt_PT
+company.company_role.delete.error.has_users,"Não é possível excluir uma função enquanto ela contiver usuários.",pt_PT
+company.account.business_unit.name,Nome,pt_PT
+company.account.business_unit.email,Email,pt_PT
+company.account.business_unit.phone,"Número de telefone",pt_PT
+company.account.business_unit.external_url,"Url Externo",pt_PT
+company.account.business_unit,"Unidades de Negócio",pt_PT
+company.account.business_unit.add,"Criar Unidade de Negócio",pt_PT
+company.account.business_unit.edit_information,"Editar Unidade de Negócio",pt_PT
+company.account.company_name,"Nome da empresa",pt_PT
+company.account.company_user.name,Nome,pt_PT
+company.account.company_user.role,Funções,pt_PT
+company.account.company_user.business_unit,"Unidade de negócio",pt_PT
+company.account.company_user.edit,Editar,pt_PT
+company.account.company_user.create.successful,"Utilizador da Empresa foi criado com sucesso",pt_PT
+company.account.company_user.update.successful,"A conta de utilizador da empresa foi atualizada com sucesso.",pt_PT
+company.account.company_user.delete.successful,"Utilizador da Empresa foi removido com sucesso",pt_PT
+company.account.company_user.delete.error,"Utilizador da empresa não pode ser removido",pt_PT
+company.account.company_user.delete.error.delete_yourself,"Não está autorizado a eliminar-se a si próprio.",pt_PT
+company.account.company_user.delete.confirmation.warning,Aviso,pt_PT
+company.account.company_user.delete.confirmation.trying_to_delete,"Está a tentar eliminar utilizador",pt_PT
+company.account.company_user.delete.confirmation.deleted_from_everywhere,"Será excluído de todos os lugares.",pt_PT
+company.account.company_user.delete,Eliminar,pt_PT
+company.account.company_user.edit_information,"Editar informações do utilizador",pt_PT
+customer.access.cannot_see_price,"Por favor, faça login para ver o preço.",pt_PT
+company.account.company_user.delete.back,Voltar,pt_PT
+company.account.company_user.enable,Ativar,pt_PT
+company.account.company_user.disable,Desativar,pt_PT
+company.account.company_user.status.enable.success,"Utilizador da empresa ativado com sucesso",pt_PT
+company.account.company_user.status.enable.error,"Utilizador da empresa não pode ser ativado",pt_PT
+company.account.company_user.status.enable.error.cannot_enable_yourself,"Não está autorizado a ativar-se.",pt_PT
+company.account.company_user.status.disable.success,"Utilizador da empresa desativado com sucesso",pt_PT
+company.account.company_user.status.disable.error,"O utilizador da empresa não pode ser desativado.",pt_PT
+company.account.company_user.status.disable.error.cannot_disable_yourself,"Não está autorizado a desativar-se.",pt_PT
+quick-order.page-title,"Encomenda Rápida",pt_PT
+quick-order.input-label.qty,Quantidade,pt_PT
+quick-order.input-label.sku,SKU,pt_PT
+quick-order.button.add-more-rows,"Adicionar Mais Linhas",pt_PT
+quick-order.button.create-order,"Criar Pedido",pt_PT
+quick-order.button.clear-all-rows,"Limpar todas as linhas",pt_PT
+quick-order.message.success.the-form-items-have-been-successfully-cleared,"Os itens do formulário foram limpos com sucesso.",pt_PT
+quick-order.errors.items-required,"Por favor, insira pelo menos um SKU de produto.",pt_PT
+quick-order.errors.quantity-required,"A quantidade deve ser pelo menos 1.",pt_PT
+quick-order.errors.quantity-invalid,"O valor da quantidade inserida é inválido. A quantidade foi ajustada para o próximo valor válido possível.",pt_PT
+quick-order.paste-order.title,"Adicionar artigos",pt_PT
+quick-order.paste-order.description,"Copie e cole os seus artigos com o SKU e a quantidade separados por espaço, ponto e vírgula ou vírgula.",pt_PT
+quick-order.paste-order.input-placeholder.copy-paste-order,"Cole aqui o seu pedido",pt_PT
+quick-order.paste-order.button.verify,Verificar,pt_PT
+quick-order.paste-order.errors.text-order-format-incorrect,"Formato de pedido incorreto.",pt_PT
+quick-order.paste-order.errors.parser.separator-not-detected,"O separador não está definido.",pt_PT
+quick-order.file-upload-order.title,"Carregue a sua encomenda",pt_PT
+quick-order.file-upload-order.description,"Escolher ficheiro",pt_PT
+quick-order.file-upload-order.success-message,"Ficheiro carregado com sucesso",pt_PT
+quick-order.file-upload-order.error-message,"O ficheiro não pôde ser carregado. Clique aqui %url% para descarregar o modelo csv.",pt_PT
+quick-order.file-upload-order.file-template-download-message,"Clique aqui para baixar um modelo de %template%",pt_PT
+quick-order.file-upload-order.button.upload,Carregar,pt_PT
+quick-order.upload-order.errors.upload-order-invalid-mime-type,"Tipo de ficheiro inválido.",pt_PT
+quick-order.upload-order.errors.upload-order-invalid-amount-of-rows,"Tantas linhas, o ficheiro não pode ser processado.",pt_PT
+quick-order.upload-order.errors.upload-order-invalid-format,"Formato inválido.",pt_PT
+quick-order.upload-order.errors.upload-order-no-file,"Não foi adicionado nenhum ficheiro.",pt_PT
+quick-order.input-label.sku.name,"SKU ou Nome",pt_PT
+quick-order.input.placeholder,"Pesquisar por SKU ou Nome",pt_PT
+quick-order.input-label.measurement_unit,"Unidade de Medida",pt_PT
+quick-order.input-label.merchant,Comerciante,pt_PT
+quick-order.input-label.price,Preço,pt_PT
+quick-order.search.no_results,"Item não pode ser encontrado",pt_PT
+quick-order.input-quantity.message.error,"A quantidade encomendada foi ajustada para a próxima quantidade possível para o artigo.",pt_PT
+quick-order.upload-order.errors.upload-order-invalid-sku-item,"Produto com este SKU não foi encontrado.",pt_PT
+quick-order.upload-order.allowed-file-extensions,"Apenas são aceites ficheiros %extensions%",pt_PT
+quick-order.upload-order.browse-file,"Nenhum ficheiro selecionado. Procurar ficheiro",pt_PT
+checkout.pre.check.shipment.failed,"Método de envio inválido %method_name% (%carrier_name%).",pt_PT
+checkout.validation.company_address.not_found,"Endereço da empresa com ID %id% não encontrado.",pt_PT
+checkout.validation.company_address.not_applicable,"Os endereços da empresa são aplicáveis apenas para usuários empresariais.",pt_PT
+checkout.validation.item.no_shipment_selected,"Nenhum envio selecionado para o item do carrinho %id%.",pt_PT
+checkout.validation.customer_address.not_found,"Endereço do cliente com ID %id% não encontrado.",pt_PT
+checkout.validation.customer_address.not_applicable,"Os endereços dos clientes são aplicáveis apenas aos clientes.",pt_PT
+measurement_units.item.name,Item,pt_PT
+measurement_units.standard.weight.kilo.name,Quilo,pt_PT
+measurement_units.standard.weight.gram.name,Grama,pt_PT
+measurement_units.standard.weight.tone.name,Ton,pt_PT
+measurement_units.standard.weight.gbou.name,"Onça GB",pt_PT
+measurement_units.standard.weight.usou.name,"Onça dos EUA",pt_PT
+measurement_units.standard.weight.pund.name,Libra,pt_PT
+measurement_units.standard.weight.huwg.name,Hundredweight,pt_PT
+measurement_units.standard.weight.gbtn.name,"GB Ton",pt_PT
+measurement_units.standard.weight.ustn.name,"Tonelada dos EUA",pt_PT
+measurement_units.standard.weight.oztr.name,"Onça Troy",pt_PT
+measurement_units.standard.weight.ucwt.name,"US Hundredweight",pt_PT
+measurement_units.standard.length.metr.name,Medidor,pt_PT
+measurement_units.standard.length.cmet.name,Centímetro,pt_PT
+measurement_units.standard.length.mmet.name,Milímetro,pt_PT
+measurement_units.standard.length.kmet.name,Quilómetro,pt_PT
+measurement_units.standard.length.inch.name,Polegada,pt_PT
+measurement_units.standard.length.yard.name,Quintal,pt_PT
+measurement_units.standard.length.foot.name,Pé,pt_PT
+measurement_units.standard.length.mile.name,Milha,pt_PT
+measurement_units.standard.area.smet.name,"Metro Quadrado",pt_PT
+measurement_units.standard.area.sqki.name,"Quilómetro Quadrado",pt_PT
+measurement_units.standard.area.smil.name,"Milímetro quadrado",pt_PT
+measurement_units.standard.area.scmt.name,"Centímetro Quadrado",pt_PT
+measurement_units.standard.area.sqin.name,"Polegada Quadrada",pt_PT
+measurement_units.standard.area.sqfo.name,"Pé Quadrado",pt_PT
+measurement_units.standard.area.sqmi.name,"Square Mile",pt_PT
+measurement_units.standard.area.sqya.name,"Metro Quadrado",pt_PT
+measurement_units.standard.area.acre.name,Acre,pt_PT
+measurement_units.standard.area.ares.name,São,pt_PT
+measurement_units.standard.area.hect.name,Hectare,pt_PT
+measurement_units.standard.litr.name,Litro,pt_PT
+measurement_units.standard.celi.name,Centilitro,pt_PT
+measurement_units.standard.mili.name,Mililitro,pt_PT
+measurement_units.standard.gbga.name,"Galão GB",pt_PT
+measurement_units.standard.gbpi.name,"GB Pint",pt_PT
+measurement_units.standard.uspi.name,"Pinta dos EUA",pt_PT
+measurement_units.standard.gbqa.name,"GB Quart",pt_PT
+measurement_units.standard.usqa.name,"Quarto de galão dos EUA",pt_PT
+measurement_units.standard.usga.name,"Galon americano",pt_PT
+measurement_units.standard.barl.name,Barril,pt_PT
+measurement_units.standard.bcuf.name,"Bilionésimo de Pés Cúbicos",pt_PT
+measurement_units.standard.bdft.name,"Pés de Tábua",pt_PT
+measurement_units.standard.cbme.name,"Metro Cúbico",pt_PT
+measurement_units.standard.miba.name,"Milhão de Barril",pt_PT
+measurement_units.standard.dgeu.name,"Equivalente a um Galão de Diesel",pt_PT
+measurement_units.standard.ggeu.name,"Equivalente a um Galão de Gasolina",pt_PT
+measurement_units.standard.busl.name,Bushel,pt_PT
+measurement_units.recommendation.between-units-info,"A quantidade que escolheste está entre 2 unidades base.",pt_PT
+measurement_units.recommendation.min-violation,"Os requisitos mínimos de quantidade para o produto não são cumpridos.",pt_PT
+measurement_units.recommendation.max-violation,"Os requisitos de quantidade máxima para o produto não são cumpridos.",pt_PT
+measurement_units.recommendation.suggestion,"Gostaria de adicionar",pt_PT
+measurement_units.new-price,"Novo preço",pt_PT
+product.measurement.sales_unit,"Unidade de Venda",pt_PT
+cart.pre.check.quantity.min.failed,"Os requisitos mínimos de quantidade para o produto SKU '%sku%' não são cumpridos.",pt_PT
+cart.pre.check.quantity.max.failed,"Quantidade máxima para o produto SKU '%sku%' foi excedida.",pt_PT
+cart.pre.check.quantity.value.failed,"Quantidade errada para o produto SKU '%sku%'.",pt_PT
+cart.pre.check.quantity.interval.failed,"Requisitos de intervalo de quantidade para o SKU do produto '%sku%' não são cumpridos.",pt_PT
+persistent_cart.error.quote.not_available,"O carrinho não existe",pt_PT
+persistent_cart.quote.remove.success,"Carrinho eliminado com sucesso",pt_PT
+persistent_cart.quote.remove.can_not_remove_last_cart,"O cliente deve ter pelo menos um carrinho",pt_PT
+cart_note.cart_page.item.note_added,"Nota adicionada com sucesso ao item '%sku%'",pt_PT
+cart_note.cart_page.cart.note_added,"Nota adicionada ao carrinho com sucesso",pt_PT
+cart_note.quote_form.enter_note,"Adicionar uma nota para o carrinho",pt_PT
+cart_note.quote_form.placeholder,"Insira a sua nota",pt_PT
+cart_note.item_form.enter_note,"Adicione uma nota para o item",pt_PT
+cart_note.item_form.placeholder,"Insira a sua nota",pt_PT
+cart_note.form.save,Guardar,pt_PT
+cart_note.form.comment,Comentário,pt_PT
+cart_note.form.add_comment,"Adicionar um comentário",pt_PT
+cart_note.form.edit_comment,"Editar Comentário",pt_PT
+cart_note.form.remove_comment,"Remover Comentário",pt_PT
+cart_note.checkout_page.item_note,Nota,pt_PT
+cart_note.checkout_page.quote_note,"Nota do Carrinho",pt_PT
+cart_note.customer_page.item_note,"Nota do item do pedido",pt_PT
+cart_note.customer_page.order_note,"Nota de Encomenda",pt_PT
+cart.validate.items.price.changed,"Os preços foram alterados para os produtos com o SKU '%sku%'.",pt_PT
+multi_cart.form.create_cart,"Adicionar novo carrinho",pt_PT
+multi_cart.form.quote.name,"Nome do Carrinho",pt_PT
+multi_cart.form.duplicate,Duplicado,pt_PT
+multi_cart.form.edit,Editar,pt_PT
+multi_cart.form.edit_cart,"Editar carrinho",pt_PT
+multi_cart.form.edit_cart_information,"Editar ""nome_do_carrinho""",pt_PT
+multi_cart.cart.set_default.success,"O carrinho '%quote%' foi definido com sucesso como o seu carrinho ativo.",pt_PT
+multi_cart_page.cart_clear.success,"O carrinho foi limpo com sucesso.",pt_PT
+multi_cart_page.cart_delete_confirmation.warning,Aviso,pt_PT
+multi_cart_page.cart_delete_confirmation.trying_to_delete,"Está a tentar eliminar o Carrinho",pt_PT
+multi_cart_page.cart_delete_confirmation.shared_with,"É partilhado com os seguintes utilizadores",pt_PT
+multi_cart_page.cart_delete_confirmation.from_all_of_them,"Será excluído de todos eles.",pt_PT
+multi_cart_page.cart_delete_confirmation.cancel,Cancelar,pt_PT
+multi_cart_page.cart_delete_confirmation.delete,Eliminar,pt_PT
+multi_cart_page.cart_delete_confirmation.breadcrumbs.shopping_carts,"Carrinhos de compras",pt_PT
+multi_cart_page.delete_all,"Apagar tudo",pt_PT
+multi_cart_widget.cart.cart_name,"Nome do Carrinho",pt_PT
+multi_cart_widget.cart.add,"Criar novo carrinho",pt_PT
+multi_cart_widget.cart.action.change_name,"Alterar Nome",pt_PT
+multi_cart_widget.cart.action.duplicate,Duplicado,pt_PT
+multi_cart_widget.cart.action.clear,"Limpar carrinho",pt_PT
+multi_cart_widget.cart.action.delete,"Eliminar carrinho",pt_PT
+multi_cart_widget.cart.action.view,"Ver detalhes",pt_PT
+multi_cart_widget.cart.action.set_default,Ativar,pt_PT
+multi_cart_widget.cart.default,Ativo,pt_PT
+multi_cart_widget.cart.item,Item,pt_PT
+multi_cart_widget.cart.items,Itens,pt_PT
+multi_cart_widget.cart.view_all,"Todos os Carrinhos",pt_PT
+multi_cart_widget.cart.cart,Carrinho,pt_PT
+multi_cart_widget.cart.carts,Carrinhos,pt_PT
+multi_cart_widget.cart.list,"Lista de Carrinho",pt_PT
+multi_cart_widget.cart.status,Estado,pt_PT
+multi_cart_widget.cart.sub_total,Subtotal,pt_PT
+multi_cart_widget.cart.actions,Ações,pt_PT
+multi_cart_widget.cart.created.success,"O carrinho '%quoteName%' foi criado com sucesso.",pt_PT
+multi_cart_widget.cart.updated.success,"Carrinho atualizado com sucesso",pt_PT
+multi_cart_widget.cart.remove.confirm,"Tem a certeza de que deseja remover este carrinho?",pt_PT
+multi_cart_widget.cart.delete.error,"O carrinho não pode ser removido",pt_PT
+shared_cart_widget.add_product.separate,"Adicionar como item separado",pt_PT
+shared_cart_widget.cart.share,"Partilhar carrinho",pt_PT
+shared_cart_widget.cart.unshare,"Despartilhar carrinho",pt_PT
+shared_cart_widget.cart.dismiss,Fechar,pt_PT
+shared_cart_widget.share_list.shared_with,"Carrinho partilhado com",pt_PT
+shared_cart_widget.share_list.customer_name,Utilizador,pt_PT
+shared_cart_widget.share_list.permission,"Nível de acesso",pt_PT
+shared_cart_widget.share_list.actions,Ações,pt_PT
+shared_cart_widget.share_list.action.unshare,"Despartilhar carrinho",pt_PT
+shared_cart.share_list.permissions.NO_ACCESS,"Sem acesso",pt_PT
+shared_cart.share_list.permissions.READ_ONLY,"Só de leitura",pt_PT
+shared_cart.share_list.permissions.FULL_ACCESS,"Acesso total",pt_PT
+shared_cart.share_list.permissions.OWNER_ACCESS,"Acesso do proprietário",pt_PT
+shared_cart.form.share_cart,"Partilhar carrinho",pt_PT
+shared_cart.form.share_cart.title,"Partilhar carrinho ""cart_name""",pt_PT
+shared_cart.form.customer,Utilizador,pt_PT
+shared_cart.form.select_customer,"Selecionar utilizador",pt_PT
+shared_cart.form.select_permissions,Acesso,pt_PT
+shared_cart.form.share_button,Partilhar,pt_PT
+shared_cart.form.save_button,Guardar,pt_PT
+shared_cart.form.data_empty,"Não existem utilizadores com quem possa partilhar o carrinho de compras.",pt_PT
+shared_cart.share.error.already_exist,"O carrinho já foi compartilhado com este cliente.",pt_PT
+shared_cart.share.breadcrumbs.share,Partilhar,pt_PT
+shared_cart.share.breadcrumbs.shopping_carts,"Carrinhos de compras",pt_PT
+shared_cart.share.form.users,Utilizadores,pt_PT
+shared_cart_page.share.success,"O carrinho foi partilhado com sucesso.",pt_PT
+shared_cart_page.unshare.success,"O carrinho foi despartilhado com sucesso.",pt_PT
+shared_cart_page.dismiss_confirmation.warning,Aviso,pt_PT
+shared_cart.dismiss.title,"Ignorar carrinho partilhado ‘quote_name’",pt_PT
+shared_cart_page.share.breadcrumbs.dismiss,Fechar,pt_PT
+shared_cart_page.cart.dismiss,Fechar,pt_PT
+shared_cart_page.dismiss_confirmation.trying_to_dismiss,"Tem a certeza de que deseja descartar o carrinho de compras?",pt_PT
+shared_cart_page.dismiss.success,"O carrinho de compras foi descartado com sucesso.",pt_PT
+shared_cart.cart.set_default.success,"O carrinho '%quote%' foi definido com sucesso como ativo.",pt_PT
+shopping_list.shopping_list,"Listas de compras",pt_PT
+shopping_list.item_quantity,Quantidade,pt_PT
+shopping_list.remove_all_items,"Remover tudo",pt_PT
+shopping_list.item_note,Comentário:,pt_PT
+shopping_list.item_note.add,"Adicionar um comentário",pt_PT
+shopping_list.item_note.enter_note,"Adicione uma nota para o item",pt_PT
+customer.account.shopping_list,"Listas de compras",pt_PT
+customer.account.shopping_list.access,Acesso,pt_PT
+customer.account.shopping_list.access.full_access,"Acesso Total",pt_PT
+customer.account.shopping_list.access.read_only,"Apenas Leitura",pt_PT
+customer.account.shopping_list.create.success,"Lista '%name%' foi criada com sucesso.",pt_PT
+customer.account.shopping_list.create.failed,"A criação da lista de compras falhou.",pt_PT
+customer.account.shopping_list.overview.create.success,"A Lista de Compras foi criada com sucesso.",pt_PT
+customer.account.shopping_list.overview.shared_with,"Partilhado com",pt_PT
+customer.account.shopping_list.overview.title,"Gerir Listas de Compras",pt_PT
+customer.account.shopping_list.overview.enter_name,"Insira o nome aqui",pt_PT
+customer.account.shopping_list.overview.add_new,"Criar lista de compras",pt_PT
+customer.account.shopping_list.overview.name,Nome,pt_PT
+customer.account.shopping_list.overview.item_count,"nº de itens",pt_PT
+customer.account.shopping_list.overview.modified_date,"Data da última atualização",pt_PT
+customer.account.shopping_list.overview.created_date,Criado,pt_PT
+customer.account.shopping_list.overview.actions,Ações,pt_PT
+customer.account.shopping_list.overview.edit,Editar,pt_PT
+customer.account.shopping_list.overview.warning,Aviso,pt_PT
+customer.account.shopping_list.overview.view,Ver,pt_PT
+customer.account.shopping_list.overview.form.new,"Criar nova lista de compras",pt_PT
+customer.account.shopping_list.overview.delete,Eliminar,pt_PT
+customer.account.shopping_list.overview.empty,"Ainda não tem nenhuma lista de compras.",pt_PT
+customer.account.shopping_list.overview.share,Partilhar,pt_PT
+customer.account.shopping_list.overview.print,Impressão,pt_PT
+customer.account.shopping_list.overview.dismiss,Fechar,pt_PT
+shopping_list_page.dismiss_confirmation.trying_to_dismiss,"Tem a certeza de que deseja descartar a lista de compras?",pt_PT
+shopping_list_page.dismiss.failed,"A lista de compras não foi descartada.",pt_PT
+shopping_list_page.dismiss.success,"A lista de compras foi descartada com sucesso.",pt_PT
+customer.account.shopping_list.share.from.share,Partilhar,pt_PT
+customer.account.shopping_list.share.from.share.title,"Partilhar ""%name%""",pt_PT
+customer.account.shopping_list.share.from.share_with,"Partilhar Lista de Compras com:",pt_PT
+customer.account.shopping_list.item.select_item,"Pelo menos um produto deve ser selecionado.",pt_PT
+customer.account.shopping_list.item.add.success,"O item %sku% foi adicionado à Lista.",pt_PT
+customer.account.shopping_list.item.add.failed,"O item %sku% não pôde ser adicionado à Lista.",pt_PT
+customer.account.shopping_list.items.added_to_cart.select_list,"Pelo menos uma lista de compras deve ser selecionada.",pt_PT
+customer.account.shopping_list.product,Produto,pt_PT
+customer.account.shopping_list.price,Preço,pt_PT
+customer.account.shopping_list.overview.variant,Variante,pt_PT
+customer.account.shopping_list.availability,Disponibilidade,pt_PT
+customer.account.shopping_list.available,Disponível,pt_PT
+customer.account.shopping_list.not_available,"Atualmente não disponível",pt_PT
+customer.account.shopping_list.add-to-cart,"Adicionar ao Carrinho",pt_PT
+customer.account.shopping_list.empty,"Atualmente não existem itens na sua lista de compras.",pt_PT
+customer.account.shopping_list.add_all_available_to_cart,"Adicionar todos os produtos disponíveis ao carrinho",pt_PT
+customer.account.shopping_list.quick_add,"Adicionar rapidamente à lista de compras",pt_PT
+customer.account.shopping_list.quick_add.submit,Adicionar,pt_PT
+customer.account.shopping_list.subtotal,Subtotal,pt_PT
+customer.account.shopping_list.print_shopping_list,Impressão,pt_PT
+customer.account.shopping_list.item.not_added,"Falha ao adicionar produto à lista de compras.",pt_PT
+customer.account.shopping_list.add_item.success,"O item foi adicionado à lista de compras.",pt_PT
+customer.account.shopping_list.item.remove.success,"Produto removido com sucesso.",pt_PT
+customer.account.shopping_list.item.remove.failed,"O produto não foi removido da lista de compras.",pt_PT
+customer.account.shopping_list.updated,"Lista de compras atualizada com sucesso",pt_PT
+customer.account.shopping_list.clear.success,"A lista de compras foi limpa com sucesso.",pt_PT
+customer.account.shopping_list.delete.success,"Lista de compras eliminada com sucesso.",pt_PT
+customer.account.shopping_list.delete.failed,"A lista de compras não foi eliminada.",pt_PT
+customer.account.shopping_list.delete.you_are_trying_to_delete_shopping_list,"Está a tentar eliminar a lista de compras.",pt_PT
+customer.account.shopping_list.delete.warning,Aviso,pt_PT
+customer.account.shopping_list.delete.it_belongs_to_follow,"Pertence ao seguinte",pt_PT
+customer.account.shopping_list.delete.it_will_be_deleted_from_all_of_them,"Será excluído de todos eles!",pt_PT
+customer.account.shopping_list.quantity,Quantidade,pt_PT
+customer.account.shopping_list.remove,Remover,pt_PT
+customer.account.shopping_list.permissions.NO_ACCESS,"Sem acesso",pt_PT
+customer.account.shopping_list.permissions.READ_ONLY,"Apenas leitura",pt_PT
+customer.account.shopping_list.permissions.FULL_ACCESS,"Acesso total",pt_PT
+customer.account.shopping_list.item.added_to_cart.failed,"Alguns dos itens selecionados não foram adicionados ao carrinho.",pt_PT
+customer.account.shopping_list.items.added_to_cart.not_found,"Não há produtos disponíveis para adicionar ao carrinho.",pt_PT
+customer.account.shopping_list.item.added_to_cart,"Item adicionado ao carrinho com sucesso.",pt_PT
+customer.account.shopping_list.item.added_all_available_to_cart,"Itens disponíveis adicionados ao carrinho com sucesso.",pt_PT
+customer.account.shopping_list.item.added_all_available_to_cart.failed,"Nem todos os itens são adicionados ao carrinho com sucesso.",pt_PT
+validation.not_blank,"Este valor não deve estar em branco.",pt_PT
+validation.invalid_date,"A data deve estar no formato correto %s.",pt_PT
+validation.address_number,"Este valor não é válido (formato aceite, por exemplo: 12c).",pt_PT
+validation.zip_code,"Este campo deve conter exatamente 5 dígitos.",pt_PT
+validation.min_length,"Este campo deve ter pelo menos {{ limit }} caracteres de comprimento.",pt_PT
+validation.max_length.singular,"Este valor é demasiado longo. Deverá ter {{ limit }} caracteres ou menos.",pt_PT
+validation.max_length.plural,"Este valor é demasiado longo. Deve ter {{ limit }} caracteres ou menos.",pt_PT
+validation.email,"Este valor não é um endereço de email válido.",pt_PT
+validation.choice,"Este valor não é válido.",pt_PT
+shopping_list.cart.items_add.failed,"Não foi possível adicionar os itens à lista.",pt_PT
+shopping_list.cart.items_add.success,"Itens foram adicionados à Lista",pt_PT
+shopping_list.not_applicable,N/A,pt_PT
+shopping_list_add_items_widget.add_to_shopping_list,"Adicionar à lista de compras",pt_PT
+page.detail.add-to-shopping-list,"Adicionar à lista de compras",pt_PT
+cart.add-to-shopping-list,"Adicionar à lista de compras",pt_PT
+cart.add-to-shopping-list.form,"Guardar carrinho numa lista de compras",pt_PT
+cart.add-to-shopping-list.form.placeholder,"Insira o nome de uma nova lista de compras",pt_PT
+cart.add-to-shopping-list.form.add_new,"Adicionar nova lista de compras",pt_PT
+cart.add-to-shopping-list.form.create,"Criar lista de compras",pt_PT
+cart.add-to-shopping-list.form.error.empty_name,"Por favor, insira o nome da lista de compras.",pt_PT
+cart.quick_add_to_cart,"Adicionar rapidamente ao Carrinho",pt_PT
+cart.quick_add_to_cart.submit,"Adicionar ao Carrinho",pt_PT
+product_quick_add_widget.form.quantity,"# Quantidade",pt_PT
+product_quick_add_widget.form.error.quantity.required,"A quantidade deve ser pelo menos 1.",pt_PT
+product_quick_add_widget.form.error.quantity.max_value_constraint,"A quantidade fornecida é demasiado elevada.",pt_PT
+product_quick_add_widget.form.error.redirect_route_empty,"O redirecionamento do router não deve estar vazio.",pt_PT
+product_quick_add_widget.form.error.sku.empty,"O SKU não deve estar vazio",pt_PT
+customer.account.shopping_list.overview.add_shopping_list_to_cart,"Adicionar selecionado a",pt_PT
+customer.account.shopping_list.items.added_to_cart.failed,"Alguns itens não foram adicionados ao carrinho.",pt_PT
+customer.account.shopping_list.items.added_to_cart,"Itens adicionados ao carrinho com sucesso.",pt_PT
+customer.account.shopping_list.add_selected_items_to_cart,"Adicionar itens selecionados ao carrinho",pt_PT
+customer.account.shopping_list.share.select_company_user,"Selecionar cliente",pt_PT
+customer.account.shopping_list.share.select_company_business_unit,"Selecione a unidade de negócio",pt_PT
+customer.account.shopping_list.share.select_permission,"Selecione o nível de acesso",pt_PT
+customer.account.shopping_list.share.error.one_id_required,"Por favor, escolha entre cliente ou unidade de negócio para compartilhar a lista de compras com.",pt_PT
+customer.account.shopping_list.share.share_shopping_list_successful,"Partilha da lista de compras foi bem-sucedida",pt_PT
+customer.account.shopping_list.share.share_shopping_list_fail,"Esta lista de compras já foi partilhada anteriormente com esta entidade.",pt_PT
+customer.account.shopping_list.overview.owner,Proprietário,pt_PT
+customer.account.shopping_list.error.duplicate_name,"Já existe uma lista de compras com o mesmo nome.",pt_PT
+customer.account.shopping_list.error.cannot_update,"Não é possível atualizar a lista de compras.",pt_PT
+customer.account.shopping_list.share.choose_access,"Escolha o acesso",pt_PT
+packaging_unit_type.item.name,Item,pt_PT
+packaging_unit_type.ring_500.name,"Anel (500m)",pt_PT
+packaging_unit_type.box.name,Caixa,pt_PT
+packaging_unit_type.palette.name,Paleta,pt_PT
+packaging_unit_type.giftbox.name,Giftbox,pt_PT
+packaging_unit_type.valentines_special.name,"Especial de São Valentim",pt_PT
+packaging_unit_type.pack_5.name,"Pack 5",pt_PT
+packaging_unit_type.pack_10.name,"Pack 10",pt_PT
+business_on_behalf_widget.no_selected_company,"A sua Unidade de Negócio",pt_PT
+business_on_behalf_widget.change_company_user,"Selecione Unidade de Negócio",pt_PT
+company_user.business_on_behalf.error.company_not_active,"Não é possível selecionar este utilizador da empresa, a empresa não está ativa.",pt_PT
+company_user.business_on_behalf.error.company_user_invalid,"Não é possível selecionar este utilizador da empresa, é inválido.",pt_PT
+company_user.change_company_user,"Selecione Unidade de Negócio",pt_PT
+company_user.no_company,"Nenhuma Unidade de Negócio",pt_PT
+company_user.company_choice,"Unidade de Negócio",pt_PT
+company_user.remember_choice,"Lembrar escolha",pt_PT
+company_page.company_user_restricted_message,"Clientes regulares não têm permissão para operar nas páginas da empresa.",pt_PT
+company_page.company_business_unit_restricted_message,"Não tem permissões para realizar esta operação.",pt_PT
+company_page.validation.error.company_user.unauthorized_request,"Pedido não autorizado.",pt_PT
+customer.account.print_shopping_list.table.barcode,"Código de barras",pt_PT
+customer.account.print_shopping_list.table.product_sku,"SKU do produto",pt_PT
+customer.account.print_shopping_list.table.product_name,"Nome do produto",pt_PT
+customer.account.print_shopping_list.table.default_price,"Preço padrão",pt_PT
+customer.account.print_shopping_list.table.note,Nota,pt_PT
+customer.account.print_shopping_list.title.shopping_list_id,"ID da Lista de Compras",pt_PT
+customer.account.print_shopping_list.title.shopping_list_name,"Nome da Lista de Compras",pt_PT
+company.account.address.delete_confimation_page,"Unidades de Negócio",pt_PT
+company_page.address_delete_confirmation.title,"Está a tentar eliminar o endereço.",pt_PT
+company_page.address_delete_confirmation.notification,"Pertence às seguintes unidades de negócio",pt_PT
+company_page.address_delete_confirmation.delete_notification,"Será excluído de todos eles.",pt_PT
+label.button.submit,OK,pt_PT
+label.button.cancel,Cancelar,pt_PT
+company.account.create_address_information,"Criar Informações de Endereço",pt_PT
+company.account.is_default,Raiz,pt_PT
+message.business_unit_address.create,"O endereço da unidade de negócio '%address%' foi criado com sucesso.",pt_PT
+message.business_unit_address.update,"O endereço da unidade de negócio '%address%' foi atualizado com sucesso.",pt_PT
+message.business_unit_address.delete,"O endereço da unidade de negócio foi excluído com sucesso.",pt_PT
+message.business_unit.create,"Unidade de negócio '%unit%' criada com sucesso.",pt_PT
+message.business_unit.update,"Unidade de negócio '%unit%' foi atualizada com sucesso.",pt_PT
+message.business_unit.delete,"Unidade de negócio '%unit%' foi eliminada com sucesso.",pt_PT
+message.submit_link,Ok!,pt_PT
+company.business_unit.delete.message.text,"Está a tentar eliminar a Unidade de Negócio",pt_PT
+company.account.choose_parent_company_business_unit,"Escolha a Unidade de Negócio principal",pt_PT
+company.account.choose_parent_company_business_unit_placeholder,"Nome da Unidade de Negócio Principal",pt_PT
+company.account.form.fk_parent_company_bu.placeholder,"Nome da Unidade de Negócio Principal",pt_PT
+company.account.address.delete.message.title,Aviso,pt_PT
+company.account.address.delete.message.description,"Está a tentar eliminar o endereço.",pt_PT
+company.account.address.delete.message.belongs,"Pertence às seguintes unidades de negócio",pt_PT
+company.account.address.delete.message.all,"Será excluído de todos eles.",pt_PT
+company.account.address.assign,"Atribuir Endereços",pt_PT
+company.account.address.assigned,"Endereços atribuídos",pt_PT
+company.account.address.unassigned,"Endereços não atribuídos",pt_PT
+company.account.address.assigned.empty,"Nenhum endereço atribuído",pt_PT
+company.account.address.unassigned.empty,"Nenhum endereço não atribuído",pt_PT
+product_discontinued_widget.note,Nota,pt_PT
+product_discontinued.super_attribute_discontinued,Descontinuado,pt_PT
+product_discontinued.message.product_discontinued,"Produto descontinuado, por favor escolha uma alternativa.",pt_PT
+shopping_list.pre.check.product_discontinued,"O produto %sku% foi descontinuado, por favor escolha uma alternativa.",pt_PT
+cart.pre.check.product_discontinued,"Produto '%name%' está descontinuado, por favor escolha uma alternativa.",pt_PT
+replacement_for_widget.replacement_for,"Substituição para",pt_PT
+product_alternative_widget.product_alternative,"Produtos alternativos",pt_PT
+product_alternative_widget.add_to_shopping_list,"Adicionar à lista de compras",pt_PT
+product_alternative_widget.alternative_for,"Alternativa para",pt_PT
+product_alternative_widget.product_status.discontinued,Descontinuado,pt_PT
+product_alternative_widget.show_all,"Mostrar tudo",pt_PT
+product_alternative_widget.not_applicable,N/A,pt_PT
+place_order.pre_check.product_discontinued,"Produto '%name%' está descontinuado, por favor escolha uma alternativa.",pt_PT
+page.detail.volume_price.quantity,Quantidade,pt_PT
+page.detail.volume_price.price,Preço,pt_PT
+customer.order.canceledTotal,"Quantidade cancelada",pt_PT
+customer.order.remunerationTotal,"Remuneração Total",pt_PT
+customer.order.refundTotal,"Reembolso Total",pt_PT
+packaging-units.recommendation.amount-min-violation,"Requisitos mínimos de quantidade para o produto não são cumpridos",pt_PT
+packaging-units.recommendation.amount-max-violation,"Requisitos máximos de quantidade para o produto não são cumpridos",pt_PT
+packaging-units.recommendation.amount-interval-violation,"Requisitos de intervalo de quantidade para o produto não são cumpridos.",pt_PT
+packaging_units.recommendation.suggestion,"Gostaria de adicionar:",pt_PT
+packaging_units.recommendation.between-units-info,"A quantidade que escolheu está entre 2 unidades base.",pt_PT
+packaging_units.cart.quantity,Quantidade,pt_PT
+packaging_units.cart.amount,Quantidade,pt_PT
+packaging_units.cart.item,Itens,pt_PT
+packaging_units.pdp.quantity,Quantidade,pt_PT
+packaging_units.pdp.amount,Quantidade,pt_PT
+packaging_units.pdp.sales-units,"Unidades de Venda",pt_PT
+cart.pre.check.amount.min.failed,"Os requisitos mínimos de quantidade para o produto SKU '%sku%' não são cumpridos.",pt_PT
+cart.pre.check.amount.max.failed,"A quantidade máxima para o produto SKU '%sku%' foi excedida.",pt_PT
+cart.pre.check.amount.interval.failed,"Os requisitos de intervalo de quantidade para o SKU do produto '%sku%' não são cumpridos.",pt_PT
+cart.pre.check.amount.is_not_variable.failed,"Requisitos de quantidade padrão para o SKU do produto '%sku%' não são cumpridos.",pt_PT
+main_slider.btn.title,"Compre Agora",pt_PT
+show_more.btn.title,"Explorar mais",pt_PT
+main_slider_1.url,/pt/mobiliário-de-escritório,pt_PT
+main_slider_2.url,/pt/papelaria,pt_PT
+main_slider_3.url,/pt/equipamento-de-escritório,pt_PT
+company.account.company_role.delete.confirmation.warning,Aviso,pt_PT
+company.account.company_role.delete.confirmation.trying_to_delete,"Está a tentar eliminar a função da empresa",pt_PT
+company.account.company_role.delete.confirmation.deletion_warning,"Será eliminado permanentemente da sua empresa",pt_PT
+company.account.company_role.delete.back,Voltar,pt_PT
+company.account.company_role.delete,Eliminar,pt_PT
+company.account.company_role.delete.successful,"O papel da empresa foi removido com sucesso.",pt_PT
+company.account.company_role.delete.confirmation.assigned_users,"Utilizadores atribuídos a esta função",pt_PT
+company.account.company_role.delete.confirmation.assigned_users_message,"Não é possível excluir a função da empresa até que ela tenha usuários da empresa atribuídos.",pt_PT
+company.account.company_role.delete.error.cannot_remove,"O papel da empresa não pode ser removido.",pt_PT
+permission.name.AddCompanyUserPermissionPlugin,"Adicionar utilizadores da empresa",pt_PT
+permission.name.ManageCompanyUserInvitationPermissionPlugin,"Convidar utilizadores",pt_PT
+permission.name.AddCartItemPermissionPlugin,"Adicionar item ao carrinho",pt_PT
+permission.name.ChangeCartItemPermissionPlugin,"Alterar item no carrinho",pt_PT
+permission.name.RemoveCartItemPermissionPlugin,"Remover item do carrinho",pt_PT
+permission.name.PlaceOrderWithAmountUpToPermissionPlugin,"Fazer Pedido",pt_PT
+permission.name.SeeCompanyMenuPermissionPlugin,"Ver Menu da Empresa",pt_PT
+company.account.company_user.assign_roles.empty_roles.error,"Pelo menos uma função deve ser atribuída a um utilizador.",pt_PT
+company.account.company_role.delete.error.default_role,"Não é possível excluir uma função padrão, por favor defina outra função padrão antes de excluir.",pt_PT
+permission.name.CompanyUserStatusChangePermissionPlugin,"Ativar / Desativar utilizadores da empresa",pt_PT
+company.account.company_role.create,"Criar função",pt_PT
+company.account.company_role.create.successful,"O papel foi criado com sucesso.",pt_PT
+company.account.company_role.update.successful,"O papel foi atualizado com sucesso.",pt_PT
+company.account.company_user.form.select_roles,"Selecionar funções",pt_PT
+company.account.company_user.form.select_business_unit,"Selecione a unidade de negócio",pt_PT
+message.business_unit.create.error,"Ocorreu um erro ao tentar criar a unidade de negócio '%unit%'.",pt_PT
+message.business_unit.update.error,"Ocorreu um erro ao tentar atualizar a unidade de negócio '%unit%'.",pt_PT
+message.business_unit.delete.error,"Ocorreu um erro ao tentar eliminar a unidade de negócio '%unit%'.",pt_PT
+product.sets.widget.title,"Compre a Coleção",pt_PT
+product.set,"Conjunto de produtos",pt_PT
+product.set.detail.add_all_to,"Adicionar tudo ao carrinho",pt_PT
+checkout.success.to_orders.url,/pt/cliente/encomenda,pt_PT
+checkout.success.to_orders.title,"Ir para as Minhas Encomendas",pt_PT
+checkout.success.back_to_home.title,"Voltar para a página inicial",pt_PT
+customer.account.shopping_list.create_from_cart.choose_shopping_list,"Escolher lista de compras",pt_PT
+customer.account.shopping_list.create_from_cart.name,Nome,pt_PT
+customer.account.shopping_list.create_from_cart.form_title,"'%cart_name%' adicionar à lista de compras",pt_PT
+customer.account.shopping_list.create_from_cart.title,"Adicionar à lista de compras",pt_PT
+customer.account.shopping_list.shopping_cart,"Carrinhos de compras",pt_PT
+customer.account.shopping_list.business_unit,"Unidade de Negócio",pt_PT
+customer.account.shopping_list.customer,Cliente,pt_PT
+page.multi_cart.shopping_cart.list.title,"Carrinhos de compras",pt_PT
+page.multi_cart.shopping_cart.list.create_link,"Criar Carrinho de Compras",pt_PT
+page.multi_cart.shopping_cart.list.label.name,Nome,pt_PT
+page.multi_cart.shopping_cart.list.label.num_of_products,"nº de itens",pt_PT
+page.multi_cart.shopping_cart.list.label.prices,Preços,pt_PT
+page.multi_cart.shopping_cart.list.label.total,Total,pt_PT
+page.multi_cart.shopping_cart.list.label.actions,Ações,pt_PT
+page.multi_cart.shopping_cart.list.link.edit_name,"Editar nome",pt_PT
+page.multi_cart.shopping_cart.list.link.duplicate,Duplicado,pt_PT
+page.multi_cart.shopping_cart.list.link.delete,Eliminar,pt_PT
+page.multi_cart.shopping_cart.list.link.add_to_list,"Adicionar à lista",pt_PT
+page.multi_cart.shopping_cart.list.label.item,Item,pt_PT
+page.multi_cart.shopping_cart.list.label.items,Itens,pt_PT
+customer.account.shopping_cart.list.title,"Gerir carrinhos de compras",pt_PT
+widget.shared_cart.multi_cart.permissions.READ_ONLY,"Só de leitura",pt_PT
+widget.shared_cart.multi_cart.permissions.FULL_ACCESS,"Acesso total",pt_PT
+widget.shared_cart.multi_cart.permissions.OWNER_ACCESS,"Acesso do proprietário",pt_PT
+page.multi_cart.shopping_cart.list.label.access,Acesso,pt_PT
+widget.shopping_list.multi_cart.to_shopping_list,"Para lista de compras",pt_PT
+page.multi_cart.shopping_cart.update.title,Editar,pt_PT
+page.multi_cart.shopping_cart.create.title,Criar,pt_PT
+shopping_list_widget.items,Itens,pt_PT
+shopping_list_widget.full_access,"Acesso total",pt_PT
+shopping_list_widget.read_only,"Apenas leitura",pt_PT
+shopping_list.create_new_list,"Criar Nova Lista",pt_PT
+shopping_list.no_lists_created,"Ainda não tem nenhuma lista de compras.",pt_PT
+agent.authentication.failed,"Falha na autenticação",pt_PT
+agent.login.title,"Aceda à sua conta",pt_PT
+agent.confirm_user_selection,Confirmar,pt_PT
+agent.login.email,Email,pt_PT
+agent.login.password,Palavra-passe,pt_PT
+agent.login,"Login de agente",pt_PT
+agent.control_bar.username,Agente:,pt_PT
+agent.control_bar.customer_name,Cliente:,pt_PT
+agent.control_bar.logout_as_customer,"Assistência ao Cliente Final",pt_PT
+agent.control_bar.logout,"Terminar sessão",pt_PT
+agent.autocomplete.no_results,"Nenhum resultado encontrado",pt_PT
+autocomplete.placeholder,Pesquisar,pt_PT
+bundle.title,"Pacote inclui",pt_PT
+shopping_list.all_shopping_lists,"Todas as Listas de Compras",pt_PT
+error_page.title,"Página não encontrada.",pt_PT
+error_page.home_link,"Ir para a página inicial",pt_PT
+error_page.text,"Não conseguimos encontrar a página que está procurando.",pt_PT
+sales-order-threshold.hard-minimum-threshold.de.eur.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+sales-order-threshold.hard-minimum-threshold.de.chf.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+sales-order-threshold.hard-maximum-threshold.de.eur.message,"O valor do carrinho não pode ser superior a {{threshold}}. Por favor, remova alguns itens para prosseguir com a encomenda.",pt_PT
+sales-order-threshold.hard-maximum-threshold.de.chf.message,"O valor do carrinho não pode ser superior a {{threshold}}. Por favor, remova alguns itens para prosseguir com a encomenda.",pt_PT
+sales-order-threshold.soft-minimum-threshold.de.eur.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout.",pt_PT
+sales-order-threshold.soft-minimum-threshold.de.chf.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout.",pt_PT
+merchant-relationship-threshold.hard.de.eur.mr-8.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+merchant-relationship-threshold.soft.de.eur.mr-8.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout.",pt_PT
+merchant-relationship-threshold.hard.de.eur.mr-9.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+merchant-relationship-threshold.soft.de.eur.mr-9.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout com uma taxa adicional de {{fee}} para este pedido.",pt_PT
+merchant-relationship-threshold.hard.de.eur.mr-10.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+merchant-relationship-threshold.soft.de.eur.mr-10.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout com uma taxa adicional de {{fee}} para este pedido.",pt_PT
+merchant-relationship-threshold.hard.de.eur.mr-11.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+merchant-relationship-threshold.soft.de.eur.mr-11.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout com uma taxa adicional de {{fee}} para este pedido.",pt_PT
+merchant-relationship-threshold.hard.de.eur.mr-12.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+merchant-relationship-threshold.soft.de.eur.mr-12.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout com uma taxa adicional de {{fee}} para este pedido.",pt_PT
+merchant-relationship-threshold.soft.de.eur.mr-13.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout com uma taxa adicional de {{fee}} para este pedido.",pt_PT
+merchant-relationship-threshold.soft.de.eur.mr-14.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout com uma taxa adicional de {{fee}} para este pedido.",pt_PT
+company.account.address.delete.message.text,"Está a tentar eliminar o endereço.",pt_PT
+message.business_unit.update.cycle_dependency_error,"A Unidade de Negócio da Empresa '%unit%' não foi atualizada. Uma Unidade de Negócio não pode ser definida como filha de uma Unidade de Negócio própria, por favor verifique a hierarquia da Unidade de Negócio.",pt_PT
+"Only company users are allowed to access this page","Apenas os utilizadores da empresa têm permissão para aceder a esta página.",pt_PT
+shopping_list.not_found,"Lista de compras não encontrada",pt_PT
+shopping_list.already_removed,"Esta lista de compras foi eliminada.",pt_PT
+shopping_list.no_access,"Não tem permissões para visualizar esta lista de compras.",pt_PT
+global.search.pages,Páginas,pt_PT
+global.search.results.view,Ver,pt_PT
+cms.page.sort.relevance,"Ordenar por relevância",pt_PT
+cms.page.sort.name_asc,"Ordenar por nome ascendente",pt_PT
+cms.page.sort.name_desc,"Ordenar por nome descendente",pt_PT
+cms.page.itemsFound,"Itens encontrados",pt_PT
+cms.page.filter.per,"Por página",pt_PT
+cms.page.filter.sort,"Ordenar por",pt_PT
+product-quantity.errors.quantity.min.failed,"Quantidade %s não satisfaz os requisitos para o produto. A quantidade mínima é %s.",pt_PT
+product-quantity.errors.quantity.max.failed,"Quantidade %s não satisfaz os requisitos para o produto. A quantidade máxima é %s.",pt_PT
+product-quantity.errors.quantity.interval.failed,"Quantidade %s não satisfaz os requisitos para o produto. O passo da quantidade é %s.",pt_PT
+availability_notification.notify_me,"Notificar-me quando estiver disponível novamente.",pt_PT
+availability_notification.do_not_notify_me,"Não me notificar quando estiver disponível novamente.",pt_PT
+availability_notification.subscribed,"Subscrição efetuada com sucesso",pt_PT
+availability_notification.unsubscribed,"Com sucesso cancelou a subscrição",pt_PT
+availability_notification.successfully_unsubscribed,"Com sucesso cancelou a subscrição",pt_PT
+availability_notification.successfully_unsubscribed_text,"Você cancelou com sucesso a inscrição para ser notificado quando o produto estiver disponível novamente.",pt_PT
+availability_notification_subscription.mail.subscribed.head,"Acabamos de informar a nossa equipa de compras sobre a sua subscrição!",pt_PT
+availability_notification_subscription.mail.subscribed.body,"Receberá um email quando o produto estiver disponível novamente.",pt_PT
+availability_notification_subscription.mail.subscribed.subject,"Acabamos de informar a nossa equipa de compras sobre a sua subscrição!",pt_PT
+availability_notification_subscription.mail.unsubscribed.subject,"Não será notificado quando o produto %name% estiver disponível novamente.",pt_PT
+availability_notification_subscription.mail.unsubscribed.body,"Não será notificado quando o produto %name% estiver disponível novamente.",pt_PT
+availability_notification_subscription.mail.notification.buy_now,"Comprar agora",pt_PT
+availability_notification_subscription.mail.notification.subject,"%name% está disponível novamente!",pt_PT
+availability_notification_subscription.mail.notification.head,"%name% está disponível novamente!",pt_PT
+availability_notification_subscription.mail.notification.body,"A espera acabou, agora pode adicionar este produto ao seu carrinho.",pt_PT
+availability_notification_subscription.mail.copyright,"<em>Direitos de autor © ano atual nome da empresa, Todos os direitos reservados.</em><br><br>",pt_PT
+availability_notification_subscription.mail.unsubscribe,"Quer alterar a forma como recebe estes emails?<br>Pode <a target=""_blank"" href=""%link%"" style=""mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underline;"">cancelar a subscrição desta lista</a>.",pt_PT
+availability_notification.email_address,"Endereço de email",pt_PT
+product-quantity.notification.quantity.min.failed,"A quantidade encomendada foi ajustada para a próxima quantidade possível para o artigo, porque a quantidade mínima é %min%.",pt_PT
+product-quantity.notification.quantity.max.failed,"A quantidade encomendada foi ajustada para a próxima quantidade possível para o artigo, porque a quantidade máxima é %max%.",pt_PT
+product-quantity.notification.quantity.interval.failed,"A quantidade encomendada foi ajustada para a próxima quantidade possível para o artigo porque o passo da quantidade é %step%.",pt_PT
+product-quantity.warning.quantity.min.failed,"A quantidade encomendada foi ajustada para a próxima quantidade possível para o artigo, porque a quantidade mínima é %min%.",pt_PT
+product-quantity.warning.quantity.max.failed,"A quantidade encomendada foi ajustada para a próxima quantidade possível para o artigo, porque a quantidade máxima é %max%.",pt_PT
+product-quantity.warning.quantity.interval.failed,"A quantidade encomendada foi ajustada para a próxima quantidade possível para o artigo porque o passo da quantidade é %step%.",pt_PT
+cart.locked.change_denied,"Não é possível modificar este carrinho porque está em processo de aprovação.",pt_PT
+quote_approval.request.send,"Enviar Pedido",pt_PT
+quote_approval.remove,"Cancelar Pedido",pt_PT
+quote_approval.cart.require_approval,"Não é possível fazer este pedido devido ao seu limite de compra, por favor envie o seu carrinho para aprovação ou entre em contato com o seu gestor.",pt_PT
+quote_approval.cart.waiting_approval,"Não é possível fazer este pedido devido a um pedido de aprovação pendente.",pt_PT
+quote_approval.create.approver_cant_approve_quote,"O aprovador selecionado não pode aprovar o seu pedido devido ao limite de aprovadores.",pt_PT
+quote_approval.create.you_cant_approve_quote,"Não pode aprovar ou recusar este carrinho porque o valor é superior ao seu limite de aprovação.",pt_PT
+quote_approval.create.quote_already_approved,"Este carrinho já foi aprovado.",pt_PT
+quote_approval.create.quote_already_declined,"Este carrinho já foi recusado.",pt_PT
+quote_approval.create.quote_already_cancelled,"Não é possível trabalhar com este Carrinho, pois já foi enviado para outro aprovador.",pt_PT
+quote_approval.create.quote_already_waiting_for_approval,"Este carrinho já foi enviado para aprovação.",pt_PT
+quote_approval.create.only_quote_owner_can_send_request,"Não pode enviar o Carrinho para Aprovação, apenas o proprietário do Carrinho pode fazê-lo.",pt_PT
+quote_approval.cancel.do_not_have_permission,"Não tem permissões para cancelar o pedido de aprovação.",pt_PT
+quote_approval.request.approval_by,por,pt_PT
+quote_approval.created,"O seu pedido de aprovação foi enviado para %first_name% %last_name%.",pt_PT
+quote_approval.removed,"O seu pedido de aprovação foi cancelado.",pt_PT
+quote_approval_widget.title,"Pedido de Aprovação",pt_PT
+quote_approval_widget.limit.unlimited,Ilimitado,pt_PT
+quote_approval_widget.no_approvers_found,"Nenhum aprovador encontrado.",pt_PT
+quote_approval_widget.cart.status.approved,Aprovado,pt_PT
+quote_approval_widget.cart.status.declined,Recusado,pt_PT
+quote_approval_widget.cart.status.waiting,"A aguardar",pt_PT
+quote_approval_widget.shared_cart_warning,"Depois de um carrinho ter sido enviado para aprovação, todas as suas ações serão descartadas.",pt_PT
+quote_approval_widget.limit_text,"O seu limite de compra é %amount%. Para gastar mais, solicite aprovação ao seu gerente.",pt_PT
+quote_approval_widget.no_limit_text,"Não tem um limite de compra",pt_PT
+quote_approval_widget.quote_not_applicable_for_approval_process,"Este carrinho não pode ser processado. Faltam informações obrigatórias.",pt_PT
+quote_approval.request.waiting_for_approval_from,"A aguardar aprovação de",pt_PT
+quote_approval.request.approved_by,"Aprovado por",pt_PT
+quote_approval.request.declined_by,"Recusado por",pt_PT
+quote_approval_widget.cart.status,Estado,pt_PT
+quote_approval_widget.cart.approve,Aprovar,pt_PT
+quote_approval_widget.cart.decline,Recusar,pt_PT
+quote_approval_widget.cart.cancel,Cancelar,pt_PT
+quote_approval_widget.cart.success_message.approved,"Pedido de %first_name% %last_name% foi aprovado com sucesso.",pt_PT
+quote_approval_widget.cart.success_message.declined,"Pedido de %first_name% %last_name% foi recusado com sucesso.",pt_PT
+quote_approval_widget.cart.success_message.canceled,"Pedido de %first_name% %last_name% foi cancelado com sucesso.",pt_PT
+quote_approval.create.cart_cant_be_sent_for_approval,"O carrinho não pode ser enviado para aprovação.",pt_PT
+quote_approval.create.cant_send_for_approve_empty_quote,"Carrinho vazio não pode ser enviado para aprovação.",pt_PT
+persistent_cart.quote.label.locked_cart,"O carrinho está bloqueado e a edição do carrinho está desativada. Para desbloquear o carrinho, clique em",pt_PT
+persistent_cart.quote.label.locked_cart.by_quote_request,"O carrinho está bloqueado por um pedido de cotação e a edição do carrinho está desativada. Para desbloquear o carrinho, clique em",pt_PT
+persistent_cart.quote.label.locked_cart.by_quote_approval,"O carrinho está bloqueado devido a um processo de aprovação de orçamento e a edição do carrinho está desativada. Para desbloquear o carrinho, clique em",pt_PT
+persistent_cart.quote.label.discarded_locked_cart,"As suas modificações atuais serão descartadas.",pt_PT
+persistent_cart.quote.button.reset_lock,"Repor fechadura",pt_PT
+cart_page.quote.reset_lock.success,"O carrinho de compras foi redefinido com sucesso.",pt_PT
+cart_page.quote.label.locked_cart,"Carrinho Bloqueado",pt_PT
+quote_request_widget.request_for_quote,"Solicitar um Orçamento",pt_PT
+quote_request_widget.request_for_quote.list.title,"Pedidos de Orçamento",pt_PT
+quote_request_page.quote_request,"Pedido de Orçamento",pt_PT
+quote_request_page.quote_request.create,Criar,pt_PT
+quote_request_page.quote_request_version.created,"O Pedido de Orçamento tem uma nova versão.",pt_PT
+quote_request_page.quote_request.submit,"Enviar Pedido",pt_PT
+quote_request_page.quote_request.metadata.label.note,Notas,pt_PT
+quote_request_page.quote_request.metadata.label.delivery_date,"Não enviar depois de",pt_PT
+quote_request_page.quote_request.metadata.label.purchase_order_number,"Número de ordem de compra",pt_PT
+quote_request_page.quote_request.violations.invalid_date,"Esta data deve ser superior à data atual.",pt_PT
+quote_request_page.quote_request.created,"Um pedido de cotação foi criado com sucesso.",pt_PT
+quote_request_page.quote_request.list.reference,#Referência,pt_PT
+quote_request_page.quote_request.list.company,Empresa,pt_PT
+quote_request_page.quote_request.list.business_unit,"Unidade de negócio",pt_PT
+quote_request_page.quote_request.list.owner,Proprietário,pt_PT
+quote_request_page.quote_request.list.total,Total,pt_PT
+quote_request_page.quote_request.list.date,Data,pt_PT
+quote_request_page.quote_request.list.status,Estado,pt_PT
+quote_request_page.quote_request.list.actions,Ações,pt_PT
+quote_request_page.quote_request.labels.date,Data,pt_PT
+quote_request_page.quote_request.labels.status,Estado,pt_PT
+quote_request_page.quote_request.labels.valid_till,"Válido até",pt_PT
+quote_request_page.quote_request.labels.show_latest_version,"Mostrar a versão mais recente ao cliente",pt_PT
+quote_request_page.quote_request.labels.latest_version_is_hidden,"A versão mais recente está oculta para o cliente.",pt_PT
+quote_request_page.quote_request.labels.latest_version_is_visible,"A versão mais recente é visível para o cliente.",pt_PT
+quote_request_page.quote_request.labels.history,História,pt_PT
+quote_request_page.quote_request.labels.customer,Cliente,pt_PT
+quote_request_page.quote_request.labels.company,Empresa,pt_PT
+quote_request_page.quote_request.labels.business_unit,"Unidade de negócio",pt_PT
+quote_request_page.quote_request.labels.information,"Informações sobre Pedido de Orçamento",pt_PT
+quote_request_page.quote_request.labels.version_information,"Informação da Versão",pt_PT
+quote_request_page.quote_request.actions.view,Ver,pt_PT
+quote_request_page.quote_request.actions.cancel,Cancelar,pt_PT
+quote_request_page.quote_request.actions.cancel_changes,Cancelar,pt_PT
+quote_request_page.quote_request.actions.save,Guardar,pt_PT
+quote_request_page.quote_request.actions.back_to_list,"Voltar para a Lista",pt_PT
+quote_request_page.quote_request.actions.back_to_view,"Voltar para Visualizar",pt_PT
+quote_request_page.quote_request.actions.send_to_customer,"Enviar para o Cliente",pt_PT
+quote_request_page.quote_request.actions.send_to_agent,"Enviar para Agente",pt_PT
+quote_request_page.quote_request.actions.save_and_back_to_edit,"Guardar e Voltar para Editar",pt_PT
+quote_request_page.quote_request.actions.convert_to_cart,"Adicionar ao Carrinho",pt_PT
+quote_request_page.quote_request.actions.revise,Rever,pt_PT
+quote_request_page.quote_request.actions.edit,Editar,pt_PT
+quote_request_page.quote_request.actions.edit_items,"Editar Itens",pt_PT
+quote_request_page.quote_request.view.empty,"Ainda não tem nenhum pedido de cotação.",pt_PT
+quote_request_page.quote_request.updated,"O pedido de cotação foi atualizado com sucesso.",pt_PT
+quote_request_page.quote_request.sent_to_customer,"O pedido de cotação foi enviado com sucesso para o cliente.",pt_PT
+quote_request_page.quote_request.sent_to_user,"O pedido de cotação foi enviado com sucesso ao agente para processamento.",pt_PT
+quote_request_page.quote_request.use_default_price,"Utilizar preço padrão",pt_PT
+quote_request_page.quote_request.converted_to_cart,"O pedido de cotação foi convertido com sucesso para o carrinho.",pt_PT
+quote_request_page.quote_request.edit_items_confirm,"Está a editar o Pedido de Cotação <a href=""%link%"">%reference%</a> se o abandonar, todas as alterações serão perdidas.",pt_PT
+quote_request_page.quote_request.source_price_changes_forbidden,"Não é possível editar os preços nesta solicitação de cotação, pois ela é inválida.",pt_PT
+quote_request.status.waiting,"A aguardar",pt_PT
+quote_request.status.in-progress,"Em Progresso",pt_PT
+quote_request.status.ready,Pronto,pt_PT
+quote_request.status.canceled,Cancelado,pt_PT
+quote_request.status.closed,Fechado,pt_PT
+quote_request.status.draft,Rascunho,pt_PT
+quote_request.validation.success.canceled,"O pedido de cotação foi cancelado com sucesso.",pt_PT
+quote_request.validation.converted_to_cart.success,"O pedido de cotação foi convertido com sucesso para o carrinho.",pt_PT
+quote_request.validation.error.not_exists,"Este Pedido de Orçamento não existe.",pt_PT
+quote_request.validation.error.wrong_status,"Estado de Pedido de Cotação incorreto para esta operação.",pt_PT
+quote_request.validation.error.company_user_not_found,"Utilizador da Empresa não encontrado.",pt_PT
+quote_request.validation.error.empty_cart,"Não é possível criar um pedido de cotação a partir de um carrinho vazio.",pt_PT
+quote_request.checkout.validation.error.version_not_found,"A versão do Pedido de Orçamento não foi encontrada.",pt_PT
+quote_request.checkout.validation.error.not_found,"Pedido de cotação não encontrado.",pt_PT
+quote_request.checkout.validation.error.wrong_status,"O Pedido de Orçamento está com um status incorreto no momento.",pt_PT
+quote_request.checkout.validation.error.wrong_version,"A versão do Pedido de Cotação para este carrinho está desatualizada.",pt_PT
+quote_request.checkout.validation.error.wrong_valid_until,"Pedido de cotação a partir do qual este carrinho foi criado já não é válido.",pt_PT
+quote_request.checkout.convert.error.wrong_valid_until,"O pedido de cotação já não é válido.",pt_PT
+quote_request.update.validation.error.wrong_valid_until,"A data de validade desta solicitação de cotação já expirou. Por favor, altere a data para enviar ao cliente.",pt_PT
+quote_request.update.validation.concurrent,"O Pedido de Cotação não pôde ser atualizado devido a uma interação simultânea com outro cliente.",pt_PT
+agent.account.overview,"Visão geral",pt_PT
+agent.account.quote_request,"Pedidos de Orçamento",pt_PT
+agent.account.page_title,Agente,pt_PT
+agent.account.profile_data,"Perfil do Agente",pt_PT
+quote_request_agent_widget.quote_request,"Pedido de Orçamento",pt_PT
+quote_request_agent_widget.items,Itens,pt_PT
+quote_request_agent_widget.no_request_created,"Ainda não tem nenhum pedido de cotação.",pt_PT
+quote_request_agent_widget.create_new_request,"Nova solicitação de cotação",pt_PT
+quote_request_agent_widget.view_all_requests,"Ver todas as solicitações",pt_PT
+quote_request_agent_widget.form.select_customer,"Selecione um cliente",pt_PT
+quote_request_agent_page.form.invalid_price,"Preço inválido.",pt_PT
+permission.name.PlaceOrderPermissionPlugin,"Compre até o total máximo (Requer ""Enviar carrinho para aprovação"")",pt_PT
+permission.name.RequestQuoteApprovalPermissionPlugin,"Enviar carrinho para aprovação (Requer ""Comprar até o valor total"")",pt_PT
+permission.name.ApproveQuotePermissionPlugin,"Aprovar até o total geral",pt_PT
+company_page.multi_currency_type.name.cent_amount.EUR,Centavo,pt_PT
+company_page.multi_currency_type.name.cent_amount.CHF,"Quantia em Centavos",pt_PT
+company_page.multi_currency_type.label,"Configurar permissão",pt_PT
+company_page.company_role_permission.permission_not_found_error,"Permissão não encontrada",pt_PT
+company_page.company_role_permission.permission_save_error,"A configuração de permissões não foi atualizada.",pt_PT
+company_page.company_role_permission.permission_save_success,"A configuração de permissões foi atualizada.",pt_PT
+quote.validation.error.price_mode_is_missing,"Modo de preço em falta",pt_PT
+quote.validation.error.price_mode_is_incorrect,"Modo de preço incorreto",pt_PT
+quote.validation.error.currency_is_missing,"A moeda está em falta.",pt_PT
+quote.validation.error.currency_is_incorrect,"Modo de moeda incorreto",pt_PT
+resource_share.activator.error.strategy_expects_logged_in_customer,"Por favor, faça login para acessar o recurso compartilhado solicitado.",pt_PT
+resource_share.reader.error.resource_is_not_found_by_provided_uuid,"Recurso não encontrado pelo UUID fornecido.",pt_PT
+resource_share.generation.error.resource_type_is_not_defined,"O tipo de recurso não está definido.",pt_PT
+resource_share.generation.error.customer_reference_is_not_defined,"Referência do cliente não está definida.",pt_PT
+resource_share.validation.error.resource_share_is_expired,"O recurso partilhado expirou.",pt_PT
+resource-share.link.error.no-route,"A rota de redirecionamento não deve estar vazia.",pt_PT
+persistent_cart_share.error.resource_is_not_available,"O carrinho que está a tentar aceder não está disponível.",pt_PT
+persistent_cart_share.error.quote_is_not_available,"O carrinho que está a tentar aceder não está disponível.",pt_PT
+persistent_cart_share.share_options.external.PREVIEW,Pré-visualização,pt_PT
+persistent_cart_share.share_options.internal.READ_ONLY,"Apenas Leitura",pt_PT
+persistent_cart_share.share_options.internal.FULL_ACCESS,"Acesso Total",pt_PT
+persistent_cart_share.copy,Copiar,pt_PT
+persistent_cart_share.external_users,"Utilizadores Externos",pt_PT
+persistent_cart_share.internal_users,"Utilizadores internos",pt_PT
+persistent_cart_share.title,"Partilhar carrinho através de ligação",pt_PT
+clipboard.copy.success,"Copiado com sucesso para a área de transferência!",pt_PT
+clipboard.copy.error,"Copiar para a área de transferência não é suportado pelo seu navegador. Tente copiar o texto manualmente.",pt_PT
+persistent_cart_share_page.preview,"Pré-visualização: %title%",pt_PT
+shared_cart.resource_share.strategy.error.cart_access_denied,"O URL do carrinho está incorreto ou tente fazer login com outra conta de usuário da empresa.",pt_PT
+shared_cart.resource_share.strategy.error.unable_to_share_cart,"Não é possível partilhar um carrinho com o cliente fornecido.",pt_PT
+shared_cart.resource_share.strategy.success.cart_share_access_updated,"O nível de acesso foi atualizado.",pt_PT
+category.office.furniture,"Mobiliário de escritório",pt_PT
+comment.validation.error.comment_not_found,"Comentário não encontrado.",pt_PT
+comment.validation.error.access_denied,"Acesso negado.",pt_PT
+comment.validation.error.comment_thread_not_found,"Thread de comentários não encontrado.",pt_PT
+comment.validation.error.comment_thread_already_exists,"Já existe um Thread de Comentário.",pt_PT
+comment.validation.error.invalid_message_length,"Comprimento da mensagem inválido.",pt_PT
+comment.validation.error.comment_tag_not_available,"Tag de comentário não disponível.",pt_PT
+comment.validation.error.customer_not_set,"O comentário não pode ser criado sem um cliente válido.",pt_PT
+comment.validation.error.company_user_not_set,"O comentário não pode ser criado sem um utilizador de empresa válido.",pt_PT
+comment.validation.error.owner_not_set,"O comentário não pode ser criado em um %owner% desconhecido.",pt_PT
+comment_widget.comments_to_cart,"Comentários para Carrinho",pt_PT
+comment_widget.form.add_comment,Adicionar,pt_PT
+comment_widget.form.update_comment,Atualizar,pt_PT
+comment_widget.form.remove_comment,Remover,pt_PT
+comment_widget.form.edit_comment,Editar,pt_PT
+comment_widget.form.cancel_comment,Cancelar,pt_PT
+comment_widget.form.you,Tu,pt_PT
+comment_widget.form.attach,Anexar,pt_PT
+comment_widget.form.unattach,Desanexar,pt_PT
+comment_widget.form.all,Todos,pt_PT
+comment_widget.form.attached,Anexado,pt_PT
+comment_widget.form.button_default,Botão,pt_PT
+comment_widget.form.edited,editado,pt_PT
+comment_widget.form.tags,Tags,pt_PT
+comment_widget.form.placeholder.add_comment,"Escrever um comentário",pt_PT
+comment_widget.tags.all,Todos,pt_PT
+comment_widget.tags.delivery,Entrega,pt_PT
+comment_widget.tags.important,Importante,pt_PT
+comment_widget.error_message.unexpected_error,"Ocorreu um erro inesperado.",pt_PT
+shipment.validation.not_found,"Método de envio não encontrado.",pt_PT
+billing.address.validation.is_missing,"O endereço de faturação está em falta.",pt_PT
+billing.address.country.validation.not_found,"Endereço de faturação não encontrado para o código do país: %code%",pt_PT
+shipping.address.country.validation.not_found,"Endereço de envio não encontrado para o código do país: %code%",pt_PT
+product_search_widget.search.product_discontinued_prefix,[Descontinuado],pt_PT
+configurable_bundle.template.name.1,"Pacote de escritório",pt_PT
+configurable_bundle.template.name.2,"Pacote de apresentação",pt_PT
+configurable_bundle.template_slots.slot-1.name,"Slot 1",pt_PT
+configurable_bundle.template_slots.slot-2.name,"Slot 2",pt_PT
+configurable_bundle.template_slots.slot-3.name,"Slot 3",pt_PT
+configurable_bundle.template_slots.slot-4.name,"Slot 4",pt_PT
+configurable_bundle.template_slots.slot-5.name,"Slot 5",pt_PT
+configurable_bundle.template_slots.slot-6.name,"Slot 6",pt_PT
+configurable_bundle.template.validation.error.not_exists,"O modelo de pacote configurável não existe.",pt_PT
+configurable_bundle.slot.validation.error.not_exists,"O modelo de slot de pacote configurável não existe.",pt_PT
+configurable_bundle.template.validation.error.already_activated,"O modelo de pacote configurável já está ativado.",pt_PT
+configurable_bundle.template.validation.error.already_deactivated,"O modelo de pacote configurável já está desativado.",pt_PT
+configured_bundle.quantity,Quantidade:,pt_PT
+configured_bundle.multiplier,x,pt_PT
+configured_bundle.price,"Preço do item:",pt_PT
+configured_bundle.bundle_total,"Total do pacote:",pt_PT
+configured_bundle.total,"Total do item:",pt_PT
+configured_bundle.remove,remover,pt_PT
+configured_bundle.order.items,"Itens no pacote:",pt_PT
+configured_bundle.item_sku,SKU:,pt_PT
+configured_bundle_cart.error.configured_bundle_not_found,"Configuração de pacote com o SKU fornecido não encontrado no carrinho.",pt_PT
+configured_bundle_cart.error.configured_bundle_cannot_be_removed,"Configuração do pacote não pode ser removida do carrinho.",pt_PT
+configured_bundle_cart.error.configured_bundle_cannot_be_updated,"Pacote configurado não pode ser atualizado.",pt_PT
+configured_bundle_cart.error.configured_bundle_cannot_be_added,"O pacote configurado não pode ser adicionado ao carrinho.",pt_PT
+configured_bundle_widget.configured_bundle.removed,"Configuração de pacote removida com sucesso.",pt_PT
+configured_bundle_widget.configured_bundle.updated,"Configuração do pacote atualizada com sucesso.",pt_PT
+product_search_widget.search.no_results,"Produtos não foram encontrados.",pt_PT
+configurable_bundle_page.select,Selecionar,pt_PT
+configurable_bundle_page.unselect,Desmarcar,pt_PT
+configurable_bundle_page.edit,Editar,pt_PT
+configurable_bundle_page.configurator,Configurador,pt_PT
+configurable_bundle_page.configurable_bundle_list,"Lista de Pacotes Configuráveis",pt_PT
+configurable_bundle_page.choose_bundle_to_configure,"Escolha o Pacote para configurar",pt_PT
+configurable_bundle_page.configurator.templates_not_found,"Não existem modelos disponíveis.",pt_PT
+configurable_bundle_page.template_not_found,"Modelo de pacote configurável não encontrado.",pt_PT
+configurable_bundle_page.invalid_template_slot_combination,"Combinação de modelo/slot inválida.",pt_PT
+configurable_bundle_page.configurator.tip.header,"Crie o seu próprio pacote.",pt_PT
+configurable_bundle_page.configurator.tip.text,"Para criar o pacote, por favor selecione o slot do lado esquerdo e escolha o produto da lista.",pt_PT
+configurable_bundle_page.configurator.selected_product,"Produto selecionado",pt_PT
+configurable_bundle_page.configurator.summary,Resumo,pt_PT
+configurable_bundle_page.configurator.add_to_cart,"Adicionar ao Carrinho",pt_PT
+configurable_bundle_page.configurator.summary_page_locked,"Pelo menos um produto deve ser configurado para visitar a página de Resumo.",pt_PT
+configurable_bundle_page.configurator.summary_page_total,Total,pt_PT
+configurable_bundle_page.configurator.added_to_cart,"Configurou o pacote com sucesso adicionado ao carrinho.",pt_PT
+configurable_bundle_page.configurator.slot_became_unavailable,"O slot configurado com o ID '%id%' ficou indisponível.",pt_PT
+configurable_bundle_page.configurator.product_became_unavailable,"Produto com SKU '%sku%' configurado para o slot com ID '%id%' ficou indisponível.",pt_PT
+configurable_bundle_page.configurator.sku,Sku:,pt_PT
+configurable_bundle_page.configurator.slot_page.title,"Crie o seu próprio pacote rapidamente e facilmente usando o nosso configurador.",pt_PT
+configurable_bundle_page.configurator.slot_page.back_link,"Voltar aos Pacotes",pt_PT
+agent_page.error.customer_already_logged_in,"Já está autenticado como cliente, por favor faça logout primeiro e depois prossiga.",pt_PT
+configurable_bundle_note.enter_note,"Adicione uma nota para o pacote configurado",pt_PT
+configurable_bundle_note.note,"Nota do Pacote Configurado:",pt_PT
+configurable_bundle_note.form.save,Guardar,pt_PT
+configurable_bundle_note.note_added,"Nota adicionada com sucesso ao pacote configurado",pt_PT
+sales_configured_bundle_widget.success.items_added_to_cart_as_individual_products,"Por favor, note: Os itens do Pacote Configurado foram adicionados ao Carrinho como produtos individuais.",pt_PT
+sales_configured_bundle_widget.returnable_state,"Não é possível devolver",pt_PT
+sales_configured_bundle_widget.quantity,Quantidade:,pt_PT
+configured_bundle_widget.items,Itens,pt_PT
+quantity_option.amount,"(= %value% %name%)",pt_PT
+customer.account.shopping_list_item.error.product_not_active,"Produto não está ativo.",pt_PT
+order_custom_reference.reference_saved,"A referência do pedido personalizado foi guardada com sucesso.",pt_PT
+order_custom_reference.reference_not_saved,"A referência do pedido personalizado não foi alterada.",pt_PT
+order_custom_reference.validation.error.message_invalid_length,"O comprimento de referência do pedido personalizado é inválido.",pt_PT
+order_custom_reference.title,"Referência de Pedido Personalizada",pt_PT
+order_custom_reference.form.placeholder,"Adicionar referência de pedido personalizada",pt_PT
+order_custom_reference.save,Guardar,pt_PT
+cart.item.sales_unit.not_found,"Unidade de venda não encontrada para o produto com SKU '%sku%'.",pt_PT
+cart.item.packaging_unit.not_found,"Unidade de embalagem não encontrada para o produto com SKU '%sku%'.",pt_PT
+quote_request_agent_page.checkout.step.save_rfq.title,"Guardar Pedido de Orçamento",pt_PT
+quote_request_page.quote_request.saved,"Pedido de cotação guardado com sucesso.",pt_PT
+quote_request_page.quote_request.actions.edit_address,"Editar Endereço",pt_PT
+quote_request_page.quote_request.actions.edit_shipment,"Editar Envio",pt_PT
+quote_request_page.quote_request.edit_address_confirm,"Está a editar o Pedido de Cotação <a href=""%link%"">%reference%</a> se o abandonar, todas as alterações serão perdidas.",pt_PT
+quote_request_page.quote_request.edit_shipment_confirm,"Está a editar o Pedido de Cotação <a href=""%link%"">%reference%</a> se o abandonar, todas as alterações serão perdidas.",pt_PT
+quote_request_page.quote_request.shipment_counter,"Envio %index% de %length%",pt_PT
+quote_request_page.quote_request.empty_shipment_data,"Não foi fornecido nenhum endereço de envio / método de envio.",pt_PT
+quote_request_page.quote_request.title_create,"Criar Pedido de Orçamento",pt_PT
+quote_request_page.quote_request.title_edit,"Editar #%id%",pt_PT
+quote_request_page.quote_request.title_attention,Atenção,pt_PT
+quote_request_page.quote_request.title_addresses,Endereços,pt_PT
+quote_request_page.quote_request.title_billing_address,"Morada de Faturação",pt_PT
+quote_request_page.quote_request.title_delivery_address,"Morada de entrega",pt_PT
+quote_request_page.quote_request.title_shipment_method,"Método de envio",pt_PT
+quote_request_page.quote_request.breadcrumb.create,Criar,pt_PT
+quote_request_page.quote_request.breadcrumb.edit,Editar,pt_PT
+quote_request_page.quote_request.breadcrumb.attention,Atenção,pt_PT
+quote_request_page.quote_request.multiple_delivery_address,"Múltiplos endereços de entrega.",pt_PT
+quote_request_page.quote_request.multiple_shipment_method,"Múltiplos métodos de envio.",pt_PT
+quote_request_page.quote_request.empty_page,"O seu Orçamento está vazio!",pt_PT
+quote_request_page.quote_request.empty_delivery_address,"Nenhum endereço de entrega adicionado.",pt_PT
+quote_request_page.quote_request.empty_address,"Nenhum endereço adicionado.",pt_PT
+quote_request_page.quote_request.empty_shipment_method,"Nenhum método de envio adicionado.",pt_PT
+quote_request_page.quote_request.cta_add_address,"Adicionar endereço",pt_PT
+quote_request_page.quote_request.cta_edit_address,"Editar endereço",pt_PT
+quote_request_page.quote_request.cta_add_shipment_method,"Adicionar método de envio",pt_PT
+quote_request_page.quote_request.cta_edit_shipment_method,"Editar método de envio",pt_PT
+quote_request_page.quote_request.item,"%count% item(s)",pt_PT
+quote_request_page.quote_request.shipments,Envios,pt_PT
+checkout.step.summary.shipment_costs_total,"Total de envio",pt_PT
+maintenance.search.gui_is_not_set_up,"Para poder inspecionar os dados de pesquisa, instale o módulo GUI adequado ao seu provedor de pesquisa (por exemplo, spryker/search-elasticsearch-gui para Elasticsearch).",pt_PT
+customer.order.number_of_items,"Número de itens",pt_PT
+customer.order.reference,Referência,pt_PT
+customer.order.email,Email,pt_PT
+customer.order.company_user,"Utilizador da Empresa",pt_PT
+customer.order_history.search_type.all,Todos,pt_PT
+customer.order_history.search_type.orderReference,"Referência do Pedido",pt_PT
+customer.order_history.search_type.itemName,"Nome do Produto",pt_PT
+customer.order_history.search_type.itemSku,"SKU do produto",pt_PT
+customer.order_history.search,Pesquisar,pt_PT
+customer.order_history.date_from,De,pt_PT
+customer.order_history.date_to,Para,pt_PT
+customer.order_history.apply,Aplicar,pt_PT
+customer.order_history.is_order_items_visible,"Mostrar produtos nos resultados da pesquisa",pt_PT
+customer.order_history.active_filters,"Filtros Ativos:",pt_PT
+customer.order_history.reset_all,"Repor Tudo",pt_PT
+company_page.label.business_unit,"Unidade de Negócio",pt_PT
+company_page.choice.my_orders,"As Minhas Encomendas",pt_PT
+company_page.choice.company_orders,"Encomendas da Empresa",pt_PT
+permission.name.SeeCompanyOrdersPermissionPlugin,"Ver encomendas da empresa",pt_PT
+permission.name.SeeBusinessUnitOrdersPermissionPlugin,"Ver encomendas da Unidade de Negócio",pt_PT
+return.return_reasons.damaged.name,Danificado,pt_PT
+return.return_reasons.wrong-item.name,"Item Errado",pt_PT
+return.return_reasons.no_longer_needed.name,"Não é mais necessário",pt_PT
+return.return_policy.returnable_till.message,"Devolução até: %date%",pt_PT
+return_page.default_title,Devoluções,pt_PT
+return_page.title,"Criar Devolução",pt_PT
+return_page.return_reasons.select_reason.placeholder,"Selecione o motivo",pt_PT
+return_page.return_reasons.custom_reason.placeholder,"Razão personalizada",pt_PT
+cart_page.error_message.unexpected_error,"Ocorreu um erro inesperado.",pt_PT
+order_invoice.invoice_template.table.number,Pos.,pt_PT
+order_invoice.invoice_template.table.quantity,Quantidade,pt_PT
+order_invoice.invoice_template.table.name,Item,pt_PT
+order_invoice.invoice_template.table.tax,"Taxa de imposto",pt_PT
+order_invoice.invoice_template.table.price,Preço,pt_PT
+order_invoice.invoice_template.table.subtotal,Subtotal,pt_PT
+order_invoice.invoice_template.table.discount,Desconto,pt_PT
+order_invoice.invoice_template.table.tax.included,"isto inclui %tax_rate%% de IVA líquido",pt_PT
+order_invoice.invoice_template.table.tax.name,IVA,pt_PT
+order_invoice.invoice_template.table.grandtotal,"Total geral",pt_PT
+order_invoice.invoice_template.reference,"Número de fatura:",pt_PT
+order_invoice.invoice_template.introduction,"Por este meio, cobramos-lhe pelos seguintes produtos:",pt_PT
+order_invoice.invoice_template.company.name,"Spryker Systems GmbH Berlim",pt_PT
+order_invoice.invoice_template.company.address,"Julie-Wolfthorn-Straße 1<br>10115 Berlim <br> Alemanha",pt_PT
+order_invoice.invoice_template.company.group,"Grupo empresarial Spryker Systems GmbH",pt_PT
+order_invoice.invoice_template.merchant.name,"Spryker Systems GmbH Berlim",pt_PT
+order_invoice.invoice_template.merchant.address,"Julie-Wolfthorn-Straße 1 + 10115 Berlim",pt_PT
+order_invoice.invoice_template.table.total.net,"Total líquido",pt_PT
+return_page.list.title,Devoluções,pt_PT
+return_page.account.no_return,"Neste momento não são aceites devoluções.",pt_PT
+return_page.return.return_ref,"Referência de Devolução",pt_PT
+return_page.return.order_ref,"Referência do Pedido",pt_PT
+return_page.return.number_of_items,"Número de itens",pt_PT
+return_page.return.date,"Data de Devolução",pt_PT
+return_page.return.items_state,"Estado dos itens",pt_PT
+return_page.return.view_return,"Ver Devolução",pt_PT
+return_page.return.print_return,"Imprimir Recibo",pt_PT
+return_page.breadcrumb.returns,Devoluções,pt_PT
+return_page.breadcrumb.create_return,"Criar Devolução",pt_PT
+return_page.details.page_title,"Detalhes de Devolução",pt_PT
+return_page.details.actions.back_to_list,"Voltar para a Lista",pt_PT
+return_page.details.actions.print_slip,"Imprimir Recibo",pt_PT
+return_page.details.total.items_to_return,"Itens a devolver",pt_PT
+return_page.details.total.items_to_return.count,itens,pt_PT
+return_page.details.total.remuneration_total,"Remuneração Total",pt_PT
+return_page.item.options,"Opções do produto:",pt_PT
+return_page.table.actions,Ações,pt_PT
+return_page.button.return_list,Devoluções,pt_PT
+return_page.return_reasons.title,Razão:,pt_PT
+—",pt_PT
+return_page.return.created,"Retorno criado com sucesso",pt_PT
+return_page.return.title,"Criar Devolução",pt_PT
+return_page.order_reference,"Referência do pedido:",pt_PT
+return_page.order_date,"Data do pedido:",pt_PT
+return_page.return_reference,"Ref. da devolução:",pt_PT
+return_page.return_date,"Data de devolução:",pt_PT
+return_page.button_text,"Criar Devolução",pt_PT
+return_page.item_sku,SKU:,pt_PT
+return_page.quantity,Quantidade:,pt_PT
+return_page.returnable_state,"Não é possível devolver",pt_PT
+return_page.create_return.validation.selected_items,"Pelo menos um produto deve ser selecionado.",pt_PT
+return_page.button.create_return,Regresso,pt_PT
+return_page.slip.return_reference,"Devolver Ref",pt_PT
+return_page.slip.return_date,"Data de Devolução",pt_PT
+return_page.slip.order_reference,"Referência do Pedido",pt_PT
+return_page.slip.barcode,"Código de barras",pt_PT
+return_page.slip.product_sku,"SKU do produto",pt_PT
+return_page.slip.product_name,"Nome do Produto",pt_PT
+return_page.slip.default_price,"Preço Padrão",pt_PT
+return_page.slip.quantity,Quantidade,pt_PT
+return_page.slip.total_price,"Preço Total",pt_PT
+return_page.slip.return_reason,"Motivo de Devolução",pt_PT
+return_page.slip.items_to_return,"Itens a Devolver",pt_PT
+return_page.slip.remuneration_total,"Remuneração Total",pt_PT
+sales_product_bundle_widget.returnable_text,"Devolução até:",pt_PT
+sales_product_bundle_widget.returnable_state,"Não é possível devolver",pt_PT
+sales_product_bundle_widget.item_sku,SKU:,pt_PT
+sales_product_bundle_widget.quantity,Quantidade:,pt_PT
+sales_product_bundle_widget.item.options,"Opções do produto:",pt_PT
+oms.state.new,Novo,pt_PT
+oms.state.waiting,"A aguardar",pt_PT
+oms.state.in-progress,"Em progresso",pt_PT
+oms.state.ready,Pronto,pt_PT
+oms.state.canceled,Cancelado,pt_PT
+oms.state.closed,Fechado,pt_PT
+oms.state.draft,Rascunho,pt_PT
+oms.state.payment-pending,"Pagamento pendente",pt_PT
+oms.state.paid,Pago,pt_PT
+oms.state.confirmed,Confirmado,pt_PT
+oms.state.exported,Exportado,pt_PT
+oms.state.shipped,Enviado,pt_PT
+oms.state.delivered,Entregue,pt_PT
+oms.state.ready-for-return,"Pronto para devolução",pt_PT
+oms.state.refunded,Reembolsado,pt_PT
+oms.state.returned,Devolvido,pt_PT
+oms.state.waiting-for-return,"À espera de resposta",pt_PT
+oms.state.shipped-to-customer,"Enviado para o cliente",pt_PT
+oms.state.sent-to-merchant,"Enviado para o comerciante",pt_PT
+oms.state.shipped-by-merchant,"Enviado pelo vendedor",pt_PT
+oms.state.return-canceled,"Devolução cancelada",pt_PT
+oms.state.invoice-generated,"Fatura gerada",pt_PT
+oms.state.reservation-cancelled,"Reserva Cancelada",pt_PT
+oms.state.reservation-cancellation-pending,"Cancelamento de Reserva Pendente",pt_PT
+return.create_return.validation.returnable_items_error,"Não é possível efetuar a devolução, pois o pedido contém itens não elegíveis para devolução.",pt_PT
+return.create_return.validation.store_error,"Não é possível criar uma devolução - foi selecionada uma loja errada.",pt_PT
+return.create_return.validation.items_error,"Não é possível criar uma devolução para este conjunto de itens.",pt_PT
+form.csrf.error.text,"Algo correu mal. Desculpe.",pt_PT
+checkbox-select-all.title,"Selecionar Tudo",pt_PT
+sales.error.customer_order_not_found,"Encomenda do cliente não encontrada.",pt_PT
+sales.error.order_cannot_be_canceled_due_to_wrong_item_state,"A encomenda não pode ser cancelada devido ao estado incorreto do item.",pt_PT
+order_cancel_widget.cancel_order,"Cancelar Encomenda",pt_PT
+order_cancel_widget.order.cancelled,"A encomenda foi cancelada com sucesso.",pt_PT
+product_cart_item.remove,"× remover",pt_PT
+mail.trans.availability_notification.subtitle,"A espera acabou! Adicione este produto ao seu carrinho agora.",pt_PT
+mail.trans.availability_notification.title.part2,"está disponível novamente!",pt_PT
+mail.trans.availability_notification_subscription.subtitle,"Receberá um email quando o produto estiver disponível novamente.",pt_PT
+mail.trans.availability_notification_subscription.title,"Acabamos de informar a nossa equipa de compras sobre a sua subscrição!",pt_PT
+mail.trans.availability_notification_unsubscribed.subtitle,"Não será notificado quando o produto estiver disponível novamente.",pt_PT
+mail.trans.availability_notification_unsubscribed.title.part1,"A sua subscrição para\n",pt_PT
+mail.trans.availability_notification_unsubscribed.title.part2,"foi cancelado",pt_PT
+mail.trans.common.go_to_shop,"Ir para a loja",pt_PT
+mail.trans.common.hello_for_first_name,Olá,pt_PT
+mail.trans.common.my_account,"A minha conta",pt_PT
+mail.trans.customer_registration.change_info,"Pode alterar as suas informações (morada de entrega, endereço de email, palavra-passe, etc.) em A Minha Conta.",pt_PT
+mail.trans.customer_registration.registration_success,"O seu registo na loja Spryker foi bem-sucedido!",pt_PT
+mail.trans.customer_registration.title,"Obrigado por se inscrever na Spryker Shop!",pt_PT
+mail.trans.customer_restored_password_confirmation.title,"A sua palavra-passe foi alterada com sucesso.",pt_PT
+mail.trans.customer_restore_password.change_password,"Alterar senha",pt_PT
+mail.trans.customer_restore_password.subtitle,"Alguém solicitou uma nova senha para a sua conta na loja Spryker. Se não foi você, por favor, ignore este e-mail. Se foi você, por favor, siga as instruções no botão abaixo.",pt_PT
+mail.trans.customer_restore_password.title,"Nova palavra-passe para a sua conta na loja Spryker",pt_PT
+mail.trans.footer.contact_email_address,info@spryker.com,pt_PT
+mail.trans.footer.if_you_have_further_questions,"Se tiver alguma dúvida adicional, por favor entre em contato com o nosso serviço de apoio ao cliente em",pt_PT
+mail.trans.footer.shop_address,"Julie-Wolfthorn-Strasse 1",pt_PT
+mail.trans.footer.shop_city,Berlim,pt_PT
+mail.trans.footer.shop_name,"Spryker Systems GmbH",pt_PT
+mail.trans.footer.shop_phone,"+49 (0) 30 208 498 350",pt_PT
+mail.trans.footer.shopping_experience,"Desfrute da sua experiência de compras.",pt_PT
+mail.trans.footer.shop_zip_code,10115,pt_PT
+mail.trans.footer.your_team,"A sua equipa Spryker!",pt_PT
+mail.trans.header.shop_name,"Spryker Loja",pt_PT
+mail.trans.newsletter_subscribed.subtitle,"Faremos o nosso melhor para fornecer as notícias e atualizações mais relevantes e empolgantes.",pt_PT
+mail.trans.newsletter_subscribed.title,"Estamos entusiasmados por teres subscrevido a nossa newsletter.",pt_PT
+mail.trans.newsletter_unsubscribed.subtitle,"O seu endereço de email foi removido da newsletter da loja Spryker. Pode sempre gerir a sua subscrição no seu perfil de cliente.",pt_PT
+mail.trans.newsletter_unsubscribed.title,"Lamentamos vê-lo partir...",pt_PT
+mail.trans.order.billing_address,"Morada de faturação",pt_PT
+mail.trans.order.delivery_address,"Morada de entrega",pt_PT
+mail.trans.order.delivery_method,"Método de envio",pt_PT
+mail.trans.order.discounts_total,Descontos,pt_PT
+mail.trans.order.grand_total,"Total Geral",pt_PT
+mail.trans.order.order_date,"Data do pedido",pt_PT
+mail.trans.order.order_details,"Detalhes do pedido",pt_PT
+mail.trans.order.order_reference,"Referência do pedido",pt_PT
+mail.trans.order.quantity,Quantidade,pt_PT
+mail.trans.order.requested_delivery_date,"Data de entrega solicitada",pt_PT
+mail.trans.order.shipment_costs_total,"Custos de envio (total)",pt_PT
+mail.trans.order.shipment_for_number.part1,Envio,pt_PT
+mail.trans.order.shipment_for_number.part2,de,pt_PT
+mail.trans.order.subtotal,Subtotal,pt_PT
+mail.trans.order.taxes,Impostos,pt_PT
+mail.trans.order_confirmation.subtitle,"Escrevemos para informar que recebemos o seu pedido. Você pode esperar uma confirmação de envio por e-mail assim que o pedido for enviado. Esperamos que goste do seu pedido, mas se mudar de ideia, por favor devolva-o dentro de 14 dias.",pt_PT
+mail.trans.order_confirmation.title,"Obrigado por comprar na loja Spryker!",pt_PT
+mail.trans.restore_password.change_password,"Alterar senha",pt_PT
+mail.trans.restore_password.subtitle,"Alguém solicitou uma nova senha para a sua conta do Spryker Back Office. Se não foi você, por favor, ignore este e-mail. Se foi você, por favor, siga as instruções no botão abaixo.",pt_PT
+mail.trans.restore_password.title,"Nova palavra-passe para a sua conta do Back Office Spryker",pt_PT
+mail.trans.order_shipped.title,"A sua encomenda está a caminho!",pt_PT
+mail.trans.company_status.title,"O estado da sua empresa foi alterado para",pt_PT
+mail.trans.customer_registration.confirmation_link,"Valide o seu endereço de email",pt_PT
+password.weak,Fraco,pt_PT
+password.medium,Médio,pt_PT
+password.strong,Forte,pt_PT
+password.very_strong,"Muito forte",pt_PT
+password.message,"Tente aumentar a senha ou adicionar números ou símbolos.",pt_PT
+customer.password.error.deny_list,"Esta senha é considerada comum. Por favor, use outra.",pt_PT
+customer.password.error.sequence,"Repetiu o mesmo carácter demasiadas vezes.",pt_PT
+customer.password.error.character_set,"A palavra-passe deve conter pelo menos 1 caractere de cada grupo de caracteres permitidos: maiúsculas, minúsculas, dígitos e um caractere especial.",pt_PT
+error.429,"Demasiados Pedidos",pt_PT
+security_blocker_page.error.account_blocked,"Demasiadas tentativas de início de sessão a partir do seu endereço. Por favor, aguarde %minutes% minutos antes de tentar novamente.",pt_PT
+security_blocker_backoffice_gui.error.account_blocked,"Demasiadas tentativas de início de sessão a partir do seu endereço. Por favor, aguarde %minutes% minutos antes de tentar novamente.",pt_PT
+security_blocker_merchant_portal_gui.error.account_blocked,"Demasiadas tentativas de início de sessão a partir do seu endereço. Por favor, aguarde %minutes% minutos antes de tentar novamente.",pt_PT
+payment_foreign.thank_you,Obrigado,pt_PT
+payment_foreign.go_to_my_account,"Ir para ""A Minha Conta""",pt_PT
+payment_foreign.success.order.placement.message,"A sua encomenda foi paga com sucesso. Irá receber o email de confirmação da sua encomenda dentro de alguns minutos. Pode verificar e acompanhar a sua encomenda na sua conta.",pt_PT
+customer.login.remember_me,Lembrar-me,pt_PT
+merchant.sold_by,"Vendido por:",pt_PT
+merchant_search_widget.all_merchants,"Todos os Comerciantes",pt_PT
+merchant_search_widget.merchants,Comerciantes,pt_PT
+merchant_profile.email,"Endereço de Email",pt_PT
+merchant_profile.address,Morada,pt_PT
+merchant_profile.phone,Telefone,pt_PT
+merchant_profile.terms_and_conditions,"Termos e Condições",pt_PT
+merchant_profile.cancellation_policy,"Política de Cancelamento",pt_PT
+merchant_profile.imprint,Impressão,pt_PT
+merchant_profile.privacy,"Privacidade de Dados",pt_PT
+merchant_profile.delivery_time,"Tempo de Entrega",pt_PT
+merchant_product.message.invalid,"Produto ""%sku%"" com o Comerciante ""%merchant_reference%"" não encontrado.",pt_PT
+merchant_product.sold_by,"Vendido por",pt_PT
+merchant_product_offer.view_seller,"Ver Vendedor",pt_PT
+merchant_product_offer.sold_by,"Vendido por",pt_PT
+merchant_product_offer_widget.merchant_name,Comerciante,pt_PT
+product-offer.info.product-offer-inactive.removed,"O item inativo %sku% foi removido do seu carrinho de compras.",pt_PT
+product-offer.info.reference.invalid,"Referência de oferta de produto não encontrada para o produto com SKU '%sku%'.",pt_PT
+product-offer.message.not-active-or-approved,"Oferta de produto não ativa para o produto com SKU '%sku%'.",pt_PT
+merchant_weekday_schedule.new_year,"Dia de Ano Novo",pt_PT
+merchant_weekday_schedule.good_friday,"Sexta-feira Santa",pt_PT
+merchant_weekday_schedule.easter_sunday,"Domingo de Páscoa",pt_PT
+merchant_weekday_schedule.easter_monday,"Segunda-feira de Páscoa",pt_PT
+merchant_weekday_schedule.may_day,"Dia do Trabalhador",pt_PT
+merchant_weekday_schedule.ascension_of_christ,"Ascensão de Cristo",pt_PT
+merchant_weekday_schedule.whit_sunday,"Domingo de Pentecostes",pt_PT
+merchant_weekday_schedule.whit_monday,"Segunda-feira de Pentecostes",pt_PT
+merchant_weekday_schedule.corpus_christi,"Corpo de Deus",pt_PT
+merchant_weekday_schedule.day_of_german_unity,"Dia da Unidade Alemã",pt_PT
+merchant_weekday_schedule.all_saints_day,"Dia de Todos os Santos",pt_PT
+merchant_weekday_schedule.1st_christmas_day,"1º dia de Natal",pt_PT
+merchant_weekday_schedule.2nd_christmas_day,"2º dia de Natal",pt_PT
+merchant_weekday_schedule.sunday_opening,"Abertura aos domingos",pt_PT
+merchant_opening_hours.opening_hours_title,"Horário de Funcionamento",pt_PT
+merchant_opening_hours.special_opening_hours_title,"Horário de Abertura Especial",pt_PT
+merchant_opening_hours.public_holidays_title,"Feriados públicos",pt_PT
+merchant_opening_hours.opening_hours_closed,Fechado,pt_PT
+merchant_opening_hours.day.title.monday,Segunda-feira,pt_PT
+merchant_opening_hours.day.title.tuesday,Terça-feira,pt_PT
+merchant_opening_hours.day.title.wednesday,Quarta-feira,pt_PT
+merchant_opening_hours.day.title.thursday,Quinta-feira,pt_PT
+merchant_opening_hours.day.title.friday,Sexta-feira,pt_PT
+merchant_opening_hours.day.title.saturday,Sábado,pt_PT
+merchant_opening_hours.day.title.sunday,Domingo,pt_PT
+checkout.item.option.pre.condition.validation.error.exists,"A opção de produto %name% já não está disponível.",pt_PT
+product.filter.merchant_name,Comerciante,pt_PT
+merchant_sales_order.merchant_order_id,"ID do Pedido do Comerciante",pt_PT
+merchant_sales_return.message.items_from_different_merchant_detected,"Existem produtos de diferentes comerciantes no seu pedido. Só pode devolver produtos de um comerciante de cada vez.",pt_PT
+merchant_sales_return_widget.create_form.different_merchants_info,"Existem produtos de diferentes comerciantes no seu pedido. Só pode devolver produtos de um comerciante de cada vez.",pt_PT
+shopping_list.pre.check.product_offer,"Oferta de produto não encontrada.",pt_PT
+shopping_list.pre.check.product_offer.approved,"A oferta de produto não está aprovada.",pt_PT
+shopping_list.pre.check.product_offer.is_active,"A oferta do produto não está ativa.",pt_PT
+shopping_list.pre.check.product_merchant_inactive,"O comerciante está inativo.",pt_PT
+shopping_list.pre.check.product_merchant_not_approved,"O comerciante não está aprovado.",pt_PT
+shopping_list.pre.check.product_offer.store_invalid,"A oferta do produto não é igual à loja atual.",pt_PT
+shopping_list.pre.check.product.store_invalid,"O produto não é igual à loja atual.",pt_PT
+sales-order-threshold.hard-minimum-threshold.us.usd.message,"Deve adicionar itens no valor de {{threshold}} para atingir o limite recomendado. Não é possível prosseguir com a compra.",pt_PT
+sales-order-threshold.hard-maximum-threshold.us.usd.message,"O valor do carrinho não pode ser superior a {{threshold}}. Por favor, remova alguns itens para prosseguir com a encomenda.",pt_PT
+sales-order-threshold.soft-minimum-threshold.us.usd.message,"Precisa adicionar itens no valor de {{threshold}} para atingir um limite recomendado, mas se preferir, pode prosseguir para o checkout.",pt_PT
+countries.iso.US,"Estados Unidos da América",pt_PT
+product_bundle_product_detail_page_items_list_widget.title.bundle_includes,"Pacote inclui",pt_PT
+product_configuration.checkout.validation.error.is_not_complete,"A configuração do produto não está concluída.",pt_PT
+product_configuration.validation.error.not_valid_response_checksum,"Não foi fornecido um checksum de resposta válido.",pt_PT
+product_configuration.validation.error.expired_timestamp,"Foi fornecido um carimbo de data/hora expirado.",pt_PT
+product_configuration.access_token.request.error.can_not_obtain_access_token,"Não é possível obter o token de acesso",pt_PT
+product_configuration.error.configured_item_not_found_in_cart,"Produto configurado '%sku%' não foi encontrado.",pt_PT
+product_configuration.error.availability.failed,"O produto tem uma disponibilidade de %availability%.",pt_PT
+product_configuration.response.validation.error,"Falha ao validar a resposta do configurador de produtos.",pt_PT
+product_configuration.error.configuration_not_found,"A configuração do produto não foi encontrada para o produto '%sku%'.",pt_PT
+product_configuration_storage.validation.error.group_key_is_not_provided,"A chave do grupo deve ser fornecida.",pt_PT
+product_configuration_widget.configure,Configurar,pt_PT
+product_configuration_widget.complete,"Configuração concluída!",pt_PT
+product_configuration_widget.not_complete,"A configuração não está completa.",pt_PT
+product_configuration_widget.quote_not_valid,"Este carrinho não pode ser processado. Por favor, configure os itens dentro do carrinho.",pt_PT
+product_configuration.quote_request.validation.error.incomplete,"Deve concluir a configuração dos produtos para validar o orçamento.",pt_PT
+product_configuration_shopping_list.error.configuration_not_found,"A configuração do produto não foi encontrada para o item da lista de compras '%uuid%'.",pt_PT
+product_configuration_shopping_list.error.item_not_found,"Item da lista de compras não encontrado.",pt_PT
+product_configurator_gateway_page.source_type_not_blank,"A origem é um parâmetro obrigatório.",pt_PT
+product_configurator_gateway_page.sku_not_blank,"O SKU do produto é um parâmetro obrigatório.",pt_PT
+product_configurator_gateway_page.configurator_key_not_blank,"A chave do configurador é um parâmetro obrigatório.",pt_PT
+product_configurator_gateway_page.quantity_required,"Quantidade é um parâmetro obrigatório.",pt_PT
+product_configurator_gateway_page.item_group_key_required,"A chave de grupo é um parâmetro obrigatório.",pt_PT
+product_configurator_gateway_page.shopping_list_item_uuid_required,"O ID do item da lista de compras é um parâmetro obrigatório.",pt_PT
+product_configurator_gateway_page.configurator_key_is_not_supported,"A chave do configurador não é suportada.",pt_PT
+demo_date_time_configurator_page.checkout.validation.error.price_is_not_valid,"O preço da configuração do produto não é válido.",pt_PT
+permission.name.SeeCompanyUsersPermissionPlugin,"Ver utilizadores da empresa",pt_PT
+store_widget.switcher.store,Loja:,pt_PT
+store.validation.store_not_found,"Loja não encontrada",pt_PT

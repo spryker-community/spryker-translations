@@ -1,0 +1,35 @@
+"Add Company Role",添加公司用户角色
+"Assigned Permissions",已分配权限
+"Assigned Roles",已分配角色
+"Back to Roles",返回角色
+"Company Account",公司账户
+"Company Business Unit",公司业务单元
+"Company role deletion confirmation",确认删除公司角色
+"Company Roles",公司角色
+"Create Company Role",创建公司角色
+"Create role",创建角色
+"Edit Company Role",编辑公司角色
+"Is Default",是否默认
+"It will be deleted from everywhere",将从所有地方删除
+"List of Company Roles",公司角色列表
+"Overview of Company Roles",公司角色概述
+"Role ID",角色ID
+Roles,角色
+"Unassigned Permissions",未分配权限
+"Unassigned Roles",未分配角色
+"Update role",更新角色
+"You are trying to delete company role",您正在尝试删除公司角色
+"Select company",选择公司
+"Please select an item in the list.",请在列表中选择一个项目。
+"Company role has been successfully created",公司角色已成功创建
+"Company role has been successfully updated",公司角色已成功更新
+"Delete company role",删除公司角色
+"Company role has been successfully removed",公司角色已成功移除
+"You can not delete a default role, please set another default role before delete action",您不能删除默认角色，请在删除操作之前设置另一个默认角色。
+"Company Name",公司名称
+Name,名称
+Actions,操作
+Delete,删除
+Edit,编辑
+Company,公司
+"At least one role must be assigned to a user.",至少必须分配一个角色给用户。

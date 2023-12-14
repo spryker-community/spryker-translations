@@ -1,0 +1,1501 @@
+cart.remove.items.success,"Producten zijn succesvol verwijderd",nl_NL
+cart.add.items.error.text,"Er is iets misgegaan. Sorry.",nl_NL
+cart.add.items.success,"Items succesvol toegevoegd",nl_NL
+cart.your-order,"Je bestelling",nl_NL
+cart.product-option,Productopties,nl_NL
+cart.price,Prijs,nl_NL
+cart.shipping.order-item,Verzending,nl_NL
+cart.shipping,Verzending,nl_NL
+cart.total,Totaal,nl_NL
+cart.checkout,Afrekenen,nl_NL
+cart.empty,"Uw winkelwagen is leeg!",nl_NL
+cart.cart,Winkelwagen,nl_NL
+cart.total.discount,Korting,nl_NL
+cart.vouchers,Vouchers,nl_NL
+cart.discounts,Kortingen,nl_NL
+cart.sales-order-threshold,"Minimale bestelwaarde",nl_NL
+cart.title.available_discounts,"Beschikbare kortingen",nl_NL
+checkout.sales-order-threshold,"Minimale bestelwaarde",nl_NL
+sales-order-threshold.expense.name,Toeslag,nl_NL
+sales-order-threshold.strategy.soft-minimum-threshold-fixed-fee,Toeslag,nl_NL
+sales-order-threshold.strategy.soft-minimum-threshold-flexible-fee,Toeslag,nl_NL
+cart.item_quantity,Aantal,nl_NL
+cart.item_attributes_needed,"Selecteer alstublieft meer attributen",nl_NL
+cart.voucher.redeem,"Code inwisselen",nl_NL
+cart.price.subtotal,Totaalbedrag,nl_NL
+cart.price.grand.total,Totaalbedrag,nl_NL
+cart.total.tax_total,Belasting,nl_NL
+cart.total.tax_total.calculated_at_checkout,"berekend bij het afrekenen",nl_NL
+sales-order-threshold.hard-minimum-threshold.de.eur.message,"Je moet items toevoegen voor {{threshold}} om een aanbevolen drempel te halen. Je kunt niet doorgaan met afrekenen.",nl_NL
+sales-order-threshold.hard-minimum-threshold.de.chf.message,"Je moet items toevoegen voor {{threshold}} om een aanbevolen drempel te halen. Je kunt niet doorgaan met afrekenen.",nl_NL
+sales-order-threshold.hard-maximum-threshold.de.eur.message,"De waarde van het winkelwagentje kan niet hoger zijn dan {{threshold}}. Verwijder alstublieft enkele items om door te gaan met de bestelling.",nl_NL
+sales-order-threshold.hard-maximum-threshold.de.chf.message,"De waarde van het winkelwagentje kan niet hoger zijn dan {{threshold}}. Verwijder alstublieft enkele items om door te gaan met de bestelling.",nl_NL
+sales-order-threshold.soft-minimum-threshold.de.eur.message,"Je moet {{threshold}} items toevoegen om een aanbevolen drempel te halen, maar je kunt wel doorgaan naar de kassa als je wilt.",nl_NL
+sales-order-threshold.soft-minimum-threshold.de.chf.message,"Je moet {{threshold}} items toevoegen om een aanbevolen drempel te halen, maar je kunt wel doorgaan naar de kassa als je wilt.",nl_NL
+auth.login,Aanmelden,nl_NL
+auth.password,Wachtwoord,nl_NL
+auth.password-forgot,Vergeten?,nl_NL
+auth.email,E-mail,nl_NL
+auth.register,Registreren,nl_NL
+auth.im-new-customer,"Nieuwe klant",nl_NL
+auth.im-already-customer,"Ik heb al een account",nl_NL
+navigation.menu.categories,Categorieën,nl_NL
+navigation.menu.have-a-look,"Het is de moeite waard om te bekijken.",nl_NL
+page.checkout.errors,"Controleer alstublieft uw invoer.",nl_NL
+page.checkout.client.existing,"Bestaande klant",nl_NL
+page.checkout.client.new,"Nieuwe klant",nl_NL
+customer.password,Wachtwoord,nl_NL
+password.confirm,"Bevestig wachtwoord",nl_NL
+page.checkout.address.heading,"1. Adresgegevens",nl_NL
+page.checkout.address.name,Naam,nl_NL
+page.checkout.address.billing-address,Factuuradres,nl_NL
+page.checkout.address.billing-isnt-shipping-address,"Ander afleveradres",nl_NL
+page.checkout.address.shipping-address,Afleveradres,nl_NL
+page.checkout.address.address-example,"Voorbeeld:</br>Wayne Manor 1</br>10292 Gotham City</br>t.a.v. Alfred Pennyworth",nl_NL
+page.checkout.address.next-step,"Doorgaan naar verzendmethode",nl_NL
+page.checkout.address.edit,"Adresgegevens bewerken",nl_NL
+page.checkout.address.use_selected_address,"Gebruik geselecteerd adres",nl_NL
+page.checkout.address.different_delivery_address,"Gebruik een ander afleveradres",nl_NL
+page.checkout.address.different_billing_address,"Gebruik een ander factuuradres",nl_NL
+page.checkout.address.option_group.customer,Klantadressen,nl_NL
+page.checkout.address.option_group.company_business_unit,"Zakelijke adressen",nl_NL
+page.checkout.address.delivery.address_select,"Selecteer een bezorgadres",nl_NL
+page.checkout.address.billing.address_select,"Selecteer een factuuradres",nl_NL
+page.checkout.address.manage_your_addresses,"Beheer uw adressen",nl_NL
+page.checkout.address.address_select.label,"Selecteer een bezorgadres",nl_NL
+page.checkout.address.address_select.placeholder,"Selecteer een adres",nl_NL
+page.checkout.address.multi_shipment.title,"Wijs elk product toe aan zijn eigen afleveradres.",nl_NL
+page.checkout.shipment.heading,"2. Verzendmethode",nl_NL
+shipment.standart.name,Standaard,nl_NL
+shipment.express.name,Express,nl_NL
+shipment.standart.description,"2-4 werkdagen",nl_NL
+page.checkout.shipping.delivery_time,Levertijd:,nl_NL
+page.checkout.shipping.day,dag,nl_NL
+page.checkout.shipping.days,dagen,nl_NL
+page.checkout.shipping.price,Prijs:,nl_NL
+shipment.express.description,"24-48 uur (werkdagen)",nl_NL
+page.checkout.shipment.edit,"Bewerk verzendmethode",nl_NL
+page.checkout.shipment.next-step,"Doorgaan naar betaalmethode",nl_NL
+page.checkout.shipment.item.quantity,Bedrag,nl_NL
+page.checkout.shipment.item.price,Prijs,nl_NL
+page.checkout.shipment.shipping_address.title,Afleveradres,nl_NL
+page.checkout.shipment.requested_delivery_date.label,"Gewenste leveringsdatum",nl_NL
+page.checkout.shipment.requested_delivery_date.placeholder,"Laat het leeg als je het zo snel mogelijk wilt hebben.",nl_NL
+page.checkout.shipment.requested_delivery_date.title,"Wanneer wilt u bezorgd worden?",nl_NL
+page.checkout.shipment.shipment_group_heading,"Verzending %current% van %total%",nl_NL
+page.checkout.shipment.shipping_method_heading,Verzendmethode,nl_NL
+page.checkout.payment.heading,"3. Betaalmethode",nl_NL
+page.checkout.payment.edit,"Bewerk Betaalmethode",nl_NL
+page.checkout.payment.next-step,"Doorgaan om de bestelling af te ronden",nl_NL
+page.checkout.summary.products,Producten,nl_NL
+page.checkout.summary.billing,Factuuradres,nl_NL
+page.checkout.summary.shipping,Verzendadres,nl_NL
+page.checkout.summary.date_of_birth,Geboortedatum,nl_NL
+page.checkout.summary.card_type,Kaarttype,nl_NL
+page.checkout.summary.card_number,Kaartnummer,nl_NL
+page.checkout.summary.name_on_card,"Naam op de kaart",nl_NL
+page.checkout.summary.card_expires,Vervaldatum,nl_NL
+page.checkout.summary.complete_checkout,"Afrekenen afronden",nl_NL
+page.checkout.summary.accept_terms_and_conditions,"Ik accepteer de algemene voorwaarden",nl_NL
+page.checkout.finalize.heading,"4. Controleer en voltooi bestelling",nl_NL
+shipment.international.parcel.service,"Internationale Pakketdiensten",nl_NL
+page.checkout.terms,"Ik accepteer de algemene voorwaarden.",nl_NL
+page.checkout.finalize.enter-voucher,"Voer de kortingscode in",nl_NL
+page.checkout.finalize.tos,"Met een klik op de knop ""Nu kopen"" bevestig ik de algemene voorwaarden.",nl_NL
+page.checkout.finalize.buy-now,"Nu kopen",nl_NL
+page.detail.add-to-cart,"Toevoegen aan winkelwagen",nl_NL
+page.detail.dimensions,Afmetingen,nl_NL
+page.product.by,door,nl_NL
+page.product.details,Details,nl_NL
+page.product.similar-products,"Misschien vind je dit ook leuk",nl_NL
+page.imprint.url,/nl/impressum,nl_NL
+page.imprint.title,Contactgegevens,nl_NL
+page.terms.url,/nl/algemene-voorwaarden,nl_NL
+page.terms.title,AVV,nl_NL
+page.privacy.url,/nl/privacy,nl_NL
+page.privacy.title,Gegevensprivacy,nl_NL
+catalog.currency,€,nl_NL
+catalog.filter.filter,"Filters / Sorting",nl_NL
+catalog.filter.button,Toepassen,nl_NL
+catalog.filter.active,"Actieve filter",nl_NL
+catalog.filter.main_color,Kleur,nl_NL
+catalog.filter.extras,"Andere kenmerken",nl_NL
+catalog.filter.pricerangeFrom,vanaf,nl_NL
+catalog.filter.pricerangeTo,naar,nl_NL
+catalog.filter.rangeFrom,"Assortiment van",nl_NL
+catalog.filter.rangeTo,naar,nl_NL
+catalog.filter.show,"filter invoegen",nl_NL
+catalog.filter.hide,"verberg filter",nl_NL
+catalog.filter.rating_up,"& Omhoog",nl_NL
+catalog.filter.active_rating_up,"Sterren en hoger",nl_NL
+catalog.filter.per,"Per Pagina",nl_NL
+catalog.itemsFound,Resultaten,nl_NL
+catalog.loading,Laden,nl_NL
+catalog.next,doorgaan,nl_NL
+catalog.prev,terug,nl_NL
+catalog.sort,Sorteren,nl_NL
+catalog.sort.relevance,"Sorteer op relevantie",nl_NL
+catalog.sort.name_asc,"Sorteer op naam oplopend",nl_NL
+catalog.sort.name_desc,"Sorteer op naam aflopend",nl_NL
+catalog.sort.price_asc,"Sorteer op prijs oplopend",nl_NL
+catalog.sort.price_desc,"Sorteer op prijs aflopend",nl_NL
+catalog.sort.rating,"Sorteer op productbeoordelingen",nl_NL
+catalog.filter.activeFilters,"Actieve filters",nl_NL
+catalog.filter.resetAllFilters,"Alle filters resetten",nl_NL
+catalog.no-results,"Geen resultaten.",nl_NL
+product.filter.category,Categorieën,nl_NL
+product.filter.price,Prijs,nl_NL
+product.filter.rating,Beoordelingen,nl_NL
+shipment.dhl,DHL,nl_NL
+shipment.dhl.paket.name,Pakket,nl_NL
+shipment.dhl.paket.description,"DHL Paket is de eenvoudige, betaalbare, snelle en betrouwbare verzendservice naar meer dan 220 landen over de hele wereld.",nl_NL
+shipment.dhl.express.name,Express,nl_NL
+shipment.dhl.express.description,"Onze kracht van 100.000 betrokken medewerkers werkt wereldwijd. Lokale kennis en ons unieke netwerk maken ons uw Internationale Specialisten.",nl_NL
+shipment.dpd,DPD,nl_NL
+shipment.hermes,Hermes,nl_NL
+customer.first_name,Voornaam,nl_NL
+customer.last_name,Achternaam,nl_NL
+customer.salutation.mr,Dhr.,nl_NL
+customer.salutation.mrs,Mevrouw.,nl_NL
+customer.salutation.ms,Mevrouw.,nl_NL
+customer.salutation.dr,Dr.,nl_NL
+customer.salutation.invalid,"Aanhef is ongeldig.",nl_NL
+customer.billing_address.salutation.invalid,"Aanhef is ongeldig.",nl_NL
+customer.shipping_address.salutation.invalid,"Aanhef is ongeldig.",nl_NL
+customer.birth_date,"Geboortedatum (DD.MM.JJJJ)",nl_NL
+customer.email,E-mail,nl_NL
+customer.phone,Telefoonnummer,nl_NL
+customer.reset.password.error.already.loggedIn,"Een andere klant is al ingelogd. Log uit om uw wachtwoord opnieuw in te stellen.",nl_NL
+payment.prepay,Vooruitbetaling,nl_NL
+payment.paypal,PayPal,nl_NL
+payment.creditcard,Creditcard,nl_NL
+payment.invoice,Factuur,nl_NL
+payment_foreign.thank_you,"Dank je wel",nl_NL
+payment_foreign.go_to_my_account,"Ga naar ""Mijn Account""",nl_NL
+payment_foreign.success.order.placement.message,"Uw bestelling is succesvol betaald. U ontvangt binnen enkele minuten een bevestigingsmail van uw bestelling. U kunt uw bestelling controleren en volgen in uw account.",nl_NL
+address.street,Straat,nl_NL
+address.street_nr,Nummer,nl_NL
+address.city,Stad,nl_NL
+address.zip_code,Postcode,nl_NL
+page.checkout.create_account,"Maak een klantaccount aan",nl_NL
+whishlist.whishlist,Verlanglijst,nl_NL
+whishlist.remove,Verwijderen,nl_NL
+whishlist.reduce,Verminderen,nl_NL
+whishlist.increase,Verhoog,nl_NL
+whishlist.move.to.cart,"Naar winkelwagen gaan",nl_NL
+checkout.thank.you,"Dank je wel",nl_NL
+checkout.this.is.demoshop,"Dit is een demowinkel",nl_NL
+checkout.nothing.will.be.sent,"Daarom zal er natuurlijk niets worden verzonden!",nl_NL
+global.order.ascendent,A-Z,nl_NL
+global.order.descendent,Z-A,nl_NL
+global.close,Sluiten,nl_NL
+global.show,"Toon alles",nl_NL
+global.hide,Verbergen,nl_NL
+global.search,Zoeken,nl_NL
+global.search.results,Zoekresultaten,nl_NL
+global.search.spellingSuggestion,"Bedoelde u",nl_NL
+global.search.suggestions,Zoeksuggesties,nl_NL
+global.search.suggestion.in_products,Producten,nl_NL
+global.search.suggestion.in_categories,Categorieën,nl_NL
+global.search.suggestion.in_cms,Pagina's,nl_NL
+global.search.suggestion.no_result,"Niets gevonden...",nl_NL
+global.search.suggestion.see_all_products,"Bekijk alle producten",nl_NL
+global.spryker.shop,"Spryker Winkel",nl_NL
+global.spryker.motto,"technologie met kwaliteit",nl_NL
+global.payment_providers,Betalingsaanbieders,nl_NL
+global.shipment_providers,Verzendingsaanbieders,nl_NL
+global.get_in_touch,"Neem contact op",nl_NL
+global.newsletter,Nieuwsbrief,nl_NL
+global.categories,Categorieën,nl_NL
+global.company,Bedrijf,nl_NL
+global.social,"Sociale media",nl_NL
+global.home,Home,nl_NL
+global.email.address,E-mailadres,nl_NL
+global.password,Wachtwoord,nl_NL
+global.permission.failed,"Deze actie is verboden.",nl_NL
+global.recover.password,"Wachtwoord herstellen",nl_NL
+global.accept.terms.and.conditions,"Accepteer Algemene Voorwaarden",nl_NL
+global.login,Inloggen,nl_NL
+global.create.account,"Account aanmaken",nl_NL
+global.cart,Winkelwagen,nl_NL
+global.no_image_available,"Geen afbeelding beschikbaar",nl_NL
+global.add-to-cart,"Toevoegen aan winkelwagen",nl_NL
+global.benefit.free_returns,"Gratis retourneren",nl_NL
+global.benefit.warranty,"3 Jaar Garantie",nl_NL
+global.benefit.competitive_prices,"Concurrerende prijzen",nl_NL
+global.quantity_symbol,x,nl_NL
+global.partners,Partners,nl_NL
+error.404,"Fout 404",nl_NL
+error_page.title,"Pagina niet gevonden.",nl_NL
+error_page.home_link,"Ga naar de startpagina",nl_NL
+error_page.text,"We konden de pagina die je zoekt niet vinden.",nl_NL
+homepage.carousel.previous,Vorige,nl_NL
+homepage.carousel.next,Volgende,nl_NL
+customer.signup,"Nieuwe klant?",nl_NL
+customer.signin,Inloggen,nl_NL
+customer.logout,Afmelden,nl_NL
+customer.register,Registreren,nl_NL
+customer.login,Inloggen,nl_NL
+customer.login.email,E-mail,nl_NL
+customer.login.password,Wachtwoord,nl_NL
+customer.login.title,"Toegang tot uw account",nl_NL
+customer.registration.title,"Account aanmaken",nl_NL
+customer.account.no_order,"Geen bestellingen op dit moment",nl_NL
+customer.account,Klantaccount,nl_NL
+customer.account.contact,Contact,nl_NL
+customer.account.overview,Overzicht,nl_NL
+customer.account.profile_data,Profiel,nl_NL
+customer.account.address,Adressen,nl_NL
+customer.account.order_history,Bestelgeschiedenis,nl_NL
+customer.account.newsletter,Nieuwsbrief,nl_NL
+customer.account.last_orders,"Laatste Bestellingen",nl_NL
+customer.account.default_billing_address,"Standaard Factuuradres",nl_NL
+customer.account.please_specify_billing_address,"Gelieve het factuuradres op te geven.",nl_NL
+customer.account.default_shipping_address,"Standaard Verzendadres",nl_NL
+customer.account.please_specify_shipping_address,"Gelieve het verzendadres op te geven.",nl_NL
+customer.account.edit_address_information,"Adresgegevens bewerken",nl_NL
+customer.account.additional_addresses,"Extra adressen",nl_NL
+customer.account.button.add_new_address,"Nieuw adres toevoegen",nl_NL
+customer.account.add_new_address,"Nieuw adres definiëren",nl_NL
+customer.account.deliver_to_multiple_addresses,"Bezorgen op meerdere adressen",nl_NL
+customer.account.delete.error,"Account kan niet worden verwijderd.",nl_NL
+customer.newsletter.not_subscribed,"Geen nieuwsbriefabonnement",nl_NL
+customer.profile.order_history,"Laatste Bestellingen",nl_NL
+customer.account.no_orders,"Geen bestellingen op dit moment",nl_NL
+customer.address.updated,"Adres is succesvol bijgewerkt.",nl_NL
+customer.address.delete.success,"Adres succesvol verwijderd",nl_NL
+customer.address.added,"Adres is succesvol toegevoegd",nl_NL
+customer.address.first_name,Voornaam,nl_NL
+customer.address.last_name,Achternaam,nl_NL
+customer.address.company,Bedrijf,nl_NL
+customer.address.address1,Straat,nl_NL
+customer.address.address2,Huisnummer,nl_NL
+customer.address.address3,"Extra adresveld",nl_NL
+customer.address.zip_code,Postcode,nl_NL
+customer.address.city,Stad,nl_NL
+customer.address.country,Land,nl_NL
+customer.address.phone,Telefoon,nl_NL
+customer.address.is_default_billing,"Is standaard factuuradres",nl_NL
+customer.address.is_default_shipping,"Is standaard verzendadres",nl_NL
+customer.anonymization.success,"Uw account is succesvol verwijderd.",nl_NL
+customer.anonymization.failed,"Je account kon niet worden verwijderd.",nl_NL
+customer.authorization.success,"Bijna klaar! We sturen je een e-mail om je e-mailadres te valideren. Bevestig het alsjeblieft om in te kunnen loggen.",nl_NL
+customer.authorization.account_confirmed,"Uw e-mailadres is geverifieerd. Gelieve in te loggen om verder te gaan.",nl_NL
+customer.profile.change.success,"Profiel is succesvol opgeslagen",nl_NL
+customer.password.invalid_password,"Huidig wachtwoord is onjuist",nl_NL
+customer.password.invalid,"Wachtwoord is ongeldig",nl_NL
+customer.password.restore,"Stel een nieuw wachtwoord in",nl_NL
+customer.password.changed,"Je wachtwoord is succesvol gewijzigd.",nl_NL
+customer.token.invalid,"Token is ongeldig",nl_NL
+customer.forgotten-password.description,"Voer het e-mailadres in dat is gekoppeld aan uw account.",nl_NL
+customer.forgotten_password.email,E-mailadres,nl_NL
+customer.forgotten-password.title,"Herstel mijn wachtwoord",nl_NL
+customer.order.order_id,Bestelnummer,nl_NL
+customer.order.view_all,"Bekijk alles",nl_NL
+customer.order.all_orders,"Bekijk bestellingen",nl_NL
+customer.order.total,Totaal,nl_NL
+customer.order.view_order,"Bekijk bestelling",nl_NL
+customer.order.reorder,"Opnieuw bestellen",nl_NL
+customer.order.reorder_all,"Opnieuw bestellen",nl_NL
+customer.order.reorder_selected,"Geselecteerde items opnieuw bestellen",nl_NL
+customer.order.reorder.error.unable_to_reorder_items,"U kunt deze producten niet direct opnieuw bestellen, voeg ze alstublieft apart toe aan uw winkelwagen.",nl_NL
+customer.order.date,Besteldatum,nl_NL
+customer.order.item_sku,SKU,nl_NL
+customer.order.product_name,Productnaam,nl_NL
+customer.order.item_price,Prijs,nl_NL
+customer.order.item_quantity,Aantal,nl_NL
+customer.order.item_sum,"Totaal bedrag",nl_NL
+customer.order.subTotal,Totaalbedrag,nl_NL
+customer.order.taxTotal,Belasting,nl_NL
+customer.order.expenseTotal,"Verzendkosten (totaal)",nl_NL
+customer.order.shipment,Verzending,nl_NL
+customer.order.discount.total,Korting,nl_NL
+customer.order.grandTotal,Totaalbedrag,nl_NL
+customer.order.shipping_address,Verzendadres,nl_NL
+customer.order.billing_address,Factuuradres,nl_NL
+customer.order.shipment_method,Verzending,nl_NL
+customer.order.payment_method,Betaalmethode,nl_NL
+customer.order.products,Producten,nl_NL
+customer.order.delivery_method,Leveringsmethode,nl_NL
+customer.order.requested_delivery_date,"Gewenste leveringsdatum",nl_NL
+customer.order.payment,Betaling,nl_NL
+customer.order.complete_checkout,"Afrekenen afronden",nl_NL
+customer.order.items_state,"Items State",nl_NL
+customer.order.canceledTotal,"Geannuleerd bedrag",nl_NL
+customer.order.remunerationTotal,"Totaal vergoeding",nl_NL
+customer.order.refundTotal,Terugbetalingstotaal,nl_NL
+customer.order.delivery_address,Afleveradres,nl_NL
+customer.newsletter.subscription,Nieuwsbriefinstellingen,nl_NL
+customer.newsletter.subscription_agreement,"Ik ga akkoord met de nieuwsbriefabonnement",nl_NL
+customer.profile,"Mijn Account",nl_NL
+customer.profile.title,"Mijn Account",nl_NL
+customer.profile.link,"Mijn Profiel",nl_NL
+customer.profile.update,"Profiel bijwerken",nl_NL
+customer.profile.delete,"Account verwijderen",nl_NL
+customer.profile.delete.description,"Dit zal alle accountinformatie verwijderen.",nl_NL
+customer.profile.delete.confirmation_question,"Weet je zeker dat je je account wilt verwijderen?",nl_NL
+customer.profile.first_name,Voornaam,nl_NL
+customer.profile.last_name,Achternaam,nl_NL
+customer.profile.email,E-mail,nl_NL
+customer.profile.phone,Telefoon,nl_NL
+customer.profile.old_password,"Oud wachtwoord",nl_NL
+customer.profile.request.new_password,"Nieuw Wachtwoord",nl_NL
+customer.profile.confirm.new_password,"Bevestig nieuw wachtwoord",nl_NL
+customer.profile.address.edit,Bewerken,nl_NL
+customer.profile.address.delete,Verwijderen,nl_NL
+customer.profile.order_details,"Bestelling Details",nl_NL
+customer.profile.order_details.giftcard.label,Cadeaubon,nl_NL
+customer.password.update,"Wachtwoord wijzigen",nl_NL
+customer.password.old_password,"Oud wachtwoord",nl_NL
+customer.password.request.new_password,"Nieuw Wachtwoord",nl_NL
+customer.password.confirm.new_password,"Bevestig wachtwoord",nl_NL
+customer.table.actions,Acties,nl_NL
+profile.form.salutation,Aanhef,nl_NL
+customer.customer_id,ID,nl_NL
+forms.submit-btn,Verzenden,nl_NL
+forms.save-btn,Opslaan,nl_NL
+forms.submit.login,Inloggen,nl_NL
+forms.submit.register,Registreren,nl_NL
+forms.forgot-password,"Wachtwoord vergeten",nl_NL
+forms.first-name,Voornaam,nl_NL
+forms.last-name,Achternaam,nl_NL
+forms.email,E-mail,nl_NL
+forms.password,Wachtwoord,nl_NL
+forms.confirm-password,"Bevestig wachtwoord",nl_NL
+forms.accept_terms,"Accepteer voorwaarden",nl_NL
+address.salutation,Aanhef,nl_NL
+email.orderEmail.salutationMale,Dhr.,nl_NL
+email.orderEmail.salutationFemale,Mevrouw,nl_NL
+customer.login.failed,"Inloggen mislukt",nl_NL
+customer.email.already.used,"Als dit e-mailadres al in gebruik is, ontvangt u een link om uw wachtwoord opnieuw in te stellen. Anders moet u eerst uw e-mailadres valideren om de registratie te voltooien. Controleer alstublieft uw e-mail.",nl_NL
+general.back.button,Terug,nl_NL
+general.cancel.button,Annuleren,nl_NL
+general.edit.button,Bewerken,nl_NL
+newsletter.subscription.success,"Je hebt je succesvol geabonneerd op de nieuwsbrief.",nl_NL
+newsletter.unsubscription.success,"Je hebt je succesvol afgemeld voor de nieuwsbrief.",nl_NL
+newsletter.subscription.already_subscribed,"Je bent al geabonneerd op de nieuwsbrief.",nl_NL
+newsletter.subscription.email_format_invalid,"Ongeldige indeling van het e-mailadres",nl_NL
+customer.authentication.failed,"Authenticatie mislukt",nl_NL
+customer.email.invalid,"E-mailadres is ongeldig",nl_NL
+customer.email.format.invalid,"Ongeldige indeling van het e-mailadres",nl_NL
+customer.password.recovery.mail.sent,"Als er een account is gekoppeld aan dit e-mailadres, ontvangt u een e-mail met verdere instructies.",nl_NL
+customer.address.number,Huisnummer,nl_NL
+customer.address.save_new_address,"Nieuw adres opslaan in adresboek",nl_NL
+countries.iso.AT,Oostenrijk,nl_NL
+countries.iso.DE,Duitsland,nl_NL
+countries.iso.NO,Noorwegen,nl_NL
+countries.iso.CH,Zwitserland,nl_NL
+countries.iso.ES,Spanje,nl_NL
+countries.iso.GB,"Verenigd Koninkrijk",nl_NL
+customer.billingSameAsShipping,"Factuuradres hetzelfde als verzendadres",nl_NL
+checkout.customer.proceed_as_user,"Doorgaan als geregistreerde gebruiker (aanmelden)",nl_NL
+checkout.customer.proceed_as_guest,"Doorgaan als gast",nl_NL
+checkout.customer.order_as_guest,"Bestellen als gast",nl_NL
+checkout.customer.auth_as_user,Aanmelden,nl_NL
+checkout.customer.auth_as_guest,"Kopen als gast",nl_NL
+checkout.customer.auth_as_login,Inloggen,nl_NL
+checkout.step.customer.title,Inloggen,nl_NL
+checkout.step.address.title,Adres,nl_NL
+checkout.step.shipment.title,Verzending,nl_NL
+checkout.step.shipment.provider.a,DHL,nl_NL
+checkout.step.shipment.provider.b,Hermes,nl_NL
+checkout.step.payment.title,Betaling,nl_NL
+checkout.step.summary.title,Samenvatting,nl_NL
+checkout.step.shipment,"Ga naar Verzending",nl_NL
+checkout.step.address.select_address,"Selecteer een adres",nl_NL
+checkout.step.payment,"Ga naar Betaling",nl_NL
+checkout.step.summary,"Ga naar Samenvatting",nl_NL
+checkout.step.summary.with_method,Met,nl_NL
+checkout.step.summary.items,Items,nl_NL
+checkout.step.summary.overview,Overzicht,nl_NL
+checkout.step.summary.sub_total,Totaalbedrag,nl_NL
+checkout.step.summary.grand_total,Totaalbedrag,nl_NL
+checkout.step.summary.payment,Betaling,nl_NL
+checkout.step.summary.shipping,Verzending,nl_NL
+checkout.step.summary.tax,Belasting,nl_NL
+checkout.step.summary.total,"Afrekenen afronden",nl_NL
+checkout.step.summary.shipment_costs_total,"Verzendkosten (totaal)",nl_NL
+checkout.step.summary.delivery_method,Leveringsmethode,nl_NL
+checkout.step.summary.requested_delivery_date,"Gewenste leveringsdatum",nl_NL
+checkout.step.summary.delivery_address,Afleveradres,nl_NL
+checkout.step.summary.products,Producten,nl_NL
+checkout.step.place.order,"Bestel uw bestelling",nl_NL
+checkout.step.payment.must_be_older_than_18_years,"Je moet minstens 18 jaar oud zijn.",nl_NL
+checkout.step.success.title,"Dank je wel.",nl_NL
+checkout.step.success.text,"Uw bestelling is succesvol geplaatst. U ontvangt binnen enkele minuten een bevestigingsmail van uw bestelling. U kunt uw bestelling controleren en volgen in uw account.",nl_NL
+checkout.step.success.link,"Ga naar ""Mijn Account""",nl_NL
+checkout.step.error.title,"Uw bestelling is niet geplaatst.",nl_NL
+checkout.step.error.text,"Er is iets misgegaan. Sorry.",nl_NL
+checkout.step.summary.billing_address,Factuuradres,nl_NL
+customer.password.change.success,"Wachtwoordwijziging succesvol",nl_NL
+customer.newsletter.subscribed,"Nieuwsbrief geabonneerd",nl_NL
+dynamic_entity.validation.invalid_data_format,"Ongeldige of ontbrekende gegevensindeling. Zorg ervoor dat de gegevens worden verstrekt in de juiste indeling. Voorbeeld verzoeklichaam: {'data':[{...},{...},..]}",nl_NL
+dynamic_entity.validation.persistence_failed,"Het is niet gelukt om de gegevens op te slaan. Controleer de verstrekte gegevens en probeer het opnieuw.",nl_NL
+dynamic_entity.validation.persistence_failed_duplicate_entry,"Het is niet gelukt om de gegevens op te slaan. Controleer de verstrekte gegevens en probeer het opnieuw. De invoer is gedupliceerd.",nl_NL
+dynamic_entity.validation.entity_does_not_exist,"Het item kon niet worden gevonden in de database.",nl_NL
+dynamic_entity.validation.invalid_field_type,"Ongeldig gegevenstype voor veld: %fieldName%",nl_NL
+dynamic_entity.validation.invalid_field_value,"Ongeldige gegevenswaarde voor veld: %fieldName%, rijnummer: %rowNumber%. Veldregels: %validationRules%",nl_NL
+dynamic_entity.validation.required_field_is_missing,"Het verplichte veld mag niet leeg zijn. Veld: '%fieldName%'",nl_NL
+dynamic_entity.validation.entity_not_found_or_identifier_is_not_creatable,"Entiteit `%identifier%` niet gevonden op basis van de identificatiecode en er kan geen nieuwe identificatiecode worden opgeslagen. Update alstublieft het verzoek.",nl_NL
+dynamic_entity.validation.modification_of_immutable_field_prohibited,"Wijziging van het onveranderlijke veld `%fieldName%` is verboden.",nl_NL
+dynamic_entity.validation.missing_identifier,"Onvolledig verzoek - ontbrekende identificatie",nl_NL
+dynamic_entity.validation.provided_field_is_invalid,"De opgegeven `%fieldName%` is onjuist of ongeldig.",nl_NL
+validator.constraints.password.do_not_match,"Wachtwoorden komen niet overeen",nl_NL
+discount.successfully.applied,"De korting ""display_name"" is succesvol toegepast.",nl_NL
+discount.quote_change.discount.not_available,"De kortingen die je hebt gekozen voor de volgende items skus zijn niet langer beschikbaar.",nl_NL
+discount.quote_change.discount.amount_changed,"De kortingen die u heeft geselecteerd voor de volgende items skus zijn gewijzigd.",nl_NL
+product.unavailable,"Product is niet op voorraad",nl_NL
+product.attribute.slug,slug,nl_NL
+product.attribute.variant_id,ID,nl_NL
+product.attribute.variant.reset,Reset,nl_NL
+product.attribute.sku,SKU,nl_NL
+product.attribute.image_quality,Beeldkwaliteit,nl_NL
+product.attribute.lens_system,Lenssysteem,nl_NL
+product.attribute.focus,Focus,nl_NL
+product.attribute.shutter,Rolluik,nl_NL
+product.attribute.video,Video,nl_NL
+product.attribute.screen,Scherm,nl_NL
+product.attribute.processor,Processor,nl_NL
+product.attribute.memory,Geheugen,nl_NL
+product.attribute.display,Weergave,nl_NL
+product.attribute.storage,Opslag,nl_NL
+product.attribute.color,Kleur,nl_NL
+product.attribute.design,Ontwerp,nl_NL
+product.attribute.graphics,"Grafische afbeeldingen",nl_NL
+product.attribute.camera,Camera,nl_NL
+product.attribute.gps,GPS,nl_NL
+product.attribute.weight,Gewicht,nl_NL
+product.attribute.waterproof,Waterdicht,nl_NL
+product.attribute.battery,Batterij,nl_NL
+product.attribute.description,Beschrijving,nl_NL
+product.attribute.short_description,"Korte beschrijving",nl_NL
+product.attribute.long_description,"Lange Beschrijving",nl_NL
+product.attribute.manufacturer_name,Merk,nl_NL
+product.attribute.product_id,"Product ID",nl_NL
+product.attribute.image_big,"Afbeelding groot",nl_NL
+product.attribute.image_small,"Afbeelding klein",nl_NL
+product.attribute.license,Licentie,nl_NL
+product.product_options,Productopties,nl_NL
+product.product_options_select,"Selecteer een optie",nl_NL
+product.sets,"Product Sets",nl_NL
+product.sets.no-results,"Geen resultaten.",nl_NL
+product.sets.widget.title,"Bekijk de collectie",nl_NL
+product.set.detail.add-all-to-cart,"Voeg alles toe aan winkelwagen",nl_NL
+product.set.detail.set-contents,"Producten in deze set",nl_NL
+product.set.detail.no-products,"Geen producten in de set.",nl_NL
+product.view,Bekijken,nl_NL
+wishlist.title,Verlanglijst,nl_NL
+wishlist.wishlist,Verlanglijst,nl_NL
+page.detail.add-to-wishlist,"Toevoegen aan verlanglijst",nl_NL
+customer.account.wishlist,Verlanglijst,nl_NL
+customer.account.wishlist.empty,"Op dit moment staan er geen items op je verlanglijst.",nl_NL
+customer.account.wishlist.continue-shopping,"Verder winkelen",nl_NL
+customer.account.wishlist.product,Product,nl_NL
+customer.account.wishlist.price,Prijs,nl_NL
+customer.account.wishlist.add-to-cart,"Toevoegen aan winkelwagen",nl_NL
+customer.account.wishlist.remove,Verwijderen,nl_NL
+customer.account.wishlist.product-not-available,"Dit product is op dit moment niet beschikbaar.",nl_NL
+customer.account.wishlist.view-in-shop,Bekijken,nl_NL
+customer.account.wishlist.overview.sku,Sku,nl_NL
+customer.account.wishlist.overview.name,Naam,nl_NL
+customer.account.wishlist.overview.price,Prijs,nl_NL
+customer.account.wishlist.overview.variant,Variant,nl_NL
+customer.account.wishlist.overview.title,"Beheer verlanglijstjes",nl_NL
+customer.account.wishlist.overview.empty,"Je hebt nog geen lijsten.",nl_NL
+customer.account.wishlist.overview.enter_name,"Voer hier de naam in",nl_NL
+customer.account.wishlist.overview.add_new,"Nieuwe verlanglijst toevoegen",nl_NL
+customer.account.wishlist.overview.item_count,"# aantal items",nl_NL
+customer.account.wishlist.overview.date,"Datum van creatie",nl_NL
+customer.account.wishlist.overview.edit,Bewerken,nl_NL
+customer.account.wishlist.overview.delete,Verwijderen,nl_NL
+customer.account.wishlist.add_all_available_to_cart,"Voeg alle beschikbare producten toe aan winkelwagen",nl_NL
+customer.account.wishlist.availability,Beschikbaarheid,nl_NL
+customer.account.wishlist.available,Beschikbaar,nl_NL
+customer.account.wishlist.not_available,"Momenteel niet beschikbaar",nl_NL
+customer.account.wishlist.item.removed,"Product succesvol verwijderd.",nl_NL
+customer.account.wishlist.item.moved_to_cart,"Item succesvol toegevoegd aan winkelwagen.",nl_NL
+customer.account.wishlist.item.moved_to_cart.failed,"Item is niet toegevoegd aan winkelwagen.",nl_NL
+customer.account.wishlist.item.moved_all_available_to_cart,"Beschikbare items succesvol verplaatst naar winkelwagen.",nl_NL
+customer.account.wishlist.item.moved_all_available_to_cart.failed,"Niet alle items zijn succesvol toegevoegd aan de winkelwagen.",nl_NL
+customer.account.wishlist.created,"Verlanglijst succesvol aangemaakt.",nl_NL
+customer.account.wishlist.updated,"Verlanglijst succesvol bijgewerkt",nl_NL
+customer.account.wishlist.deleted,"Verlanglijst succesvol verwijderd.",nl_NL
+customer.account.wishlist.item.not_added,"Toevoegen van product aan verlanglijst mislukt.",nl_NL
+newsletter.subscribe,E-mail,nl_NL
+newsletter.form.subscribe,Abonneren,nl_NL
+pagination.previous,Vorige,nl_NL
+pagination.next,Volgende,nl_NL
+product.attribute.iso_en,ISO,nl_NL
+product.attribute.waterproof_up_to,"Waterdicht tot aan",nl_NL
+product.attribute.width,Breedte,nl_NL
+product.attribute.touchscreen,Touchscreen,nl_NL
+product.attribute._none,"Selecteer alstublieft een waarde.",nl_NL
+product.variants,Productvarianten,nl_NL
+product.attribute.usb_version,USB-versie,nl_NL
+product.attribute.thermal_design_power,"Thermisch ontwerpvermogen",nl_NL
+product.attribute.processor_boost_frequency,"Processor Boost",nl_NL
+product.attribute.touch_technology,"Touch technologie",nl_NL
+product.attribute.video_recording_modes,Video-opnamemodi,nl_NL
+product.attribute.voice_recording,Stemopname,nl_NL
+product.attribute.total_megapixels,"Totale megapixels",nl_NL
+product.attribute.white_balance,Witbalans,nl_NL
+product.attribute.themes,Thema's,nl_NL
+product.attribute.usb_port,USB-poort,nl_NL
+product.detail.out_of_stock,"Dit product is momenteel niet beschikbaar.",nl_NL
+product.groups,Productgroepen,nl_NL
+cart.pre.check.availability.failed,"Item %sku% heeft alleen een beschikbaarheid van %stock%.",nl_NL
+cart.pre.check.availability.failed.empty,"Item %sku% is niet langer beschikbaar.",nl_NL
+mail.sender.name,"Spryker Geen Antwoord",nl_NL
+mail.sender.email,noreply@demo-spryker.com,nl_NL
+mail.auth.restore_password.subject,"Nieuw wachtwoord voor uw Spryker Backoffice-account",nl_NL
+mail.auth.restore_password.text,"Iemand heeft een nieuw wachtwoord aangevraagd voor uw Spryker Backoffice-account. Als u dit niet bent, negeer dan deze e-mail. Als u dit wel bent, volg dan de onderstaande link:",nl_NL
+mail.auth.restore_password.label,"Wachtwoord wijzigen",nl_NL
+mail.company.status.subject,"Uw bedrijf heeft de status gewijzigd.",nl_NL
+mail.company.status.text,"Uw bedrijf heeft de status gewijzigd naar:",nl_NL
+mail.company.status.approved,Goedgekeurd,nl_NL
+mail.company.status.pending,"Wachten op goedkeuring",nl_NL
+mail.company.status.denied,Geweigerd,nl_NL
+mail.customer.registration.subject,"Bedankt voor het aanmelden bij Spryker Shop!",nl_NL
+mail.customer.registration.text,"Bedankt voor het aanmelden bij Spryker Shop!",nl_NL
+mail.customer.restore_password.subject,"Nieuw wachtwoord voor uw Spryker Shop-account",nl_NL
+mail.customer.restore_password.text,"Iemand heeft een nieuw wachtwoord aangevraagd voor je Spryker Shop-account. Als jij dit niet bent, negeer dan deze e-mail. Als jij het wel bent, volg dan de onderstaande link:",nl_NL
+mail.customer.restore_password_confirmation.subject,"Je wachtwoord is succesvol gewijzigd!",nl_NL
+mail.customer.restore_password_confirmation.text,"Je wachtwoord is succesvol gewijzigd!",nl_NL
+mail.newsletter.subscribed.subject,"Welkom bij de Spryker-nieuwsbrief",nl_NL
+mail.newsletter.subscribed.text,"We zijn verheugd dat je je hebt aangemeld voor onze nieuwsbrief. We zullen ons best doen om je de meest relevante en spannende nieuwtjes en updates te bezorgen.",nl_NL
+mail.newsletter.subscribed.footer.text,"Geniet van uw winkelervaring.",nl_NL
+mail.newsletter.unsubscribed.subject,"Sorry dat je weggaat...",nl_NL
+mail.newsletter.unsubscribed.text,"Je e-mailadres is uitgeschreven voor de nieuwsbrief van de Spryker Shop, maar je kunt altijd je abonnement beheren in je klantprofiel.",nl_NL
+mail.order.confirmation.subject,"Bedankt voor uw bestelling bij Spryker Shop",nl_NL
+mail.order.confirmation.salutation,Hallo,nl_NL
+mail.order.confirmation.text_line_1,"Bedankt voor het winkelen bij Spryker Shop!",nl_NL
+mail.order.confirmation.text_line_2,"We willen u laten weten dat we uw bestelling hebben ontvangen. U ontvangt zo snel mogelijk een verzendbevestiging per e-mail van ons zodra de bestelling is verzonden.",nl_NL
+mail.order.confirmation.text_line_3,"We hopen dat je blij bent met je bestelling. Mocht je van gedachten veranderen, dan kun je binnen 14 dagen retourneren.",nl_NL
+mail.order.confirmation.details,"Details van uw bestelling",nl_NL
+mail.order.confirmation.shipping_address,Afleveradres,nl_NL
+mail.order.confirmation.billing_address,Factuuradres,nl_NL
+mail.order.confirmation.order_number,Bestelnummer,nl_NL
+mail.order.confirmation.price_including_tax,"Totale prijs inclusief belastingen",nl_NL
+mail.order.confirmation.date,"Datum van bestelling",nl_NL
+mail.order.confirmation.footer.text_line_1,"Een fijne dag gewenst!",nl_NL
+mail.order.confirmation.footer.text_line_2,"Jouw Spryker Winkel",nl_NL
+mail.order.confirmation.shipment_details,Verzendgegevens,nl_NL
+mail.order.confirmation.shipment_number,Verzendingsnummer,nl_NL
+mail.order.confirmation.shipping_method,Verzendmethode,nl_NL
+mail.order.confirmation.delivery_date,"Gewenste leveringsdatum",nl_NL
+mail.order.confirmation.products_in_shipment,"Producten per verzending",nl_NL
+mail.order.confirmation.product_title,Producttitel,nl_NL
+mail.order.confirmation.item_quantity,"Aantal items",nl_NL
+mail.order.confirmation.item_sku,"Artikel SKU",nl_NL
+mail.order.confirmation.item_price_including_tax,"Totale prijs van het artikel inclusief belastingen",nl_NL
+mail.order.shipped.subject,"Uw bestelling %orderReference% is onderweg.",nl_NL
+mail.order.shipped.salutation,Hallo,nl_NL
+mail.order.shipped.text,"Uw bestelling is al onderweg.",nl_NL
+mail.order.shipped.details,"Details van uw bestelling",nl_NL
+mail.order.shipped.order_number,Bestelnummer,nl_NL
+mail.order.shipped.price_including_tax,"Totale prijs inclusief belastingen",nl_NL
+mail.order.shipped.date,"Datum van bestelling",nl_NL
+mail.order.shipped.footer.text_line_1,"Een fijne dag gewenst!",nl_NL
+mail.order.shipped.footer.text_line_2,"Jouw Spryker Winkel",nl_NL
+mail.order_invoice.subject,"Factuur: %invoiceReference%",nl_NL
+mail.trans.customerRegistration.confirmationLink,"Valideer uw e-mailadres",nl_NL
+cart.item.remove.confirm,"Weet je zeker dat je dit item wilt verwijderen?",nl_NL
+cart.voucher.remove,Verwijderen,nl_NL
+cart.vouchers.clear-all,"Alles wissen",nl_NL
+cart.voucher.apply.failed,"Uw kortingscode is ongeldig.",nl_NL
+cart.voucher.apply.successful,"Uw kortingscode is toegepast.",nl_NL
+cart.voucher.apply.non_applicable,"De kortingscode is ongeldig.",nl_NL
+cart.item.bundle.description,"Items in de bundel:",nl_NL
+bundle.title,"Bundel bevat",nl_NL
+checkout.summary.item.bundle.description,"Items in de bundel:",nl_NL
+customer.order.bundled_items,"Items in de bundel:",nl_NL
+customer.order.options,Productopties:,nl_NL
+cart.item.option.description,Productopties:,nl_NL
+cart.item.sku,SKU,nl_NL
+checkout.summary.item.option.description,Productopties:,nl_NL
+invoice.order.address.billing,Factuuradres,nl_NL
+invoice.order.address.shipping,Verzendadres,nl_NL
+invoice.header,Factuur,nl_NL
+invoice.order.number,Bestelreferentie,nl_NL
+invoice.customer.number,Klantreferentie,nl_NL
+invoice.created.at,Factuurdatum,nl_NL
+invoice.order.item.sku,SKU,nl_NL
+invoice.order.item.product_name,PRODUCTNAAM,nl_NL
+invoice.order.item.quantity,AANTAL,nl_NL
+invoice.order.item.price,"ITEM PRIJS",nl_NL
+invoice.order.item.price_total,"TOTAAL ARTIKEL",nl_NL
+invoice.order.grand_total,TOTAALBEDRAG,nl_NL
+invoice.order.tax_amount,"Incl. BTW",nl_NL
+invoice.order.expenses.total,Verzendkosten,nl_NL
+invoice.company.address,"Spryker Systems GmbH<br/>Julie-Wolfthorn-Straße 1<br />10115 Berlijn / Duitsland",nl_NL
+invoice.company.bank.information,"Banknaam<br/>IBAN 1234 5678 9123 4567 89<br />BIC 12345678<br/>Handelsregister ABC123456<br />Steuernummer 12/345/6789",nl_NL
+invoice.company.contact.information,"+49 (0)30 2084983 50<br/>hello@spryker.com",nl_NL
+DummyPaymentCreditCard,Creditcard,nl_NL
+payment.dummy-payment.credit-card,"Betaal met de volgende creditcard:",nl_NL
+dummyPaymentCreditCard.card_type,Kaarttype,nl_NL
+dummyPaymentCreditCard.card_number,Kaartnummer,nl_NL
+dummyPaymentCreditCard.name_on_card,"Naam op de kaart",nl_NL
+dummyPaymentCreditCard.card_expires,Vervaldatum,nl_NL
+dummyPaymentCreditCard.card_security_code,CVC,nl_NL
+DummyPaymentInvoice,Factuur,nl_NL
+dummyPaymentInvoice.invoice,"Betalen met factuur:",nl_NL
+dummyPaymentInvoice.date_of_birth,Geboortedatum,nl_NL
+cart.item.item_price,"Item prijs",nl_NL
+cart.item.item_total,"Totaal bedrag",nl_NL
+product_review.product_ratings,Productbeoordelingen,nl_NL
+product_review.product_reviews,Productbeoordelingen,nl_NL
+product_review.ratings_reviews,"Beoordelingen & Recensies",nl_NL
+product_review.average_ratings,"Gemiddelde beoordeling",nl_NL
+product_review.on,op,nl_NL
+product_review.summary.star,Ster,nl_NL
+product_review.summary.stars,Sterren,nl_NL
+product_review.summary.out_of,uit,nl_NL
+product_review.summary.review,beoordeling,nl_NL
+product_review.summary.reviews,beoordelingen,nl_NL
+product_review.no_reviews,"Geen beoordelingen voor dit product nog.",nl_NL
+product_review.submit.add_a_review,"Schrijf een recensie",nl_NL
+product_review.submit.rating,Beoordeling,nl_NL
+product_review.submit.rating.none,"Geen beoordeling is geselecteerd",nl_NL
+product_review.submit.summary,Samenvatting,nl_NL
+product_review.submit.description,Beschrijving,nl_NL
+product_review.submit.nickname,Naam,nl_NL
+product_review.submit.success,"Productbeoordeling is succesvol ingediend.",nl_NL
+product_review.error.no_customer,"Log in om toegang te krijgen tot deze functie.",nl_NL
+product_review.error.invalid_rating,"Productbeoordeling moet worden geselecteerd.",nl_NL
+product_review.submit.error,"De beoordeling is niet verzonden.",nl_NL
+product_review.error.please_login,"Alleen klanten kunnen gebruik maken van deze functie. Gelieve in te loggen.",nl_NL
+payment.cancellation.title,"Betaling geannuleerd",nl_NL
+payment.cancellation.message,"Je hebt je betaling geannuleerd.",nl_NL
+cart.promotion.items,"Promotionele producten",nl_NL
+checkout.payment_method.invalid,"Checkout betaling is niet geldig",nl_NL
+checkout.payment.provider.DummyPayment,Betaalmethoden,nl_NL
+checkout.order.duplicate,"Bestelling met de opgegeven referentie {{reference}} bestaat al.",nl_NL
+cms.preview.access_denied,"U bent niet ingelogd of u heeft geen toestemming om toegang te krijgen tot deze pagina.",nl_NL
+product-cart.validation.error.abstract-product-exists,"Product ""sku"" niet gevonden",nl_NL
+product-cart.validation.error.concrete-product-exists,"Product ""sku"" niet gevonden",nl_NL
+cart.item.option.pre.check.validation.error.exists,"Productoptie van %name% is niet meer beschikbaar.",nl_NL
+product-cart.validation.error.product-option-value-price-exists,"Productoptieprijs niet gevonden voor product '%sku%'.",nl_NL
+product-cart.validation.error.concrete-product-inactive,"Product %sku% is niet actief.",nl_NL
+product-cart.info.concrete-product-inactive.removed,"Inactief item %sku% is verwijderd uit uw winkelwagen.",nl_NL
+product.filter.label,Label,nl_NL
+product.filter.price-default-chf-gross_mode,Prijs,nl_NL
+product.filter.price-default-chf-net_mode,Prijs,nl_NL
+product.filter.price-default-eur-net_mode,Prijs,nl_NL
+product.filter.price-default-eur-gross_mode,Prijs,nl_NL
+cart.pre.check.product_discontinued,"Product '%name%' is uit het assortiment, kies alstublieft een alternatief.",nl_NL
+replacement_for_widget.replacement_for,"Vervanging voor",nl_NL
+product_alternative_widget.product_alternative,"Alternatieve producten",nl_NL
+product_alternative_widget.add_to_shopping_list,"Toevoegen aan boodschappenlijst",nl_NL
+product_alternative_widget.add_to_wishlist,"Toevoegen aan verlanglijst",nl_NL
+product_alternative_widget.alternative_for,"Alternatief voor naam",nl_NL
+product_alternative_widget.product_status.discontinued,Stopgezet,nl_NL
+product_alternative_widget.show_all,"Toon alles",nl_NL
+product_alternative_widget.not_applicable,N/A,nl_NL
+product_discontinued_widget.note,Opmerking,nl_NL
+product_discontinued.super_attribute_discontinued,Stopgezet,nl_NL
+price.mode.gross_mode,"Bruto prijzen",nl_NL
+price.mode.net_mode,Nettoprijzen,nl_NL
+page.detail.volume_price.quantity,Aantal,nl_NL
+page.detail.volume_price.price,Prijs,nl_NL
+cart.pre.check.price.failed,"Prijs in geselecteerde valuta niet gevonden voor product met sku '%sku%'. Pas de valuta aan of verwijder het product uit de bestelling.",nl_NL
+price.mode.switch.error,"Kan de prijsmodus niet wijzigen wanneer er items in de winkelwagen zijn.",nl_NL
+price-cart-connector.info.concrete-product-without-price.removed,"Item %sku% zonder prijs is verwijderd uit uw winkelwagen.",nl_NL
+cart.pre.check.shipment.failed,"Kan deze wijzigingen niet toepassen. De verzendmethode is niet gevonden. Selecteer alstublieft een andere verzendmethode.",nl_NL
+catalog.view.mode.grid,Raster,nl_NL
+catalog.view.mode.list,Lijst,nl_NL
+cart.quantity.adjusted,"Het gevraagde aantal van het item is aangepast omdat de geselecteerde hoeveelheid niet beschikbaar is.",nl_NL
+catalog.sale,Uitverkoop,nl_NL
+catalog.new,Nieuw,nl_NL
+company.account.page-title,"Mijn Bedrijf",nl_NL
+company.account.name,Bedrijfsnaam,nl_NL
+company.account,Bedrijfsaccount,nl_NL
+company.account.address.edit,Bewerken,nl_NL
+company.account.address.delete,Verwijderen,nl_NL
+company.account.shipping_address,"Standaard Verzendadres",nl_NL
+company.account.billing_address,"Standaard Factuuradres",nl_NL
+company.account.address.address1,Straat,nl_NL
+company.account.address.number,Nummer,nl_NL
+company.account.address.address3,"Toevoeging aan adres",nl_NL
+company.account.address.zip_code,Postcode,nl_NL
+company.account.address.city,Stad,nl_NL
+company.account.address.country,Land,nl_NL
+company.account.address.phone,Telefoonnummer,nl_NL
+company.account.address,Adressen,nl_NL
+company.account.edit_address_information,"Adresgegevens bewerken",nl_NL
+company.account.login.title,"Toegang tot uw account",nl_NL
+company.account.login.email,E-mail,nl_NL
+company.account.login.password,Wachtwoord,nl_NL
+company.account.registration.title,"Account aanmaken",nl_NL
+company.user.first_name,Voornaam,nl_NL
+company.user.last_name,Achternaam,nl_NL
+company.user.salutation.mr,Dhr.,nl_NL
+company.user.salutation.mrs,Mevrouw.,nl_NL
+company.user.salutation.ms,Mevrouw.,nl_NL
+company.user.salutation.dr,Dr.,nl_NL
+company.account.overview,Overzicht,nl_NL
+company.user.invitation.title.plural,Uitnodigingen,nl_NL
+company.user.invitation.invite_users,"Nodig gebruikers uit",nl_NL
+company.user.invitation.imported.title.plural,"Geïmporteerde uitnodigingen",nl_NL
+company.user.invitation.import.title,"Importeer nieuwe uitnodigingen",nl_NL
+company.user.invitation.import.download.errors.file,"Sommige uitnodigingen konden niet worden geïmporteerd. Klik <a href=""%link%"">hier</a> om het foutenbestand te downloaden.",nl_NL
+company.user.invitation.import.error.message,"Uitnodigingen importeren mislukt",nl_NL
+company.user.invitation.file,"Uitnodigingen bestand",nl_NL
+company.user.invitation.first.name,Voornaam,nl_NL
+company.user.invitation.last.name,Achternaam,nl_NL
+company.user.invitation.mail,Mail,nl_NL
+company.user.invitation.business.unit,Bedrijfseenheid,nl_NL
+company.user.invitation.status,Status,nl_NL
+company.user.invitation.actions,Acties,nl_NL
+company.user.invitation.status.new,"Niet verzonden",nl_NL
+company.user.invitation.status.pending,"In behandeling",nl_NL
+company.user.invitation.status.accepted,Geaccepteerd,nl_NL
+company.user.invitation.not.found.message,"Uitnodiging niet gevonden",nl_NL
+company.user.invitation.send.button,Verstuur,nl_NL
+company.user.invitation.sent.success.message,"Uitnodiging succesvol verzonden",nl_NL
+company.user.invitation.sent.error.message,"Uitnodiging is niet verzonden",nl_NL
+company.user.invitation.send.all.button,"Stuur alles",nl_NL
+company.user.invitation.sent.all.success.message,"Alle uitnodigingen zijn succesvol verzonden",nl_NL
+company.user.invitation.sent.all.none.found.message,"Geen uitnodigingen om te versturen gevonden.",nl_NL
+company.user.invitation.sent.all.error.message,"Sommige uitnodigingen konden niet worden verzonden.",nl_NL
+company.user.invitation.resend.title,"Opnieuw uitnodiging versturen",nl_NL
+company.user.invitation.resend.confirmation.question,"Bent u zeker dat u de uitnodiging opnieuw wilt verzenden?",nl_NL
+company.user.invitation.resend.button,"Opnieuw verzenden",nl_NL
+company.user.invitation.resent.success.message,"Uitnodiging succesvol opnieuw verzonden",nl_NL
+company.user.invitation.resent.error.message,"Uitnodiging is niet opnieuw verzonden",nl_NL
+company.user.invitation.delete.title,"Verwijder uitnodiging",nl_NL
+company.user.invitation.delete.confirmation.question,"Weet je zeker dat je de uitnodiging wilt verwijderen?",nl_NL
+company.user.invitation.delete.button,Verwijderen,nl_NL
+company.user.invitation.deleted.success.message,"Uitnodiging succesvol verwijderd",nl_NL
+company.user.invitation.deleted.error.message,"Uitnodiging is niet verwijderd",nl_NL
+company.user.invitation.invalid,"Uw uitnodiging is niet geldig.",nl_NL
+company.user.invitation.expired,"Uw uitnodiging is verlopen.",nl_NL
+company.user.invitation.accepted,"Je uitnodiging is al gebruikt.",nl_NL
+company.user.invitation.import.file.invalid,"Het importbestand is niet geldig.",nl_NL
+message.submit_link,Ok!,nl_NL
+mail.company.user.invitation.subject,Uitnodiging,nl_NL
+mail.company.user.invitation.body.html,"Hallo %name%, je bent uitgenodigd om lid te worden van een Bedrijfsaccount op de Spryker Demo-shop. Volg deze <a href=""%invitationLink%"">link</a> om je registratie te voltooien.",nl_NL
+mail.company.user.invitation.body.text,"Hallo %name%, je bent uitgenodigd om lid te worden van een Bedrijfsaccount op de Spryker Demo shop, volg deze link %invitationLink% om je registratie te voltooien.",nl_NL
+company.account.add_new_address,"Nieuw adres definiëren",nl_NL
+company.account.table.actions,Acties,nl_NL
+company.account.business_unit.view,Bekijken,nl_NL
+company.account.business_unit.create,Creëer,nl_NL
+company.account.business_unit.edit,Bewerken,nl_NL
+company.account.business_unit.delete,Verwijderen,nl_NL
+company.account.business_unit.address,Adressen,nl_NL
+company.account.business_unit.details,Details,nl_NL
+company.account.business_unit.delete.confirmation.warning,Waarschuwing,nl_NL
+company.company_business_unit.delete.error.has_users,"Je kunt geen bedrijfseenheid verwijderen zolang het gebruikers bevat.",nl_NL
+company.account.address.is_default_billing,"Is standaard factuuradres",nl_NL
+company.account.authorization.success,"Registratie succesvol",nl_NL
+company.account.company_user,Gebruikers,nl_NL
+company.account.company_user.add,"Nieuwe gebruiker toevoegen",nl_NL
+company.account.company_role,Rollen,nl_NL
+company.account.company_role.add,"Nieuwe rol toevoegen",nl_NL
+company.account.company_role.default,Standaard,nl_NL
+company.account.company_role.edit,Bewerken,nl_NL
+company.account.company_role.name,Naam,nl_NL
+company.account.company_role.is_default,"Is standaard",nl_NL
+company.account.company_role.edit_information,"Bewerk Rolinformatie",nl_NL
+company.account.company_role.details,Details,nl_NL
+company.account.company_role.view,Bekijken,nl_NL
+company.account.company_role.user.manage,"Beheer toegewezen bedrijfsgebruikers",nl_NL
+company.account.company_role.users,Gebruikers,nl_NL
+company.account.company_role.permissions,Toestemmingen,nl_NL
+company.account.company_role.permission.key,Sleutel,nl_NL
+company.account.company_role.permission.configure,Configureren,nl_NL
+company.account.company_role.permission.manage,"Beheer machtigingen",nl_NL
+company.account.company_role.permission.status,Status,nl_NL
+company.account.company_role.permission.assign,Toewijzen,nl_NL
+company.account.company_role.permission.assigned,Toegewezen,nl_NL
+company.account.company_role.permission.unassign,Deselecteren,nl_NL
+company.account.company_role.permission.unassigned,"Niet toegewezen",nl_NL
+company.company_role.delete.error.has_users,"Je kunt geen rol verwijderen terwijl deze gebruikers bevat.",nl_NL
+company.account.business_unit.name,Naam,nl_NL
+company.account.business_unit.email,E-mail,nl_NL
+company.account.business_unit.phone,Telefoonnummer,nl_NL
+company.account.business_unit.external_url,"Externe URL",nl_NL
+company.account.business_unit,Bedrijfseenheden,nl_NL
+company.account.business_unit.add,"Maak een bedrijfseenheid aan",nl_NL
+company.account.business_unit.edit_information,Bewerken,nl_NL
+company.account.company_name,Bedrijfsnaam,nl_NL
+company.account.company_user.name,Naam,nl_NL
+company.account.company_user.role,Rol,nl_NL
+company.account.company_user.business_unit,Bedrijfseenheid,nl_NL
+company.account.company_user.edit,Bewerken,nl_NL
+company.account.company_user.delete.successful,"De gebruiker is verwijderd",nl_NL
+company.account.company_user.delete,Verwijderen,nl_NL
+company.account.company_user.edit_information,"Bewerk gebruikersinformatie",nl_NL
+customer.access.cannot_see_price,"Log in om de prijs te zien.",nl_NL
+company.account.company_user.delete.back,Terug,nl_NL
+company.account.company_user.enable,Inschakelen,nl_NL
+company.account.company_user.disable,Uitschakelen,nl_NL
+company.account.company_user.status.enable.success,"Bedrijfsgebruiker succesvol ingeschakeld",nl_NL
+company.account.company_user.status.enable.error,"Bedrijfsgebruiker kan niet worden ingeschakeld",nl_NL
+company.account.company_user.status.enable.error.cannot_enable_yourself,"Je bent niet toegestaan om jezelf in te schakelen.",nl_NL
+company.account.company_user.status.disable.success,"Bedrijfsgebruiker succesvol uitgeschakeld",nl_NL
+company.account.company_user.status.disable.error,"Bedrijfsgebruiker kan niet worden uitgeschakeld",nl_NL
+company.account.company_user.status.disable.error.cannot_disable_yourself,"Je mag jezelf niet uitschakelen.",nl_NL
+quick-order.page-title,"Snelle Bestelling",nl_NL
+quick-order.input-label.qty,"# Aantal",nl_NL
+quick-order.input-label.sku,SKU,nl_NL
+quick-order.button.add-more-rows,"Voeg meer rijen toe",nl_NL
+quick-order.button.create-order,"Bestelling aanmaken",nl_NL
+quick-order.button.clear-all-rows,"Alle rijen wissen",nl_NL
+quick-order.message.success.the-form-items-have-been-successfully-cleared,"De formulieritems zijn succesvol gewist.",nl_NL
+quick-order.errors.items-required,"Voer alstublieft minimaal één product SKU in.",nl_NL
+quick-order.errors.quantity-required,"Aantal moet minimaal 1 zijn",nl_NL
+quick-order.paste-order.title,"Plak uw bestelling",nl_NL
+quick-order.paste-order.description,"Kopieer en plak uw bestelling met het artikelnummer en de hoeveelheid gescheiden door spaties, puntkomma's of komma's.",nl_NL
+quick-order.paste-order.input-placeholder.copy-paste-order,"Plak hier uw bestelling",nl_NL
+quick-order.paste-order.button.verify,Verifiëren,nl_NL
+quick-order.paste-order.errors.text-order-format-incorrect,"Bestelformaat is onjuist.",nl_NL
+quick-order.paste-order.errors.parser.separator-not-detected,"Scheidingsteken is niet gedefinieerd.",nl_NL
+checkout.pre.check.shipment.failed,"Ongeldige verzendmethode %method_name% (%carrier_name%).",nl_NL
+checkout.validation.item.no_shipment_selected,"Geen verzending geselecteerd voor het winkelwagenitem %id%.",nl_NL
+checkout.validation.customer_address.not_found,"Klantadres met ID %id% niet gevonden.",nl_NL
+checkout.validation.customer_address.not_applicable,"Klantadressen zijn alleen van toepassing op klanten.",nl_NL
+measurement_units.item.name,Item,nl_NL
+measurement_units.standard.weight.kilo.name,Kilo,nl_NL
+measurement_units.standard.weight.gram.name,Gram,nl_NL
+measurement_units.standard.weight.tone.name,Ton,nl_NL
+measurement_units.standard.weight.gbou.name,"GB Ounce",nl_NL
+measurement_units.standard.weight.usou.name,"US Ounce",nl_NL
+measurement_units.standard.weight.pund.name,Pond,nl_NL
+measurement_units.standard.weight.huwg.name,Honderdgewicht,nl_NL
+measurement_units.standard.weight.gbtn.name,"GB Ton",nl_NL
+measurement_units.standard.weight.ustn.name,"US Ton",nl_NL
+measurement_units.standard.weight.oztr.name,"Troy Ounce",nl_NL
+measurement_units.standard.weight.ucwt.name,"Amerikaanse Hundredweight",nl_NL
+measurement_units.standard.length.metr.name,Meter,nl_NL
+measurement_units.standard.length.cmet.name,Centimeter,nl_NL
+measurement_units.standard.length.mmet.name,Millimeter,nl_NL
+measurement_units.standard.length.kmet.name,Kilometer,nl_NL
+measurement_units.standard.length.inch.name,Inch,nl_NL
+measurement_units.standard.length.yard.name,Tuin,nl_NL
+measurement_units.standard.length.foot.name,Voet,nl_NL
+measurement_units.standard.length.mile.name,Mijl,nl_NL
+measurement_units.standard.area.smet.name,"Vierkante meter",nl_NL
+measurement_units.standard.area.sqki.name,"Vierkante kilometer",nl_NL
+measurement_units.standard.area.smil.name,"Vierkante millimeter",nl_NL
+measurement_units.standard.area.scmt.name,"Vierkante centimeter",nl_NL
+measurement_units.standard.area.sqin.name,"Vierkante inch",nl_NL
+measurement_units.standard.area.sqfo.name,"Vierkante Voet",nl_NL
+measurement_units.standard.area.sqmi.name,"Vierkante mijl",nl_NL
+measurement_units.standard.area.sqya.name,"Vierkante Yard",nl_NL
+measurement_units.standard.area.acre.name,Acre,nl_NL
+measurement_units.standard.area.ares.name,Zijn,nl_NL
+measurement_units.standard.area.hect.name,Hectare,nl_NL
+measurement_units.standard.litr.name,Liter,nl_NL
+measurement_units.standard.celi.name,Centiliter,nl_NL
+measurement_units.standard.mili.name,Milliliter,nl_NL
+measurement_units.standard.gbga.name,"GB Gallon",nl_NL
+measurement_units.standard.gbpi.name,"GB Pint",nl_NL
+measurement_units.standard.uspi.name,"US Pint",nl_NL
+measurement_units.standard.gbqa.name,"GB Quart",nl_NL
+measurement_units.standard.usqa.name,"US Quart",nl_NL
+measurement_units.standard.usga.name,"US Gallon",nl_NL
+measurement_units.standard.barl.name,Vat,nl_NL
+measurement_units.standard.bcuf.name,"Miljard kubieke voet",nl_NL
+measurement_units.standard.bdft.name,"Board Feet",nl_NL
+measurement_units.standard.cbme.name,"Kubieke meter",nl_NL
+measurement_units.standard.miba.name,"Miljoen vat",nl_NL
+measurement_units.standard.dgeu.name,"Diesel Equivalentie in Gallons",nl_NL
+measurement_units.standard.ggeu.name,"Benzine-equivalent per gallon",nl_NL
+measurement_units.standard.busl.name,Bushel,nl_NL
+measurement_units.recommendation.between-units-info,"De hoeveelheid die je hebt gekozen ligt tussen 2 basiseenheden.",nl_NL
+measurement_units.recommendation.min-violation,"Minimum hoeveelheidseisen voor het product worden niet voldaan.",nl_NL
+measurement_units.recommendation.max-violation,"De maximale hoeveelheidseisen voor dit product zijn niet vervuld.",nl_NL
+measurement_units.recommendation.suggestion,"Wil je toevoegen",nl_NL
+measurement_units.new-price,"Nieuwe prijs",nl_NL
+product.measurement.sales_unit,Verkoopseenheid,nl_NL
+cart.pre.check.quantity.min.failed,"Minimum hoeveelheidseisen voor product SKU '%sku%' worden niet voldaan.",nl_NL
+cart.pre.check.quantity.max.failed,"Maximum hoeveelheid voor product SKU '%sku%' is overschreden.",nl_NL
+cart.pre.check.quantity.value.failed,"Verkeerde hoeveelheid voor product SKU '%sku%'.",nl_NL
+cart.pre.check.quantity.interval.failed,"De vereisten voor de hoeveelheidsinterval voor product SKU '%sku%' worden niet voldaan.",nl_NL
+persistent_cart.error.quote.not_available,"Winkelwagen bestaat niet",nl_NL
+persistent_cart.quote.remove.success,"Winkelwagen succesvol verwijderd",nl_NL
+persistent_cart.quote.remove.can_not_remove_last_cart,"De klant moet ten minste één winkelwagen hebben.",nl_NL
+cart_note.cart_page.item.note_added,"Notitie is succesvol toegevoegd aan item '%sku%'",nl_NL
+cart_note.cart_page.cart.note_added,"Notitie is succesvol toegevoegd aan winkelwagen",nl_NL
+cart_note.quote_form.enter_note,"Voeg een opmerking toe voor de winkelwagen",nl_NL
+cart_note.quote_form.placeholder,"Voer uw opmerking in",nl_NL
+cart_note.item_form.enter_note,"Voeg een opmerking toe voor het item",nl_NL
+cart_note.item_form.placeholder,"Voer uw opmerking in",nl_NL
+cart_note.form.save,Opslaan,nl_NL
+cart_note.checkout_page.item_note,Opmerking,nl_NL
+cart_note.checkout_page.quote_note,"Winkelwagen Opmerking",nl_NL
+cart_note.customer_page.item_note,"Bestelling item Opmerking",nl_NL
+cart_note.customer_page.order_note,Bestelnotitie,nl_NL
+cart.validate.items.price.changed,"De prijzen zijn gewijzigd voor producten met SKU '%sku%'.",nl_NL
+cart_widget.add_product.separate,"Toevoegen als apart item",nl_NL
+multi_cart.form.create_cart,"Nieuwe winkelwagen toevoegen",nl_NL
+multi_cart.form.quote.name,"Winkelwagen Naam",nl_NL
+multi_cart.form.edit_cart,"Naam wijzigen",nl_NL
+multi_cart.form.edit_cart_information,"Wijzig winkelwageninformatie",nl_NL
+multi_cart.cart.set_default.success,"Winkelwagen '%quote%' is succesvol ingesteld als uw actieve winkelwagen.",nl_NL
+multi_cart_page.cart_clear.success,"Winkelwagen is succesvol leeggemaakt",nl_NL
+multi_cart_page.cart_delete_confirmation.warning,Waarschuwing,nl_NL
+multi_cart_page.cart_delete_confirmation.trying_to_delete,"Je probeert de winkelwagen te verwijderen.",nl_NL
+multi_cart_page.cart_delete_confirmation.shared_with,"Het wordt gedeeld met de volgende gebruikers",nl_NL
+multi_cart_page.cart_delete_confirmation.from_all_of_them,"Het zal van allemaal worden verwijderd",nl_NL
+multi_cart_page.cart_delete_confirmation.cancel,Annuleren,nl_NL
+multi_cart_page.cart_delete_confirmation.delete,Verwijderen,nl_NL
+multi_cart_page.cart_delete_confirmation.breadcrumbs.shopping_carts,Winkelwagens,nl_NL
+multi_cart_widget.cart.cart_name,"Winkelwagen Naam",nl_NL
+multi_cart_widget.cart.add,"Nieuwe winkelwagen aanmaken",nl_NL
+multi_cart_widget.cart.action.change_name,"Naam wijzigen",nl_NL
+multi_cart_widget.cart.action.duplicate,Dubbel,nl_NL
+multi_cart_widget.cart.action.clear,"Winkelwagen legen",nl_NL
+multi_cart_widget.cart.action.delete,"Winkelwagen verwijderen",nl_NL
+multi_cart_widget.cart.action.view,"Bekijk details",nl_NL
+multi_cart_widget.cart.action.set_default,Activeren,nl_NL
+multi_cart_widget.cart.default,Actief,nl_NL
+multi_cart_widget.cart.item,Item,nl_NL
+multi_cart_widget.cart.items,Items,nl_NL
+multi_cart_widget.cart.view_all,"Bekijk alle winkelwagens",nl_NL
+multi_cart_widget.cart.cart,Winkelwagen,nl_NL
+multi_cart_widget.cart.carts,Winkelwagens,nl_NL
+multi_cart_widget.cart.list,Winkelwagenlijst,nl_NL
+multi_cart_widget.cart.status,Status,nl_NL
+multi_cart_widget.cart.sub_total,Subtotaal,nl_NL
+multi_cart_widget.cart.actions,Acties,nl_NL
+multi_cart_widget.cart.created.success,"Winkelwagen '%quoteName%' is succesvol aangemaakt.",nl_NL
+multi_cart_widget.cart.updated.success,"Winkelwagen succesvol bijgewerkt",nl_NL
+multi_cart_widget.cart.remove.confirm,"Weet je zeker dat je deze winkelwagen wilt verwijderen?",nl_NL
+multi_cart_widget.cart.delete.error,"Winkelwagen kan niet worden verwijderd",nl_NL
+shared_cart_widget.add_product.separate,"Toevoegen als apart item",nl_NL
+shared_cart_widget.cart.share,"Deel winkelwagen",nl_NL
+shared_cart_widget.cart.unshare,"Deel winkelwagen niet",nl_NL
+shared_cart_widget.cart.dismiss,Sluiten,nl_NL
+shared_cart_widget.share_list.shared_with,"Winkelwagen gedeeld met",nl_NL
+shared_cart_widget.share_list.customer_name,Klantnaam,nl_NL
+shared_cart_widget.share_list.permission,Toegangsniveau,nl_NL
+shared_cart_widget.share_list.actions,Acties,nl_NL
+shared_cart_widget.share_list.action.unshare,"Deel winkelwagen niet",nl_NL
+shared_cart.share_list.permissions.NO_ACCESS,"Geen toegang",nl_NL
+shared_cart.share_list.permissions.READ_ONLY,Alleen-lezen,nl_NL
+shared_cart.share_list.permissions.FULL_ACCESS,"Volledige toegang",nl_NL
+shared_cart.form.share_cart,"Deel winkelwagen",nl_NL
+shared_cart.form.share_cart.title,"Deel winkelwagen ""cart_name""",nl_NL
+shared_cart.form.customer,Klantnaam,nl_NL
+shared_cart.form.select_customer,"Selecteer klant",nl_NL
+shared_cart.form.select_permissions,"Selecteer toegangsniveau",nl_NL
+shared_cart.form.share_button,Delen,nl_NL
+shared_cart.form.save_button,Opslaan,nl_NL
+shared_cart.form.data_empty,"Er zijn geen gebruikers met wie je de winkelwagen kunt delen.",nl_NL
+shared_cart.share.error.already_exist,"Winkelwagen is al gedeeld met deze klant",nl_NL
+shared_cart.share.breadcrumbs.share,Delen,nl_NL
+shared_cart.share.breadcrumbs.shopping_carts,Winkelwagens,nl_NL
+shared_cart.share.form.users,Gebruikers,nl_NL
+shared_cart_page.share.success,"Winkelwagen is succesvol gedeeld",nl_NL
+shared_cart_page.unshare.success,"Winkelwagen is succesvol niet meer gedeeld",nl_NL
+shopping_list.shopping_list,Boodschappenlijst,nl_NL
+shopping_list.item_quantity,Aantal,nl_NL
+shopping_list.remove_all_items,"Verwijder alles",nl_NL
+shopping_list.item_note,Opmerking:,nl_NL
+shopping_list.item_note.add,"Een opmerking toevoegen +",nl_NL
+customer.account.shopping_list,Boodschappenlijsten,nl_NL
+customer.account.shopping_list.access,Toegang,nl_NL
+customer.account.shopping_list.access.full_access,"Volledige toegang",nl_NL
+customer.account.shopping_list.access.read_only,"Alleen lezen",nl_NL
+customer.account.shopping_list.create.success,"Lijst '%name%' is succesvol aangemaakt.",nl_NL
+customer.account.shopping_list.create.failed,"Het maken van een boodschappenlijst is mislukt.",nl_NL
+customer.account.shopping_list.overview.create.success,"Boodschappenlijst is succesvol aangemaakt.",nl_NL
+customer.account.shopping_list.overview.shared_with,"Gedeeld met",nl_NL
+customer.account.shopping_list.overview.title,"Beheer boodschappenlijsten",nl_NL
+customer.account.shopping_list.overview.enter_name,"Voer hier de naam in",nl_NL
+customer.account.shopping_list.overview.add_new,"Nieuwe boodschappenlijst toevoegen",nl_NL
+customer.account.shopping_list.overview.name,"Naam van lijst",nl_NL
+customer.account.shopping_list.overview.item_count,"Aantal items",nl_NL
+customer.account.shopping_list.overview.modified_date,"Datum van laatste update",nl_NL
+customer.account.shopping_list.overview.created_date,"Datum aangemaakt",nl_NL
+customer.account.shopping_list.overview.actions,Acties,nl_NL
+customer.account.shopping_list.overview.edit,Hernoemen,nl_NL
+customer.account.shopping_list.overview.view,Bekijken,nl_NL
+customer.account.shopping_list.overview.form.new,"Nieuwe boodschappenlijst maken",nl_NL
+customer.account.shopping_list.overview.delete,Verwijderen,nl_NL
+customer.account.shopping_list.overview.empty,"Je hebt nog geen boodschappenlijsten.",nl_NL
+customer.account.shopping_list.overview.share,Delen,nl_NL
+customer.account.shopping_list.overview.print,Afdrukken,nl_NL
+customer.account.shopping_list.overview.dismiss,Sluiten,nl_NL
+shopping_list_page.dismiss_confirmation.trying_to_dismiss,"Bent u zeker dat u de boodschappenlijst wilt negeren?",nl_NL
+shopping_list_page.dismiss.failed,"De boodschappenlijst is niet verwijderd.",nl_NL
+shopping_list_page.dismiss.success,"Boodschappenlijst is succesvol verwijderd.",nl_NL
+customer.account.shopping_list.share.from.share,Delen,nl_NL
+customer.account.shopping_list.share.from.share_with,"Deel boodschappenlijst met:",nl_NL
+customer.account.shopping_list.item.select_item,"Er moet minstens één product geselecteerd worden.",nl_NL
+customer.account.shopping_list.item.add.success,"Item %sku% is toegevoegd aan de lijst.",nl_NL
+customer.account.shopping_list.item.add.failed,"Item %sku% kon niet worden toegevoegd aan de lijst.",nl_NL
+customer.account.shopping_list.items.added_to_cart.select_list,"Er moet ten minste één boodschappenlijst worden geselecteerd.",nl_NL
+customer.account.shopping_list.product,Product,nl_NL
+customer.account.shopping_list.price,Prijs,nl_NL
+customer.account.shopping_list.overview.variant,Variant,nl_NL
+customer.account.shopping_list.availability,Beschikbaarheid,nl_NL
+customer.account.shopping_list.available,Beschikbaar,nl_NL
+customer.account.shopping_list.not_available,"Momenteel niet beschikbaar",nl_NL
+customer.account.shopping_list.add-to-cart,"Toevoegen aan winkelwagen",nl_NL
+customer.account.shopping_list.empty,"Op dit moment staan er geen items op je boodschappenlijst.",nl_NL
+customer.account.shopping_list.add_all_available_to_cart,"Voeg alle beschikbare producten toe aan winkelwagen",nl_NL
+customer.account.shopping_list.print_shopping_list,"Afdrukken boodschappenlijst",nl_NL
+customer.account.shopping_list.item.not_added,"Toevoegen van product aan winkelwagen mislukt.",nl_NL
+customer.account.shopping_list.add_item.success,"Item is toegevoegd aan de winkelwagen.",nl_NL
+customer.account.shopping_list.item.remove.success,"Product succesvol verwijderd.",nl_NL
+customer.account.shopping_list.item.remove.failed,"Product is niet verwijderd van de winkelwagen.",nl_NL
+customer.account.shopping_list.updated,"Winkelwagen succesvol bijgewerkt",nl_NL
+customer.account.shopping_list.clear.success,"Boodschappenlijst is succesvol gewist.",nl_NL
+customer.account.shopping_list.delete.success,"Boodschappenlijst succesvol verwijderd.",nl_NL
+customer.account.shopping_list.delete.failed,"Boodschappenlijst is niet verwijderd.",nl_NL
+customer.account.shopping_list.delete.you_are_trying_to_delete_shopping_list,"Je probeert boodschappenlijst <a href=""%link%"">%name%</a> te verwijderen.",nl_NL
+customer.account.shopping_list.delete.warning,Waarschuwing,nl_NL
+customer.account.shopping_list.delete.it_belongs_to_follow,"Het behoort tot het volgende",nl_NL
+customer.account.shopping_list.delete.it_will_be_deleted_from_all_of_them,"Het zal van allemaal worden verwijderd",nl_NL
+customer.account.shopping_list.quantity,Aantal,nl_NL
+customer.account.shopping_list.remove,Verwijderen,nl_NL
+validation.not_blank,"Deze waarde mag niet leeg zijn.",nl_NL
+validation.invalid_date,"Datum moet in de juiste indeling %s zijn.",nl_NL
+validation.address_number,"Deze waarde is niet geldig (geaccepteerd formaat bijv .: 12c).",nl_NL
+validation.zip_code,"Dit veld moet precies 5 cijfers bevatten.",nl_NL
+validation.min_length,"Dit veld moet minimaal {{ limit }} tekens lang zijn.",nl_NL
+validation.max_length.singular,"Deze waarde is te lang. Het zou {{ limit }} karakter of minder moeten hebben.",nl_NL
+validation.max_length.plural,"Deze waarde is te lang. Het moet {{ limit }} tekens of minder bevatten.",nl_NL
+validation.email,"Deze waarde is geen geldig e-mailadres.",nl_NL
+validation.choice,"Deze waarde is niet geldig",nl_NL
+customer.account.shopping_list.item.added_to_cart.failed,"Het item is niet toegevoegd aan de winkelwagen.",nl_NL
+customer.account.shopping_list.items.added_to_cart.not_found,"Er zijn geen producten beschikbaar om aan de winkelwagen toe te voegen.",nl_NL
+customer.account.shopping_list.item.added_to_cart,"Item succesvol toegevoegd aan winkelwagen.",nl_NL
+customer.account.shopping_list.item.added_all_available_to_cart,"Beschikbare items succesvol toegevoegd aan winkelwagen.",nl_NL
+customer.account.shopping_list.item.added_all_available_to_cart.failed,"Niet alle items zijn succesvol aan de winkelwagen toegevoegd.",nl_NL
+shopping_list.cart.items_add.failed,"Items konden niet aan de lijst worden toegevoegd.",nl_NL
+shopping_list.cart.items_add.success,"Items zijn toegevoegd aan de lijst.",nl_NL
+shopping_list.not_applicable,N/A,nl_NL
+shopping_list_add_items_widget.add_to_shopping_list,"Toevoegen aan boodschappenlijst",nl_NL
+page.detail.add-to-shopping-list,"Toevoegen aan boodschappenlijst",nl_NL
+cart.add-to-shopping-list,"Toevoegen aan boodschappenlijst",nl_NL
+cart.add-to-shopping-list.form,"Winkelwagen opslaan in een boodschappenlijst",nl_NL
+cart.add-to-shopping-list.form.placeholder,"Voer de naam in van een nieuwe boodschappenlijst",nl_NL
+cart.add-to-shopping-list.form.add_new,"Nieuwe boodschappenlijst toevoegen",nl_NL
+cart.add-to-shopping-list.form.error.empty_name,"Voer alstublieft de naam van de boodschappenlijst in.",nl_NL
+customer.account.shopping_list.overview.add_shopping_list_to_cart,"Voeg geselecteerde boodschappenlijsten toe aan winkelwagen",nl_NL
+customer.account.shopping_list.items.added_to_cart.failed,"Items zijn niet toegevoegd aan de winkelwagen.",nl_NL
+customer.account.shopping_list.items.added_to_cart,"Items succesvol aan winkelwagen toegevoegd.",nl_NL
+customer.account.shopping_list.add_selected_items_to_cart,"Geselecteerde items toevoegen aan winkelwagen",nl_NL
+customer.account.shopping_list.share.select_company_user,"Selecteer klant",nl_NL
+customer.account.shopping_list.share.select_company_business_unit,"Selecteer bedrijfseenheid",nl_NL
+customer.account.shopping_list.share.select_permission,"Selecteer toegangsniveau",nl_NL
+customer.account.shopping_list.share.error.one_id_required,"Kies alstublieft of u de boodschappenlijst wilt delen met klanten of met de bedrijfseenheid.",nl_NL
+customer.account.shopping_list.share.share_shopping_list_successful,"Delen van boodschappenlijst was succesvol.",nl_NL
+customer.account.shopping_list.share.share_shopping_list_fail,"Deze boodschappenlijst is eerder gedeeld met deze entiteit.",nl_NL
+customer.account.shopping_list.overview.owner,"Gebruiker die de lijst heeft gemaakt",nl_NL
+customer.account.shopping_list.error.duplicate_name,"Een boodschappenlijst met dezelfde naam bestaat al.",nl_NL
+customer.account.shopping_list.error.cannot_update,"Kan boodschappenlijst niet bijwerken.",nl_NL
+jumbotron.smart_watches.link,/nl/smart-wearables/smartwatches,nl_NL
+jumbotron.smartphones.link,/nl/telecom-en-navigatie/smartphones,nl_NL
+jumbotron.tablets.link,/nl/computers/tablets,nl_NL
+cms-product-group.category.link.text,"Ontdek meer",nl_NL
+camcorders.category.link,/nl/cameras-en-camcorders/digitale-camera's?,nl_NL
+smartphones.category.link,/nl/telecom-en-navigatie/smartphones,nl_NL
+packaging_unit_type.item.name,Item,nl_NL
+packaging_unit_type.ring_500.name,"Ring (500m)",nl_NL
+packaging_unit_type.box.name,Doos,nl_NL
+packaging_unit_type.palette.name,Palet,nl_NL
+packaging_unit_type.giftbox.name,Cadeaubox,nl_NL
+packaging_unit_type.valentines_special.name,Valentijnspecial,nl_NL
+packaging_unit_type.pack_20.name,"Pakket 20",nl_NL
+packaging_unit_type.pack_500.name,"Pack 500",nl_NL
+packaging_unit_type.pack_100.name,"Pakket 100",nl_NL
+packaging_unit_type.pack_mixed.name,"Gemengde schroeven dozen",nl_NL
+business_on_behalf_widget.no_selected_company,"Geen geselecteerd bedrijf",nl_NL
+business_on_behalf_widget.change_company_user,"Wijzig Bedrijfsgebruiker",nl_NL
+company_user.business_on_behalf.error.company_not_active,"Je kunt deze bedrijfsgebruiker niet selecteren, het bedrijf is niet actief.",nl_NL
+company_user.business_on_behalf.error.company_user_invalid,"Je kunt deze bedrijfsgebruiker niet selecteren, het is ongeldig.",nl_NL
+company_user.change_company_user,"Wijzig Bedrijfsgebruiker",nl_NL
+company_user.no_company,"Geen bedrijf",nl_NL
+company_user.remember_choice,"Onthoud keuze",nl_NL
+company_page.company_user_restricted_message,"Regelmatige klanten mogen geen gebruik maken van bedrijfspagina's.",nl_NL
+company_page.company_business_unit_restricted_message,"Je hebt geen toestemming om deze handeling uit te voeren.",nl_NL
+customer.account.print_shopping_list.table.barcode,Barcode,nl_NL
+customer.account.print_shopping_list.table.product_sku,"Product SKU",nl_NL
+customer.account.print_shopping_list.table.product_name,Productnaam,nl_NL
+customer.account.print_shopping_list.table.default_price,Standaardprijs,nl_NL
+customer.account.print_shopping_list.table.note,Opmerking,nl_NL
+customer.account.print_shopping_list.title.shopping_list_id,"Winkelwagen ID",nl_NL
+customer.account.print_shopping_list.title.shopping_list_name,"Winkelwagen Naam",nl_NL
+cameras.category.link,/nl/camera's-en-camcorders/digitale-camera's,nl_NL
+samsung.search.link,/nl/search?q=samsung,nl_NL
+cart.title_content,"In uw winkelwagen",nl_NL
+cart.title_sidebar,"Doorgaan naar afrekenen",nl_NL
+cart.note-title,"Winkelwagen Opmerking",nl_NL
+cart.voucher-title,Vouchercode,nl_NL
+remove,Verwijderen,nl_NL
+item,Item,nl_NL
+cart.select.default_value,"Selecteer alstublieft een waarde.",nl_NL
+page.product.upsell-products,"Vergelijkbare producten",nl_NL
+account.newsletter.text,"Meld je aan voor onze nieuwsbrief en blijf altijd op de hoogte! Ontvang updates over de nieuwste trends op het gebied van smartphones en wearables, topmerken en geweldige aanbiedingen.",nl_NL
+footer_subscribe.subscription_text,"Meld je aan en blijf altijd op de hoogte",nl_NL
+footer_subscribe.subscription_placeholder,"Voeg e-mail toe",nl_NL
+cart_widget.empty_text,"Je winkelwagen is leeg. Vul hem met al je technische hoop en dromen.",nl_NL
+page.checkout.address.billing-same-as-shipping,"Facturatieadres gelijk aan verzendadres",nl_NL
+agent.authentication.failed,"Authenticatie mislukt",nl_NL
+agent.login.title,"Toegang tot uw account",nl_NL
+agent.confirm_user_selection,Bevestigen,nl_NL
+agent.login.email,E-mail,nl_NL
+agent.login.password,Wachtwoord,nl_NL
+agent.control_bar.username,Agent:,nl_NL
+agent.control_bar.customer_name,Klant:,nl_NL
+agent.control_bar.logout_as_customer,Klantenservice,nl_NL
+agent.control_bar.logout,Afmelden,nl_NL
+agent.autocomplete.no_results,"Geen resultaten gevonden",nl_NL
+agent.account.overview,Overzicht,nl_NL
+agent.account.quote_request,Offerteaanvragen,nl_NL
+agent.account.page_title,Agent,nl_NL
+agent.account.profile_data,Agentprofiel,nl_NL
+autocomplete.placeholder,Zoeken,nl_NL
+footer.logo.text,"Gemaakt met",nl_NL
+footer.logo.url,https://spryker.com,nl_NL
+footer.logo.link.privacy,https://spryker.com/privacy-policy/,nl_NL
+footer.logo.link.imprint,https://spryker.com/imprint/,nl_NL
+footer.providers__title,"Verzending en Betaling",nl_NL
+page.product.details.slider_image,Productafbeelding,nl_NL
+page.product.details.slider_thumbnail,Productafbeelding,nl_NL
+wishlist.form.save,Opslaan,nl_NL
+wishlist.validation.error.name.already_exists,"Er bestaat al een verlanglijst met dezelfde naam.",nl_NL
+global.search.pages,Pagina's,nl_NL
+global.search.results.view,Bekijken,nl_NL
+cms.page.sort.relevance,"Sorteer op relevantie",nl_NL
+cms.page.sort.name_asc,"Sorteer op naam oplopend",nl_NL
+cms.page.sort.name_desc,"Sorteer op naam aflopend",nl_NL
+cms.page.itemsFound,"Items gevonden",nl_NL
+cms.page.filter.per,"Per Pagina",nl_NL
+availability_notification.notify_me,"Meld mij aan voor een melding wanneer het product weer op voorraad is.",nl_NL
+availability_notification.do_not_notify_me,"Meld me niet wanneer het product weer op voorraad is.",nl_NL
+availability_notification.subscribed,"Met succes geabonneerd",nl_NL
+availability_notification.unsubscribed,"Met succes afgemeld",nl_NL
+availability_notification.successfully_unsubscribed,"Met succes afgemeld",nl_NL
+availability_notification.successfully_unsubscribed_text,"U hebt zich succesvol afgemeld voor het ontvangen van meldingen wanneer het product weer beschikbaar is.",nl_NL
+availability_notification_subscription.mail.subscribed.head,"We hebben ons aankoopteam zojuist op de hoogte gebracht van je abonnement!",nl_NL
+availability_notification_subscription.mail.subscribed.body,"Je ontvangt een e-mail wanneer het product weer beschikbaar is.",nl_NL
+availability_notification_subscription.mail.subscribed.subject,"We hebben ons aankoopteam zojuist op de hoogte gebracht van je abonnement!",nl_NL
+availability_notification_subscription.mail.unsubscribed.subject,"Je zult geen melding ontvangen wanneer het product %name% weer beschikbaar is.",nl_NL
+availability_notification_subscription.mail.unsubscribed.body,"Je zult geen melding ontvangen wanneer het product %name% weer beschikbaar is.",nl_NL
+availability_notification_subscription.mail.notification.buy_now,"Nu kopen",nl_NL
+availability_notification_subscription.mail.notification.subject,"%name% is weer beschikbaar!",nl_NL
+availability_notification_subscription.mail.notification.head,"%name% is weer beschikbaar!",nl_NL
+availability_notification_subscription.mail.notification.body,"Het wachten is voorbij, je kunt dit product nu toevoegen aan je winkelwagen.",nl_NL
+availability_notification_subscription.mail.copyright,"<em>Auteursrecht © huidig jaar bedrijfsnaam, Alle rechten voorbehouden.</em><br><br>",nl_NL
+availability_notification_subscription.mail.unsubscribe,"Wil je de manier waarop je deze e-mails ontvangt veranderen?<br>Je kunt je <a target=""_blank"" href=""%link%"" style=""mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underline;"">uitschrijven van deze lijst</a>.",nl_NL
+availability_notification.email_address,E-mailadres,nl_NL
+discount.voucher_code.usage_limit.reached,"Vouchercode gebruikslimiet bereikt",nl_NL
+product_bundle.unavailable,"Product '%productSku%' in het bundelproduct '%bundleSku%' is op dit moment niet beschikbaar.",nl_NL
+cart.total.price_to_pay,"Prijs om te betalen",nl_NL
+cart.giftcard.label,Cadeaubon,nl_NL
+cart.giftcard.apply.failed,"De cadeaubon is niet van toepassing.",nl_NL
+cart.giftcard.apply.successful,"Uw cadeauboncode is toegepast.",nl_NL
+checkout.giftcard.label,Cadeaubon,nl_NL
+mail.giftCard.delivery.subject,"Jouw cadeaubon!",nl_NL
+mail.giftCard.delivery.text,"Beste klant, bedankt voor het kopen van een cadeaubon in onze winkel. Uw cadeauboncode is:",nl_NL
+mail.giftCard.usage.subject,"Bedankt voor het gebruik van een cadeaubon!",nl_NL
+cart.code.apply.failed,"Code kon niet worden toegepast",nl_NL
+cart.code.enter-code,"Voer de code van de voucher/cadeaubon in",nl_NL
+general.next.button,Volgende,nl_NL
+shipment.validation.not_found,"Verzendmethode niet gevonden.",nl_NL
+billing.address.validation.is_missing,"Factuuradres ontbreekt",nl_NL
+billing.address.country.validation.not_found,"Factuuradres land niet gevonden voor landcode: %code%",nl_NL
+shipping.address.country.validation.not_found,"Verzendadres land niet gevonden voor landcode: %code%",nl_NL
+product_search_widget.search.product_discontinued_prefix,[Stopgezet],nl_NL
+place_order.pre_check.product_discontinued,"Product '%name%' is uit het assortiment, kies alstublieft een alternatief.",nl_NL
+configurable_bundle.templates.configurable-bundle-all-in.name,"Alles in",nl_NL
+configurable_bundle.templates.smartstation.name,"Smartstation Kit",nl_NL
+configurable_bundle.template_slots.slot-1.name,"Slot 1",nl_NL
+configurable_bundle.template_slots.slot-2.name,"Slot 2",nl_NL
+configurable_bundle.template_slots.slot-3.name,"Slot 3",nl_NL
+configurable_bundle.template_slots.slot-4.name,"Slot 4",nl_NL
+configurable_bundle.template_slots.slot-5.name,"Slot 5",nl_NL
+configurable_bundle.template_slots.slot-6.name,"Slot 6",nl_NL
+configurable_bundle.template.validation.error.not_exists,"Configuratiebundelsjabloon bestaat niet.",nl_NL
+configurable_bundle.slot.validation.error.not_exists,"Configuratiebundelsjabloonvak bestaat niet.",nl_NL
+configurable_bundle.template.validation.error.already_activated,"Configuratiebundelsjabloon is al geactiveerd.",nl_NL
+configurable_bundle.template.validation.error.already_deactivated,"Configuratiebundelsjabloon is al gedeactiveerd.",nl_NL
+configurable_bundle_note.enter_note,"Voeg een opmerking toe voor het geconfigureerde bundel",nl_NL
+configurable_bundle_note.note,"Geconfigureerde bundel opmerking:",nl_NL
+configurable_bundle_note.form.save,Opslaan,nl_NL
+configurable_bundle_note.note_added,"Notitie is succesvol toegevoegd aan geconfigureerd bundel.",nl_NL
+configurable_bundle_page.select,Selecteren,nl_NL
+configurable_bundle_page.unselect,Deselecteren,nl_NL
+configurable_bundle_page.edit,Bewerken,nl_NL
+configurable_bundle_page.configurator,Configurator,nl_NL
+configurable_bundle_page.configurable_bundle_list,"Configureerbare bundellijst",nl_NL
+configurable_bundle_page.choose_bundle_to_configure,"Kies een bundel om te configureren",nl_NL
+configurable_bundle_page.configurator.templates_not_found,"Er zijn geen sjablonen beschikbaar.",nl_NL
+configurable_bundle_page.template_not_found,"Configuratiebundelsjabloon niet gevonden.",nl_NL
+configurable_bundle_page.invalid_template_slot_combination,"Ongeldige sjabloon/slot combinatie.",nl_NL
+configurable_bundle_page.configurator.tip.header,"Stel je eigen bundel samen.",nl_NL
+configurable_bundle_page.configurator.tip.text,"Om het pakket te maken, selecteer alstublieft de sleuf aan de linkerkant en kies het product uit de lijst.",nl_NL
+configurable_bundle_page.configurator.selected_product,"Geselecteerd product",nl_NL
+configurable_bundle_page.configurator.summary,Samenvatting,nl_NL
+configurable_bundle_page.configurator.add_to_cart,"Toevoegen aan winkelwagen",nl_NL
+configurable_bundle_page.configurator.summary_page_locked,"Er moet ten minste één product worden geconfigureerd om de samenvattingspagina te bezoeken.",nl_NL
+configurable_bundle_page.configurator.summary_page_total,Totaal,nl_NL
+configurable_bundle_page.configurator.added_to_cart,"Configuratiebundel succesvol toegevoegd aan winkelwagen.",nl_NL
+configurable_bundle_page.configurator.slot_became_unavailable,"Geconfigureerde slot met ID '%id%' is niet meer beschikbaar.",nl_NL
+configurable_bundle_page.configurator.product_became_unavailable,"Product met SKU '%sku%' geconfigureerd voor slot met ID '%id%' is niet meer beschikbaar.",nl_NL
+configurable_bundle_page.configurator.slot_page.back_link,"Terug naar Bundels",nl_NL
+configurable_bundle_page.configurator.sku,Sku:,nl_NL
+sales_configured_bundle_widget.success.items_added_to_cart_as_individual_products,"Let op: Items uit de Configured Bundle zijn toegevoegd aan de winkelwagen als individuele producten.",nl_NL
+sales_configured_bundle_widget.returnable_state,"Niet retourneerbaar",nl_NL
+sales_configured_bundle_widget.quantity,Aantal:,nl_NL
+configured_bundle_widget.items,Items,nl_NL
+configured_bundle.quantity,Aantal:,nl_NL
+configured_bundle.price,"Item prijs:",nl_NL
+configured_bundle.bundle_total,"Totaal bundel:",nl_NL
+configured_bundle.total,"Totaal aantal items:",nl_NL
+configured_bundle.remove,Verwijderen,nl_NL
+configured_bundle.order.items,"Items in de bundel:",nl_NL
+configured_bundle.item_sku,SKU:,nl_NL
+configured_bundle_cart.error.configured_bundle_not_found,"Geconfigureerd pakket met opgegeven sku niet gevonden in winkelwagen.",nl_NL
+configured_bundle_cart.error.configured_bundle_cannot_be_removed,"Geconfigureerd pakket kan niet uit de winkelwagen worden verwijderd.",nl_NL
+configured_bundle_cart.error.configured_bundle_cannot_be_updated,"De geconfigureerde bundel kan niet worden bijgewerkt.",nl_NL
+configured_bundle_cart.error.configured_bundle_cannot_be_added,"Configuratiebundel kan niet aan winkelwagen worden toegevoegd.",nl_NL
+configured_bundle_widget.configured_bundle.removed,"Geconfigureerd pakket succesvol verwijderd.",nl_NL
+configured_bundle_widget.configured_bundle.updated,"Geconfigureerd pakket succesvol bijgewerkt.",nl_NL
+configured_bundle_widget.multiplier,x,nl_NL
+configured_bundle_note_widget.edit_note,Bewerken,nl_NL
+configured_bundle_note_widget.remove_note,Verwijderen,nl_NL
+product_search_widget.search.no_results,"Producten zijn niet gevonden.",nl_NL
+return.return_reasons.damaged.name,Beschadigd,nl_NL
+return.return_reasons.wrong-item.name,"Verkeerd artikel",nl_NL
+return.return_reasons.no_longer_needed.name,"Niet langer nodig",nl_NL
+return.return_policy.returnable_till.message,"Retourneren mogelijk tot: %date%",nl_NL
+cart_page.error_message.unexpected_error,"Onverwachte fout opgetreden.",nl_NL
+return_page.default_title,Retourneren,nl_NL
+return_page.title,"Retourneren aanmaken",nl_NL
+return_page.return_reasons.select_reason.placeholder,"Selecteer reden",nl_NL
+return_page.return_reasons.custom_reason.placeholder,"Aangepaste reden",nl_NL
+return_page.return_reasons.empty,—,nl_NL
+order_invoice.invoice_template.table.number,Positie,nl_NL
+order_invoice.invoice_template.table.quantity,Aantal,nl_NL
+order_invoice.invoice_template.table.name,Item,nl_NL
+order_invoice.invoice_template.table.tax,Belastingtarief,nl_NL
+order_invoice.invoice_template.table.price,Prijs,nl_NL
+order_invoice.invoice_template.table.subtotal,Totaalbedrag,nl_NL
+order_invoice.invoice_template.table.discount,Korting,nl_NL
+order_invoice.invoice_template.table.tax.included,"dit omvat %tax_rate%% BTW netto",nl_NL
+order_invoice.invoice_template.table.tax.name,BTW,nl_NL
+order_invoice.invoice_template.table.grandtotal,Totaalbedrag,nl_NL
+order_invoice.invoice_template.reference,Factuurnummer:,nl_NL
+order_invoice.invoice_template.introduction,"Wij brengen u hierbij in rekening voor de volgende goederen:",nl_NL
+order_invoice.invoice_template.company.name,"Spryker Systems GmbH Berlijn",nl_NL
+order_invoice.invoice_template.company.address,"Julie-Wolfthorn-Straat 1<br>10115 Berlijn<br>Duitsland",nl_NL
+order_invoice.invoice_template.company.group,"Ondernemingsgroep Spryker Systems GmbH",nl_NL
+order_invoice.invoice_template.merchant.name,"Spryker Systems GmbH Berlijn",nl_NL
+order_invoice.invoice_template.merchant.address,"Julie-Wolfthorn-Straat 1 + 10115 Berlijn",nl_NL
+return_page.list.title,Retourneren,nl_NL
+return_page.account.no_return,"Geen retourzendingen op dit moment.",nl_NL
+return_page.return.return_ref,Retourreferentie,nl_NL
+return_page.return.order_ref,Bestelreferentie,nl_NL
+return_page.return.number_of_items,"Aantal items",nl_NL
+return_page.return.date,Retourdatum,nl_NL
+return_page.return.items_state,"Items State",nl_NL
+return_page.return.view_return,"Bekijk Retour",nl_NL
+return_page.return.print_return,"Print Slip",nl_NL
+return_page.breadcrumb.returns,Retourneren,nl_NL
+return_page.breadcrumb.create_return,"Retourneren aanmaken",nl_NL
+return_page.details.page_title,Retourinformatie,nl_NL
+return_page.details.actions.back_to_list,"Terug naar lijst",nl_NL
+return_page.details.actions.print_slip,"Print Slip",nl_NL
+return_page.details.total.items_to_return,"Items om terug te sturen",nl_NL
+return_page.details.total.items_to_return.count,items,nl_NL
+return_page.details.total.remuneration_total,"Totaal vergoeding",nl_NL
+return_page.item.options,Productopties:,nl_NL
+return_page.table.actions, ,nl_NL
+return_page.button.return_list,Retourneren,nl_NL
+return_page.return_reasons.title,Reden:,nl_NL
+return_page.return.created,"Retourzending succesvol aangemaakt",nl_NL
+return_page.return.title,"Retourneren aanmaken",nl_NL
+return_page.order_reference,Bestelreferentie:,nl_NL
+return_page.order_date,Besteldatum:,nl_NL
+return_page.return_reference,"Retourneren ref:",nl_NL
+return_page.return_date,Retourdatum:,nl_NL
+return_page.button_text,"Retourneren aanmaken",nl_NL
+return_page.item_sku,SKU:,nl_NL
+return_page.quantity,Aantal:,nl_NL
+return_page.returnable_state,"Niet retourneerbaar",nl_NL
+return_page.create_return.validation.selected_items,"Er moet minstens één product geselecteerd worden.",nl_NL
+return_page.button.create_return,Retourneren,nl_NL
+return_page.slip.return_reference,"Retourneren en Terugbetaling",nl_NL
+return_page.slip.return_date,Retourdatum,nl_NL
+return_page.slip.order_reference,Bestelreferentie,nl_NL
+return_page.slip.barcode,Barcode,nl_NL
+return_page.slip.product_sku,"Product SKU",nl_NL
+return_page.slip.product_name,Productnaam,nl_NL
+return_page.slip.default_price,Standaardprijs,nl_NL
+return_page.slip.quantity,Aantal,nl_NL
+return_page.slip.total_price,Totaalprijs,nl_NL
+return_page.slip.return_reason,"Reden van retour",nl_NL
+return_page.slip.items_to_return,"Items om terug te sturen",nl_NL
+return_page.slip.remuneration_total,"Totaal vergoeding",nl_NL
+return_page.create_return.select_all_checkbox,"Selecteer alles",nl_NL
+sales_product_bundle_widget.returnable_text,"Retourneren mogelijk tot:",nl_NL
+sales_product_bundle_widget.returnable_state,"Niet retourneerbaar",nl_NL
+sales_product_bundle_widget.item_sku,SKU:,nl_NL
+sales_product_bundle_widget.quantity,Aantal:,nl_NL
+sales_product_bundle_widget.item.options,Productopties:,nl_NL
+oms.state.new,Nieuw,nl_NL
+oms.state.waiting,Wachten,nl_NL
+oms.state.in-progress,"In uitvoering",nl_NL
+oms.state.ready,Klaar,nl_NL
+oms.state.canceled,Geannuleerd,nl_NL
+oms.state.closed,Gesloten,nl_NL
+oms.state.draft,Concept,nl_NL
+oms.state.payment-pending,"Betaling in behandeling",nl_NL
+oms.state.paid,Betaald,nl_NL
+oms.state.confirmed,Bevestigd,nl_NL
+oms.state.exported,Geëxporteerd,nl_NL
+oms.state.shipped,Verzonden,nl_NL
+oms.state.delivered,Geleverd,nl_NL
+oms.state.ready-for-return,"Klaar voor retour",nl_NL
+oms.state.refunded,Terugbetaald,nl_NL
+oms.state.returned,Teruggekeerd,nl_NL
+oms.state.waiting-for-return,"Wachten op retour",nl_NL
+oms.state.shipped-to-customer,"Verzonden naar klant",nl_NL
+oms.state.sent-to-merchant,"Verzonden naar verkoper",nl_NL
+oms.state.shipped-by-merchant,"Verzonden door verkoper",nl_NL
+oms.state.return-canceled,"Retour geannuleerd",nl_NL
+oms.state.merchant-split-pending,"Handelaar gesplitst in afwachting",nl_NL
+oms.state.gift-card-purchased,"Cadeaubon aangeschaft",nl_NL
+oms.state.gift-card-created,"Cadeaubon aangemaakt",nl_NL
+oms.state.gift-card-shipped,"Cadeaubon verzonden",nl_NL
+oms.state.invoice-generated,"Factuur gegenereerd",nl_NL
+oms.state.reservation-cancelled,"Reservering geannuleerd",nl_NL
+oms.state.reservation-cancellation-pending,"Reservering Annulering In Afwachting",nl_NL
+return.create_return.validation.returnable_items_error,"Retourneren is niet mogelijk omdat het niet-retourneerbare items bevat.",nl_NL
+return.create_return.validation.store_error,"Retourneren is niet mogelijk - er is een verkeerde winkel geselecteerd",nl_NL
+return.create_return.validation.items_error,"Retourneren is niet mogelijk voor deze set items.",nl_NL
+form.csrf.error.text,"Er is iets misgegaan. Sorry.",nl_NL
+sales.error.customer_order_not_found,"Bestelling van klant niet gevonden.",nl_NL
+sales.error.order_cannot_be_canceled_due_to_wrong_item_state,"Bestelling kan niet geannuleerd worden vanwege een verkeerde artikelstatus.",nl_NL
+order_cancel_widget.cancel_order,"Bestelling annuleren",nl_NL
+order_cancel_widget.order.cancelled,"Bestelling is succesvol geannuleerd.",nl_NL
+product_cart_item.remove,"× verwijderen",nl_NL
+product-cart.info.restricted-product.removed,"Het artikel %sku% is uit de winkelwagen verwijderd omdat het gedeactiveerd is.",nl_NL
+mail.trans.availability_notification.subtitle,"De wachttijd is voorbij! Voeg dit product nu toe aan je winkelwagen.",nl_NL
+mail.trans.availability_notification.title.part2,"is weer beschikbaar!",nl_NL
+mail.trans.availability_notification_subscription.subtitle,"Je ontvangt een e-mail wanneer het product weer beschikbaar is.",nl_NL
+mail.trans.availability_notification_subscription.title,"We hebben ons aankoopteam zojuist op de hoogte gebracht van je abonnement!",nl_NL
+mail.trans.availability_notification_unsubscribed.subtitle,"Je ontvangt geen melding wanneer het product weer beschikbaar is.",nl_NL
+mail.trans.availability_notification_unsubscribed.title.part1,"Je abonnement op",nl_NL
+mail.trans.availability_notification_unsubscribed.title.part2,"is geannuleerd",nl_NL
+mail.trans.common.go_to_shop,"Ga naar de winkel",nl_NL
+mail.trans.common.hello_for_first_name,Hallo,nl_NL
+mail.trans.common.my_account,"Mijn Account",nl_NL
+mail.trans.customer_registration.change_info,"U kunt uw gegevens (afleveradres, e-mailadres, wachtwoord, etc.) wijzigen in Mijn Account.",nl_NL
+mail.trans.customer_registration.registration_success,"Je registratie voor de Spryker Shop is succesvol verlopen!",nl_NL
+mail.trans.customer_registration.title,"Bedankt voor het aanmelden bij Spryker Shop!",nl_NL
+mail.trans.customer_restored_password_confirmation.title,"Je wachtwoord is succesvol gewijzigd.",nl_NL
+mail.trans.customer_restore_password.change_password,"Wachtwoord wijzigen",nl_NL
+mail.trans.customer_restore_password.subtitle,"Iemand heeft een nieuw wachtwoord aangevraagd voor je Spryker Shop-account. Als jij dit niet was, negeer dan deze e-mail. Als jij het wel was, volg dan de instructies in de onderstaande knop.",nl_NL
+mail.trans.customer_restore_password.title,"Nieuw wachtwoord voor uw Spryker Shop-account",nl_NL
+mail.trans.footer.contact_email_address,info@spryker.com,nl_NL
+mail.trans.footer.if_you_have_further_questions,"Als u nog verdere vragen heeft, neem dan contact op met onze klantenservice op",nl_NL
+mail.trans.footer.shop_address,"Julie-Wolfthorn-Straat 1",nl_NL
+mail.trans.footer.shop_city,Berlijn,nl_NL
+mail.trans.footer.shop_name,"Spryker Systems GmbH",nl_NL
+mail.trans.footer.shop_phone,"+31 (0) 30 208 498 350",nl_NL
+mail.trans.footer.shopping_experience,"Geniet van uw winkelervaring.",nl_NL
+mail.trans.footer.shop_zip_code,10115,nl_NL
+mail.trans.footer.your_team,"Jouw Spryker team!",nl_NL
+mail.trans.gift_card_delivery.subtitle,"Uw cadeauboncode is",nl_NL
+mail.trans.gift_card_delivery.title,"Beste klant, bedankt voor het kopen van een cadeaubon in onze winkel.",nl_NL
+mail.trans.gift_card_usage.subtitle,"Uw cadeauboncode is",nl_NL
+mail.trans.gift_card_usage.title,"Je hebt zojuist een cadeaubon gebruikt!",nl_NL
+mail.trans.header.shop_name,"Spryker Winkel",nl_NL
+mail.trans.newsletter_subscribed.subtitle,"We zullen ons best doen om het meest relevante en spannende nieuws en updates te leveren.",nl_NL
+mail.trans.newsletter_subscribed.title,"We zijn verheugd dat je je hebt aangemeld voor onze nieuwsbrief.",nl_NL
+mail.trans.newsletter_unsubscribed.subtitle,"Uw e-mailadres is uitgeschreven voor de nieuwsbrief van de Spryker Shop. U kunt altijd uw abonnement beheren in uw klantprofiel.",nl_NL
+mail.trans.newsletter_unsubscribed.title,"Sorry dat je weggaat...",nl_NL
+mail.trans.order.billing_address,Factuuradres,nl_NL
+mail.trans.order.delivery_address,Afleveradres,nl_NL
+mail.trans.order.delivery_method,Verzendmethode,nl_NL
+mail.trans.order.discounts_total,Kortingen,nl_NL
+mail.trans.order.grand_total,Totaalbedrag,nl_NL
+mail.trans.order.order_date,Besteldatum,nl_NL
+mail.trans.order.order_details,"Bestelling details",nl_NL
+mail.trans.order.order_reference,Bestelreferentie,nl_NL
+mail.trans.order.quantity,Aantal,nl_NL
+mail.trans.order.requested_delivery_date,"Gewenste leveringsdatum",nl_NL
+mail.trans.order.shipment_costs_total,"Verzendkosten (totaal)",nl_NL
+mail.trans.order.shipment_for_number.part1,Verzending,nl_NL
+mail.trans.order.shipment_for_number.part2,van,nl_NL
+mail.trans.order.subtotal,Totaalbedrag,nl_NL
+mail.trans.order.taxes,Belastingen,nl_NL
+mail.trans.order_confirmation.subtitle,"We schrijven u om u te laten weten dat we uw bestelling hebben ontvangen. U kunt een verzendbevestiging per e-mail verwachten zodra de bestelling is verzonden. We hopen dat u tevreden bent met uw bestelling, maar als u van gedachten verandert, kunt u deze binnen 14 dagen retourneren.",nl_NL
+mail.trans.order_confirmation.title,"Bedankt voor het winkelen bij Spryker Shop!",nl_NL
+mail.trans.restore_password.change_password,"Wachtwoord wijzigen",nl_NL
+mail.trans.restore_password.subtitle,"Iemand heeft een nieuw wachtwoord aangevraagd voor uw Spryker Back Office-account. Als u dit niet was, negeer dan deze e-mail. Als u dit wel was, volg dan de instructies in de onderstaande knop.",nl_NL
+mail.trans.restore_password.title,"Nieuw wachtwoord voor uw Spryker Back Office-account",nl_NL
+mail.trans.order_shipped.title,"Je bestelling is onderweg!",nl_NL
+mail.trans.company_status.title,"De status van uw bedrijf is gewijzigd naar",nl_NL
+mail.trans.customer_registration.confirmation_link,"Valideer uw e-mailadres",nl_NL
+customer.error.confirm_email_link.invalid_or_used,"Deze e-mailverificatielink is ongeldig of is al gebruikt.",nl_NL
+customer.authorization.validate_email_address,"Bijna klaar! We sturen je een e-mail om je e-mailadres te valideren. Bevestig het alsjeblieft om in te kunnen loggen.",nl_NL
+customer.authorization.invalid_account,"Als dit e-mailadres al in gebruik is, ontvangt u een link om uw wachtwoord opnieuw in te stellen. Anders moet u eerst uw e-mailadres valideren om de registratie te voltooien. Controleer alstublieft uw e-mail.",nl_NL
+password.weak,Zwak,nl_NL
+password.medium,Medium,nl_NL
+password.strong,Sterk,nl_NL
+password.very_strong,"Zeer sterk",nl_NL
+password.message,"Probeer het wachtwoord langer te maken of voeg cijfers of symbolen toe.",nl_NL
+customer.password.error.deny_list,"Dit wachtwoord wordt als veelvoorkomend beschouwd. Gebruik alstublieft een ander wachtwoord.",nl_NL
+customer.password.error.sequence,"Je hebt hetzelfde karakter te vaak herhaald.",nl_NL
+customer.password.error.character_set,"Wachtwoord moet minstens 1 karakter bevatten van elke toegestane karaktergroep: hoofdletter, kleine letter, cijfer en een speciaal karakter.",nl_NL
+error.429,"Te veel verzoeken",nl_NL
+security_blocker_page.error.account_blocked,"Te veel inlogpogingen vanaf uw adres. Wacht %minutes% minuten voordat u het opnieuw probeert.",nl_NL
+security_blocker_backoffice_gui.error.account_blocked,"Te veel inlogpogingen vanaf uw adres. Wacht %minutes% minuten voordat u het opnieuw probeert.",nl_NL
+agent_page.error.customer_already_logged_in,"U bent al ingelogd als klant, log eerst uit en ga dan verder.",nl_NL
+customer.login.remember_me,"Onthoud mij",nl_NL
+sales-order-threshold.hard-minimum-threshold.us.usd.message,"Je moet items toevoegen voor {{threshold}} om een aanbevolen drempel te halen. Je kunt niet doorgaan met afrekenen.",nl_NL
+sales-order-threshold.hard-maximum-threshold.us.usd.message,"De waarde van het winkelwagentje kan niet hoger zijn dan {{threshold}}. Verwijder alstublieft enkele items om door te gaan met de bestelling.",nl_NL
+sales-order-threshold.soft-minimum-threshold.us.usd.message,"Je moet {{threshold}} items toevoegen om een aanbevolen drempel te halen, maar je kunt wel doorgaan naar de kassa als je wilt.",nl_NL
+countries.iso.US,"Verenigde Staten van Amerika",nl_NL
+store_widget.switcher.store,Winkel:,nl_NL
+product_bundle_product_detail_page_items_list_widget.title.bundle_includes,"Bundel bevat",nl_NL
+product_configuration.checkout.validation.error.is_not_complete,"Productconfiguratie is niet voltooid.",nl_NL
+product_configuration_widget.configure,Configureren,nl_NL
+product_configuration_widget.complete,"Configuratie voltooid!",nl_NL
+product_configuration_widget.not_complete,"Configuratie is niet compleet.",nl_NL
+product_configuration_widget.quote_not_valid,"Deze winkelwagen kan niet verwerkt worden. Configureer alstublieft de items in de winkelwagen.",nl_NL
+product_configurator_gateway_page.source_type_not_blank,"Bron is een verplichte parameter",nl_NL
+product_configurator_gateway_page.sku_not_blank,"Product SKU is een verplichte parameter.",nl_NL
+product_configurator_gateway_page.quantity_required,"Hoeveelheid is een verplichte parameter.",nl_NL
+product_configuration.error.availability.failed,"Het product is beschikbaarheid van %availability%.",nl_NL
+product_configuration.quote_request.validation.error.incomplete,"Je moet de configuratie van de producten voltooien om de offerte te kunnen valideren.",nl_NL
+store.validation.store_not_found,"Winkel niet gevonden",nl_NL
+push_notification.validation.error.push_notification_provider_not_found,"De pushmelding-provider is niet gevonden.",nl_NL
+push_notification.validation.error.push_notification_not_found,"Pushmelding niet gevonden.",nl_NL
+push_notification.validation.error.wrong_group_name,"Verkeerde groepsnaam.",nl_NL
+push_notification.validation.error.push_notification_already_exists,"Pushmeldingabonnement bestaat al.",nl_NL
+push_notification.validation.error.locale_not_found,"Opgegeven taalinstelling niet gevonden.",nl_NL
+push_notification_web_push_php.validation.error.invalid_payload_structure,"Ongeldige structuur van de payload.",nl_NL
+push_notification_web_push_php.validation.error.payload_length_exceeded,"De maximale lengte van de payload is overschreden.",nl_NL
+push_notification.validation.push_notification_provider_name_exists,"Een pushmeldingprovider met dezelfde naam bestaat al.",nl_NL
+push_notification.validation.push_notification_provider_name_wrong_length,"Een pushmelding provider naam moet een lengte hebben van %min% tot %max% tekens.",nl_NL
+push_notification.validation.push_notification_provider_name_is_not_unique,"Een pushmeldingprovider met dezelfde naam bestaat al in het verzoek.",nl_NL
+push_notification.validation.push_notification_exists,"Kan pushmeldingsprovider niet verwijderen zolang er pushmeldingen zijn.",nl_NL
+push_notification.validation.push_notification_subscription_exists,"Kan pushmeldingsprovider niet verwijderen zolang er een pushmeldingsabonnement bestaat.",nl_NL
+push_notification.validation.wrong_request_body,"Verkeerd verzoeklichaam.",nl_NL
+warehouse_user_assignment.validation.user_not_found,"Gebruiker niet gevonden.",nl_NL
+warehouse_user_assignment.validation.warehouse_not_found,"Magazijn niet gevonden.",nl_NL
+warehouse_user_assignment.validation.warehouse_user_assignment_not_found,"Magazijngebruikerstoewijzing niet gevonden.",nl_NL
+warehouse_user_assignment.validation.too_many_active_warehouse_assignments,"De gebruiker heeft te veel actieve magazijntoewijzingen.",nl_NL
+warehouse_user_assignment.validation.warehouse_user_assignment_already_exists,"Magazijngebruikerstoewijzing bestaat al.",nl_NL
+picking_list.validation.wrong_request_body,"Verkeerd verzoeklichaam.",nl_NL
+picking_list.validation.picked_by_another_user,"De picklijst wordt al door een andere gebruiker verzameld.",nl_NL
+picking_list.validation.picking_list_entity_not_found,"De picklijst entiteit is niet gevonden.",nl_NL
+picking_list.validation.picking_list_item_entity_not_found,"Het item van de picklijst is niet gevonden.",nl_NL
+picking_list.validation.only_full_quantity_picking_allowed,"Je kunt items alleen in volledige hoeveelheden kiezen.",nl_NL
+picking_list.validation.incorrect_quantity,"Onjuiste hoeveelheid.",nl_NL
+picking_list.validation.wrong_property_picking_list_item_quantity,"Verkeerde pickingListItem.quantity eigenschap.",nl_NL
+picking_list.validation.wrong_property_picking_list_item_number_of_picked,"Verkeerde pickingListItem.numberOfPicked eigenschap.",nl_NL
+picking_list.validation.wrong_property_picking_list_item_number_of_not_picked,"Verkeerde pickingListItem.numberOfNotPicked eigenschap.",nl_NL
+picking_list.validation.picking_list.validation.picking_list_duplicated,"Pickinglijst gedupliceerd.",nl_NL
+picking_list.validation.picking_list.validation.picking_list_item_duplicated,"PickingListItem gedupliceerd.",nl_NL
+picking_list_push_notification.validation.warehouse_entity_not_found,"Magazijn niet gevonden.",nl_NL
+dummyPaymentCreditCard.hidden_numbers,*********,nl_NL

@@ -1,0 +1,62 @@
+Action,Actie
+"Add Group","Groep toevoegen"
+"Add new Role","Nieuwe rol toevoegen"
+"Add Rule","Regel toevoegen"
+"Assigned groups","Toegewezen groepen"
+"Assigned Roles","Toegewezen rollen"
+"Assigned Rules","Toegewezen regels"
+Bundle,Bundel
+Controller,Controller
+"Could not modify root role node!","Je hebt geen toestemming om de hoofdrol te bewerken."
+Create,Creëren
+"Create Group","Groep creëren"
+"Create new Role","Nieuwe rol creëren"
+"Create Role","Rol creëren"
+"Current password","Huidig wachtwoord"
+"Edit Group","Groep bewerken"
+"Failed to add Rule.","Toevoegen van regel mislukt."
+"Failed to remove rule","Verwijderen van regel mislukt"
+"Group couldn't be found","Groep kon niet worden gevonden"
+"Group name already in use","Groepsnaam is al in gebruik"
+"Group was created successfully.","Groep is succesvol aangemaakt."
+"Group was updated successfully.","Groep is succesvol bijgewerkt."
+"Interface language","Interface taal"
+"List Groups","Lijst met groepen"
+"List Roles","Lijst met rollen"
+"Missing role id!","Ontbrekende rol-id!"
+"Missing rule id!","Ontbrekende regel-id!"
+"No roles","Geen rollen"
+Permission,Toestemming
+Role,Rol
+"Role ""%s"" successfully added.","Rol ""%s"" succesvol toegevoegd."
+"Role ""%s"" successfully updated.","Rol ""%s"" succesvol bijgewerkt."
+"Role couldn't be found","Rol kon niet worden gevonden"
+"Role list","Rol lijst"
+"Role name",Rolnaam
+"Role was successfully removed.","Rol is succesvol verwijderd."
+Roles,Rollen
+roles,Rollen
+"Root group",Hoofdgroep
+Rule,Regel
+"Rule successfully added.","Regel succesvol toegevoegd."
+Save,Opslaan
+"Select value","Selecteer waarde"
+"The password fields must match.","De wachtwoordvelden moeten overeenkomen."
+"The User was removed from the group.","De gebruiker is verwijderd uit de groep."
+"This action requires a DELETE request.","Deze actie vereist een DELETE-verzoek."
+"This user is an agent","Deze gebruiker is een agent"
+"Unable to delete because role has groups assigned.","Kan niet verwijderen omdat de rol aan groepen is toegewezen."
+"Update ""%s"" Role","Bijwerken van rol ""%s"""
+"User and group are not found.","Gebruiker en groep niet gevonden."
+"User was activated successfully.","Gebruiker is succesvol geactiveerd."
+"User was deactivated successfully.","Gebruiker is succesvol gedeactiveerd."
+"User was deleted successfully.","Gebruiker is succesvol verwijderd."
+"User was updated successfully.","Gebruiker is succesvol bijgewerkt."
+Users,Gebruikers
+"Users Control",Gebruikersbeheer
+Groups,Groepen
+allow,toestaan
+deny,weigeren
+"Edit Role","Rol bewerken"
+"Created At","Aangemaakt op"
+"Create new Group","Nieuwe groep aanmaken"

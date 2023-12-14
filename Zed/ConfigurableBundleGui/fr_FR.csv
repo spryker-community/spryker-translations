@@ -1,0 +1,66 @@
+Actions,Actions
+Activate,Activer
+Active,Actif
+"Add General Information","Ajouter des informations générales"
+"Add Slot","Ajouter un emplacement"
+"Are you sure you want to delete template","Êtes-vous sûr de vouloir supprimer le modèle"
+"Are you sure you want to delete this slot?","Êtes-vous sûr de vouloir supprimer cet emplacement ?"
+"At first create Configurable bundle Template, after that you will be redirected to the page where you can create slots, and define products per each of them.","Commencez par créer un modèle de bundle configurable, puis vous serez redirigé vers la page où vous pourrez créer des emplacements et définir des produits pour chacun d'entre eux."
+Back,Retour
+"Back to Template list","Retour à la liste des modèles"
+"Below you can edit the name of your slot for different locales (in different languages).","Ci-dessous, vous pouvez modifier le nom de votre emplacement pour différentes langues (locales)."
+Cancel,Annuler
+"Configurable Bundle Template","Modèle de bundle configurable"
+"Configurable bundle template has been successfully created.","Le modèle de bundle configurable a été créé avec succès."
+"Configurable bundle template has been successfully deleted.","Le modèle de bundle configurable a été supprimé avec succès."
+"Configurable bundle template has been successfully updated.","Le modèle de bundle configurable a été mis à jour avec succès."
+"Configurable bundle template has not been created.","Le modèle de bundle configurable n'a pas été créé."
+"Configurable bundle template has not been deleted.","Le modèle de bundle configurable n'a pas été supprimé."
+"Configurable bundle template has not been updated.","Le modèle de bundle configurable n'a pas été mis à jour."
+"Configurable bundle template slot has not been created.","L'emplacement du modèle de bundle configurable n'a pas été créé."
+"Configurable bundle template slot has not been deleted.","L'emplacement du modèle de bundle configurable n'a pas été supprimé."
+"Configurable bundle template slot has not been updated.","L'emplacement du modèle de bundle configurable n'a pas été mis à jour."
+"Configurable bundle template slot was successfully created.","L'emplacement du modèle de bundle configurable a été créé avec succès."
+"Configurable bundle template slot was successfully deleted.","L'emplacement du modèle de bundle configurable a été supprimé avec succès."
+"Configurable bundle template slot was successfully updated.","L'emplacement du modèle de bundle configurable a été mis à jour avec succès."
+"Configurable bundle template slot with id ""%id%"" was not found.","L'emplacement du modèle de bundle configurable avec l'identifiant ""%id%"" n'a pas été trouvé."
+"Configurable bundle template with id ""%id%"" was not found.","Le modèle de bundle configurable avec l'identifiant ""%id%"" n'a pas été trouvé."
+"Configurable Bundle Templates","Modèles de bundle configurable"
+Confirm,Confirmer
+"Confirm action","Confirmer l'action"
+"Create Configurable Bundle Template","Créer un modèle de bundle configurable"
+"Create New Template","Créer un nouveau modèle"
+"Create Slot","Créer un emplacement"
+Deactivate,Désactiver
+Delete,Supprimer
+"Delete Configurable Bundle Template","Supprimer le modèle de bundle configurable"
+"Delete Template","Supprimer le modèle"
+Edit,Modifier
+"Edit Configurable Bundle Template","Modifier le modèle de bundle configurable"
+"Edit Slot","Modifier l'emplacement"
+"Edit Slot for","Modifier l'emplacement pour"
+for,pour
+General,Général
+Inactive,Inactif
+Name,Nom
+Next,Suivant
+"Note: you can assign products and categories for a slot in the respective tabs.","Note: vous pouvez attribuer des produits et des catégories à un emplacement dans les onglets respectifs."
+"Nr. of Slots","N° d'emplacements"
+"Number of Items","Nombre d'articles"
+"Product ID","ID du produit"
+Save,Enregistrer
+SKU,SKU
+"Slot details","Détails de l'emplacement"
+"Slot ID","ID de l'emplacement"
+"Slot Name","Nom de l'emplacement"
+Slots,Emplacements
+Status,Statut
+"Template ""%template_name%"" has been activated.","Le modèle ""%template_name%"" a été activé."
+"Template ""%template_name%"" has deactivated.","Le modèle ""%template_name%"" a été désactivé."
+"Template ""%template_name%"" has not been activated.","Le modèle ""%template_name%"" n'a pas été activé."
+"Template ""%template_name%"" has not been deactivated.","Le modèle ""%template_name%"" n'a pas été désactivé."
+"Template ""%template_name%"" was activated.","Le modèle ""%template_name%"" a été activé."
+"Template ""%template_name%"" was deactivated.","Le modèle ""%template_name%"" a été désactivé."
+"Template details","Détails du modèle"
+"You can add slots on this page. During slot creation you can assign products from a catalog to this slot one by one, import CSV file or assign several categories.","Vous pouvez ajouter des emplacements sur cette page. Lors de la création d'un emplacement, vous pouvez attribuer des produits d'un catalogue à cet emplacement un par un, importer un fichier CSV ou attribuer plusieurs catégories."
+"You can change name and define locals on this page.","Vous pouvez changer le nom et définir les paramètres locaux sur cette page."

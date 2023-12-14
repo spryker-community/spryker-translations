@@ -1,0 +1,61 @@
+Created,"تم الإنشاء"
+Customer,العميل
+Email,"البريد الإلكتروني"
+"Grand Total","المجموع الكلي"
+"Order State","حالة الطلب"
+"Merchant Reference","المرجع التجاري"
+"No. of Items","عدد العناصر"
+Orders,الطلبات
+Reference,المرجع
+Search,البحث
+States,الدول
+Store,المتجر
+Stores,المتاجر
+Details,التفاصيل
+Order,الطلب
+"Order date","تاريخ الطلب"
+"Number of products","عدد المنتجات"
+Items,العناصر
+Shipments,الشحنات
+Subtotal,"المجموع الفرعي"
+Shipment,الشحن
+"Included Taxes","الضرائب المشمولة"
+"Client name","اسم العميل"
+"Client email","بريد العميل الإلكتروني"
+"Total orders","إجمالي الطلبات"
+Overview,"نظرة عامة"
+Totals,المجاميع
+"From the last %daysNumber% days","من آخر %daysNumber% أيام"
+"Manage Orders","إدارة الطلبات"
+New,جديد
+"Per Store","Per Store"
+"The state is updated successfully.","تم تحديث الحالة بنجاح."
+"Only matching states items will be updated.","سيتم تحديث عناصر الحالة المطابقة فقط."
+"Order's Items state","حالة عناصر الطلب"
+"Merchant order not found for id %d.","لم يتم العثور على طلب تاجر بالمعرف %d."
+"Event name is empty.","اسم الحدث فارغ."
+"Merchant order ids are empty.","معرفات طلبات التاجر فارغة."
+Method,الطريقة
+Carrier,الناقل
+"Delivery address","عنوان التسليم"
+"Requested Date","تاريخ الطلب"
+SKU,"رمز المنتج"
+Image,الصورة
+Name,الاسم
+Quantity,الكمية
+State,الحالة
+"There are no applicable actions for the selected items.","لا توجد إجراءات قابلة للتطبيق على العناصر المحددة."
+"Shipment %index% of %total%","شحنة %index% من %total%"
+"Canceled Amount","المبلغ الملغى"
+"Discount Amount","مبلغ الخصم"
+"Canceled By Merchant","تم إلغاءها من قبل التاجر"
+Shipped,"تم شحنها"
+Delivered,"تم التوصيل"
+initiate,بدء
+ship,شحن
+deliver,توصيل
+close,إغلاق
+"cancel by merchant","إلغاء من قبل التاجر"
+"merchant split pending","فصل التاجر قيد الانتظار"
+"sent to merchant","تم إرسالها إلى التاجر"
+"shipped by merchant","تم شحنه بواسطة التاجر"

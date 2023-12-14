@@ -1,0 +1,54 @@
+Activate,Ativar
+Active,Ativo
+"Add image","Adicionar imagem"
+"Add image set","Adicionar conjunto de imagens"
+"Create Product Set","Criar conjunto de produtos"
+Deactivate,Desativar
+Default,Padrão
+"Delete image","Excluir imagem"
+"Delete image set","Excluir conjunto de imagens"
+"Deselect All","Desmarcar todos"
+"Deselected products","Produtos desmarcados"
+Edit,Editar
+ID,ID
+"Image Set","Conjunto de imagens"
+"Image Set Name","Nome do conjunto de imagens"
+Inactive,Inativo
+Keywords,Palavras-chave
+"Large Image URL","URL da imagem grande"
+"List of Sets","Lista de conjuntos"
+Name,Nome
+Position,Posição
+Preview,Visualização
+Price,Preço
+"Product details","Detalhes do produto"
+"Product Sets","Conjuntos de produtos"
+"Products in this Set","Produtos neste conjunto"
+"Products to be assigned","Produtos a serem atribuídos"
+"Products to be deassigned","Produtos a serem desatribuídos"
+"Reorder Product Sets","Reordenar conjuntos de produtos"
+Save,Salvar
+"Select All","Selecionar todos"
+"Select products to assign","Selecionar produtos para atribuir"
+Selected,Selecionado
+"Selected products","Produtos selecionados"
+SEO,SEO
+SKU,SKU
+"Small Image URL","URL da imagem pequena"
+Status,Status
+Submit,Enviar
+Title,Título
+URL,Url
+View,Ver
+Weight,Peso
+"Weight defines sorting order. Product Sets with higher numbers listed first.","O peso define a ordem de classificação. Conjuntos de produtos com números mais altos são listados primeiro."
+"Product Set Key","Chave do Conjunto de Produtos"
+"You need to select a minimum of 2 products.","Você precisa selecionar no mínimo 2 produtos."
+Images,Imagens
+"View Product Set","Ver Conjunto de Produtos"
+"Product Set ""%s"" created successfully.","Conjunto de Produtos ""%s"" criado com sucesso."
+"Product Set #%d activated successfully.","Conjunto de Produtos #%d ativado com sucesso."
+"Product Set #%d deactivated successfully.","Conjunto de Produtos #%d desativado com sucesso."
+"Product Set ""%s"" updated successfully.","Conjunto de Produtos ""%s"" atualizado com sucesso."
+"Product Set #%d deleted successfully.","Conjunto de Produtos #%d excluído com sucesso."
+"Number of Products","Número de Produtos"

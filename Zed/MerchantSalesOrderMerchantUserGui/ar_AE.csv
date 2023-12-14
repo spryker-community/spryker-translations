@@ -1,0 +1,59 @@
+"Overview of Orders","نظرة عامة على الطلبات"
+"List of Orders","قائمة الطلبات"
+"My Orders",طلباتي
+"Order Reference","مرجع الطلب"
+"Marketplace Order Reference","مرجع طلب المتجر"
+Created,"تم الإنشاء"
+Customer,العميل
+Email,"البريد الإلكتروني"
+"Order State","حالة الطلب"
+"Grand Total","المجموع الكلي"
+"Number of items","عدد العناصر"
+Actions,الإجراءات
+View,عرض
+"Merchant Order Overview","نظرة عامة على طلب التاجر"
+Reference,المرجع
+Name,الاسم
+"Previous orders count","عدد الطلبات السابقة"
+"Billing address","عنوان الفواتير"
+"Merchant Order Reference","مرجع طلب التاجر"
+"Order date","تاريخ الطلب"
+Totals,المجموعات
+Option,الخيار
+Subtotal,"المجموع الفرعي"
+Discount,الخصم
+"Cancelled amount","المبلغ الملغى"
+"GRAND TOTAL","المجموع الكلي"
+"Total taxes","إجمالي الضرائب"
+"Remuneration total","إجمالي الأجر"
+"Merchant order doesn't exist.","طلب التاجر غير موجود."
+Shipment,الشحنة
+of,من
+"Delivery Address","عنوان التوصيل"
+"Delivery Method","طريقة التوصيل"
+"Shipping Method","طريقة الشحن"
+"Shipping Costs","تكاليف الشحن"
+"Request delivery date","تاريخ طلب التوصيل"
+"Trigger all matching states of order inside this shipment","تفعيل جميع حالات الطلب المطابقة داخل هذه الشحنة"
+"Merchant Order Items","عناصر طلب التاجر"
+Product,المنتج
+Quantity,الكمية
+"Unit Price","سعر الوحدة"
+"Item total","إجمالي العنصر"
+State,الحالة
+"Trigger event","حدث المشغل"
+"Variant Details","تفاصيل البديل"
+"Show less","إظهار أقل"
+"Show more","إظهار المزيد"
+"incl. %tax_amount% % tax","شامل %tax_amount% % ضريبة"
+"Show history","إظهار التاريخ"
+"Hide history","إخفاء التاريخ"
+Sku,SKU
+"Shipment has been successfully created.","تم إنشاء الشحنة بنجاح."
+"Shipment has not been created.","لم يتم إنشاء الشحنة."
+"Merchant sales order #%d not found.","طلب البائع #%d غير موجود."
+"Shipment has been successfully updated.","تم تحديث الشحنة بنجاح."
+"Shipment has not been updated.","لم يتم تحديث الشحنة."
+"Shipment #%d not found.","الشحنة #%d غير موجودة."
+"New Shipment for Order: %idMerchantSalesOrder%","شحنة جديدة للطلب: %idMerchantSalesOrder%"
+"Back to Orders","العودة إلى الطلبات"

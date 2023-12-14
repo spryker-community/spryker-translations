@@ -1,0 +1,29 @@
+Administration,Administration
+"API Keys","Clés API"
+Name,Nom
+ID,ID
+Key,Clé
+Edit,Modifier
+Delete,Supprimer
+Create,Créer
+Back,Retour
+Save,Enregistrer
+"Created by","Créé par"
+"Back to API Keys","Retour aux clés API"
+"Create API Key","Créer une clé API"
+"Edit API Key","Modifier la clé API"
+Actions,Actions
+"API key `%s` created successfully. Note, it will not be shown again. Please ensure you save it securely for future use.","La clé API `%s` a été créée avec succès. Notez qu'elle ne sera pas affichée à nouveau. Assurez-vous de la sauvegarder en toute sécurité pour une utilisation future."
+"API Key with ID `%d` does not exist.","La clé API avec l'ID `%d` n'existe pas."
+"The new API key is `%s`. Note, it will not be shown again. Please ensure you save it securely for future use.","La nouvelle clé API est `%s`. Notez qu'elle ne sera pas affichée à nouveau. Assurez-vous de la sauvegarder en toute sécurité pour une utilisation future."
+"API key has been successfully removed","La clé API a été supprimée avec succès."
+"API key can not be removed","La clé API ne peut pas être supprimée."
+"Regenerate Key","Régénérer la clé"
+"Delete API Key","Supprimer la clé API"
+"API key updated successfully.","La clé API a été mise à jour avec succès."
+"API key removal confirmation","Confirmation de suppression de la clé API"
+"Are you sure you want to delete this API key?","Êtes-vous sûr de vouloir supprimer cette clé API ?"
+"No, I want to keep this API key","Non, je souhaite conserver cette clé API."
+"We highly recommend setting an expiration date to the token, because of security reasons.","Nous recommandons vivement de définir une date d'expiration pour le jeton, pour des raisons de sécurité."
+"Expires on","Expire le"
+"⚠️ Never","⚠️ Jamais"

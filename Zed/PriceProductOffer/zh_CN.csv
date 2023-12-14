@@ -1,0 +1,4 @@
+"The set of Store and Currency needs to be unique.",输入的Store和Currency需要是唯一的。
+"This value should be equal or greater than {{ compared_value }} or empty.","该值应该等于或大于{{ compared_value }}或为空。"
+"This field is missing.",该字段缺失。
+"Currency {{ currency }} is not assigned to the store {{ store }}","货币{{ currency }}未分配给商店{{ store }}。"

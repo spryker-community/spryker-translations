@@ -1,0 +1,10 @@
+"Add new order","Nieuwe bestelling toevoegen"
+Customer,Klant
+Oms,Oms
+"Order ID",Bestelnummer
+"process display",procesweergave
+Processes,Processen
+"Statemachine preview","Voorbeeld van de toestandsmachine"
+"Total Price","Totale prijs"
+"Status change triggered successfully.","Statuswijziging succesvol geactiveerd."
+"This file format is not supported. Please use file format SVG.","Dit bestandsformaat wordt niet ondersteund. Gebruik alstublieft het bestandsformaat SVG."

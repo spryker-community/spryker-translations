@@ -1,0 +1,4 @@
+"The set of Store and Currency needs to be unique.","De set van invoeren Winkel en Valuta moet uniek zijn."
+"This value should be equal or greater than {{ compared_value }} or empty.","Deze waarde moet gelijk zijn aan of groter dan {{ compared_value }} of leeg."
+"This field is missing.","Dit veld ontbreekt."
+"Currency {{ currency }} is not assigned to the store {{ store }}","Valuta {{ currency }} is niet toegewezen aan de winkel {{ store }}"

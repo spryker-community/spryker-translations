@@ -1,0 +1,29 @@
+"Edit Data Exchange API Configuration","Editar configuración de API de intercambio de datos"
+"Back to Data Exchange API Configuration","Volver a la configuración de API de intercambio de datos"
+"Create Data Exchange API Configuration","Crear configuración de API de intercambio de datos"
+ID,ID
+Actions,Acciones
+"Table name","Nombre de la tabla"
+"Resource name","Nombre del recurso"
+"Is enabled","Está habilitado"
+Identifier,Identificador
+Status,Estado
+Inactive,Inactivo
+Active,Activo
+Enabled,Habilitado
+Name,Nombre
+"Visible Name","Nombre visible"
+Type,Tipo
+Creatable,"Puede crearse"
+Editable,"Puede editarse"
+Required,Requerido
+Min,Mín.
+Max,Máx.
+"Min Length","Longitud mínima"
+"Max Length","Longitud máxima"
+Scale,Escala
+Precision,Precisión
+Edit,Editar
+Create,Crear
+"Download API Specification","Descargar especificación de la API"
+"Documentation generation is in progress, please refresh the page in %s minute(s).","La generación de documentación está en progreso, por favor actualiza la página en %s minuto(s)."

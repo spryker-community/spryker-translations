@@ -1,0 +1,24 @@
+"Add New User","إضافة مستخدم جديد"
+"Add User","إضافة مستخدم"
+"Assign Customers","تعيين العملاء"
+Create,إنشاء
+"Edit User","تحرير المستخدم"
+"General Information","معلومات عامة"
+"List Users","قائمة المستخدمين"
+"Repeat Password","تكرار كلمة المرور"
+Save,حفظ
+Update,تحديث
+"Last Login","آخر تسجيل دخول"
+"User entity was not created.","لم يتم إنشاء كيان المستخدم"
+"User entity was not updated.","لم يتم تحديث كيان المستخدم"
+"User was not activated.","لم يتم تفعيل المستخدم"
+"User was not deactivated.","لم يتم إلغاء تفعيل المستخدم"
+"User was not deleted.","لم يتم حذف المستخدم"
+User,المستخدم
+"Create new User","إنشاء مستخدم جديد"
+"Create user","إنشاء مستخدم"
+Warning,تحذير
+"Delete User","حذف المستخدم"
+"You are trying to delete user","أنت تحاول حذف المستخدم"
+"Root group","مجموعة الجذر"
+E-mail,"البريد الإلكتروني"

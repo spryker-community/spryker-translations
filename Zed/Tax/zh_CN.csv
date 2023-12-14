@@ -1,0 +1,50 @@
+"Back to Tax Rates",返回税率
+"Back to Tax Sets",返回税率集
+"Could not delete tax set. Is it assigned to product or shipping method?",无法删除税率集。它是否已分配给产品或运输方式？
+Country,国家
+"Create Tax Rate",创建税率
+"Create Tax Set",创建税率集
+"Created at",创建于
+Delete,删除
+"Delete Tax Rate",删除税率
+"Delete Tax Set",删除税率集
+Edit,编辑
+"Edit Tax Rate:",编辑税率：
+"Edit Tax Set:",编辑税率集：
+"List of tax rates",税率列表
+"List of tax sets",税率集列表
+N/A,n/a
+Name,名称
+"Overview of Tax Rates",税率概述
+"Overview of Tax Sets",税率集概述
+Percentage,百分比
+Save,保存
+"Select country.",选择国家。
+"Tax rate %d was created successfully.","税率 %d 创建成功。"
+"Tax rate %d was deleted successfully.","税率 %d 删除成功。"
+"Tax rate %d was updated successfully.","税率 %d 更新成功。"
+"Tax Rate deletion confirmation",税率成功删除
+"Tax rate details",税率详情
+"Tax rate ID",税率ID
+"Tax rate with id %s doesn't exist","ID为 %s 的税率不存在"
+"Tax rate with provided name, percentage and country already exists.",已存在具有相同名称、百分比和国家的税率。
+"Tax rates",税率
+"Tax Rates",税率
+"Tax set %d was created successfully.","税率集 %d 创建成功。"
+"Tax set %d was updated successfully.","税率集 %d 更新成功。"
+"Tax Set deletion confirmation",确定要删除此税率集吗？
+"Tax set details",税率集详情
+"Tax set ID",税率集ID
+"Tax set is not created. Please fill-in all required fields.",未创建税率集。请填写所有必填字段。
+"Tax set with id %s doesn't exist","ID为 %s 的税率集不存在"
+"Tax Set with name ""%name%"" already exists.","名称为 ""%name%"" 的税率集已存在。"
+"Tax Sets",税收设置
+Taxes,税收
+"The tax set has been deleted",税收设置已删除
+"Updated at",更新于
+"View Tax Rate:",查看税率:
+"View Tax Set:",查看税收设置:
+"You should choose one or more tax rates",您应该选择一个或多个税率
+"No country",没有国家
+"Edit Tax Rate",编辑税率
+"Edit Tax Set",编辑税收设置

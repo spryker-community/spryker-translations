@@ -1,0 +1,6 @@
+"This field is missing.",此字段缺失。
+"This value is not valid.",此值无效。
+"The set of Store, Currency, and Quantity needs to be unique.","Store、Currency 和 Quantity 的集合需要唯一。"
+"Gross Default and/or Net Default price is required for volume price.",需要设置总默认价格和/或净默认价格以获取批量价格。
+"Invalid volume quantity.",无效的批量数量。
+"For a volume price the Gross and Net base price needs to be set.",批量价格需要设置总基础价格和净基础价格。

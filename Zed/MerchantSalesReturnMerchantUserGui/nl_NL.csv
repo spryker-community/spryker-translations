@@ -1,0 +1,52 @@
+"My Returns","Mijn Retouren"
+Return,Retour
+"Merchant for current user not found.","Verkoper voor huidige gebruiker niet gevonden."
+"Merchant sales order #%d not found.","Verkopersbestelling #%d niet gevonden."
+"Return was successfully created.","Retour is succesvol aangemaakt."
+"Return has not been created.","Retour is niet aangemaakt."
+"Requested return with ID %id% was not found.","Gevraagde retour met ID %id% niet gevonden."
+"Status change triggered successfully.","Statuswijziging succesvol geactiveerd."
+"Request is invalid","Aanvraag is ongeldig."
+"Parameter redirect not found.","Parameter redirect niet gevonden."
+"Item selected for return is not eligible for return anymore.","Geselecteerd item voor retour is niet meer retourneerbaar."
+"Select reason","Selecteer reden"
+View,Bekijken
+"Print Slip","Print Slip"
+"Return ID","Retour ID"
+"Return Reference",Retourreferentie
+"Order Reference",Bestelreferentie
+"Marketplace Order Reference",Marktplaatsbestelreferentie
+"Returned Products","Geretourneerde producten"
+"Return Date",Retourdatum
+State,Status
+Actions,Acties
+Sku,Sku
+"incl. %tax_amount% % tax","incl. %tax_amount% % belasting"
+"Show history","Toon geschiedenis"
+"Hide history","Verberg geschiedenis"
+"Create Return","Retour aanmaken"
+"Back to Order","Terug naar bestelling"
+"Merchant Order Reference","Verkoper Bestelreferentie"
+"Merchant Order References","Verkoper Bestelreferenties"
+"Select Items to Return","Selecteer items om te retourneren"
+Product,Product
+Quantity,Aantal
+Price,Prijs
+Total,Totaal
+"Return policy",Retourbeleid
+Customer,Klant
+"Customer Reference",Klantreferentie
+Name,Naam
+Email,E-mail
+"General information","Algemene informatie"
+"Returned Items","Geretourneerde items"
+Reason,Reden
+"Trigger all matching states","Activeer alle overeenkomende statussen"
+of,van
+"selected items","geselecteerde items"
+"Trigger event","Activeer gebeurtenis"
+items,items
+"Remuneration Total","Totaalbedrag vergoeding"
+"Overview of Return","Overzicht van retour"
+"Back to Returns","Terug naar retouren"
+"Print Return Slip","Retourbon afdrukken"

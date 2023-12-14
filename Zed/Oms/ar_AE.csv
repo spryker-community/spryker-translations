@@ -1,0 +1,10 @@
+"Add new order","إضافة طلب جديد"
+Customer,العميل
+Oms,Oms
+"Order ID","معرف الطلب"
+"process display","عرض العملية"
+Processes,العمليات
+"Statemachine preview","معاينة آلة الحالة"
+"Total Price","السعر الإجمالي"
+"Status change triggered successfully.","تم تنشيط تغيير الحالة بنجاح."
+"This file format is not supported. Please use file format SVG.","هذا النوع من الملف غير مدعوم. يرجى استخدام تنسيق الملف SVG."

@@ -1,0 +1,25 @@
+"Add Company Business Unit","Bedrijfsunit toevoegen"
+"Back to Company Business Units","Terug naar Bedrijfsunits"
+"BU Name","BU Naam"
+"BU Parent","BU Ouder"
+"Company Business Unit",Bedrijfsunit
+"Company Business Unit ""%s"" has been created.","Bedrijfsunit ""%s"" is aangemaakt."
+"Company Business Unit ""%s"" has been updated.","Bedrijfsunit ""%s"" is bijgewerkt."
+"Company Business Unit ""%s"" has not been created.","Bedrijfsunit ""%s"" is niet aangemaakt."
+"Company Business Unit ""%s"" has not been updated. A Business Unit cannot be set as a child to an own child Business Unit, please check the Business Unit hierarchy.","Bedrijfsunit ""%s"" is niet bijgewerkt. Een Bedrijfsunit kan niet worden ingesteld als een kind van een eigen kind Bedrijfsunit, controleer de hiërarchie van de Bedrijfsunit."
+"Company Business Unit ""%s"" was deleted.","Bedrijfsunit ""%s"" is verwijderd."
+"Company name",Bedrijfsnaam
+"Company Units",Bedrijfseenheden
+"Create Company Business Unit","Bedrijfsunit aanmaken"
+"Edit Company Business Unit","Bedrijfsunit bewerken"
+"List of Company Business Units","Lijst van bedrijfsunits"
+"No parent","Geen ouder"
+"Overview of Company Business Units","Overzicht van Bedrijfsunits"
+Parent,Ouder
+Save,Opslaan
+"Select one","Selecteer een"
+"You can not delete a business unit ""%s"" while it contains user","Je kunt een bedrijfsunit ""%s"" niet verwijderen terwijl het gebruikers bevat"
+Address,Adres
+"Business Units",Bedrijfseenheden
+"Business Unit",Bedrijfsunit
+"Business Unit name",Bedrijfsunitnaam

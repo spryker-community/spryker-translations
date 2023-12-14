@@ -1,0 +1,48 @@
+Activate,Activar
+"Add option","Agregar opción"
+"All products","Todos los productos"
+"Assigned products","Productos asignados"
+"Could not activate option.","No se pudo activar la opción."
+"Create a product option by defining option values with translation key, sku and price. By adding more than 1 option value below, you will create an option group. With an option group your customer can choose one option from this group.","Crear una opción de producto definiendo valores de opción con clave de traducción, SKU y precio. Al agregar más de 1 valor de opción a continuación, creará un grupo de opciones. Con un grupo de opciones, su cliente puede elegir una opción de este grupo."
+"Create product option","Crear opción de producto"
+"Created at","Creado en"
+Deactivate,Desactivar
+"Deselect all on the page","Deseleccionar todo en la página"
+Edit,Editar
+"Edit product option","Editar opción de producto"
+"General information","Información general"
+"Gross Price","Precio bruto"
+"Group name","Nombre del grupo"
+"Group name translation key","Clave de traducción del nombre del grupo"
+ID,ID
+"List of product options","Lista de opciones de producto"
+Name,Nombre
+"Net Price","Precio neto"
+"Option group ID","ID del grupo de opciones"
+"Option name","Nombre de la opción"
+"Option name translation key","Clave de traducción del nombre de la opción"
+"Option successfully activated.","Opción activada correctamente."
+"Option successfully deactivated.","Opción desactivada correctamente."
+"Option Values","Valores de opción"
+"Product option group created.","Grupo de opciones de producto creado."
+"Product option group modified.","Grupo de opciones de producto modificado."
+"Product option list","Lista de opciones de producto"
+"Product Options","Opciones de producto"
+Products,Productos
+"Products to be assigned","Productos a asignar"
+"Products to be deassigned","Productos a desasignar"
+"Products with this option","Productos con esta opción"
+Save,Guardar
+"Select all on the page","Seleccionar todo en la página"
+Selected,Seleccionado
+SKU,SKU
+Sku,SKU
+"Tax set","Conjunto de impuestos"
+Translation,Traducción
+"Translation key","Clave de traducción"
+"Updated at","Actualizado en"
+"View product option","Ver opción de producto"
+Active,Activo
+Inactive,Inactivo
+"product.option.group.name.(your key)","product.option.group.name.(tu clave)"
+"product.option.(your key)","product.option.(tu clave)"

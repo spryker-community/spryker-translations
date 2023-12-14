@@ -1,0 +1,25 @@
+"Add Company Business Unit",添加公司业务单元
+"Back to Company Business Units",返回公司业务单元
+"BU Name",BU名称
+"BU Parent",BU上级
+"Company Business Unit",公司业务单元
+"Company Business Unit ""%s"" has been created.","公司业务单元""%s""已创建。"
+"Company Business Unit ""%s"" has been updated.","公司业务单元""%s""已更新。"
+"Company Business Unit ""%s"" has not been created.","公司业务单元""%s""未创建。"
+"Company Business Unit ""%s"" has not been updated. A Business Unit cannot be set as a child to an own child Business Unit, please check the Business Unit hierarchy.","公司业务单元""%s""未更新。业务单元不能设置为其子业务单元的子级，请检查业务单元层次结构。"
+"Company Business Unit ""%s"" was deleted.","公司业务单元""%s""已删除。"
+"Company name",公司名称
+"Company Units",公司单位
+"Create Company Business Unit",创建公司业务单位
+"Edit Company Business Unit",编辑公司业务单位
+"List of Company Business Units",公司业务单位列表
+"No parent",无父级
+"Overview of Company Business Units",公司业务单位概述
+Parent,父级
+Save,保存
+"Select one",选择一个
+"You can not delete a business unit ""%s"" while it contains user","当它包含用户时，您无法删除业务单元""%s"""
+Address,地址
+"Business Units",业务单元
+"Business Unit",业务单元
+"Business Unit name",业务单元名称

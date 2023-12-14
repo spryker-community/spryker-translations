@@ -1,0 +1,29 @@
+"Edit Data Exchange API Configuration","تعديل تكوين واجهة برمجة تطبيقات تبادل البيانات"
+"Back to Data Exchange API Configuration","العودة إلى تكوين واجهة برمجة تطبيقات تبادل البيانات"
+"Create Data Exchange API Configuration","إنشاء تكوين واجهة برمجة تطبيقات تبادل البيانات"
+ID,المعرف
+Actions,الإجراءات
+"Table name","اسم الجدول"
+"Resource name","اسم المورد"
+"Is enabled",ممكّن
+Identifier,المعرف
+Status,الحالة
+Inactive,"غير نشط"
+Active,نشط
+Enabled,ممكّن
+Name,الاسم
+"Visible Name","الاسم المرئي"
+Type,النوع
+Creatable,"قابل للإنشاء"
+Editable,"قابل للتعديل"
+Required,مطلوب
+Min,"الحد الأدنى"
+Max,ماكس
+"Min Length","الحد الأدنى للطول"
+"Max Length","الحد الأقصى للطول"
+Scale,مقياس
+Precision,الدقة
+Edit,تحرير
+Create,إنشاء
+"Download API Specification","تنزيل مواصفات واجهة برمجة التطبيق"
+"Documentation generation is in progress, please refresh the page in %s minute(s).","جاري إنشاء الوثائق، يرجى تحديث الصفحة في %s دقيقة(دقائق)."

@@ -1,0 +1,61 @@
+adjacency,adjacência
+"Adjacency Matrix","Matriz de adjacência"
+Application,Aplicação
+"Architecture Sniffer","Architecture Sniffer"
+"Architecture sniffer results","Resultados do Architecture Sniffer"
+Back,Voltar
+"Check for violations","Verificar violações"
+"Composer dependencies","Dependências do Composer"
+"Composer dev only dependencies","Dependências apenas para desenvolvimento do Composer"
+"Core module","Módulo principal"
+Count,Contagem
+"Declared in composer.json","Declarado no composer.json"
+"Declared in composer.json (dev)","Declarado no composer.json (dev)"
+Dependency,Dependência
+Dependencies,Dependências
+"Dependency graphs of all core modules","Gráficos de dependências de todos os módulos principais"
+detailed,detalhado
+"Dev only dependencies","Dependências apenas para desenvolvimento"
+Development,Desenvolvimento
+"Display all architecture rules","Exibir todas as regras de arquitetura"
+"Download CSV","Baixar CSV"
+"Found in src","Encontrado em src"
+"Found in test","Encontrado em test"
+From,De
+in,em
+"in src","em src"
+"in tests","em testes"
+Incoming,Entrante
+"Incoming dependencies of the","Dependências entrantes do"
+"Indirect Incoming","Entrante Indireto"
+"Indirect Outgoing","Saida Indireta"
+"Indirect Stability","Estabilidade Indireta"
+"List all used plugins","Listar todos os plugins utilizados"
+module,módulo
+Module,módulo
+"Module name","Nome do módulo"
+"Module overview","Visão geral do módulo"
+Namespace,Namespace
+"No architecture violations detected","Nenhuma violação de arquitetura detectada"
+"No plugins used in this Module","Nenhum plugin usado neste módulo"
+out,fora
+Outgoing,Saindo
+"Outgoing dependencies of the","Dependências de saída do"
+"Plugins used in Projects DependencyProvider","Plugins usados no DependencyProvider de Projetos"
+Priority:,Prioridade:
+"Project module","Módulo do projeto"
+Reload,Recarregar
+require,requer
+require-dev,requer-dev
+"show all used plugins","mostrar todos os plugins usados"
+"Simple Dependency Graph","Gráfico de Dependência Simples"
+"Spryker Stability","Estabilidade Spryker"
+Stability,Estabilidade
+"Stability is calculated by ""incoming dependencies / ( incoming dependencies + outgoing dependencies )"" the result will be between 0 (stable) and 1 (unstable)","A estabilidade é calculada por ""dependências de entrada / (dependências de entrada + dependências de saída)"" o resultado estará entre 0 (estável) e 1 (instável)"
+"Stability of all core modules","Estabilidade de todos os módulos principais"
+"Suggested dependencies","Dependências sugeridas"
+SUM,SOMA
+To,Para
+"Used Plugins","Plugins Usados"
+"You must specify a bundle for which the graph should be build","Você deve especificar um pacote para o qual o gráfico deve ser construído"
+"You need to run ""vendor/bin/console dev:dependency:build-tree"" to calculate stability for all bundles.","Você precisa executar ""vendor/bin/console dev:dependency:build-tree"" para calcular a estabilidade de todos os pacotes."

@@ -1,0 +1,58 @@
+Return,Retour
+"Return Reference","Référence de retour"
+Items,Articles
+Actions,Actions
+View,Voir
+"Return ID","ID de retour"
+"Order Reference","Référence de commande"
+"Returned Items","Articles retournés"
+"Return Date","Date de retour"
+"Print Slip","Imprimer le bon"
+"List of Returns","Liste des retours"
+Returns,Retours
+"Return Ref","Réf. de retour"
+Barcode,Code-barres
+"Product SKU","SKU du produit"
+"Product Name","Nom du produit"
+"Default Price","Prix par défaut"
+Qty,Qté
+"Total Price","Prix total"
+"Return Reason","Motif de retour"
+Reason,Motif
+"Order Ref","Réf. de commande"
+"Return with id ""%id%"" was not found.","Le retour avec l'ID ""%id%"" n'a pas été trouvé."
+"Items to Return","Articles à retourner"
+"Remuneration Total","Total des remboursements"
+"Remuneration total","Total des remboursements"
+"Custom reason","Motif personnalisé"
+"Select reason","Sélectionner un motif"
+"Return has not been created.","Le retour n'a pas été créé."
+"Order with id ""%id%"" was not found.","La commande avec l'ID ""%id%"" n'a pas été trouvée."
+"Return was successfully created.","Le retour a été créé avec succès."
+"Create Return","Créer un retour"
+"Back to Order","Retour à la commande"
+"General information","Informations générales"
+"Order reference","Référence de commande"
+"Select Items to Return","Sélectionner les articles à retourner"
+Product,Produit
+Quantity,Quantité
+Price,Prix
+"Item total","Total de l'article"
+"Return Policy","Politique de retour"
+State,État
+"Create return","Créer un retour"
+"Requested return with ID ""%id%"" was not found.","Le retour demandé avec l'ID ""%id%"" n'a pas été trouvé."
+"Customer reference","Référence client"
+Customer,Client
+Name,Nom
+Email,Email
+"Retured Items","Articles retournés"
+"Trigger all matching states","Déclencher tous les états correspondants"
+Total,Total
+"Back to Returns","Retourner aux retours"
+"Print Return Slip","Imprimer le bon de retour"
+"Overview of Return","Aperçu du retour"
+"selected items","articles sélectionnés"
+of,de
+"Item selected for return is not eligible for return anymore.","L'article sélectionné pour le retour n'est plus éligible au retour."
+"Returned Products","Produits retournés"

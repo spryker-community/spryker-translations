@@ -1,0 +1,4 @@
+"The set of Store and Currency needs to be unique.","يجب أن يكون مجموعة الإدخالات المتجر والعملة فريدة."
+"This value should be equal or greater than {{ compared_value }} or empty.","يجب أن يكون هذا القيمة مساوية أو أكبر من {{ compared_value }} أو فارغة."
+"This field is missing.","هذا الحقل مفقود."
+"Currency {{ currency }} is not assigned to the store {{ store }}","العملة {{ currency }} غير معينة للمتجر {{ store }}"

@@ -1,0 +1,43 @@
+"Add Merchant","Aggiungi Commerciante"
+approved,Approvato
+approved_button,"Approva Accesso"
+"Back to Merchants","Torna ai Commercianti"
+"Contact person first name","Nome del contatto"
+"Contact person last name","Cognome del contatto"
+"Contact person phone","Telefono del contatto"
+"Contact person title","Titolo del contatto"
+denied,Rifiutato
+denied_button,"Negare Accesso"
+E-Mail,E-Mail
+"Edit Merchant","Modifica Commerciante"
+"Edit Merchant:","Modifica Commerciante:"
+Email,Email
+General,Generale
+"List of Merchants","Elenco dei commercianti"
+"Merchant created successfully.","Commerciante creato con successo."
+"Merchant deleted successfully.","Commerciante eliminato con successo."
+"Merchant has not been created.","Il commerciante non è stato creato."
+"Merchant Id","ID Commerciante"
+"Merchant is not found.","Commerciante non trovato."
+"Merchant reference is already used.","Il riferimento del commerciante è già in uso."
+"Merchant updated successfully.","Commerciante aggiornato con successo."
+"Merchant with id %s doesn't exists.","Il commerciante con ID %s non esiste."
+merchant_gui.error_wrong_params,"Impossibile aggiornare lo stato."
+merchant_gui.success_merchant_status_update,"Lo stato è stato aggiornato."
+Name,Nome
+"Overview of Merchants","Panoramica dei Commercianti"
+"Registration number","Numero di registrazione"
+Save,Salva
+"Is Active","È Attivo"
+Active,Attivo
+Inactive,Inattivo
+Activate,Attiva
+Deactivate,Disattiva
+merchant.activated,"Profilo Commerciante attivato con successo."
+merchant.deactivated,"Profilo Commerciante disattivato con successo."
+Stores,Negozi
+"Merchant Reference","Riferimento Commerciante"
+"Merchant URL","URL Commerciante"
+"Create Merchant","Crea Commerciante"
+Approval,Approvazione
+Status,Stato

@@ -1,0 +1,6 @@
+"This field is missing.","هذا الحقل مفقود."
+"This value is not valid.","هذه القيمة غير صالحة."
+"The set of Store, Currency, and Quantity needs to be unique.","يجب أن يكون مجموعة المتجر والعملة والكمية فريدة."
+"Gross Default and/or Net Default price is required for volume price.","السعر الافتراضي الإجمالي و/ أو السعر الافتراضي الصافي مطلوب لسعر الحجم."
+"Invalid volume quantity.","كمية الحجم غير صالحة."
+"For a volume price the Gross and Net base price needs to be set.","يجب تعيين السعر الأساسي الإجمالي والصافي لسعر الحجم."

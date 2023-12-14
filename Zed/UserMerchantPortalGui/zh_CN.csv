@@ -1,0 +1,23 @@
+"My Account",我的账户
+"First name",名字
+"Last name",姓氏
+E-mail,电子邮件
+Language,语言
+Save,保存
+"Change password",更改密码
+"Success! The Account is updated.",成功！账户已更新。
+"Please resolve all errors.",请解决所有错误。
+"This value should not be blank.",该值不能为空。
+"This value is not a valid email address.",该值不是有效的电子邮件地址。
+"A user with this email already exists.",已存在使用此电子邮件的用户。
+"Personal Details",个人详细信息
+"Email *","电子邮件 *"
+Password,密码
+"Current password",当前密码
+"New password",新密码
+"Repeat new password",重复新密码
+"Re-enter new password",重新输入新密码
+"The value is incorrect. Please try again.",该值不正确，请重试。
+"The value needs to match the New Password input.",该值需要与新密码输入匹配。
+"Success! The Password is updated.",成功！密码已更新。
+"The value cannot be empty",该值不能为空

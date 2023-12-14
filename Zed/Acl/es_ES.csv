@@ -1,0 +1,62 @@
+Action,Acción
+"Add Group","Añadir grupo"
+"Add new Role","Añadir nuevo Rol"
+"Add Rule","Añadir regla"
+"Assigned groups","Grupos asignados"
+"Assigned Roles","Roles asignados"
+"Assigned Rules","Reglas asignadas"
+Bundle,Paquete
+Controller,Controlador
+"Could not modify root role node!","No tienes permiso para editar el rol raíz."
+Create,Crear
+"Create Group","Crear grupo"
+"Create new Role","Crear nuevo Rol"
+"Create Role","Crear rol"
+"Current password","Contraseña actual"
+"Edit Group","Editar grupo"
+"Failed to add Rule.","Error al añadir la regla."
+"Failed to remove rule","Error al eliminar la regla"
+"Group couldn't be found","No se encontró el grupo"
+"Group name already in use","El nombre del grupo ya está en uso"
+"Group was created successfully.","El grupo se creó correctamente."
+"Group was updated successfully.","El grupo se actualizó correctamente."
+"Interface language","Idioma de interfaz"
+"List Groups","Listar grupos"
+"List Roles","Lista de roles"
+"Missing role id!","¡Falta el id del rol!"
+"Missing rule id!","¡Falta el id de la regla!"
+"No roles","No hay roles"
+Permission,Permiso
+Role,Rol
+"Role ""%s"" successfully added.","Rol ""%s"" añadido correctamente."
+"Role ""%s"" successfully updated.","Rol ""%s"" actualizado correctamente."
+"Role couldn't be found","No se encontró el rol"
+"Role list","Lista de roles"
+"Role name","Nombre del rol"
+"Role was successfully removed.","El rol se eliminó correctamente."
+Roles,Roles
+roles,Roles
+"Root group","Grupo raíz"
+Rule,Regla
+"Rule successfully added.","Regla añadida correctamente."
+Save,Guardar
+"Select value","Seleccionar valor"
+"The password fields must match.","Los campos de contraseña deben coincidir."
+"The User was removed from the group.","El usuario ha sido eliminado del grupo."
+"This action requires a DELETE request.","Esta acción requiere una solicitud DELETE."
+"This user is an agent","Este usuario es un agente"
+"Unable to delete because role has groups assigned.","No se puede eliminar porque el rol tiene grupos asignados."
+"Update ""%s"" Role","Actualizar rol ""%s"""
+"User and group are not found.","Usuario y grupo no encontrados."
+"User was activated successfully.","Usuario activado correctamente."
+"User was deactivated successfully.","Usuario desactivado correctamente."
+"User was deleted successfully.","Usuario eliminado correctamente."
+"User was updated successfully.","Usuario actualizado correctamente."
+Users,Usuarios
+"Users Control","Control de usuarios"
+Groups,Grupos
+allow,permitir
+deny,denegar
+"Edit Role","Editar rol"
+"Created At","Creado en"
+"Create new Group","Crear nuevo grupo"

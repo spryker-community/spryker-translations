@@ -1,0 +1,105 @@
+Activate,Activeren
+"Add group","Groep toevoegen"
+"Add Random Generated Code Length","Lengte van willekeurig gegenereerde code toevoegen"
+"Add rule","Regel toevoegen"
+Amount:,Bedrag:
+"Apply to query:","Toepassen op query:"
+"Batch Value",Batchwaarde
+"Calculator type","Rekenmachine type"
+"Cart Rules",Winkelwagenregels
+Conditions,Voorwaarden
+"Could not change discount visibility.","Kon zichtbaarheid van korting niet wijzigen."
+"Create new discount","Nieuwe korting maken"
+"Create new Discount","Nieuwe korting maken"
+"Create voucher codes for the discount","Voucher codes maken voor de korting"
+Deactivate,Deactiveren
+"Define what to apply the discount to","Definieer waarop de korting moet worden toegepast"
+"Define when to apply the discount","Definieer wanneer de korting moet worden toegepast"
+"Delete codes","Codes verwijderen"
+Description,Beschrijving
+Description:,Beschrijving:
+"Discount calculation",Kortingsberekening
+"Discount collection type","Type korting toepassing"
+"Discount List",Kortingslijst
+"Discount successfully activated","Korting succesvol geactiveerd"
+"Discount successfully created, but not activated.","Korting succesvol aangemaakt, maar niet geactiveerd."
+"Discount successfully deactivated","Korting succesvol gedeactiveerd"
+"Discount successfully updated.","Korting succesvol bijgewerkt."
+"Discount Type:","Type korting:"
+"Discount with id %s doesn't exist","Korting met id %s bestaat niet"
+"Discount with this name is already used.","Deze naam voor de korting wordt al gebruikt."
+Edit,Bewerken
+"Edit discount","Korting bewerken"
+"Enter your custom code as a string. If selected in the next step, additional random characters are added at the end of this string. Use the placeholder [code] to indicate where you want random characters to be generated.","Voer uw aangepaste code in als een tekenreeks. Als deze in de volgende stap is geselecteerd, worden er extra willekeurige tekens aan het einde van deze tekenreeks toegevoegd. Gebruik de aanduiding [code] om aan te geven waar u willekeurige tekens wilt genereren."""
+Examples,Voorbeelden
+Exclusive:,Exclusief:
+Explanation,Uitleg
+Export,Exporteren
+Field,Veld
+"Fill in the general discount information","Vul de algemene kortinginformatie in"
+"General Information","Algemene informatie"
+"Generated Discount Codes","Gegenereerde kortingscodes"
+"List of Discounts","Lijst met kortingen"
+"Matches all elements which have a ""width"" attribute defined, but with any ""width"" value","Komt overeen met alle elementen die een ""width""-attribuut gedefinieerd hebben, maar met elke ""width""-waarde"
+"Matches elements with the exact same SKU: ""SKU-1""","Komt overeen met elementen met exact dezelfde SKU: ""SKU-1"""
+"Max nr. of uses","Maximaal aantal gebruiken"
+"Max number of uses (0 = Infinite usage)","Maximaal aantal gebruiken (0 = Oneindig gebruik)"
+N/A,n/a
+Name,Naam
+Name:,Naam:
+No,Nee
+"No additional random characters","Geen extra willekeurige tekens"
+"No conditions, discount always applied.","Geen voorwaarden, korting altijd toegepast."
+"No returns for this order","Geen retourzendingen voor deze bestelling"
+"No voucher codes were deleted.","Er zijn geen voucher codes verwijderd."
+Operation,Operatie
+Overview,Overzicht
+"Plain query","Eenvoudige query"
+"Please fill all required fields.","Vul alle verplichte velden in."
+"Query builder","Query builder"
+"Query String","Query String"
+Save,Opslaan
+"Store relation:",Winkelrelatie:
+"Successfully deleted ""%d"" vouchers.","Succesvol ""%d"" vouchers verwijderd."
+"Summary explaining promotion. Displayed with eligible products where applicable.","Samenvatting ter verklaring van de promotie. Wordt weergegeven bij in aanmerking komende producten indien van toepassing."
+"The discount cannot end before the starting date.","De korting kan niet eindigen voor de startdatum."
+"This value is not a valid datetime.","Deze waarde is geen geldige datumtijd."
+Type:,Type:
+"Unique, short, and descriptive. Displayed in cart calculation.","Uniek, kort en beschrijvend. Wordt weergegeven bij de berekening in de winkelwagen."
+Used,Gebruikt
+"Valid from:","Geldig vanaf (inbegrepen):"
+"Valid From (Time in UTC)","Geldig vanaf (Tijd in UTC)"
+"Valid To (Time in UTC)","Geldig tot (Tijd in UTC)"
+"Valid until:","Geldig tot (uitgesloten):"
+Value,Waarde
+Voucher,Voucher
+"Voucher Code",Vouchercode
+Yes,Ja
+"Add code","Code toevoegen"
+Active,Actief
+Inactive,Inactief
+"Create Discount","Maak korting"
+"Discount Type",Kortingstype
+"Cart rules",Winkelwagenregels
+"Voucher codes",Vouchercodes
+"Calculator percentage",Percentage
+"Calculator fixed","Vast bedrag"
+"Discount application type","Type kortingstoepassing"
+Delete,Verwijderen
+"Apply when","Toepassen wanneer"
+"The discount can be applied if the query applies for at least X item(s).","De korting kan worden toegepast als de query geldt voor minimaal X item(s)."
+"Discount successfully activated.","Korting succesvol geactiveerd."
+"Discount successfully deactivated.","Korting succesvol gedeactiveerd."
+"Custom code","Aangepaste code"
+Generate,Genereren
+"You must provide length or custom code values.","U moet lengte- of aangepaste code-waarden opgeven."
+"No available codes to generate. Select higher code length.","Geen beschikbare codes om te genereren. Selecteer een langere code-lengte."
+"Edit Discount","Bewerk korting"
+"Voucher codes successfully generated.","Vouchercodes succesvol gegenereerd."
+"Voucher code successfully deleted.","Vouchercodes succesvol verwijderd."
+"Apply to","Toepassen op"
+"CSRF token is not valid.","CSRF-token is niet geldig."
+"Enter an integer %min%-%max%. Discounts are calculated in sequential order, starting from %min%. The default value is %max%.","Voer een geheel getal in %min%-%max%. Kortingen worden berekend in opeenvolgende volgorde, te beginnen bij %min%. De standaardwaarde is %max%."
+"Invalid entry. Please enter an integer %min%-%max%","Ongeldige invoer. Voer een geheel getal in %min%-%max%."
+Priority,Prioriteit
+"Enter an integer %min%-%max%.","Voer een geheel getal in %min%-%max%."

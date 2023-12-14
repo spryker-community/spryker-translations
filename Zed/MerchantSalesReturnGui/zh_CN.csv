@@ -1,0 +1,15 @@
+"General information",一般信息
+"Order reference",订单参考
+"Select Items to Return",选择要退货的商品
+"You can only return products from one merchant at a time.",您一次只能退还来自一个商家的产品。
+"Merchant Order %row% of %length%","商家订单 %row% / %length%"
+"Fullfilled by merchant",由商家履行
+"Merchant Order Reference",商家订单参考
+Product,产品
+Quantity,数量
+Price,价格
+Total,总计
+"Return policy",退货政策
+State,状态
+"Select reason",选择原因
+"Create return",创建退货

@@ -1,0 +1,79 @@
+Actions,操作
+"Are you sure about deleting this delivery method?",您确定要删除此配送方式吗？
+"Availability plugin",可用性插件
+"Available in Store",可在商店中使用
+Carrier,承运商
+"Carrier Company",承运商公司
+"Carrier was created successfully.",承运商创建成功。
+"Carrier with the same name already exists.",已存在同名的承运商。
+Configuration,配置
+"Create Delivery Method",创建配送方式
+"Create new carrier company",创建新的承运商公司
+"Create new delivery method",创建新的配送方式
+Delete,删除
+"Delete Delivery Method",删除配送方式
+"Delete Delivery Method: %s",删除配送方式：%s
+"Delivery Method Key",配送方式键
+"Delivery method not found.",未找到配送方式。
+"Delivery method was deleted successfully.",配送方式已成功删除。
+"Delivery Methods",配送方式
+"Delivery Time plugin",配送时间插件
+Edit,编辑
+"Edit Delivery Method: %s",编辑配送方式：%s
+Enabled?,是否启用？
+"Is this delivery method active?",此配送方式是否激活？
+"List of delivery methods",配送方式列表
+"List Shipment Methods",配送方式列表
+"Method Name",名称
+Name,名称
+"New address",新地址
+"No, I want to keep this delivery method",不，我想保留此配送方式
+None,无
+"Price & Tax",价格和税费
+"Price plugin",价格插件
+Save,保存
+"Select one",选择一个
+"Shipment method has been successfully saved",货运方式已成功保存
+"Shipment method has been successfully updated",货运方式已成功更新
+"Shipment method is not found",未找到货运方式
+"Shipment method not found",未找到货运方式
+"Shipment n° %shipmentNumber%","货运编号 %shipmentNumber%"
+Status,状态
+"Store relation",商店关系
+"Store Relation",商店关系
+"Tax set",税务设置
+"This name is already in use.",此名称已被使用。
+"This shipment method key is already in use.",此运输方式键已被使用。
+View,查看
+"View Delivery Method: %s",查看交货方式：%s
+"Yes, delete this delivery method",是的，删除此交货方式
+"Trigger all matching states of order inside this shipment",触发此运输中订单的所有匹配状态
+Shipment,运输
+of,的
+"Delivery Address",交货地址
+"Delivery Method",交货方式
+"Request delivery date",请求交货日期
+"Shipping Method",运输方式
+Shipments,运输
+"Available in the following store(s)",以下商店可用
+"Is active",是否激活
+"Add Carrier Company",添加承运公司
+"Create Shipment",创建运输
+"Edit Shipment",编辑运输
+"New Shipment for Order: %idSalesOrder%",订单：%idSalesOrder%的新运输
+"Address 1",地址1
+"Address 2",地址2
+"ZIP code",邮政编码
+Cellphone,手机号码
+"Shipment method",运输方式
+"Requested delivery date",要求交货日期
+"Order items inside this shipment",此运输中的订单项
+"Current shipment",当前运输
+"Please fill out this field.",请填写此字段。
+"Please select an item in the list.",请在列表中选择一个项目。
+-select-,-选择-
+"Shipment has been successfully created.",运输已成功创建。
+"Edit Shipment for Order: N%idSalesOrder%",编辑订单：%idSalesOrder%的运输
+"Shipment has been successfully edited.",运输已成功编辑。
+"Item total",总计
+"Shipping Costs",运输成本

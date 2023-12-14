@@ -1,0 +1,62 @@
+Action,行动
+"Add Group",添加组
+"Add new Role",添加新角色
+"Add Rule",添加规则
+"Assigned groups",已分配的组
+"Assigned Roles",已分配的角色
+"Assigned Rules",已分配的规则
+Bundle,捆绑
+Controller,控制器
+"Could not modify root role node!",您无权编辑根角色。
+Create,创建
+"Create Group",创建组
+"Create new Role",创建新角色
+"Create Role",创建角色
+"Current password",当前密码
+"Edit Group",编辑组
+"Failed to add Rule.",添加规则失败。
+"Failed to remove rule",删除规则失败。
+"Group couldn't be found",找不到组
+"Group name already in use",组名已被使用
+"Group was created successfully.",组创建成功。
+"Group was updated successfully.",组更新成功。
+"Interface language",界面语言
+"List Groups",组列表
+"List Roles",角色列表
+"Missing role id!",缺少角色ID！
+"Missing rule id!",缺少规则ID！
+"No roles",没有角色
+Permission,权限
+Role,角色
+"Role ""%s"" successfully added.","角色""%s""添加成功。"
+"Role ""%s"" successfully updated.","角色""%s""更新成功。"
+"Role couldn't be found",找不到角色
+"Role list",角色列表
+"Role name",角色名
+"Role was successfully removed.",角色删除成功。
+Roles,角色
+roles,角色
+"Root group",根组
+Rule,规则
+"Rule successfully added.",规则已成功添加。
+Save,保存
+"Select value",选择值
+"The password fields must match.",密码字段必须匹配。
+"The User was removed from the group.",用户已从组中移除。
+"This action requires a DELETE request.",此操作需要一个DELETE请求。
+"This user is an agent",此用户是一个代理人
+"Unable to delete because role has groups assigned.",由于角色已分配组，无法删除。
+"Update ""%s"" Role","更新""%s""角色"
+"User and group are not found.",未找到用户和组。
+"User was activated successfully.",用户已成功激活。
+"User was deactivated successfully.",用户已成功停用。
+"User was deleted successfully.",用户已成功删除。
+"User was updated successfully.",用户已成功更新。
+Users,用户
+"Users Control",用户控制
+Groups,组
+allow,允许
+deny,拒绝
+"Edit Role",编辑角色
+"Created At",创建时间
+"Create new Group",创建新组

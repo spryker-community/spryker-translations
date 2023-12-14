@@ -1,0 +1,11 @@
+Currency,Devise
+"Enter a quantity and the item price that should be applied if customer buys above that threshold","Entrez une quantité et le prix de l'article qui doit être appliqué si le client achète au-dessus de ce seuil"
+"Price Dimension Name","Nom de la dimension de prix"
+"Price Type","Type de prix"
+Store,Magasin
+"Save and add more rows","Enregistrer et ajouter plus de lignes"
+"Save and exit","Enregistrer et quitter"
+"Volume prices successfully saved.","Les prix de volume ont été enregistrés avec succès."
+"Volume prices","Prix de volume"
+"Edit volume prices for product","Modifier les prix de volume pour le produit"
+"Edit volume prices","Modifier les prix de volume"

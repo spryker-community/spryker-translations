@@ -1,0 +1,15 @@
+Approve,批准
+"Change status",更改状态
+"List of product reviews",产品评论列表
+Nickname,昵称
+"Overview of Product Reviews",产品评论概述
+"Product Reviews",产品评论
+Reject,拒绝
+Pending,待定
+Rejected,已拒绝
+"Product Review #%id% deleted successfully.","产品评论 #%id% 删除成功。"
+Date,日期
+"Product name",产品名称
+Rating,评分
+"CSRF token is not valid.","CSRF 令牌无效。"
+Guest,访客

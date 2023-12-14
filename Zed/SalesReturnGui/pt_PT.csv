@@ -1,0 +1,58 @@
+Return,Devolução
+"Return Reference","Referência de devolução"
+Items,Itens
+Actions,Ações
+View,Ver
+"Return ID","ID de devolução"
+"Order Reference","Referência do pedido"
+"Returned Items","Itens devolvidos"
+"Return Date","Data de devolução"
+"Print Slip","Imprimir comprovante"
+"List of Returns","Lista de devoluções"
+Returns,Devoluções
+"Return Ref","Ref. de devolução"
+Barcode,"Código de barras"
+"Product SKU","SKU do produto"
+"Product Name","Nome do produto"
+"Default Price","Preço padrão"
+Qty,Quantidade
+"Total Price","Preço total"
+"Return Reason","Motivo da devolução"
+Reason,Motivo
+"Order Ref","Ref. do pedido"
+"Return with id ""%id%"" was not found.","Devolução com o ID ""%id%"" não foi encontrada."
+"Items to Return","Itens para devolução"
+"Remuneration Total","Total de remuneração"
+"Remuneration total","Total de remuneração"
+"Custom reason","Motivo personalizado"
+"Select reason","Selecionar motivo"
+"Return has not been created.","Devolução não foi criada."
+"Order with id ""%id%"" was not found.","Pedido com o ID ""%id%"" não foi encontrado."
+"Return was successfully created.","Devolução criada com sucesso."
+"Create Return","Criar devolução"
+"Back to Order","Voltar para o pedido"
+"General information","Informações gerais"
+"Order reference","Referência do pedido"
+"Select Items to Return","Selecionar itens para devolução"
+Product,Produto
+Quantity,Quantidade
+Price,Preço
+"Item total","Total do item"
+"Return Policy","Política de Devolução"
+State,Estado
+"Create return","Criar devolução"
+"Requested return with ID ""%id%"" was not found.","A devolução solicitada com o ID ""%id%"" não foi encontrada."
+"Customer reference","Referência do cliente"
+Customer,Cliente
+Name,Nome
+Email,Email
+"Retured Items","Itens devolvidos"
+"Trigger all matching states","Ativar todos os estados correspondentes"
+Total,Total
+"Back to Returns","Voltar para Devoluções"
+"Print Return Slip","Imprimir Guia de Devolução"
+"Overview of Return","Visão geral da Devolução"
+"selected items","itens selecionados"
+of,de
+"Item selected for return is not eligible for return anymore.","O item selecionado para devolução não é mais elegível para devolução."
+"Returned Products","Produtos Devolvidos"

@@ -1,0 +1,31 @@
+"Add Merchant relation","إضافة علاقة تاجر"
+"Assigned Business Units","وحدات الأعمال المعينة"
+"Back to Merchant relations","العودة إلى علاقات التاجر"
+"Business Unit Owner","مالك وحدة الأعمال"
+Company,شركة
+Confirm,تأكيد
+"Create Merchant Relation","إنشاء علاقة تاجر"
+"Edit Merchant Relation","تحرير علاقة تاجر"
+"Edit Merchant Relation:","تحرير علاقة تاجر:"
+ID,المعرف:
+"List of Merchant relation","قائمة علاقات التاجر"
+Merchant,تاجر
+"Merchant Name","اسم التاجر"
+"Merchant relation created successfully.","تم إنشاء علاقة التاجر بنجاح."
+"Merchant relation deleted successfully.","تم حذف علاقة التاجر بنجاح."
+"Merchant relation has not been created.","لم يتم إنشاء علاقة التاجر."
+"Merchant relation is not found.","لا يمكن العثور على علاقة التاجر."
+"Merchant relation updated successfully.","تم تحديث علاقة التاجر بنجاح."
+"Merchant Relations","علاقات التاجر"
+"Merchant Relation with ID ""%id%"" doesn\'t exist.","لا يوجد علاقة تاجر بالمعرف ""%id%""."
+Merchants,التجار
+"Overview of Merchant relation","نظرة عامة على علاقة التاجر"
+Save,حفظ
+"Select Company","اختيار الشركة"
+"Select merchant","اختيار التاجر"
+"Select business unit","اختيار وحدة الأعمال"
+"Please select an item in the list","يرجى تحديد عنصر في القائمة"
+"Delete Merchant Relation","حذف علاقة التاجر"
+"Merchant Relation deletion confirmation","تأكيد حذف علاقة التاجر"
+"Are you sure you want to delete this Merchant Relation?","هل أنت متأكد أنك تريد حذف علاقة التاجر"
+Cancel,إلغاء

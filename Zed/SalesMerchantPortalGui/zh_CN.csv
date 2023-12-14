@@ -1,0 +1,61 @@
+Created,创建
+Customer,客户
+Email,电子邮件
+"Grand Total",总计
+"Order State",订单状态
+"Merchant Reference",商家参考
+"No. of Items",物品数量
+Orders,订单
+Reference,参考
+Search,搜索
+States,状态
+Store,商店
+Stores,商店
+Details,详细信息
+Order,订单
+"Order date",订单日期
+"Number of products",产品数量
+Items,物品
+Shipments,发货
+Subtotal,小计
+Shipment,运输
+"Included Taxes",包含税费
+"Client name",客户姓名
+"Client email",客户电子邮件
+"Total orders",总订单数
+Overview,概览
+Totals,总计
+"From the last %daysNumber% days",过去%daysNumber%天
+"Manage Orders",管理订单
+New,新建
+"Per Store",每个商店
+"The state is updated successfully.",状态已成功更新。
+"Only matching states items will be updated.",只有匹配状态的物品将被更新。
+"Order's Items state",订单物品状态
+"Merchant order not found for id %d.",找不到商家订单编号为%d的订单。
+"Event name is empty.",事件名称为空。
+"Merchant order ids are empty.",商家订单编号为空。
+Method,方法
+Carrier,承运人
+"Delivery address",交货地址
+"Requested Date",请求日期
+SKU,SKU
+Image,图片
+Name,名称
+Quantity,数量
+State,状态
+"There are no applicable actions for the selected items.",所选项目没有适用的操作。
+"Shipment %index% of %total%","发货 %index% / %total%"
+"Canceled Amount",取消金额
+"Discount Amount",折扣金额
+"Canceled By Merchant",商家取消
+Shipped,已发货
+Delivered,已送达
+initiate,发起
+ship,发货
+deliver,送达
+close,关闭
+"cancel by merchant",商家取消
+"merchant split pending",商家拆分待处理
+"sent to merchant",已发送给商家
+"shipped by merchant",商家已发货

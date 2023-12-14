@@ -1,0 +1,90 @@
+Active,نشط
+"Add Offer","إضافة عرض"
+Approved,"تمت الموافقة عليه"
+approved,"تمت الموافقة عليه"
+"Always in stock","متوفر دائمًا"
+Created,"تم الإنشاء"
+"Created from","تم الإنشاء من"
+"Created to","تم الإنشاء إلى"
+"At least one store must be selected.","يجب تحديد متجر واحد على الأقل."
+"Create Offer","إنشاء عرض"
+Denied,"تم الرفض"
+denied,"تم الرفض"
+waiting_for_approval,"في انتظار الموافقة"
+"Expiring in %daysNumber% days","ساري لمدة %daysNumber% يومًا"
+From,من
+"Has stock","يحتوي على مخزون"
+Image,صورة
+Inactive,"غير نشط"
+"List of Products","قائمة المنتجات"
+"Low on Stock","الكمية قليلة في المخزون"
+"Manage Offers","إدارة العروض"
+"Manage Offer","إدارة العرض"
+"Merchant SKU","رمز التاجر"
+Name,الاسم
+"Never out of stock","متوفر دائمًا"
+"Offer is active","العرض نشط"
+Offers,العروض
+Offline,"غير متصل"
+"On Marketplace","على المتجر"
+Online,متصل
+"Out of stock","غير متوفر"
+Pending,"قيد الانتظار"
+Reference,المرجع
+Search,بحث
+"Offer Reference","مرجع العرض"
+Price,السعر
+Quantity,الكمية
+"Search by SKU, Name","البحث بواسطة SKU، الاسم"
+SKU,SKU
+Status,الحالة
+Stock,المخزون
+Stores,المتاجر
+Updated,مُحدّث
+"Updated from","مُحدّث من"
+"Updated to","مُحدّث إلى"
+"The Offer is saved.","تم حفظ العرض."
+"The Offer is not saved.","لم يتم حفظ العرض."
+Valid,صالح
+"Valid From","صالح من"
+"Valid, online & with Stock","صالح، عبر الإنترنت ومع المخزون"
+"Valid To","صالح حتى"
+Visibility,الرؤية
+"With Offers","مع العروض"
+"With Stock","مع المخزون"
+"Without Offers","بدون عروض"
+"Description & Details","الوصف والتفاصيل"
+"The first date cannot be later than the second one.","لا يمكن أن يكون التاريخ الأول في وقت لاحق من الثاني."
+"The first date is the same as the second one.","التاريخ الأول هو نفسه الثاني."
+"The second date cannot be earlier than the first one.","لا يمكن أن يكون التاريخ الثاني في وقت سابق من الأول."
+"This means that the offer does not appear online and noone can see it.","هذا يعني أن العرض لا يظهر على الإنترنت ولا يمكن لأحد رؤيته."
+To,إلى
+"Gross Default","الخلل الإجمالي"
+"Gross Original","الأصل الإجمالي"
+"Net Default","الخلل الصافي"
+"Net Original","الأصل الصافي"
+Offer,عرض
+Save,حفظ
+Create,إنشاء
+"Validity Dates","تواريخ الصلاحية"
+"Offer visibility","رؤية العرض"
+select.default.placeholder,اختر
+"Enter SKU","أدخل SKU"
+"Enter quantity","أدخل الكمية"
+"To create your offer, choose a product from the list below.","لإنشاء عرضك، اختر منتجًا من القائمة أدناه."
+"This value is not valid.","هذه القيمة غير صالحة."
+"This field is missing.","هذا الحقل مفقود."
+"The set of inputs Store and Currency needs to be unique.","يجب أن يكون مجموعة إدخالات المتجر والعملة فريدة."
+"The set of inputs Store, Currency, and Quantity needs to be unique.","يجب أن تكون مجموعة إدخالات المتجر والعملة والكمية فريدة."
+"Success! The Price is deleted.","تم حذف السعر بنجاح."
+"Something went wrong, please try again.","حدث خطأ ما، يرجى المحاولة مرة أخرى."
+"Offer prices saved successfully.","تم حفظ أسعار العروض بنجاح."
+Cancel,إلغاء
+Add,إضافة
+"Approval Status","حالة الموافقة"
+Product,المنتج
+"Offer status","حالة العرض"
+"Volume Quantity","كمية الحجم"
+"A Price for Quantity of 2 or above requires a Price for 1 for this set of inputs Store, Currency, and Quantity.","يتطلب سعر لكمية 2 أو أكثر سعرًا للكمية 1 لهذه المجموعة من المدخلات المخزن والعملة والكمية."
+"To save an Offer please resolve all errors.","لحفظ عرض، يرجى حل جميع الأخطاء."
+Currencies,العملات

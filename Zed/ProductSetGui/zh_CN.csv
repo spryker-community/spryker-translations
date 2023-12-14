@@ -1,0 +1,54 @@
+Activate,激活
+Active,激活
+"Add image",添加图片
+"Add image set",添加图片集
+"Create Product Set",创建产品集
+Deactivate,停用
+Default,默认
+"Delete image",删除图片
+"Delete image set",删除图片集
+"Deselect All",取消全选
+"Deselected products",取消选择的产品
+Edit,编辑
+ID,ID
+"Image Set",图片集
+"Image Set Name",图片集名称
+Inactive,未激活
+Keywords,关键词
+"Large Image URL",大图URL
+"List of Sets",集合列表
+Name,名称
+Position,位置
+Preview,预览
+Price,价格
+"Product details",产品详情
+"Product Sets",产品集
+"Products in this Set",此集合中的产品
+"Products to be assigned",待分配的产品
+"Products to be deassigned",待取消分配的产品
+"Reorder Product Sets",重新排序产品集
+Save,保存
+"Select All",全选
+"Select products to assign",选择要分配的产品
+Selected,已选择
+"Selected products",已选择的产品
+SEO,SEO
+SKU,SKU
+"Small Image URL",小图URL
+Status,状态
+Submit,提交
+Title,标题
+URL,Url
+View,查看
+Weight,重量
+"Weight defines sorting order. Product Sets with higher numbers listed first.",重量定义了排序顺序。具有较高数字的产品集将首先列出。
+"Product Set Key",产品集关键字
+"You need to select a minimum of 2 products.",您需要选择至少2个产品。
+Images,图片
+"View Product Set",查看产品集
+"Product Set ""%s"" created successfully.","产品集""%s""创建成功。"
+"Product Set #%d activated successfully.",产品集#%d成功激活。
+"Product Set #%d deactivated successfully.",产品集#%d成功停用。
+"Product Set ""%s"" updated successfully.","产品集""%s""更新成功。"
+"Product Set #%d deleted successfully.",产品集#%d成功删除。
+"Number of Products",产品数量

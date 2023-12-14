@@ -1,0 +1,59 @@
+"Overview of Orders","Overzicht van bestellingen"
+"List of Orders","Lijst van bestellingen"
+"My Orders","Mijn bestellingen"
+"Order Reference",Bestelreferentie
+"Marketplace Order Reference","Marktplaats bestelreferentie"
+Created,Aangemaakt
+Customer,Klant
+Email,E-mail
+"Order State",Bestelstatus
+"Grand Total",Totaalbedrag
+"Number of items","Aantal items"
+Actions,Acties
+View,Bekijken
+"Merchant Order Overview","Overzicht handelaarsbestelling"
+Reference,Referentie
+Name,Naam
+"Previous orders count","Aantal vorige bestellingen"
+"Billing address",Factuuradres
+"Merchant Order Reference",Handelaarsbestelreferentie
+"Order date",Besteldatum
+Totals,Totalen
+Option,Optie
+Subtotal,Subtotaal
+Discount,Korting
+"Cancelled amount","Geannuleerd bedrag"
+"GRAND TOTAL",TOTAALBEDRAG
+"Total taxes","Totale belastingen"
+"Remuneration total","Totale vergoeding"
+"Merchant order doesn't exist.","Handelaarsbestelling bestaat niet."
+Shipment,Verzending
+of,van
+"Delivery Address",Afleveradres
+"Delivery Method",Leveringsmethode
+"Shipping Method",Verzendmethode
+"Shipping Costs",Verzendkosten
+"Request delivery date","Gewenste leveringsdatum"
+"Trigger all matching states of order inside this shipment","Activeer alle overeenkomende statussen van de bestelling binnen deze zending"
+"Merchant Order Items",Handelaarsbestelitems
+Product,Product
+Quantity,Hoeveelheid
+"Unit Price",Eenheidsprijs
+"Item total","Totaal item"
+State,Staat
+"Trigger event","Trigger gebeurtenis"
+"Variant Details",Variantdetails
+"Show less","Minder weergeven"
+"Show more","Meer weergeven"
+"incl. %tax_amount% % tax","incl. %tax_amount% % belasting"
+"Show history","Toon geschiedenis"
+"Hide history","Verberg geschiedenis"
+Sku,SKU
+"Shipment has been successfully created.","Zending is succesvol aangemaakt."
+"Shipment has not been created.","Zending is niet aangemaakt."
+"Merchant sales order #%d not found.","Verkooporder van handelaar #%d niet gevonden."
+"Shipment has been successfully updated.","Zending is succesvol bijgewerkt."
+"Shipment has not been updated.","Zending is niet bijgewerkt."
+"Shipment #%d not found.","Zending #%d niet gevonden."
+"New Shipment for Order: %idMerchantSalesOrder%","Nieuwe zending voor bestelling: %idMerchantSalesOrder%"
+"Back to Orders","Terug naar bestellingen"

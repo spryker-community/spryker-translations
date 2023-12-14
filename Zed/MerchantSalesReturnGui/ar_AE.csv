@@ -1,0 +1,15 @@
+"General information","معلومات عامة"
+"Order reference","مرجع الطلب"
+"Select Items to Return","حدد العناصر المراد إرجاعها"
+"You can only return products from one merchant at a time.","يمكنك فقط إرجاع المنتجات من تاجر واحد في كل مرة."
+"Merchant Order %row% of %length%","طلب التاجر %row% من %length%"
+"Fullfilled by merchant","من تاجر موثوق"
+"Merchant Order Reference","مرجع طلب التاجر"
+Product,المنتج
+Quantity,الكمية
+Price,السعر
+Total,الإجمالي
+"Return policy","سياسة الإرجاع"
+State,الحالة
+"Select reason","اختر السبب"
+"Create return","إنشاء إرجاع"

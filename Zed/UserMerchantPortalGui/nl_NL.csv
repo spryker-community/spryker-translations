@@ -1,0 +1,23 @@
+"My Account","Mijn Account"
+"First name",Voornaam
+"Last name",Achternaam
+E-mail,E-mail
+Language,Taal
+Save,Opslaan
+"Change password","Wachtwoord wijzigen"
+"Success! The Account is updated.","Succes! Het Account is bijgewerkt."
+"Please resolve all errors.","Los alstublieft alle fouten op."
+"This value should not be blank.","Deze waarde mag niet leeg zijn."
+"This value is not a valid email address.","Deze waarde is geen geldig e-mailadres."
+"A user with this email already exists.","Een gebruiker met dit e-mailadres bestaat al."
+"Personal Details","Persoonlijke gegevens"
+"Email *","E-mail *"
+Password,Wachtwoord
+"Current password","Huidig wachtwoord"
+"New password","Nieuw wachtwoord"
+"Repeat new password","Herhaal nieuw wachtwoord"
+"Re-enter new password","Herhaal nieuw wachtwoord"
+"The value is incorrect. Please try again.","De waarde is onjuist. Probeer het opnieuw."
+"The value needs to match the New Password input.","De waarde moet overeenkomen met de invoer voor Nieuw Wachtwoord."
+"Success! The Password is updated.","Succes! Het wachtwoord is bijgewerkt."
+"The value cannot be empty","De waarde kan niet leeg zijn."

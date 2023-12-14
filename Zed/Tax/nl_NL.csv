@@ -1,0 +1,50 @@
+"Back to Tax Rates","Terug naar belastingtarieven"
+"Back to Tax Sets","Terug naar belastingsets"
+"Could not delete tax set. Is it assigned to product or shipping method?","Kon belastingset niet verwijderen. Is het toegewezen aan een product of verzendmethode?"
+Country,Land
+"Create Tax Rate","Belastingtarief aanmaken"
+"Create Tax Set","Belastingset aanmaken"
+"Created at","Aangemaakt op"
+Delete,Verwijderen
+"Delete Tax Rate","Belastingtarief verwijderen"
+"Delete Tax Set","Belastingset verwijderen"
+Edit,Bewerken
+"Edit Tax Rate:","Belastingtarief bewerken:"
+"Edit Tax Set:","Belastingset bewerken:"
+"List of tax rates","Lijst met belastingtarieven"
+"List of tax sets","Lijst met belastingsets"
+N/A,n/a
+Name,Naam
+"Overview of Tax Rates","Overzicht van belastingtarieven"
+"Overview of Tax Sets","Overzicht van belastingsets"
+Percentage,Percentage
+Save,Opslaan
+"Select country.","Selecteer land."
+"Tax rate %d was created successfully.","Belastingtarief %d is succesvol aangemaakt."
+"Tax rate %d was deleted successfully.","Belastingtarief %d is succesvol verwijderd."
+"Tax rate %d was updated successfully.","Belastingtarief %d is succesvol bijgewerkt."
+"Tax Rate deletion confirmation","Belastingtarief is succesvol verwijderd"
+"Tax rate details","Details belastingtarief"
+"Tax rate ID","ID belastingtarief"
+"Tax rate with id %s doesn't exist","Belastingtarief met id %s bestaat niet"
+"Tax rate with provided name, percentage and country already exists.","Belastingtarief met opgegeven naam, percentage en land bestaat al."
+"Tax rates",Belastingtarieven
+"Tax Rates",Belastingtarieven
+"Tax set %d was created successfully.","Belastingset %d is succesvol aangemaakt."
+"Tax set %d was updated successfully.","Belastingset %d is succesvol bijgewerkt."
+"Tax Set deletion confirmation","Weet u zeker dat u deze belastingset wilt verwijderen?"
+"Tax set details","Details belastingset"
+"Tax set ID","ID belastingset"
+"Tax set is not created. Please fill-in all required fields.","Belastingset is niet aangemaakt. Vul alstublieft alle verplichte velden in."
+"Tax set with id %s doesn't exist","Belastingset met id %s bestaat niet"
+"Tax Set with name ""%name%"" already exists.","Belastingset met naam ""%name%"" bestaat al."
+"Tax Sets",Belastingsets
+Taxes,Belastingen
+"The tax set has been deleted","De belastingset is verwijderd"
+"Updated at","Bijgewerkt op"
+"View Tax Rate:","Bekijk belastingtarief:"
+"View Tax Set:","Bekijk belastingset:"
+"You should choose one or more tax rates","U moet één of meer belastingtarieven kiezen"
+"No country","Geen land"
+"Edit Tax Rate","Bewerk belastingtarief"
+"Edit Tax Set","Bewerk belastingset"

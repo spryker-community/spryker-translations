@@ -1,0 +1,15 @@
+"General information","Informações gerais"
+"Order reference","Referência do pedido"
+"Select Items to Return","Selecionar itens para devolução"
+"You can only return products from one merchant at a time.","Você só pode devolver produtos de um único comerciante por vez."
+"Merchant Order %row% of %length%","Pedido do comerciante %row% de %length%"
+"Fullfilled by merchant","Fornecido pelo comerciante"
+"Merchant Order Reference","Referência do pedido do comerciante"
+Product,Produto
+Quantity,Quantidade
+Price,Preço
+Total,Total
+"Return policy","Política de devolução"
+State,Estado
+"Select reason","Selecionar motivo"
+"Create return","Criar devolução"

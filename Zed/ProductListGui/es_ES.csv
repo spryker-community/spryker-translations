@@ -1,0 +1,43 @@
+Actions,Acciones
+"Add list","Añadir lista"
+"Are you sure you want to remove this list? Removing this list will also remove all associated functionalities.","¿Estás seguro de que quieres eliminar esta lista? Al eliminar esta lista también se eliminarán todas las funcionalidades asociadas."
+"Assign Categories","Asignar categorías"
+"Assign Products","Asignar productos"
+Back,Atrás
+"Back to Product Lists","Volver a las listas de productos"
+Blacklist,"Lista negra"
+"Business Unit Owner Name","Nombre del propietario de la unidad de negocio"
+Cancel,Cancelar
+"Confirm action","Confirmar acción"
+"Create a Product List","Crear una lista de productos"
+"Edit List","Editar lista"
+"Edit Product List","Editar lista de productos"
+Export,Exportar
+ID,ID
+"ID Merchant Relation","Relación de ID del comerciante"
+"Import Product List","Importar lista de productos"
+"List of Product lists","Lista de listas de productos"
+"Merchant Name","Nombre del comerciante"
+"Merchant relationship","Relación del comerciante"
+Name,Nombre
+"Overview of Product lists","Resumen de listas de productos"
+"Owner Type","Tipo de propietario"
+"Please ensure you saved information","Por favor, asegúrese de haber guardado la información"
+"Product label #%d successfully created.","Etiqueta de producto #%d creada correctamente."
+"Product List ""%s"" has been successfully created.","La lista de productos ""%s"" se ha creado correctamente."
+"Product List ""%s"" has been successfully updated.","La lista de productos ""%s"" se ha actualizado correctamente."
+"Product List has been successfully removed.","La lista de productos se ha eliminado correctamente."
+"Product List removal confirmation","La lista de productos se eliminó correctamente"
+"Product Lists","Listas de productos"
+"Products in this list","Productos en esta lista"
+"Remove List","Eliminar lista"
+Save,Guardar
+"Select Products to assign","Seleccionar productos para asignar"
+Selected,Seleccionado
+SKU,SKU
+Title,Título
+Type,Tipo
+"Used By","Utilizado por"
+Whitelist,Whitelist
+Сonfirm,Сonfirm
+"Add List","Add List"

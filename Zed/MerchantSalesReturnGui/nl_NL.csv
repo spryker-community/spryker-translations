@@ -1,0 +1,15 @@
+"General information","Algemene informatie"
+"Order reference",Bestelreferentie
+"Select Items to Return","Selecteer items om terug te sturen"
+"You can only return products from one merchant at a time.","U kunt alleen producten van één verkoper tegelijk retourneren."
+"Merchant Order %row% of %length%","Verkoperbestelling %row% van %length%"
+"Fullfilled by merchant","Verzonden door verkoper"
+"Merchant Order Reference",Verkoperbestelreferentie
+Product,Product
+Quantity,Hoeveelheid
+Price,Prijs
+Total,Totaal
+"Return policy",Retourbeleid
+State,Status
+"Select reason","Selecteer reden"
+"Create return","Retour aanmaken"

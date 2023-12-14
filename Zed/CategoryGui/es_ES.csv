@@ -1,0 +1,67 @@
+Parent,Padre
+Yes,Sí
+No,No
+"Re-sort child categories","Reordenar categorías hijas"
+"Add category to this node","Agregar categoría a este nodo"
+"Edit Category","Editar categoría"
+"Allow to search for this category","Permitir buscar esta categoría"
+"CMS Blocks:top","Bloques CMS: superior"
+"CMS Blocks:middle","Bloques CMS: medio"
+"CMS Blocks:bottom","Bloques CMS: inferior"
+"Category key","Clave de categoría"
+"-Select value-","-Seleccionar valor-"
+Active,Activo
+"Add Category to this Node","Agregar categoría a este nodo"
+"Additional Parents","Padres adicionales"
+"Allow to search for this category:","Permitir buscar esta categoría:"
+"Assign products","Asignar productos"
+"Assign Products to this Category","Asignar productos a esta categoría"
+Category,Categoría
+"Category Key","Clave de categoría"
+"Category key:","Clave de categoría:"
+"Category nodes successfully re-sorted.","Nodos de categoría reordenados correctamente."
+"Category nodes successfully reordered.","Nodos de categoría reordenados correctamente."
+"Category status","Estado de categoría"
+"Category template","Plantilla de categoría"
+"Category with id %s doesn't exist","La categoría con id %s no existe"
+Create,Crear
+"Create category","Crear categoría"
+"Create Category","Crear categoría"
+Delete,Eliminar
+"Delete category","Eliminar categoría"
+Edit,Editar
+"Edit category","Editar categoría"
+"In Menu","En menú"
+Inactive,Inactivo
+"List Categories","Lista de categorías"
+"List of categories","Lista de categorías"
+no,No
+"Not in Menu","No en menú"
+"Please make sure required fields are properly filled in","Por favor, asegúrese de que los campos requeridos estén correctamente completados"
+"Re-sort Child Categories","Reordenar subcategorías"
+"Re-sort child-categories","Reordenar subcategorías"
+"Root nodes list","Lista de nodos raíz"
+Save,Guardar
+"Save Order","Guardar orden"
+Searchable,Buscable
+"The category was added successfully.","La categoría se agregó correctamente."
+"The category was saved successfully.","La categoría se guardó correctamente."
+"The category was updated successfully.","La categoría se actualizó correctamente."
+"The category was deleted successfully.","La categoría se eliminó correctamente."
+Translations,Traducciones
+View,Ver
+"View category","Ver categoría"
+Visible,Visible
+"Visible in the category tree","Visible en el árbol de categorías"
+"Visible in the category tree:","Visible en el árbol de categorías:"
+yes,Sí
+"Yes, I am sure","Sí, estoy seguro/a"
+"View Category","Ver categoría"
+"CSRF token is not valid.","El token CSRF no es válido."
+General,General
+Template,Plantilla
+Settings,Configuración
+"The root category cannot be deleted.","No se puede eliminar la categoría raíz."
+"Main category will be moved to","La categoría principal se moverá a"
+"Extra parent will be moved to","El padre adicional se moverá a"
+"Category nodes cannot be relocated.","No se pueden reubicar los nodos de categoría."

@@ -1,0 +1,20 @@
+Administration,Administration
+"Manage Stores","Gérer les magasins"
+Name,Nom
+"Store ID","ID du magasin"
+Stores,Magasins
+"Stores (Multi-store per Zed feature is disabled)","Magasins (La fonctionnalité multi-magasins par Zed est désactivée)"
+"Create Store","Créer un magasin"
+"Back to Stores","Retour aux magasins"
+"Edit Store","Modifier le magasin"
+"View Store","Voir le magasin"
+Actions,Actions
+Locales,Langues
+Currencies,Devises
+"Store created successfully","Magasin créé avec succès"
+"Store updated successfully","Magasin mis à jour avec succès"
+"Store with id `%s` does not exist","Le magasin avec l'ID `%s` n'existe pas"
+Store,Magasin
+"Store: %s","Magasin : %s"
+Important,Important
+"Store Name is not editable after creation. Store is not deletable after creation, please refer to Spryker documentation.","Le nom du magasin n'est pas modifiable après sa création. Le magasin n'est pas supprimable après sa création, veuillez vous référer à la documentation Spryker."

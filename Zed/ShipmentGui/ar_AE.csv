@@ -1,0 +1,79 @@
+Actions,الإجراءات
+"Are you sure about deleting this delivery method?","هل أنت متأكد من حذف طريقة التوصيل هذه؟"
+"Availability plugin","ملحق التوفر"
+"Available in Store","متاح في المتجر"
+Carrier,"شركة الشحن"
+"Carrier Company","شركة النقل"
+"Carrier was created successfully.","تم إنشاء شركة الشحن بنجاح."
+"Carrier with the same name already exists.","يوجد بالفعل شركة شحن بنفس الاسم."
+Configuration,التكوين
+"Create Delivery Method","إنشاء طريقة التوصيل"
+"Create new carrier company","إنشاء شركة نقل جديدة"
+"Create new delivery method","إنشاء طريقة تسليم جديدة"
+Delete,حذف
+"Delete Delivery Method","حذف طريقة التسليم"
+"Delete Delivery Method: %s","حذف طريقة التسليم: %s"
+"Delivery Method Key","مفتاح طريقة التسليم"
+"Delivery method not found.","لم يتم العثور على طريقة التسليم."
+"Delivery method was deleted successfully.","تم حذف طريقة التسليم بنجاح."
+"Delivery Methods","طرق التسليم"
+"Delivery Time plugin","ملحق وقت التسليم"
+Edit,تعديل
+"Edit Delivery Method: %s","تعديل طريقة التوصيل: %s"
+Enabled?,مفعل؟
+"Is this delivery method active?","هل هذه الطريقة التوصيل نشطة؟"
+"List of delivery methods","قائمة طرق التوصيل"
+"List Shipment Methods","قائمة طرق الشحن"
+"Method Name",الاسم
+Name,الاسم
+"New address","عنوان جديد"
+"No, I want to keep this delivery method","لا، أرغب في الاحتفاظ بهذه الطريقة التوصيل"
+None,None
+"Price & Tax","Price & Tax"
+"Price plugin","Price plugin"
+Save,Save
+"Select one","Select one"
+"Shipment method has been successfully saved","Shipment method has been successfully saved"
+"Shipment method has been successfully updated","Shipment method has been successfully updated"
+"Shipment method is not found","Shipment method is not found"
+"Shipment method not found","Shipment method not found"
+"Shipment n° %shipmentNumber%","Shipment n° %shipmentNumber%"
+Status,الحالة
+"Store relation","علاقة المتجر"
+"Store Relation","علاقة المتجر"
+"Tax set","مجموعة الضرائب"
+"This name is already in use.","هذا الاسم مستخدم بالفعل."
+"This shipment method key is already in use.","مفتاح طريقة الشحن هذا مستخدم بالفعل."
+View,عرض
+"View Delivery Method: %s","عرض طريقة التسليم: %s"
+"Yes, delete this delivery method","نعم، احذف هذه الطريقة التسليم"
+"Trigger all matching states of order inside this shipment","تفعيل جميع حالات الطلب المطابقة داخل هذه الشحنة"
+Shipment,الشحنة
+of,من
+"Delivery Address","عنوان التسليم"
+"Delivery Method","طريقة التسليم"
+"Request delivery date","تاريخ طلب التسليم"
+"Shipping Method","طريقة الشحن"
+Shipments,الشحنات
+"Available in the following store(s)","متوفر في المتجر (المتاجر) التالي (التالية)"
+"Is active",نشط
+"Add Carrier Company","إضافة شركة الشحن"
+"Create Shipment","إنشاء شحنة"
+"Edit Shipment","تعديل الشحنة"
+"New Shipment for Order: %idSalesOrder%","شحنة جديدة للطلب: %idSalesOrder%"
+"Address 1","العنوان 1"
+"Address 2","العنوان 2"
+"ZIP code","الرمز البريدي"
+Cellphone,"الهاتف المحمول"
+"Shipment method","طريقة الشحن"
+"Requested delivery date","تاريخ التسليم المطلوب"
+"Order items inside this shipment","عناصر الطلب داخل هذه الشحنة"
+"Current shipment","الشحنة الحالية"
+"Please fill out this field.","يرجى ملء هذا الحقل."
+"Please select an item in the list.","يرجى اختيار عنصر من القائمة."
+-select-,-اختر-
+"Shipment has been successfully created.","تم إنشاء الشحنة بنجاح."
+"Edit Shipment for Order: N%idSalesOrder%","تحرير الشحنة للطلب: N%idSalesOrder%"
+"Shipment has been successfully edited.","تم تعديل الشحنة بنجاح."
+"Item total",الإجمالي
+"Shipping Costs","تكاليف الشحن"

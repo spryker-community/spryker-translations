@@ -1,0 +1,15 @@
+Approve,Aprobar
+"Change status","Cambiar estado"
+"List of product reviews","Lista de reseñas de productos"
+Nickname,Apodo
+"Overview of Product Reviews","Resumen de reseñas de productos"
+"Product Reviews","Reseñas de productos"
+Reject,Rechazar
+Pending,Pendiente
+Rejected,Rechazado
+"Product Review #%id% deleted successfully.","Reseña de producto #%id% eliminada correctamente."
+Date,Fecha
+"Product name","Nombre del producto"
+Rating,Valoración
+"CSRF token is not valid.","El token CSRF no es válido."
+Guest,Invitado

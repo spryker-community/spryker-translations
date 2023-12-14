@@ -1,0 +1,43 @@
+"Add Merchant",添加商家
+approved,已批准
+approved_button,批准访问
+"Back to Merchants",返回商家
+"Contact person first name",联系人名字
+"Contact person last name",联系人姓氏
+"Contact person phone",联系人电话
+"Contact person title",联系人职位
+denied,已拒绝
+denied_button,拒绝访问
+E-Mail,电子邮件
+"Edit Merchant",编辑商家
+"Edit Merchant:",编辑商家:
+Email,电子邮件
+General,常规
+"List of Merchants",商家列表
+"Merchant created successfully.",商家创建成功。
+"Merchant deleted successfully.",商家删除成功。
+"Merchant has not been created.",商家未创建。
+"Merchant Id",商家ID
+"Merchant is not found.",商家未找到。
+"Merchant reference is already used.",商家引用已被使用。
+"Merchant updated successfully.",商家更新成功。
+"Merchant with id %s doesn't exists.",商家ID为%s的商家不存在。
+merchant_gui.error_wrong_params,无法更新状态。
+merchant_gui.success_merchant_status_update,状态已更新。
+Name,名称
+"Overview of Merchants",商家概述
+"Registration number",注册号码
+Save,保存
+"Is Active",是否激活
+Active,激活
+Inactive,非活动
+Activate,激活
+Deactivate,停用
+merchant.activated,商家配置文件已成功激活。
+merchant.deactivated,商家配置文件已成功停用。
+Stores,商店
+"Merchant Reference",商家引用
+"Merchant URL",商家网址
+"Create Merchant",创建商家
+Approval,批准
+Status,状态

@@ -1,0 +1,55 @@
+"1. General Information","1. Algemene informatie"
+"2. Translations","2. Vertalingen"
+Add,Toevoegen
+"Add Attribute","Attribuut toevoegen"
+"Allow input any value other than predefined ones","Toestaan om een waarde toe te voegen die niet vooraf gedefinieerd is"
+"Attribute ID","Attribuut ID"
+"Attribute key","Attribuut sleutel"
+"Attribute Key","Attribuut sleutel"
+"Attribute list",Attributenlijst
+"Attribute name translation","Vertaling attribuutnaam"
+"Attributes and their values are used by the backoffice application. They are unique and cannot contain special characters.","Attributen en hun waarden worden gebruikt door de backoffice applicatie. Ze zijn uniek en mogen geen speciale tekens bevatten."
+Back,Terug
+"Back to List","Terug naar lijst"
+"Back to Product Abstract","Terug naar productoverzicht"
+"Back to Product List","Terug naar productlijst"
+"Create a Product Attribute","Productattribuut aanmaken"
+"Create Product Attribute","Productattribuut aanmaken"
+date,datum
+datetime,tijd
+Edit,Bewerken
+"Edit Product","Product bewerken"
+"Edit Product Abstract","Productoverzicht bewerken"
+float,"decimaal getal"
+"General Information","Algemene informatie"
+"Input type",Invoertype
+"Manage Attributes for Product","Beheer attributen voor product"
+"Manage Attributes for Product Abstract","Beheer attributen voor productoverzicht"
+number,nummer
+"Predefined value translations","Vertalingen vooraf gedefinieerde waarden"
+"Predefined values","Vooraf gedefinieerde waarden"
+"Product Abstract Attributes Management","Beheer attributen voor productoverzicht"
+"Product abstract attributes saved","Productattributen opgeslagen"
+"Product attribute was created successfully.","Productattribuut is succesvol aangemaakt."
+"Product attribute was not created.","Productattribuut is niet aangemaakt."
+"Product attribute was updated successfully.","Productattribuut is succesvol bijgewerkt."
+"Product Attributes",Productattributen
+"Product Attributes Management","Beheer productattributen"
+"Product attributes saved","Productattributen opgeslagen"
+Save,Opslaan
+select,selecteren
+"Super attribute","Super attribuut"
+text,tekst
+textarea,tekstvak
+time,tijd
+"Translate predefined values","Vertaal vooraf gedefinieerde waarden"
+"Translation was updated successfully.","Vertaling is succesvol bijgewerkt."
+"Type first three letters of an existing attribute key for suggestions.","Typ de eerste drie letters van een bestaande attribuutsleutel voor suggesties."
+Values,Waarden
+"View Attribute","Bekijk attribuut"
+"You can add new values by pressing ""Enter"" after each element","U kunt nieuwe waarden toevoegen door na elk element op ""Enter"" te drukken"
+Remove,Verwijderen
+"Edit Product Attribute","Bewerk productattribuut"
+"Edit Attribute Translations","Bewerk attribuutvertalingen"
+"Predefined Values","Vooraf gedefinieerde waarden"
+"Please select attribute key first","Selecteer eerst een attribuutsleutel."

@@ -1,0 +1,59 @@
+"Overview of Orders","Resumen de pedidos"
+"List of Orders","Lista de pedidos"
+"My Orders","Mis pedidos"
+"Order Reference","Referencia del pedido"
+"Marketplace Order Reference","Referencia del pedido del marketplace"
+Created,Creado
+Customer,Cliente
+Email,"Correo electrónico"
+"Order State","Estado del pedido"
+"Grand Total","Total general"
+"Number of items","Número de artículos"
+Actions,Acciones
+View,Ver
+"Merchant Order Overview","Resumen del pedido del comerciante"
+Reference,Referencia
+Name,Nombre
+"Previous orders count","Recuento de pedidos anteriores"
+"Billing address","Dirección de facturación"
+"Merchant Order Reference","Referencia del pedido del comerciante"
+"Order date","Fecha del pedido"
+Totals,Totales
+Option,Opción
+Subtotal,Subtotal
+Discount,Descuento
+"Cancelled amount","Importe cancelado"
+"GRAND TOTAL","TOTAL GENERAL"
+"Total taxes","Impuestos totales"
+"Remuneration total","Total de remuneración"
+"Merchant order doesn't exist.","El pedido del comerciante no existe."
+Shipment,Envío
+of,de
+"Delivery Address","Dirección de entrega"
+"Delivery Method","Método de entrega"
+"Shipping Method","Método de envío"
+"Shipping Costs","Costos de envío"
+"Request delivery date","Solicitar fecha de entrega"
+"Trigger all matching states of order inside this shipment","Activar todos los estados coincidentes del pedido dentro de este envío"
+"Merchant Order Items","Artículos del pedido del comerciante"
+Product,Producto
+Quantity,Cantidad
+"Unit Price","Precio unitario"
+"Item total","Total del artículo"
+State,Estado
+"Trigger event","Evento de activación"
+"Variant Details","Detalles de la variante"
+"Show less","Mostrar menos"
+"Show more","Mostrar más"
+"incl. %tax_amount% % tax","incl. %tax_amount% % impuesto"
+"Show history","Mostrar historial"
+"Hide history","Ocultar historial"
+Sku,SKU
+"Shipment has been successfully created.","El envío se ha creado correctamente."
+"Shipment has not been created.","El envío no se ha creado."
+"Merchant sales order #%d not found.","No se encontró la orden de venta del comerciante #%d."
+"Shipment has been successfully updated.","El envío se ha actualizado correctamente."
+"Shipment has not been updated.","El envío no se ha actualizado."
+"Shipment #%d not found.","No se encontró el envío #%d."
+"New Shipment for Order: %idMerchantSalesOrder%","Nuevo envío para la orden: %idMerchantSalesOrder%"
+"Back to Orders","Volver a las órdenes"

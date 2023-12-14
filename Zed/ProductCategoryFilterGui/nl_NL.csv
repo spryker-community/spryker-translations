@@ -1,0 +1,18 @@
+"Active filters","Actieve filters"
+Add,Toevoegen
+"Category Filters for","Categorie filters voor"
+"Category Id",Categorie-ID
+"Category tree",Categorieboom
+"Filters for Category ""%s"" were updated successfully.","Filters voor categorie ""%s"" zijn succesvol bijgewerkt."
+"Inactive filters","Inactieve filters"
+"Overview of Category Filters","Overzicht van categorie filters"
+"Remove all","Alles verwijderen"
+"Reset to global settings","Terugzetten naar globale instellingen"
+"Root nodes list","Lijst met hoofd knooppunten"
+Save,Opslaan
+Search,Zoeken
+"There are no manual filter preferences defined for this category. The filters listed below are global settings. To define manual references for this category, modify the filters below.","Er zijn geen handmatige filtervoorkeuren gedefinieerd voor deze categorie. De onderstaande filters zijn globale instellingen. Om handmatige verwijzingen voor deze categorie te definiëren, wijzig de onderstaande filters."
+"Type first three letters of an existing filter key for suggestions.","Typ de eerste drie letters van een bestaande filter sleutel voor suggesties."
+"Filters for Category ""%s"" cannot be saved. Invalid filter(s) provided.","Filters voor categorie ""%s"" kunnen niet worden opgeslagen. Ongeldige filter(s) opgegeven."
+Submit,Verzenden
+"Please select a store to see the category filters:","Selecteer een winkel om de categorie filters te bekijken."

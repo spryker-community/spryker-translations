@@ -1,0 +1,71 @@
+Activate,激活
+"Back to CMS",返回CMS
+by,通过
+"Cms page with id %s doesn't exist",ID为%s的CMS页面不存在
+Compare,比较
+"Content Management",内容管理
+"Create CMS Page",创建CMS页面
+"Create new CMS Page",创建新的CMS页面
+"Create page",创建页面
+"Created at:",创建于：
+Deactivate,停用
+Description:,描述：
+"Discard Draft",放弃草稿
+"Edit CMS Page:",编辑CMS页面：
+"Edit page",编辑页面
+"Edit placeholders",编辑占位符
+"Edit Placeholders:",编辑占位符：
+"Fill in general page information",填写常规页面信息
+"Fill in SEO information",填写SEO信息
+"In Shop",在商店中
+"In Zed",在Zed中
+"Is active:",是否激活：
+"Is searchable:",是否可搜索：
+Keywords:,关键词：
+"List of CMS pages",CMS页面列表
+Locale,区域设置
+"Meta Description",元描述
+"Meta Keywords",元关键词
+"Meta Title",元标题
+"Missing placeholders for selected template.",所选模板缺少占位符。
+n/a,不适用
+Name,名称
+Name:,名称：
+on,开启
+"Overview of CMS Pages",CMS页面概览
+Page,页面
+"Page was updated successfully",页面已成功更新
+"Page with version %d successfully published.",版本为%d的页面已成功发布。
+Pages,页面
+"Placeholder translations successfully updated",占位符翻译已成功更新
+Publish,发布
+"Rollback to Selected Version",回滚到选定版本
+Save,保存
+Template:,模板：
+Title:,标题：
+"Translation key:",翻译键：
+Url,网址
+Urls,网址
+"Valid from:",有效期（包括）：
+"Valid to:",有效期（不包括）：
+"Version History",版本历史
+"Version History:",版本历史：
+View,查看
+"View CMS Page:",查看CMS页面：
+"You are editing a <br>draft </b> page. To make your changes visible in Yves, publish the page. Publishing the page will create a new version for this page",您正在编辑一个<b>草稿</b>页面。要在商店前端显示您的更改，请发布页面。发布页面将为此页面创建一个新版本。
+"You are viewing a published page. It was published",您正在查看已发布的页面。它已发布
+"You can edit the page or placeholders to modify the current working draft. You can publish the current working draft to create a new version",您可以编辑页面或占位符以修改当前工作草稿。您可以发布当前工作草稿以创建一个新版本
+"CMS Redirect",CMS重定向
+"Is searchable",可搜索
+"Page was not created.",页面未创建。
+"Page was created successfully.",页面创建成功。
+"You are editing a <b>draft</b> page. To make your changes visible in the shop, publish the page. Publishing the page will create a new version for this page.",您正在编辑一个<b>草稿</b>页面。要在商店中显示您的更改，请发布页面。发布页面将为此页面创建一个新版本。
+"Store relation",商店关系
+Placeholders,占位符
+title,标题
+content,内容
+"View CMS Page",查看CMS页面
+"Draft data successfully discarded.",成功丢弃草稿数据。
+"Page was deactivated successfully.",页面成功停用。
+"Page was activated successfully.",页面成功激活。
+"Edit Placeholders",编辑占位符

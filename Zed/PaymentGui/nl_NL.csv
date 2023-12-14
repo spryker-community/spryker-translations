@@ -1,0 +1,24 @@
+Actions,Acties
+Active,Actief
+"Available in Store","Beschikbaar in de winkel"
+"Available in the following store(s)","Beschikbaar in de volgende winkel(s)"
+Configuration,Configuratie
+Edit,Bewerken
+"Edit Payment Method: %s","Bewerk betaalmethode: %s"
+Inactive,Inactief
+"Is the Payment Method active?","Is de betaalmethode actief?"
+"Is this payment method active?","Is deze betaalmethode actief?"
+"List Payment Methods","Lijst met betaalmethoden"
+Name,Naam
+"Payment Method Key","Betaalmethode Sleutel"
+"Payment method not found","Betaalmethode niet gevonden"
+"Payment Methods",Betaalmethoden
+"Payment Provider",Betaalprovider
+Provider,Provider
+Save,Opslaan
+Status,Status
+"Store relation",Winkelrelatie
+View,Bekijken
+"View Payment Method: %s","Bekijk betaalmethode: %s"
+"Payment method has been successfully updated","Betaalmethode is succesvol bijgewerkt"
+"Payment Management",Betaalbeheer

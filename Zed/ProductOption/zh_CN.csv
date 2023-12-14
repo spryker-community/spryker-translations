@@ -1,0 +1,48 @@
+Activate,激活
+"Add option",添加选项
+"All products",所有产品
+"Assigned products",已分配产品
+"Could not activate option.",无法激活选项。
+"Create a product option by defining option values with translation key, sku and price. By adding more than 1 option value below, you will create an option group. With an option group your customer can choose one option from this group.",通过定义具有翻译键、SKU和价格的选项值来创建产品选项。通过在下面添加多个选项值，您将创建一个选项组。使用选项组，您的客户可以从该组中选择一个选项。
+"Create product option",创建产品选项
+"Created at",创建于
+Deactivate,停用
+"Deselect all on the page",取消页面上的所有选择
+Edit,编辑
+"Edit product option",编辑产品选项
+"General information",常规信息
+"Gross Price",毛价
+"Group name",组名
+"Group name translation key",组名翻译键
+ID,ID
+"List of product options",产品选项列表
+Name,名称
+"Net Price",净价
+"Option group ID",选项组ID
+"Option name",选项名称
+"Option name translation key",选项名称翻译键
+"Option successfully activated.",选项成功激活。
+"Option successfully deactivated.",选项成功停用。
+"Option Values",选项值
+"Product option group created.",已创建产品选项组。
+"Product option group modified.",已修改产品选项组。
+"Product option list",产品选项列表
+"Product Options",产品选项
+Products,产品
+"Products to be assigned",待分配产品
+"Products to be deassigned",待取消分配产品
+"Products with this option",具有此选项的产品
+Save,保存
+"Select all on the page",选择页面上的所有
+Selected,已选择
+SKU,SKU
+Sku,SKU
+"Tax set",税收设置
+Translation,翻译
+"Translation key",翻译键
+"Updated at",更新于
+"View product option",查看产品选项
+Active,活动
+Inactive,非活动
+"product.option.group.name.(your key)","product.option.group.name.(your key)"
+"product.option.(your key)","product.option.(your key)"

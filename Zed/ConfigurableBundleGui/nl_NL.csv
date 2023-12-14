@@ -1,0 +1,66 @@
+Actions,Acties
+Activate,Activeren
+Active,Actief
+"Add General Information","Algemene informatie toevoegen"
+"Add Slot","Slot toevoegen"
+"Are you sure you want to delete template","Weet u zeker dat u deze template wilt verwijderen?"
+"Are you sure you want to delete this slot?","Weet u zeker dat u deze slot wilt verwijderen?"
+"At first create Configurable bundle Template, after that you will be redirected to the page where you can create slots, and define products per each of them.","Maak eerst een configureerbare bundeltemplate aan, daarna wordt u doorgestuurd naar de pagina waar u slots kunt maken en producten per slot kunt definiëren."
+Back,Terug
+"Back to Template list","Terug naar de lijst met templates"
+"Below you can edit the name of your slot for different locales (in different languages).","Hieronder kunt u de naam van uw slot bewerken voor verschillende talen (in verschillende talen)."
+Cancel,Annuleren
+"Configurable Bundle Template","Configureerbare bundeltemplate"
+"Configurable bundle template has been successfully created.","Configureerbare bundeltemplate is succesvol aangemaakt."
+"Configurable bundle template has been successfully deleted.","Configureerbare bundeltemplate is succesvol verwijderd."
+"Configurable bundle template has been successfully updated.","Configureerbare bundeltemplate is succesvol bijgewerkt."
+"Configurable bundle template has not been created.","Configureerbare bundeltemplate is niet aangemaakt."
+"Configurable bundle template has not been deleted.","Configureerbare bundeltemplate is niet verwijderd."
+"Configurable bundle template has not been updated.","Configureerbare bundeltemplate is niet bijgewerkt."
+"Configurable bundle template slot has not been created.","Configureerbare bundeltemplate slot is niet aangemaakt."
+"Configurable bundle template slot has not been deleted.","Configureerbare bundeltemplate slot is niet verwijderd."
+"Configurable bundle template slot has not been updated.","Configureerbare bundeltemplate slot is niet bijgewerkt."
+"Configurable bundle template slot was successfully created.","Configureerbare bundeltemplate slot is succesvol aangemaakt."
+"Configurable bundle template slot was successfully deleted.","Configureerbare bundeltemplate slot is succesvol verwijderd."
+"Configurable bundle template slot was successfully updated.","Configureerbare bundeltemplate slot is succesvol bijgewerkt."
+"Configurable bundle template slot with id ""%id%"" was not found.","Configureerbare bundeltemplate slot met id ""%id%"" is niet gevonden."
+"Configurable bundle template with id ""%id%"" was not found.","Configureerbare bundeltemplate met id ""%id%"" is niet gevonden."
+"Configurable Bundle Templates","Configureerbare bundeltemplates"
+Confirm,Bevestigen
+"Confirm action","Actie bevestigen"
+"Create Configurable Bundle Template","Maak een configureerbare bundeltemplate aan"
+"Create New Template","Nieuwe template maken"
+"Create Slot","Slot maken"
+Deactivate,Deactiveren
+Delete,Verwijderen
+"Delete Configurable Bundle Template","Configureerbare bundeltemplate verwijderen"
+"Delete Template","Template verwijderen"
+Edit,Bewerken
+"Edit Configurable Bundle Template","Configureerbare bundeltemplate bewerken"
+"Edit Slot","Slot bewerken"
+"Edit Slot for","Bewerk Slot voor"
+for,voor
+General,Algemeen
+Inactive,Inactief
+Name,Naam
+Next,Volgende
+"Note: you can assign products and categories for a slot in the respective tabs.","Opmerking: je kunt producten en categorieën toewijzen aan een slot in de respectieve tabbladen."
+"Nr. of Slots","Aantal Slots"
+"Number of Items","Aantal Items"
+"Product ID","Product ID"
+Save,Opslaan
+SKU,SKU
+"Slot details",Slotdetails
+"Slot ID","Slot ID"
+"Slot Name",Slotnaam
+Slots,Slots
+Status,Status
+"Template ""%template_name%"" has been activated.","Template ""%template_name%"" is geactiveerd."
+"Template ""%template_name%"" has deactivated.","Template ""%template_name%"" is gedeactiveerd."
+"Template ""%template_name%"" has not been activated.","Template ""%template_name%"" is niet geactiveerd."
+"Template ""%template_name%"" has not been deactivated.","Template ""%template_name%"" is niet gedeactiveerd."
+"Template ""%template_name%"" was activated.","Template ""%template_name%"" is geactiveerd."
+"Template ""%template_name%"" was deactivated.","Template ""%template_name%"" is gedeactiveerd."
+"Template details",Templategegevens
+"You can add slots on this page. During slot creation you can assign products from a catalog to this slot one by one, import CSV file or assign several categories.","Je kunt slots toevoegen op deze pagina. Tijdens het maken van een slot kun je producten uit een catalogus toewijzen aan dit slot, één voor één, een CSV-bestand importeren of meerdere categorieën toewijzen."
+"You can change name and define locals on this page.","Je kunt de naam wijzigen en locals definiëren op deze pagina."

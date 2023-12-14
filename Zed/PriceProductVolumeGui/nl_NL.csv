@@ -1,0 +1,11 @@
+Currency,Valuta
+"Enter a quantity and the item price that should be applied if customer buys above that threshold","Voer een hoeveelheid en de prijs van het artikel in die moet worden toegepast als de klant boven die drempel koopt"
+"Price Dimension Name","Naam van de prijsdimensie"
+"Price Type","Prijs type"
+Store,Winkel
+"Save and add more rows","Opslaan en meer rijen toevoegen"
+"Save and exit","Opslaan en afsluiten"
+"Volume prices successfully saved.","Volumeprijzen succesvol opgeslagen."
+"Volume prices",Volumeprijzen
+"Edit volume prices for product","Volumeprijzen bewerken voor product"
+"Edit volume prices","Volumeprijzen bewerken"

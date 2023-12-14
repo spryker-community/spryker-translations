@@ -1,0 +1,28 @@
+"Warehouse user","Warehouse gebruiker"
+"User could not be found.","Gebruiker kon niet worden gevonden."
+"User uuid is missing.","Gebruiker uuid ontbreekt."
+"Warehouse user assignments are updated.","Magazijn gebruiker toewijzingen zijn bijgewerkt."
+"Assign warehouses","Magazijnen toewijzen"
+"Assign Warehouse to User","Magazijn toewijzen aan gebruiker"
+"List Users","Lijst met gebruikers"
+"A warehouse can be assigned to multiple users at a time.","Een magazijn kan tegelijkertijd aan meerdere gebruikers worden toegewezen."
+Remove,Verwijderen
+Save,Opslaan
+"Deselect All","Alles deselecteren"
+"Deselected warehouses","Gedeselecteerde magazijnen"
+Inactive,Inactief
+Active,Actief
+"Warehouse ID","Magazijn ID"
+Name,Naam
+Status,Status
+Assigned,Toegewezen
+Assign,Toewijzen
+Selected,Geselecteerd
+"Select All","Alles selecteren"
+"List of warehouses","Lijst van magazijnen"
+"Assigned warehouses","Toegewezen magazijnen"
+"Warehouses to be deassigned","Magazijnen om te deactiveren"
+"Select warehouses to assign","Selecteer magazijnen om toe te wijzen"
+"Warehouses to be assigned","Magazijnen om toe te wijzen"
+"Selected warehouses","Geselecteerde magazijnen"
+"This user is a warehouse user","Deze gebruiker is een magazijn gebruiker"

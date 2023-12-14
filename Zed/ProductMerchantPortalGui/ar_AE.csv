@@ -1,0 +1,145 @@
+Attributes,السمات
+Categories,الفئات
+Currencies,العملات
+Currency,العملة
+Default,الافتراضي
+Description,الوصف
+Image,الصورة
+"Image Set","مجموعة الصور"
+Images,الصور
+"Manage Product","إدارة المنتج"
+Name,الاسم
+Offline,"غير متصل"
+Online,متصل
+"Approval Status","حالة الموافقة"
+waiting_for_approval,"في انتظار الموافقة"
+approved,"تمت الموافقة"
+denied,"تم الرفض"
+draft,مسودة
+approval_status_action.approved,الموافقة
+approval_status_action.denied,الرفض
+approval_status_action.draft,"العودة إلى المسودة"
+approval_status_action.waiting_for_approval,"إرسال للموافقة"
+"Product successfully created!","تم إنشاء المنتج بنجاح!"
+"Please resolve all errors.","يرجى حل جميع الأخطاء."
+Price,السعر
+Products,المنتجات
+"Product Details","تفاصيل المنتج"
+"Provide a name","يرجى تقديم اسم"
+"Provide description","يرجى تقديم وصف"
+Save,حفظ
+Select,اختر
+"Select Stores","اختر المتاجر"
+"Select Tax Set","اختر مجموعة الضرائب"
+"Select Categories","اختر الفئات"
+SKU,SKU
+"Search by SKU, Name","البحث حسب SKU، الاسم"
+Store,المتجر
+Stores,المتاجر
+"Super Attributes","السمات الفائقة"
+"Tax Set","مجموعة الضرائب"
+"The Product is saved.","تم حفظ المنتج."
+"The value cannot be empty. Please fill in this input.","لا يمكن أن يكون القيمة فارغة. يرجى ملء هذا الإدخال."
+Variants,المتغيرات
+Visibility,الرؤية
+"Success! The Price is deleted.","تم حذف السعر بنجاح."
+"Something went wrong, please try again.","حدث خطأ ما، يرجى المحاولة مرة أخرى."
+"Product prices saved successfully.","تم حفظ أسعار المنتج بنجاح."
+Net,صافي
+Gross,إجمالي
+Delete,حذف
+Add,إضافة
+Active,نشط
+Inactive,"غير نشط"
+Search,بحث
+Status,الحالة
+"Valid From","صالح من"
+"Valid To","صالح إلى"
+Validity,الصلاحية
+"Validity Dates & Time","تواريخ ووقت الصلاحية"
+"Enabling an option below will overwrite the existing input.","تمكين الخيار أدناه سيستبدل الإدخال الحالي."
+"Bulk edit %number% variants","تحرير السائبة %number% البدائل"
+"The first date cannot be later than the second one.","لا يمكن أن يكون التاريخ الأول في وقت لاحق من الثاني."
+"The first date is the same as the second one.","التاريخ الأول هو نفسه الثاني."
+"The second date cannot be earlier than the first one.","لا يمكن أن يكون التاريخ الثاني في وقت سابق من الأول."
+From,من
+To,إلى
+"Bulk edit","تحرير السائبة"
+Searchability,"قابلية البحث"
+"Use Abstract Product prices","استخدام أسعار المنتجات المجردة"
+"Select Locales","تحديد اللغات"
+Stock,المخزون
+Quantity,الكمية
+"Always in stock","دائمًا في المخزون"
+"Enter quantity","أدخل الكمية"
+"Reserved Stock","المخزون المحجوز"
+"This concrete product is not owned by this merchant.","هذا المنتج الخرساني ليس مملوكًا لهذا التاجر."
+"Create Abstract Product","إنشاء منتج مجرد"
+English,الإنجليزية
+German,الألمانية
+"The rest of the locales will be defined once the product has been created.","سيتم تحديد بقية اللغات بمجرد إنشاء المنتج."
+"Create an Abstract Product","إنشاء منتج مجرد"
+"with 1 Concrete Product","مع منتج ملموس واحد"
+"Autogenerate SKU","توليد تلقائي لرمز المنتج"
+"Same as Abstract Product","نفس المنتج المجرد"
+"Concrete Products’ Preview","معاينة المنتجات الملموسة"
+"with multiple Concrete Products","مع عدة منتجات ملموسة"
+"Super Attribute","سمة فائقة"
+Values,القيم
+"No concretes created yet","لم يتم إنشاء منتجات ملموسة بعد"
+"to be created","ليتم إنشاؤها"
+"Autogenerate SKUs","توليد تلقائي لأرقام SKU"
+"Same Name as Abstract Product","نفس الاسم كمنتج مجرد"
+"Super attribute value","قيمة سوبر السمة"
+"Name default","الاسم الافتراضي"
+"Invalid value provided. Please use only alphanumeric characters and . - _","القيمة غير صالحة المقدمة. يرجى استخدام الأحرف الأبجدية الرقمية و . - _ فقط"
+"Concrete Product SKU already exists","رقم SKU للمنتج الملموس موجود بالفعل"
+"SKU Prefix already exists","بادئة SKU موجودة بالفعل"
+"Abstract product has 1 concrete product","المنتج المجرد لديه منتج ملموس واحد"
+"Abstract product has multiple concrete products","المنتج المجرد لديه عدة منتجات ملموسة"
+"The value cannot be empty. Please select one.","لا يمكن أن تكون القيمة فارغة. يرجى تحديد واحدة."
+"SKU Prefix","بادئة SKU"
+"SKU Prefix already exists in collection","بادئة SKU موجودة بالفعل في المجموعة"
+"Enter SKU prefix","أدخل بادئة SKU"
+"Add Image Set","إضافة مجموعة صور"
+"Set name","اسم المجموعة"
+"Delete Image Set","حذف مجموعة الصور"
+"Image Ordered","ترتيب الصورة"
+"Small Image URL","عنوان URL للصورة الصغيرة"
+"Large Image URL","عنوان URL للصورة الكبيرة"
+"Add Image","إضافة صورة"
+"Abstract Product","المنتج المجرد"
+"Abstract Product Details","تفاصيل المنتج المجرد"
+"Concrete Products","المنتجات الملموسة"
+"The attribute %attribute% already exists. Please define another one","السمة %attribute% موجودة بالفعل. يرجى تحديد سمة أخرى"
+"Please fill in at least one value","يرجى ملء قيمة واحدة على الأقل"
+"Success! The Attribute is deleted","تم الحذف بنجاح! تم حذف السمة"
+"The value cannot be blank. Please fill in this input","لا يمكن أن تكون القيمة فارغة. يرجى ملء هذا الحقل"
+"Provide meta title","يرجى توفير عنوان فوق الصفحة"
+"Provide meta keywords","يرجى توفير الكلمات الرئيسية الفوق الصفحة"
+"Provide meta description","يرجى توفير وصف فوق الصفحة"
+"Concrete Product","منتج ملموس"
+"Concrete Product is active","منتج ملموس نشط"
+"Use Abstract Product name for all locales","استخدم اسم المنتج المجرد لجميع اللغات"
+"Use Abstract Product description for all locales","استخدم وصف المنتج المجرد لجميع اللغات"
+"Use Abstract Product price for all locales","استخدم سعر المنتج المجرد لجميع اللغات"
+"Use Abstract Product images for all locales","استخدم صور المنتج المجرد لجميع اللغات"
+"Super attribute was not deleted","لم يتم حذف السمة الفائقة"
+"Add Concrete Products","إضافة منتجات ملموسة"
+Create,إنشاء
+"This value should not be blank.","يجب ألا يكون هذا القيمة فارغة."
+"Combination of super attribute values already exists.","توجد بالفعل مجموعة من قيم السمات الفائقة."
+"This abstract product is not owned by this merchant.","هذا المنتج المجرد ليس مملوكًا لهذا التاجر."
+"Invalid value provided. Please use only alphanumeric characters and  . - _","قيمة غير صالحة المقدمة. يرجى استخدام أحرف أبجدية رقمية فقط و . - _"
+"This value needs to be unique.","هذه القيمة يجب أن تكون فريدة."
+"This value already exists.","هذه القيمة موجودة بالفعل."
+"Success! %d Concrete Products are saved.","تم حفظ %d منتج ملموس بنجاح."
+"Success! %d Concrete Product is saved.","تم حفظ %d منتج ملموس بنجاح."
+"The approval status was updated.","تم تحديث حالة الموافقة."
+"The approval status was not updated.","لم يتم تحديث حالة الموافقة."
+"Abstract product was not found.","لم يتم العثور على المنتج المجرد."
+"Send for Approval","أرسل للموافقة"
+"Enter SKU","أدخل SKU"
+"Enter name","أدخل الاسم"
+"Select at least one value","حدد قيمة واحدة على الأقل"
+"Once this product is created, you will no longer be able to add additional concrete products.","بمجرد إنشاء هذا المنتج، لن تتمكن بعد ذلك من إضافة منتجات إسمنتية إضافية."

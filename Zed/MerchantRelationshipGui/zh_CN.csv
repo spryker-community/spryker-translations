@@ -1,0 +1,31 @@
+"Add Merchant relation",添加商户关系
+"Assigned Business Units",已分配的业务单位
+"Back to Merchant relations",返回商户关系
+"Business Unit Owner",业务单位所有者
+Company,公司
+Confirm,确认
+"Create Merchant Relation",创建商户关系
+"Edit Merchant Relation",编辑商户关系
+"Edit Merchant Relation:",编辑商户关系:
+ID,ID:
+"List of Merchant relation",商户关系列表
+Merchant,商户
+"Merchant Name",商户名称
+"Merchant relation created successfully.",商户关系创建成功。
+"Merchant relation deleted successfully.",商户关系删除成功。
+"Merchant relation has not been created.",商户关系未创建。
+"Merchant relation is not found.",未找到商户关系。
+"Merchant relation updated successfully.",商户关系更新成功。
+"Merchant Relations",商户关系
+"Merchant Relation with ID ""%id%"" doesn\'t exist.","ID为""%id%""的商户关系不存在。"
+Merchants,商户
+"Overview of Merchant relation",商户关系概述
+Save,保存
+"Select Company",选择公司
+"Select merchant",选择商户
+"Select business unit",选择业务单位
+"Please select an item in the list",请在列表中选择一项
+"Delete Merchant Relation",删除商户关系
+"Merchant Relation deletion confirmation",商户关系删除确认
+"Are you sure you want to delete this Merchant Relation?",您确定要删除商户关系吗
+Cancel,取消

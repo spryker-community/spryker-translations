@@ -1,0 +1,13 @@
+"Forgot password?","Mot de passe oublié?"
+Login,Connexion
+Reset,Réinitialiser
+"Email Address","Adresse e-mail"
+"Request token is missing!","Le jeton de demande est manquant!"
+"Invalid request token!","Jeton de demande invalide!"
+"Password updated.","Mot de passe mis à jour."
+"Could not update password.","Impossible de mettre à jour le mot de passe."
+Password,"Mot de passe"
+"The password fields must match.","Les champs de mot de passe doivent correspondre."
+"Repeat Password","Répéter le mot de passe"
+"Recover password","Récupérer le mot de passe"
+"If there is an account associated with this email, you will receive an Email with further instructions.","Si un compte est associé à cette adresse e-mail, vous recevrez un e-mail avec des instructions supplémentaires."

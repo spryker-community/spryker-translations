@@ -1,0 +1,19 @@
+"Edit Global threshold","Modifier le seuil global"
+"Edit Threshold Settings","Modifier les paramètres de seuil"
+"Global threshold","Seuil global"
+"Minimum Hard Threshold","Seuil minimum dur"
+"Maximum Hard Threshold","Seuil maximum dur"
+"Minimum Order Value settings saved.","Paramètres de valeur de commande minimum enregistrés."
+Save,Enregistrer
+"Soft Threshold","Seuil souple"
+"The Global Threshold is saved successfully.","Le seuil global est enregistré avec succès."
+"Threshold Settings","Paramètres de seuil"
+Threshold,Seuil
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","Vous pouvez utiliser les espaces réservés <b>{{threshold}}</b> <b>{{fee}}</b>"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Vous pouvez utiliser les espaces réservés <code>{{threshold}}</code> et <code>{{fee}}</code>"
+"The Global Thresholds is saved successfully.","Les seuils globaux sont enregistrés avec succès."
+"Store and Currency","Magasin et devise"
+"Enter threshold value","Entrer la valeur du seuil"
+"Threshold settings","Paramètres de seuil"
+Soft,Souple
+Hard,Dur

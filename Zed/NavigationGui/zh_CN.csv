@@ -1,0 +1,25 @@
+"Are you sure about deleting this navigation?",您确定要删除此导航吗？
+"Are you sure you remove the selected node and all its children?",您确定要删除所选节点及其所有子节点吗？
+"Back to Navigation Elements",返回导航元素
+"Create child node",创建子节点
+"Create Navigation Element",创建导航元素
+"Delete Navigation",删除导航
+"Delete selected node",删除所选节点
+Duplicate,复制
+"Duplicate Navigation Element",复制导航元素
+"Edit node",编辑节点
+Key,键
+Name,名称
+"Navigation element details",导航元素详情
+"Navigation element %d was deleted successfully.","导航元素 %d 已成功删除。"
+"Navigation element %d was not found.","未找到导航元素 %d。"
+"Navigation removal confirmation",确认删除导航
+"Navigation tree",导航树
+"No, I want to keep this navigation",不，我想保留此导航
+Save,保存
+"Save order",保存顺序
+Search,搜索
+"Yes, delete this navigation",是的，删除此导航
+"Overview of Navigation Elements",导航元素概览
+"Navigation element %d was activated successfully.","导航元素 %d 已成功激活。"
+"Navigation element %d was deactivated successfully.","导航元素 %d 已成功停用。"

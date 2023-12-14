@@ -1,0 +1,79 @@
+Actions,Acties
+"Are you sure about deleting this delivery method?","Weet je zeker dat je deze bezorgmethode wilt verwijderen?"
+"Availability plugin",Beschikbaarheidsplugin
+"Available in Store","Beschikbaar in de winkel"
+Carrier,Vervoerder
+"Carrier Company",Vervoerdersbedrijf
+"Carrier was created successfully.","Vervoerder is succesvol aangemaakt."
+"Carrier with the same name already exists.","Er bestaat al een vervoerder met dezelfde naam."
+Configuration,Configuratie
+"Create Delivery Method","Maak bezorgmethode aan"
+"Create new carrier company","Maak nieuw vervoerdersbedrijf aan"
+"Create new delivery method","Maak nieuwe bezorgmethode aan"
+Delete,Verwijderen
+"Delete Delivery Method","Verwijder bezorgmethode"
+"Delete Delivery Method: %s","Bezorgmethode verwijderen: %s"
+"Delivery Method Key","Bezorgmethode sleutel"
+"Delivery method not found.","Bezorgmethode niet gevonden."
+"Delivery method was deleted successfully.","Bezorgmethode is succesvol verwijderd."
+"Delivery Methods",Bezorgmethoden
+"Delivery Time plugin",Bezorgtijdplugin
+Edit,Bewerken
+"Edit Delivery Method: %s","Bewerk bezorgmethode: %s"
+Enabled?,Ingeschakeld?
+"Is this delivery method active?","Is deze bezorgmethode actief?"
+"List of delivery methods","Lijst met bezorgmethoden"
+"List Shipment Methods","Lijst met verzendmethoden"
+"Method Name",Naam
+Name,Naam
+"New address","Nieuw adres"
+"No, I want to keep this delivery method","Nee, ik wil deze bezorgmethode behouden"
+None,Geen
+"Price & Tax","Prijs & Belasting"
+"Price plugin",Prijsplugin
+Save,Opslaan
+"Select one","Selecteer een"
+"Shipment method has been successfully saved","Verzendmethode is succesvol opgeslagen"
+"Shipment method has been successfully updated","Verzendmethode is succesvol bijgewerkt"
+"Shipment method is not found","Verzendmethode niet gevonden"
+"Shipment method not found","Verzendmethode niet gevonden"
+"Shipment n° %shipmentNumber%","Verzending nr. %shipmentNumber%"
+Status,Status
+"Store relation",Winkelrelatie
+"Store Relation",Winkelrelatie
+"Tax set",Belastinginstelling
+"This name is already in use.","Deze naam is al in gebruik."
+"This shipment method key is already in use.","Deze verzendmethode sleutel is al in gebruik."
+View,Bekijken
+"View Delivery Method: %s","Bekijk Bezorgmethode: %s"
+"Yes, delete this delivery method","Ja, verwijder deze bezorgmethode"
+"Trigger all matching states of order inside this shipment","Activeer alle overeenkomende statussen van de bestelling binnen deze zending"
+Shipment,Zending
+of,van
+"Delivery Address",Bezorgadres
+"Delivery Method",Bezorgmethode
+"Request delivery date","Gewenste bezorgdatum aanvragen"
+"Shipping Method",Verzendmethode
+Shipments,Zendingen
+"Available in the following store(s)","Beschikbaar in de volgende winkel(s)"
+"Is active","Is actief"
+"Add Carrier Company","Vervoerder toevoegen"
+"Create Shipment","Zending aanmaken"
+"Edit Shipment","Zending bewerken"
+"New Shipment for Order: %idSalesOrder%","Nieuwe zending voor bestelling: %idSalesOrder%"
+"Address 1","Adres 1"
+"Address 2","Adres 2"
+"ZIP code",Postcode
+Cellphone,"Mobiele telefoon"
+"Shipment method",Verzendmethode
+"Requested delivery date","Gewenste bezorgdatum"
+"Order items inside this shipment","Bestelitems in deze zending"
+"Current shipment","Huidige zending"
+"Please fill out this field.","Vul dit veld in."
+"Please select an item in the list.","Selecteer een item in de lijst."
+-select-,-selecteer-
+"Shipment has been successfully created.","Zending is succesvol aangemaakt."
+"Edit Shipment for Order: N%idSalesOrder%","Zending bewerken voor bestelling: N%idSalesOrder%"
+"Shipment has been successfully edited.","Zending is succesvol bewerkt."
+"Item total",Totaal
+"Shipping Costs",Verzendkosten

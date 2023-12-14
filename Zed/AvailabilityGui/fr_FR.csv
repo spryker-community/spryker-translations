@@ -1,0 +1,27 @@
+"Abstract product availability","Disponibilité du produit abstrait"
+Actions,Actions
+Availability,Disponibilité
+"Availability information for selected product - store pair does not exist.","Les informations de disponibilité pour la paire sélectionnée (produit - magasin) n'existent pas."
+Available,Disponible
+"Available in stores","Disponible en magasin"
+"Back to product","Retour au produit"
+"Current Stock","Stock actuel"
+"Edit Stock","Modifier le stock"
+"Is never out of stock","N'est jamais en rupture de stock"
+"List of product availability","Liste de disponibilité des produits"
+n/a,n/a
+Name,Nom
+No,Non
+"Not available","Non disponible"
+"Product Availability","Disponibilité du produit"
+"Product availability list","Liste de disponibilité des produits"
+"Products Availability","Disponibilité des produits"
+"Quantity in Bundle","Quantité dans le lot"
+"Reserved Products","Produits réservés"
+Save,Enregistrer
+SKU,SKU
+"Variant availability","Disponibilité de la variante"
+Yes,Oui
+"Overview of Products Availability","Aperçu de la disponibilité des produits"
+"Is bundle product","Est un produit groupé"
+Store,Magasin

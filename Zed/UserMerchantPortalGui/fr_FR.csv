@@ -1,0 +1,23 @@
+"My Account","Mon compte"
+"First name",Prénom
+"Last name",Nom
+E-mail,E-mail
+Language,Langue
+Save,Enregistrer
+"Change password","Changer le mot de passe"
+"Success! The Account is updated.","Succès ! Le compte est mis à jour."
+"Please resolve all errors.","Veuillez résoudre toutes les erreurs."
+"This value should not be blank.","Cette valeur ne doit pas être vide."
+"This value is not a valid email address.","Cette valeur n'est pas une adresse e-mail valide."
+"A user with this email already exists.","Un utilisateur avec cet e-mail existe déjà."
+"Personal Details","Détails personnels"
+"Email *","E-mail *"
+Password,"Mot de passe"
+"Current password","Mot de passe actuel"
+"New password","Nouveau mot de passe"
+"Repeat new password","Répéter le nouveau mot de passe"
+"Re-enter new password","Ré-entrer le nouveau mot de passe"
+"The value is incorrect. Please try again.","La valeur est incorrecte. Veuillez réessayer."
+"The value needs to match the New Password input.","La valeur doit correspondre à la saisie du Nouveau mot de passe."
+"Success! The Password is updated.","Succès ! Le mot de passe est mis à jour."
+"The value cannot be empty","La valeur ne peut pas être vide."

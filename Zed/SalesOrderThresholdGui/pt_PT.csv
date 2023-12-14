@@ -1,0 +1,19 @@
+"Edit Global threshold","Editar Limiar Global"
+"Edit Threshold Settings","Editar Configurações de Limiar"
+"Global threshold","Limiar Global"
+"Minimum Hard Threshold","Limiar Mínimo Rígido"
+"Maximum Hard Threshold","Limiar Máximo Rígido"
+"Minimum Order Value settings saved.","Configurações de Valor Mínimo de Pedido salvas."
+Save,Salvar
+"Soft Threshold","Limiar Suave"
+"The Global Threshold is saved successfully.","O Limiar Global foi salvo com sucesso."
+"Threshold Settings","Configurações de Limiar"
+Threshold,Limiar
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","Você pode usar os marcadores <b>{{threshold}}</b> <b>{{fee}}</b>"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Você pode usar os marcadores <code>{{threshold}}</code> e <code>{{fee}}</code>"
+"The Global Thresholds is saved successfully.","Os Limiares Globais foram salvos com sucesso."
+"Store and Currency","Loja e Moeda"
+"Enter threshold value","Digite o valor do limiar"
+"Threshold settings","Configurações de Limiar"
+Soft,Suave
+Hard,Rígido

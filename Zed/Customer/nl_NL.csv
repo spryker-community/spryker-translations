@@ -1,0 +1,59 @@
+"Add Customer","Klant toevoegen"
+"Add new Address","Nieuw adres toevoegen"
+"Address Line 1","Adresregel 1"
+"Address Line 2","Adresregel 2"
+"Address Line 3","Adresregel 3"
+Back,Terug
+"Back to Customer View","Terug naar klantweergave"
+"Back to Customers","Terug naar klanten"
+"Back to Manage Addresses","Terug naar adresbeheer"
+City,Stad
+Company,Bedrijf
+Country,Land
+Customers,Klanten
+"Customer deletion confirmation","Bevestiging klantverwijdering"
+"Customer does not exist","Klant bestaat niet"
+"Customer Reference",Klantreferentie
+"Customer successfully deleted","Klant succesvol verwijderd"
+"Customer was created successfully.","Klant is succesvol aangemaakt"
+"Customer was not created.","Klant is niet aangemaakt"
+"Customer was not updated.","Klant is niet bijgewerkt"
+"Customer was updated successfully.","Klant is succesvol bijgewerkt"
+"Customer with id `%s` does not exist","Klant met id `%s` bestaat niet"
+"Date of birth",Geboortedatum
+Delete,Verwijderen
+"Delete account","Account verwijderen"
+"Edit Address","Adres bewerken"
+"Edit Customer","Klant bewerken"
+Email,E-mail
+"First Name",Voornaam
+"First name",Voornaam
+"Form was not submitted.","Formulier is niet verzonden"
+Gender,Geslacht
+"Last name",Achternaam
+"List Customers","Lijst met klanten"
+Locale,Taalinstelling
+Phone,Telefoon
+"Registered at","Geregistreerd op"
+Salutation,Aanhef
+Save,Opslaan
+"Select one","Selecteer een optie"
+"Send password token through email","Stuur wachtwoordtoken via e-mail"
+View,Bekijken
+"View Customer","Klant bekijken"
+"Zed Account Reference","Zed Account Referentie"
+ZipCode,Postcode
+"Registration Date",Registratiedatum
+"Billing Address",Factuuradres
+"Shipping Address",Verzendadres
+"Attach to company","Koppelen aan bedrijf"
+"Add a customer","Klant toevoegen"
+"Comment successfully added","Reactie succesvol toegevoegd."
+"Address (2nd line)","Adres (2e regel)"
+"Address (3rd line)","Adres (3e regel)"
+"Last Name",Achternaam
+"Zip Code",Postcode
+Actions,Acties
+Status,Status
+Comment,Reactie
+Store,Winkel

@@ -1,0 +1,54 @@
+Activate,Activeren
+Active,Actief
+"Add image","Afbeelding toevoegen"
+"Add image set","Afbeeldingsset toevoegen"
+"Create Product Set","Productset maken"
+Deactivate,Deactiveren
+Default,Standaard
+"Delete image","Afbeelding verwijderen"
+"Delete image set","Afbeeldingsset verwijderen"
+"Deselect All","Alles deselecteren"
+"Deselected products","Gedeselecteerde producten"
+Edit,Bewerken
+ID,ID
+"Image Set",Afbeeldingsset
+"Image Set Name","Naam van afbeeldingsset"
+Inactive,Inactief
+Keywords,Trefwoorden
+"Large Image URL","URL van grote afbeelding"
+"List of Sets","Lijst met sets"
+Name,Naam
+Position,Positie
+Preview,Voorbeeld
+Price,Prijs
+"Product details",Productdetails
+"Product Sets",Productsets
+"Products in this Set","Producten in deze set"
+"Products to be assigned","Te koppelen producten"
+"Products to be deassigned","Te ontkoppelen producten"
+"Reorder Product Sets","Productsets herordenen"
+Save,Opslaan
+"Select All","Alles selecteren"
+"Select products to assign","Producten selecteren om toe te wijzen"
+Selected,Geselecteerd
+"Selected products","Geselecteerde producten"
+SEO,SEO
+SKU,SKU
+"Small Image URL","URL van kleine afbeelding"
+Status,Status
+Submit,Verzenden
+Title,Titel
+URL,Url
+View,Bekijken
+Weight,Gewicht
+"Weight defines sorting order. Product Sets with higher numbers listed first.","Gewicht bepaalt de sorteervolgorde. Productsets met hogere nummers worden als eerste weergegeven."
+"Product Set Key","Productset Sleutel"
+"You need to select a minimum of 2 products.","U moet minimaal 2 producten selecteren."
+Images,Afbeeldingen
+"View Product Set","Bekijk Productset"
+"Product Set ""%s"" created successfully.","Productset ""%s"" succesvol aangemaakt."
+"Product Set #%d activated successfully.","Productset #%d succesvol geactiveerd."
+"Product Set #%d deactivated successfully.","Productset #%d succesvol gedeactiveerd."
+"Product Set ""%s"" updated successfully.","Productset ""%s"" succesvol bijgewerkt."
+"Product Set #%d deleted successfully.","Productset #%d succesvol verwijderd."
+"Number of Products","Aantal Producten"

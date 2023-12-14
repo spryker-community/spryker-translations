@@ -1,0 +1,26 @@
+"Add Merchant User","إضافة مستخدم تاجر"
+Back,العودة
+"Back to Merchant Users","العودة إلى مستخدمي التاجر"
+Deactivate,تعطيل
+Deactivated,"تم تعطيله"
+Delete,حذف
+Deleted,"تم الحذف"
+Create,إنشاء
+"It will be deleted from everywhere","سيتم حذفه من كل مكان"
+"Merchant user ID is incorrect.","معرف مستخدم التاجر غير صحيح."
+"Merchant user was deleted successfully.","تم حذف مستخدم التاجر بنجاح."
+"Merchant user was not deleted.","لم يتم حذف مستخدم التاجر."
+"No users can be added till the merchant has been created. Please, add the required merchant information and save it.","لا يمكن إضافة مستخدمين حتى يتم إنشاء التاجر. يرجى إضافة معلومات التاجر المطلوبة وحفظها."
+Save,حفظ
+"User status can't be updated.","لا يمكن تحديث حالة المستخدم."
+"User status has been updated.","تم تحديث حالة المستخدم."
+Users,المستخدمون
+"You are trying to delete merchant user","أنت تحاول حذف مستخدم التاجر"
+"Merchant user was successfully created.","تم إنشاء مستخدم التاجر بنجاح."
+Edit,تعديل
+Activate,تفعيل
+Active,نشط
+E-mail,"البريد الإلكتروني"
+Status,الحالة
+"Last Name","الاسم الأخير"
+"First Name","الاسم الأول"

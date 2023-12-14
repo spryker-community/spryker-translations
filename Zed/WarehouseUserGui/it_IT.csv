@@ -1,0 +1,28 @@
+"Warehouse user","Utente magazzino"
+"User could not be found.","Impossibile trovare l'utente."
+"User uuid is missing.","Manca l'UUID dell'utente."
+"Warehouse user assignments are updated.","Gli assegnamenti degli utenti magazzino sono stati aggiornati."
+"Assign warehouses","Assegna magazzini"
+"Assign Warehouse to User","Assegna magazzino all'utente"
+"List Users","Elenco utenti"
+"A warehouse can be assigned to multiple users at a time.","Un magazzino può essere assegnato a più utenti contemporaneamente."
+Remove,Rimuovi
+Save,Salva
+"Deselect All","Deseleziona tutto"
+"Deselected warehouses","Magazzini deselezionati"
+Inactive,Inattivo
+Active,Attivo
+"Warehouse ID","ID magazzino"
+Name,Nome
+Status,Stato
+Assigned,Assegnato
+Assign,Assegna
+Selected,Selezionato
+"Select All","Seleziona tutto"
+"List of warehouses","Elenco di magazzini"
+"Assigned warehouses","Magazzini assegnati"
+"Warehouses to be deassigned","Magazzini da deassegnare"
+"Select warehouses to assign","Seleziona magazzini da assegnare"
+"Warehouses to be assigned","Magazzini da assegnare"
+"Selected warehouses","Magazzini selezionati"
+"This user is a warehouse user","Questo utente è un utente magazzino"

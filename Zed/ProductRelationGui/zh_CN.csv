@@ -1,0 +1,68 @@
+"Abstract product name",抽象产品名称
+"Abstract product name:",抽象产品名称:
+Activate,激活
+Active,活跃
+"Add Product Relations",添加产品关系
+"Are you sure about deleting this product relation?",您确定要删除此产品关系吗？
+"Assign related products",分配相关产品
+"Create Product Relation",创建产品关系
+"Create relation",创建关系
+Deactivate,停用
+"Delete Product Relation",删除产品关系
+Edit,编辑
+"Edit Product Relations",编辑产品关系
+"Failed to delete relation.",删除关系失败。
+General,常规
+Inactive,未激活
+"Is active:",是否激活:
+"It is impossible to update product relation #%d","无法更新产品关系 #%d"
+"List of Product Relations",产品关系列表
+"List Product relations",列出产品关系
+"No, I want to keep this product relation",不，我想保留此产品关系
+"Number of products",产品数量
+"Please select product from the list below",请从下面的列表中选择产品
+"Please select product from the list below *","请从下面的列表中选择产品 *"
+"Product owning the relation",拥有关系的产品
+"Product relation #%d not found","未找到产品关系 #%d"
+"Product relation key",产品关系键
+"Product relation successfully created",产品关系创建成功
+"Product relation successfully modified",产品关系修改成功
+"Product relation with id ""%id%"" not found.","未找到ID为""%id%""的产品关系。"
+"Product Relations",产品关系
+"Related products",相关产品
+related-products,相关产品
+"Relation #%d successfully deleted.","关系 #%d 删除成功。"
+"Relation successfully activated.",关系成功激活。
+"Relation successfully deactivated.",关系成功停用。
+"Relation successfully deleted.",关系成功删除。
+"Relation type",关系类型
+"Relation type:",关系类型:
+Save,保存
+Select,选择
+"Select product",选择产品
+"Select Stores",选择商店
+"Selected product",已选择产品
+"Selected product already has ""%s"" relation type.","已选择的产品已经具有""%s""关系类型。"
+Sku:,Sku:
+Status,状态
+"Store relation",商店关系
+Stores,商店
+up-selling,销售推广
+"Update regularly",定期更新
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.",定期更新：当您选择此选项时，该产品关系将根据关系条件自动定期更新。
+"View in Shop",在商店中查看
+"View Product Relation: %s",查看产品关系：%s
+"View relations",查看关系
+"Product Relation Key",产品关系键
+"Abstract SKU",抽象SKU
+"Select a relation type",选择关系类型
+select,选择
+"Add rule",添加规则
+"Add group",添加组
+Delete,删除
+"Edit Product Relation",编辑产品关系
+"Is active",是否激活
+"Yes, delete this product relation",是的，删除此产品关系
+"Number of Products",产品数量
+Store,商店
+"CSRF token is not valid.",CSRF令牌无效。

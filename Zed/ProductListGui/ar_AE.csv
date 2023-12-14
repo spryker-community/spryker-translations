@@ -1,0 +1,43 @@
+Actions,الإجراءات
+"Add list","إضافة قائمة"
+"Are you sure you want to remove this list? Removing this list will also remove all associated functionalities.","هل أنت متأكد أنك تريد إزالة هذه القائمة؟ ستؤدي إزالة هذه القائمة أيضًا إلى إزالة جميع الوظائف المرتبطة بها."
+"Assign Categories","تعيين الفئات"
+"Assign Products","تعيين المنتجات"
+Back,العودة
+"Back to Product Lists","العودة إلى قوائم المنتجات"
+Blacklist,"القائمة السوداء"
+"Business Unit Owner Name","اسم مالك وحدة الأعمال"
+Cancel,إلغاء
+"Confirm action","تأكيد الإجراء"
+"Create a Product List","إنشاء قائمة المنتجات"
+"Edit List","تحرير القائمة"
+"Edit Product List","تحرير قائمة المنتجات"
+Export,تصدير
+ID,المعرّف
+"ID Merchant Relation","علاقة المعرّف التجاري"
+"Import Product List","استيراد قائمة المنتجات"
+"List of Product lists","قائمة بقوائم المنتجات"
+"Merchant Name","اسم التاجر"
+"Merchant relationship","علاقة التاجر"
+Name,الاسم
+"Overview of Product lists","نظرة عامة على قوائم المنتجات"
+"Owner Type","نوع المالك"
+"Please ensure you saved information","يرجى التأكد من حفظ المعلومات"
+"Product label #%d successfully created.","تم إنشاء تسمية المنتج #%d بنجاح."
+"Product List ""%s"" has been successfully created.","تم إنشاء قائمة المنتجات ""%s"" بنجاح."
+"Product List ""%s"" has been successfully updated.","تم تحديث قائمة المنتجات ""%s"" بنجاح."
+"Product List has been successfully removed.","تمت إزالة قائمة المنتجات بنجاح."
+"Product List removal confirmation","تمت إزالة قائمة المنتجات بنجاح."
+"Product Lists","قوائم المنتجات"
+"Products in this list","المنتجات في هذه القائمة"
+"Remove List","إزالة القائمة"
+Save,حفظ
+"Select Products to assign","حدد المنتجات للتعيين"
+Selected,محدد
+SKU,"رمز المنتج"
+Title,العنوان
+Type,النوع
+"Used By","مستخدم بواسطة"
+Whitelist,Whitelist
+Сonfirm,Сonfirm
+"Add List","Add List"

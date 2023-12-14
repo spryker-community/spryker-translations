@@ -1,0 +1,20 @@
+Administration,Amministrazione
+"Manage Stores","Gestisci Negozi"
+Name,Nome
+"Store ID","ID Negozio"
+Stores,Negozi
+"Stores (Multi-store per Zed feature is disabled)","Negozi (La funzione multi-negozio per Zed è disabilitata)"
+"Create Store","Crea Negozio"
+"Back to Stores","Torna ai Negozi"
+"Edit Store","Modifica Negozio"
+"View Store","Visualizza Negozio"
+Actions,Azioni
+Locales,Località
+Currencies,Valute
+"Store created successfully","Negozio creato con successo"
+"Store updated successfully","Negozio aggiornato con successo"
+"Store with id `%s` does not exist","Il negozio con ID `%s` non esiste"
+Store,Negozio
+"Store: %s","Negozio: %s"
+Important,Importante
+"Store Name is not editable after creation. Store is not deletable after creation, please refer to Spryker documentation.","Il nome del negozio non è modificabile dopo la creazione. Il negozio non è eliminabile dopo la creazione, consulta la documentazione di Spryker."

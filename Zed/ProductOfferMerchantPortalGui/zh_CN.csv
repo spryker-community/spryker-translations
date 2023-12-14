@@ -1,0 +1,90 @@
+Active,活动
+"Add Offer",添加报价
+Approved,已批准
+approved,已批准
+"Always in stock",始终有库存
+Created,已创建
+"Created from",创建自
+"Created to",创建至
+"At least one store must be selected.",必须选择至少一个商店。
+"Create Offer",创建报价
+Denied,已拒绝
+denied,已拒绝
+waiting_for_approval,等待批准
+"Expiring in %daysNumber% days",在%daysNumber%天内到期
+From,从
+"Has stock",有库存
+Image,图片
+Inactive,不活跃
+"List of Products",产品列表
+"Low on Stock",库存不足
+"Manage Offers",管理报价
+"Manage Offer",管理报价
+"Merchant SKU",商家SKU
+Name,名称
+"Never out of stock",永不缺货
+"Offer is active",报价已激活
+Offers,报价
+Offline,离线
+"On Marketplace",在市场上
+Online,在线
+"Out of stock",缺货
+Pending,待处理
+Reference,参考
+Search,搜索
+"Offer Reference",报价参考
+Price,价格
+Quantity,数量
+"Search by SKU, Name",按SKU、名称搜索
+SKU,SKU
+Status,状态
+Stock,库存
+Stores,商店
+Updated,已更新
+"Updated from",从中更新
+"Updated to",更新至
+"The Offer is saved.",该优惠已保存。
+"The Offer is not saved.",该优惠未保存。
+Valid,有效
+"Valid From",有效起始日期
+"Valid, online & with Stock",有效，线上和有库存
+"Valid To",有效截止日期
+Visibility,可见性
+"With Offers",有优惠
+"With Stock",有库存
+"Without Offers",无优惠
+"Description & Details",描述和详细信息
+"The first date cannot be later than the second one.",第一个日期不能晚于第二个日期。
+"The first date is the same as the second one.",第一个日期与第二个日期相同。
+"The second date cannot be earlier than the first one.",第二个日期不能早于第一个日期。
+"This means that the offer does not appear online and noone can see it.",这意味着该优惠不会在网上显示，没有人能看到它。
+To,至
+"Gross Default",毛默认
+"Gross Original",毛原价
+"Net Default",净默认
+"Net Original",净原价
+Offer,优惠
+Save,保存
+Create,创建
+"Validity Dates",有效日期
+"Offer visibility",优惠可见性
+select.default.placeholder,选择
+"Enter SKU",输入SKU
+"Enter quantity",输入数量
+"To create your offer, choose a product from the list below.",要创建您的优惠，请从下面的列表中选择一个产品。
+"This value is not valid.",该值无效。
+"This field is missing.",此字段缺失。
+"The set of inputs Store and Currency needs to be unique.",输入的商店和货币需要唯一。
+"The set of inputs Store, Currency, and Quantity needs to be unique.",输入的商店、货币和数量需要唯一。
+"Success! The Price is deleted.",成功！价格已删除。
+"Something went wrong, please try again.",出现问题，请重试。
+"Offer prices saved successfully.",报价价格已成功保存。
+Cancel,取消
+Add,添加
+"Approval Status",批准状态
+Product,产品
+"Offer status",报价状态
+"Volume Quantity",数量
+"A Price for Quantity of 2 or above requires a Price for 1 for this set of inputs Store, Currency, and Quantity.",对于2个或以上数量的价格，需要为此组输入的商店、货币和数量提供1个价格。
+"To save an Offer please resolve all errors.",请解决所有错误后保存报价。
+Currencies,货币

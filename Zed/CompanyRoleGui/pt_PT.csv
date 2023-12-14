@@ -1,0 +1,35 @@
+"Add Company Role","Adicionar função de usuário da empresa"
+"Assigned Permissions","Permissões atribuídas"
+"Assigned Roles","Funções atribuídas"
+"Back to Roles","Voltar para Funções"
+"Company Account","Conta da Empresa"
+"Company Business Unit","Unidade de Negócios da Empresa"
+"Company role deletion confirmation","Confirmação de exclusão de função da empresa"
+"Company Roles","Funções da Empresa"
+"Create Company Role","Criar Função da Empresa"
+"Create role","Criar função"
+"Edit Company Role","Editar Função da Empresa"
+"Is Default","É Padrão"
+"It will be deleted from everywhere","Será excluído de todos os lugares"
+"List of Company Roles","Lista de Funções da Empresa"
+"Overview of Company Roles","Visão geral das Funções da Empresa"
+"Role ID","ID da Função"
+Roles,Funções
+"Unassigned Permissions","Permissões não atribuídas"
+"Unassigned Roles","Funções não atribuídas"
+"Update role","Atualizar função"
+"You are trying to delete company role","Você está tentando excluir uma função da empresa"
+"Select company","Selecionar empresa"
+"Please select an item in the list.","Por favor, selecione um item na lista."
+"Company role has been successfully created","A função da empresa foi criada com sucesso"
+"Company role has been successfully updated","A função da empresa foi atualizada com sucesso"
+"Delete company role","Excluir função da empresa"
+"Company role has been successfully removed","A função da empresa foi removida com sucesso"
+"You can not delete a default role, please set another default role before delete action","Você não pode excluir uma função padrão, por favor, defina outra função padrão antes de excluir."
+"Company Name","Nome da Empresa"
+Name,Nome
+Actions,Ações
+Delete,Excluir
+Edit,Editar
+Company,Empresa
+"At least one role must be assigned to a user.","Pelo menos uma função deve ser atribuída a um usuário."

@@ -1,0 +1,62 @@
+Action,Action
+"Add Group","Ajouter un groupe"
+"Add new Role","Ajouter un nouveau rôle"
+"Add Rule","Ajouter une règle"
+"Assigned groups","Groupes assignés"
+"Assigned Roles","Rôles assignés"
+"Assigned Rules","Règles assignées"
+Bundle,Pack
+Controller,Contrôleur
+"Could not modify root role node!","Vous n'êtes pas autorisé à modifier le rôle racine."
+Create,Créer
+"Create Group","Créer un groupe"
+"Create new Role","Créer un nouveau rôle"
+"Create Role","Créer un rôle"
+"Current password","Mot de passe actuel"
+"Edit Group","Modifier le groupe"
+"Failed to add Rule.","Échec de l'ajout de la règle."
+"Failed to remove rule","Échec de la suppression de la règle"
+"Group couldn't be found","Le groupe est introuvable"
+"Group name already in use","Le nom du groupe est déjà utilisé"
+"Group was created successfully.","Le groupe a été créé avec succès."
+"Group was updated successfully.","Le groupe a été mis à jour avec succès."
+"Interface language","Langue de l'interface"
+"List Groups","Liste des groupes"
+"List Roles","Liste des rôles"
+"Missing role id!","ID de rôle manquant !"
+"Missing rule id!","ID de règle manquant !"
+"No roles","Aucun rôle"
+Permission,Permission
+Role,Rôle
+"Role ""%s"" successfully added.","Le rôle ""%s"" a été ajouté avec succès."
+"Role ""%s"" successfully updated.","Le rôle ""%s"" a été mis à jour avec succès."
+"Role couldn't be found","Le rôle est introuvable"
+"Role list","Liste des rôles"
+"Role name","Nom du rôle"
+"Role was successfully removed.","Le rôle a été supprimé avec succès."
+Roles,Rôles
+roles,Rôles
+"Root group","Groupe racine"
+Rule,Règle
+"Rule successfully added.","Règle ajoutée avec succès."
+Save,Enregistrer
+"Select value","Sélectionner une valeur"
+"The password fields must match.","Les champs de mot de passe doivent correspondre."
+"The User was removed from the group.","L'utilisateur a été supprimé du groupe."
+"This action requires a DELETE request.","Cette action nécessite une requête DELETE."
+"This user is an agent","Cet utilisateur est un agent."
+"Unable to delete because role has groups assigned.","Impossible de supprimer car le rôle a des groupes assignés."
+"Update ""%s"" Role","Mettre à jour le rôle ""%s""."
+"User and group are not found.","Utilisateur et groupe introuvables."
+"User was activated successfully.","Utilisateur activé avec succès."
+"User was deactivated successfully.","Utilisateur désactivé avec succès."
+"User was deleted successfully.","Utilisateur supprimé avec succès."
+"User was updated successfully.","Utilisateur mis à jour avec succès."
+Users,Utilisateurs
+"Users Control","Contrôle des utilisateurs"
+Groups,Groupes
+allow,autoriser
+deny,refuser
+"Edit Role","Modifier le rôle"
+"Created At","Créé le"
+"Create new Group","Créer un nouveau groupe"

@@ -1,0 +1,49 @@
+"Add a file","Bestand toevoegen"
+"Add MIME type","MIME-type toevoegen"
+"Back to File Directory Elements","Terug naar bestandsmapelementen"
+"Back to File Tree","Terug naar bestandsstructuur"
+"Back to MIME type list","Terug naar lijst met MIME-types"
+Cancel,Annuleren
+confirm,bevestigen
+"Confirm deleting","Bevestig verwijderen"
+"Create Directory Element","Mapelement maken"
+"Create File Directory","Bestandsmap maken"
+Date,datum
+"Delete Directory","Map verwijderen"
+"Directory element details","Details van mapelement"
+"Do you want to remove the folder with all files?","Wil je de map met alle bestanden verwijderen?"
+"Edit file","Bestand bewerken"
+"Edit MIME type","MIME-type bewerken"
+"Failed to delete MIME type","MIME-type verwijderen mislukt"
+"File Directory tree updated successfully.","Bestandsmapstructuur succesvol bijgewerkt."
+"File List",Bestandslijst
+"File Manager",Bestandsbeheerder
+"File name",Bestandsnaam
+"File Tree",Bestandsstructuur
+"File type",Bestandstype
+"File type is not allowed for uploading","Bestandstype is niet toegestaan voor uploaden"
+"File upload","Bestand uploaden"
+"File was not found","Bestand niet gevonden"
+"Files list","Lijst met bestanden"
+"MIME type",MIME-type
+"MIME type already exists","MIME-type bestaat al"
+"MIME type settings","MIME-type instellingen"
+"MIME type was successfully deleted","MIME-type succesvol verwijderd"
+"MIME type was successfully saved","MIME-type succesvol opgeslagen"
+Save,Opslaan
+"Save order","Volgorde opslaan"
+"Specify a file name or use real one","Geef een bestandsnaam op"
+"The file directory was added successfully.","De bestandsmap is succesvol toegevoegd."
+"The file was added successfully.","Het bestand is succesvol toegevoegd."
+"The file was edited successfully.","Het bestand is succesvol bewerkt."
+"Upload a file","Upload een bestand"
+"Upload a file or specify a new file name","Upload een bestand of geef een nieuwe bestandsnaam op"
+"Use file name","Gebruik bestandsnaam"
+"View file","Bekijk bestand"
+"Is allowed","Is toegestaan"
+"Add File","Bestand toevoegen"
+"File Directories Tree",Bestandsdirectorystructuur
+"Overview of File Tree","Overzicht van bestandsstructuur"
+"You cannot remove the only version of the file.","U kunt de enige versie van het bestand niet verwijderen."
+"Available extensions for MIME type. Comma separated.","Beschikbare extensies voor MIME-type. Gescheiden door komma's."
+"There are no MIME types or extensions configured.","Er zijn geen geconfigureerde MIME-types of extensies."

@@ -1,0 +1,108 @@
+Activate,Activeren
+Active,Actief
+"Add General Information","Algemene informatie toevoegen"
+"Add image","Afbeelding toevoegen"
+"Add image set","Afbeeldingsset toevoegen"
+"Add Product Concrete","Concreet product toevoegen"
+"Add Variant","Variant toevoegen"
+"Assigned products","Toegewezen producten"
+Attributes,Kenmerken
+"Available in stores","Beschikbaar in winkels"
+"Below are the product variants listed. Each variant may be edited independent from the others.","Hieronder staan de productvarianten vermeld. Elke variant kan onafhankelijk van de andere worden bewerkt."
+"Below the name and description for your product can be edited for different locales (in different languages).","Hieronder kunnen de naam en beschrijving van uw product worden bewerkt voor verschillende locaties (in verschillende talen)."
+"Below you can choose between your predefined tax sets and edit the price of your product.","Hieronder kunt u kiezen tussen uw vooraf gedefinieerde belastingtarieven en de prijs van uw product bewerken."
+"Bundle availability based on assigned products:","Beschikbaarheid van bundels op basis van toegewezen producten:"
+Categories,Categorieën
+"CMS Block list","CMS Bloklijst"
+"Configurable Product Attributes","Configureerbare productattributen"
+"Contains bundles","Bevat bundels"
+"Create a Product","Maak een product aan"
+"Create Bundle Product","Maak een bundelproduct aan"
+"Create Product","Maak product"
+Deactivate,Deactiveren
+Deactivated,Gedeactiveerd
+Default,Standaard
+"Delete image","Verwijder afbeelding"
+"Delete image set","Verwijder afbeeldingsset"
+Edit,Bewerken
+"Edit Product Abstract","Bewerk product abstract"
+"Edit Product Concrete","Bewerk product concreet"
+"Enter price.","Voer prijs in."
+"Enter stock value. In case you create multiple variants, the stock can be managed under ""Product Variants"" and this input field will be ignored.","Voer voorraadwaarde in. In het geval dat u meerdere varianten maakt, kan de voorraad worden beheerd onder ""Productvarianten"" en wordt dit invoerveld genegeerd."
+General,Algemeen
+"Gross price",Brutoprijs
+"Image Set",Afbeeldingsset
+"Image Sets",Afbeeldingssets
+Large,Groot
+"List Products","Lijst met producten"
+"Manage Attributes","Beheer attributen"
+"Merchant Price Dimension","Prijsdimensie verkoper"
+"Multiple images can be grouped to an image set. An image set has a name for identification and may contain a small and a large version of each image","Meerdere afbeeldingen kunnen worden gegroepeerd in een afbeeldingsset. Een afbeeldingsset heeft een naam ter identificatie en kan een kleine en een grote versie van elke afbeelding bevatten"
+n/a,n/a
+"Net price",Nettoprijs
+"Never out of stock","Nooit uit voorraad"
+"No categories found.","Geen categorieën gevonden."
+"No records","Geen records"
+"Note: Deactivated product variants are not available in the shop anymore.","Opmerking: Gedeactiveerde productvarianten zijn niet meer beschikbaar in de winkel."
+"Note: Image sets can be used for different purposes such as being displayed in the catalog or the product detail page or elsewhere.","Opmerking: Afbeeldingssets kunnen worden gebruikt voor verschillende doeleinden, zoals weergave in de catalogus of de productdetailpagina of elders."
+"Note: Meta data are snippets of text describing a page’s content. The meta data appear only in the page’s code, not in its content.","Opmerking: Metagegevens zijn stukjes tekst die de inhoud van een pagina beschrijven. De metagegevens worden alleen weergegeven in de code van de pagina, niet in de inhoud ervan."
+"Note: The price that you edit here is only displayed in the shop catalog and the product detail page for the non configured product (Not product variant)","Opmerking: De prijs die u hier bewerkt, wordt alleen weergegeven in de winkelcatalogus en de productdetailpagina voor het niet-geconfigureerde product (niet productvariant)"
+"Note: The SKU is not editable after saving anymore.","Opmerking: De SKU kan niet meer worden bewerkt na het opslaan."
+"Note: The SKU prefix, just like the SKUs of your product variants, are not editable after saving anymore.","Opmerking: Het SKU-voorvoegsel, net als de SKUs van uw productvarianten, kan niet meer worden bewerkt na het opslaan."
+"Price & Tax","Prijs & Belasting"
+"Price & Taxes","Prijs & Belastingen"
+"Product bundle does not have variants!","Productbundel heeft geen varianten!"
+"Product Group ID",Productgroep-ID
+"Product Groups",Productgroepen
+"Product has been activated.","Product is geactiveerd."
+"Product has been deactivated.","Product is gedeactiveerd."
+"Product ID",Product-ID
+"Product Image(s)",Productafbeelding(en)
+"Product type",Producttype
+"Product variants",Productvarianten
+Quantity,Aantal
+Save,Opslaan
+"Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a web search engine's unpaid results — often referred to as ""natural,"" ""organic,"" or ""earned"" results.","Zoekmachineoptimalisatie (SEO) is het proces van het beïnvloeden van de zichtbaarheid van een website of een webpagina in de onbetaalde resultaten van een webzoekmachine, vaak aangeduid als ""natuurlijke"", ""organische"" of ""verdiende"" resultaten."
+"Select attributes and corresponding values.","Selecteer attributen en bijbehorende waarden."
+"SEO (Meta Information)","SEO (Meta-informatie)"
+Small,Klein
+"Stock Type",Voorraadtype
+"Store relation",Winkelrelatie
+"Tax Set",Belastinginstelling
+"The product [%s] does not exist.","Het product [%s] bestaat niet."
+"The product [%s] was saved successfully.","Het product [%s] is succesvol opgeslagen."
+"The product [%s] you are trying to edit, does not exist.","Het product [%s] dat u probeert te bewerken, bestaat niet."
+"There is no super attribute defined. <a href=""%url%"">Define super attributes</a> in order to be able to create variants.","Er is geen superattribuut gedefinieerd. <a href=""%url%"">Definieer superattributen</a> om varianten te kunnen maken."
+Type,Type
+Variants,Varianten
+"View Product Abstract","Bekijk productabstract"
+"View Product Concrete","Bekijk concreet product"
+Product,Product
+Products,Producten
+Availability,Beschikbaarheid
+"New from","Nieuw vanaf"
+"New to","Nieuw tot"
+"At least one price should be specified","Er moet ten minste één prijs worden opgegeven"
+"Please enter at least an SKU and a Name of the product in every locale in the General section","Voer alstublieft ten minste een SKU en een naam van het product in elke taal in het gedeelte Algemeen in"
+"The product [%s] was added successfully.","Het product [%s] is succesvol toegevoegd."
+Images,Afbeeldingen
+"Add Volume Price","Voeg volumeprijs toe"
+"Is bundle","Is bundel"
+"View Concrete Product","Bekijk concreet product"
+"Edit Concrete Product","Bewerk concreet product"
+"Super attributes",Superattributen
+"Valid from","Geldig vanaf"
+"Valid to","Geldig tot"
+Searchable,Doorzoekbaar
+Stock,Voorraad
+"Sort order",Sorteervolgorde
+"Assign bundled products","Toegewezen gebundelde producten"
+"Valid From (Time in UTC)","Geldig vanaf (Tijd in UTC)"
+"Valid To (Time in UTC)","Geldig tot (Tijd in UTC)"
+Remove,Verwijderen
+quantity,Aantal
+Price,Prijs
+"id product","Product ID"
+select,selecteren
+"Product name",Productnaam
+Types,Types

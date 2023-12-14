@@ -1,0 +1,59 @@
+"Overview of Orders","Aperçu des commandes"
+"List of Orders","Liste des commandes"
+"My Orders","Mes commandes"
+"Order Reference","Référence de commande"
+"Marketplace Order Reference","Référence de commande sur la place de marché"
+Created,Créé
+Customer,Client
+Email,Email
+"Order State","État de la commande"
+"Grand Total","Total général"
+"Number of items","Nombre d'articles"
+Actions,Actions
+View,View
+"Merchant Order Overview","Aperçu de la commande du commerçant"
+Reference,Référence
+Name,Nom
+"Previous orders count","Nombre de commandes précédentes"
+"Billing address","Adresse de facturation"
+"Merchant Order Reference","Référence de la commande du commerçant"
+"Order date","Date de la commande"
+Totals,Totals
+Option,Option
+Subtotal,Subtotal
+Discount,Discount
+"Cancelled amount","Cancelled amount"
+"GRAND TOTAL","GRAND TOTAL"
+"Total taxes","Total taxes"
+"Remuneration total","Remuneration total"
+"Merchant order doesn't exist.","Merchant order doesn't exist."
+Shipment,Shipment
+of,de
+"Delivery Address","Adresse de livraison"
+"Delivery Method","Mode de livraison"
+"Shipping Method","Mode d'expédition"
+"Shipping Costs","Frais de livraison"
+"Request delivery date","Demander une date de livraison"
+"Trigger all matching states of order inside this shipment","Déclencher tous les états correspondants de la commande dans cette expédition"
+"Merchant Order Items","Articles de commande du commerçant"
+Product,Produit
+Quantity,Quantité
+"Unit Price","Prix unitaire"
+"Item total","Total de l'article"
+State,État
+"Trigger event","Déclencher l'événement"
+"Variant Details","Détails de la variante"
+"Show less","Afficher moins"
+"Show more","Afficher plus"
+"incl. %tax_amount% % tax","incl. %tax_amount% % taxe"
+"Show history","Afficher l'historique"
+"Hide history","Masquer l'historique"
+Sku,SKU
+"Shipment has been successfully created.","L'expédition a été créée avec succès."
+"Shipment has not been created.","L'expédition n'a pas été créée."
+"Merchant sales order #%d not found.","Commande de vente du commerçant #%d introuvable."
+"Shipment has been successfully updated.","L'expédition a été mise à jour avec succès."
+"Shipment has not been updated.","L'expédition n'a pas été mise à jour."
+"Shipment #%d not found.","Expédition #%d introuvable."
+"New Shipment for Order: %idMerchantSalesOrder%","Nouvelle expédition pour la commande : %idMerchantSalesOrder%"
+"Back to Orders","Retour aux commandes"

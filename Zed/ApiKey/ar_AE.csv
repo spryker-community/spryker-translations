@@ -1,0 +1,6 @@
+"The provided key name `%s` is not in valid format. It should only contain letters (a-z) and digits (0-9). Example: `YourExample123`.","الاسم المقدم للمفتاح `%s` غير صالح. يجب أن يحتوي فقط على الحروف (a-z) والأرقام (0-9). مثال: `YourExample123`."
+"Entity with ID `%d` was not found in the database.","الكيان بالمعرف `%d` غير موجود في قاعدة البيانات."
+"The key name is not provided.","اسم المفتاح غير مزود."
+"The provided key name `%s` is duplicated. Use another one and try again.","الاسم المقدم للمفتاح `%s` مكرر. استخدم اسمًا آخر وحاول مرة أخرى."
+"Created at","تم الإنشاء في"
+"The provided `valid to` date `%s` already expired. Use another one and try again.","تاريخ `الصلاحية حتى` المقدم `%s` قد انتهى بالفعل. استخدم تاريخًا آخر وحاول مرة أخرى."

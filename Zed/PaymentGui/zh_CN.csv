@@ -1,0 +1,24 @@
+Actions,操作
+Active,活跃
+"Available in Store",商店有货
+"Available in the following store(s)",以下商店有货
+Configuration,配置
+Edit,编辑
+"Edit Payment Method: %s",编辑付款方式：%s
+Inactive,不活跃
+"Is the Payment Method active?",付款方式是否激活？
+"Is this payment method active?",此付款方式是否激活？
+"List Payment Methods",付款方式列表
+Name,名称
+"Payment Method Key",付款方式键
+"Payment method not found",找不到付款方式
+"Payment Methods",付款方式
+"Payment Provider",付款提供商
+Provider,提供商
+Save,保存
+Status,状态
+"Store relation",商店关联
+View,查看
+"View Payment Method: %s",查看付款方式：%s
+"Payment method has been successfully updated",付款方式已成功更新
+"Payment Management",付款管理

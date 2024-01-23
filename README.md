@@ -40,7 +40,7 @@ Spryker OS is initially equipped with English (US) and German (Germany) translat
 * Spanish (Spain) - es_ES
 
 > [!NOTE]
-> This repository may contain translations powered by AI.
+> The initial version of these translations are created by AI. By releasing these to our community on GitHub and accepting PRs, we aim to improve this AI-generated baseline further with YOUR contributions!
 >
 > Try it yourself for generating your customer-specific project translations to any language by installing the [Spryker Community Toolkit](https://github.com/spryker-community/spryker-toolkit).
 

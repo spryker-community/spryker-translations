@@ -1,7 +1,9 @@
 {
     "name": "spryker-community/spryker-translations",
-    "description": "Translations for Spryker OS",
+    "description": "Translations for Spryker Cloud Commerce OS",
     "type": "library",
+    "keywords": ["spryker", "translations"],
+    "homepage": "https://github.com/spryker-community/spryker-translations",
     "license": "MIT",
     "require": {},
     "config": {

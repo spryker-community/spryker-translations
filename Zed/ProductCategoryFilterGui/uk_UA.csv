@@ -1,0 +1,18 @@
+"Active filters","Активні фільтри"
+Add,Додати
+"Category Filters for","Фільтри категорій для"
+"Category Id","Ідентифікатор категорії"
+"Category tree","Дерево категорій"
+"Filters for Category ""%s"" were updated successfully.","Фільтри для категорії ""%s"" були успішно оновлені."
+"Inactive filters","Неактивні фільтри"
+"Overview of Category Filters","Огляд фільтрів категорій"
+"Remove all","Видалити все"
+"Reset to global settings","Скинути до глобальних налаштувань"
+"Root nodes list","Список кореневих вузлів"
+Save,Зберегти
+Search,Пошук
+"There are no manual filter preferences defined for this category. The filters listed below are global settings. To define manual references for this category, modify the filters below.","У цій категорії не визначено жодних власних налаштувань фільтрів. Нижче наведені фільтри є глобальними налаштуваннями. Щоб визначити власні налаштування для цієї категорії, змініть наведені нижче фільтри."
+"Type first three letters of an existing filter key for suggestions.","Введіть перші три літери існуючого ключа фільтра для отримання пропозицій."
+"Filters for Category ""%s"" cannot be saved. Invalid filter(s) provided.","Фільтри для категорії ""%s"" не можуть бути збережені. Надано недійсні фільтри."
+Submit,Надіслати
+"Please select a store to see the category filters:","Будь ласка, виберіть магазин, щоб побачити фільтри категорій:"

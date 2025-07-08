@@ -1,0 +1,20 @@
+Administration,Адміністрування
+"Manage Stores","Керування магазинами"
+Name,Ім'я
+"Store ID","Ідентифікатор магазину"
+Stores,Магазини
+"Stores (Multi-store per Zed feature is disabled)","Магазини (Функція багатомагазинності на один Zed вимкнена)"
+"Create Store","Створити магазин"
+"Back to Stores","Повернутися до магазинів"
+"Edit Store","Редагувати магазин"
+"View Store","Переглянути магазин"
+Actions,Дії
+Locales,Локалізація
+Currencies,Валюти
+"Store created successfully","Магазин успішно створено"
+"Store updated successfully","Магазин успішно оновлено"
+"Store with id `%s` does not exist","Магазин з ідентифікатором `%s` не існує"
+Store,Магазин
+"Store: %s","Магазин: %s"
+Important,Важливо
+"Store Name is not editable after creation. Store is not deletable after creation, please refer to Spryker documentation.","Ім'я магазину не можна змінити після створення. Магазин не можна видалити після створення, будь ласка, зверніться до документації Spryker."

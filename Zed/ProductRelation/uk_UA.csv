@@ -1,0 +1,34 @@
+"Abstract product name","Абстрактна назва товару"
+"Abstract product name:","Абстрактна назва товару:"
+Activate,Активувати
+"Add Product Relations","Додати товарні відносини"
+"Assign related products","Призначити пов'язані товари"
+"Create relation","Створити зв'язок"
+Deactivate,Деактивувати
+Edit,Редагувати
+"Edit Product Relations","Редагувати зв'язки продуктів"
+"Failed to delete relation.","Не вдалося видалити зв'язок."
+"Is active:",Активний:
+"List Product relations","Список товарних відносин"
+"Number of products","Кількість товарів"
+"Please select product from the list below","Будь ласка, виберіть продукт зі списку нижче"
+"Product relation successfully created","Відношення продукту успішно створено"
+"Product relation successfully modified","Відношення продукту успішно змінено"
+"Product relation with id ""%d"" not found.","Зв'язок продукту з ідентифікатором ""%d"" не знайдено."
+"Related products","Пов'язані товари"
+related-products,"Пов'язані товари"
+"Relation successfully activated.","Відношення успішно активовано."
+"Relation successfully deactivated.","Відношення успішно деактивовано."
+"Relation successfully deleted.","Відношення успішно видалено."
+"Relation type","Тип відношення"
+"Relation type:","Тип зв'язку:"
+Save,Зберегти
+Select,Вибрати
+"Select product","Виберіть продукт"
+"Selected product","Обраний продукт"
+"Selected product already has ""%s"" relation type.","Вибраний продукт вже має тип відношення ""%s""."
+Sku:,Артикул:
+up-selling,"Збільшення продажів"
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.","Оновлюйте регулярно: Якщо ви вибрали цей параметр, це товарне відношення буде автоматично оновлюватися на регулярній основі відповідно до умов відношення."
+"View in Shop","Переглянути в магазині"
+"View relations","Переглянути зв'язки"

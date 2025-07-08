@@ -1,0 +1,19 @@
+"Edit Global threshold","Змінити глобальний поріг"
+"Edit Threshold Settings","Змінити налаштування порогу"
+"Global threshold","Глобальний поріг"
+"Minimum Hard Threshold","Мінімальний жорсткий поріг"
+"Maximum Hard Threshold","Максимальний жорсткий поріг"
+"Minimum Order Value settings saved.","Мінімальні налаштування вартості замовлення збережено."
+Save,Зберегти
+"Soft Threshold","М'який поріг"
+"The Global Threshold is saved successfully.","Глобальний поріг успішно збережено."
+"Threshold Settings","Налаштування порогу"
+Threshold,Поріг
+"You can use the the placeholders <b>{{threshold}}</b> <b>{{fee}}</b>","Ви можете використовувати заповнювачі <b>{{threshold}}</b> <b>{{fee}}</b>"
+"You can use the placeholders <code>{{threshold}}</code> and <code>{{fee}}</code>","Ви можете використовувати заповнювачі <code>{{threshold}}</code> та <code>{{fee}}</code>"
+"The Global Thresholds is saved successfully.","Глобальні порогові значення успішно збережено."
+"Store and Currency","Магазин та Валюта"
+"Enter threshold value","Введіть порогове значення"
+"Threshold settings","Налаштування порогу"
+Soft,М'який
+Hard,Важко

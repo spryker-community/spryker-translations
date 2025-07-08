@@ -1,0 +1,24 @@
+content_product.template.slider,"Інформація про категорію товарів"
+content_product.template.slider_with_button,"Інформація про категорію товару та кнопка"
+content_product.template.slider_not_include_group,"Інформація про категорію товарів без Груп товарів"
+"Abstract Product List","Абстрактний список продуктів"
+Actions,Дії
+Active,Активний
+"Add more products","Додати більше товарів"
+"Add to list","Додати до списку"
+content_product_abstract_list.template.bottom-title,"Нижній заголовок"
+content_product_abstract_list.template.default,Стандартний
+content_product_abstract_list.template.top-title,"Найголовніше заголовок"
+Delete,Видалити
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+Image,Зображення
+Inactive,Неактивний
+"Move Down","Змістити вниз"
+"Move Up","Піднятися вгору"
+Name,Ім'я
+Selected,Обрано
+SKU,Артикул
+Status,Статус
+Stores,Магазини

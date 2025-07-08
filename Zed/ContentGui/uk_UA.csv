@@ -1,0 +1,31 @@
+"Add Content Item","Додати елемент вмісту"
+"Back to Content Items","Повернутися до елементів вмісту"
+Cancel,Скасувати
+"Content Item","Елемент вмісту"
+"Content Item ID","Ідентифікатор вмісту"
+"Content Item Key","Ключ вмісту елемента"
+"Content Items","Елементи вмісту"
+"Content Type","Тип вмісту"
+"Create Content Item","Створити елемент вмісту"
+Default,Стандартний
+"Edit Content Item","Редагувати елемент вмісту"
+"Edit Widget","Змінити віджет"
+Insert,Вставити
+"Insert a Content Item","Додати елемент вмісту"
+"Invalid data provided","Надано недійсні дані"
+"List of Content Items","Список елементів вмісту"
+Name,Ім'я
+"Overview of Content Items","Огляд елементів вмісту"
+"Overwrite default by specifying a different list per specific locale","Перезапишіть типовий вміст, вказавши різні елементи контенту для кожної конкретної локалізації"
+"Overwrite default by specifying different content elements per specific locale","Перезапишіть типовий вміст, вказавши різні елементи контенту для кожної конкретної локалізації"
+"Please select a content item","Будь ласка, оберіть елемент вмісту"
+"Please select a template","Будь ласка, оберіть шаблон"
+Save,Зберегти
+"Select a content item","Виберіть елемент вмісту"
+"Select a template","Виберіть шаблон"
+Updated,Оновлено
+"Content item has been successfully created.","Елемент вмісту було успішно створено."
+"Content item has been successfully updated.","Елемент контенту було успішно оновлено."
+"Stock successfully updated","Запас успішно оновлено."
+"Move Up","Піднятися вгору"
+"Move Down","Змістити вниз"

@@ -1,0 +1,62 @@
+Action,Дія
+"Add Group","Додати групу"
+"Add new Role","Додати нову роль"
+"Add Rule","Додати правило"
+"Assigned groups","Призначені групи"
+"Assigned Roles","Призначені ролі"
+"Assigned Rules","Призначені правила"
+Bundle,Набір
+Controller,Контролер
+"Could not modify root role node!","Вам заборонено редагувати кореневу роль."
+Create,Створити
+"Create Group","Створити групу"
+"Create new Role","Створити нову роль"
+"Create Role","Створити роль"
+"Current password","Поточний пароль"
+"Edit Group","Редагувати групу"
+"Failed to add Rule.","Не вдалося додати правило."
+"Failed to remove rule","Не вдалося видалити правило"
+"Group couldn't be found","Групу не вдалося знайти"
+"Group name already in use","Назва групи вже використовується"
+"Group was created successfully.","Групу успішно створено."
+"Group was updated successfully.","Групу успішно оновлено."
+"Interface language","Мова інтерфейсу"
+"List Groups","Групи списків"
+"List Roles","Список ролей"
+"Missing role id!","Відсутній ідентифікатор ролі!"
+"Missing rule id!","Відсутній ідентифікатор правила!"
+"No roles","Немає ролей"
+Permission,Дозвіл
+Role,Роль
+"Role ""%s"" successfully added.","Роль ""%s"" успішно додана."
+"Role ""%s"" successfully updated.","Роль ""%s"" успішно оновлена."
+"Role couldn't be found","Роль не може бути знайдена"
+"Role list","Список ролей"
+"Role name","Назва ролі"
+"Role was successfully removed.","Роль успішно видалено."
+Roles,Ролі
+roles,Ролі
+"Root group","Коренева група"
+Rule,Правило
+"Rule successfully added.","Правило успішно додано."
+Save,Зберегти
+"Select value","Виберіть значення"
+"The password fields must match.","Поля для паролів повинні співпадати."
+"The User was removed from the group.","Користувача було видалено з групи."
+"This action requires a DELETE request.","Ця дія потребує запиту DELETE."
+"This user is an agent","Цей користувач є агентом"
+"Unable to delete because role has groups assigned.","Неможливо видалити, оскільки роль має призначені групи."
+"Update ""%s"" Role","Оновити роль ""%s"""
+"User and group are not found.","Користувача та групу не знайдено."
+"User was activated successfully.","Користувач був успішно активований."
+"User was deactivated successfully.","Користувач був успішно деактивований."
+"User was deleted successfully.","Користувача успішно видалено."
+"User was updated successfully.","Користувача успішно оновлено."
+Users,Користувачі
+"Users Control","Керування користувачами"
+Groups,Групи
+allow,дозволити
+deny,відмовити
+"Edit Role","Редагувати роль"
+"Created At","Створено о %"
+"Create new Group","Створити нову групу"

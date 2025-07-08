@@ -1,0 +1,61 @@
+adjacency,сусідство
+"Adjacency Matrix","Матриця суміжності"
+Application,Додаток
+"Architecture Sniffer","Архітектурний детектор"
+"Architecture sniffer results","Результати архітектурного аналізатора"
+Back,Назад
+"Check for violations","Перевірте порушення"
+"Composer dependencies","Залежності композитора"
+"Composer dev only dependencies","Залежності для розробника композитора лише для розробки"
+"Core module","Основний модуль"
+Count,Кількість
+"Declared in composer.json","Оголошено в composer.json"
+"Declared in composer.json (dev)","Оголошено в composer.json (dev)"
+Dependency,Залежність
+Dependencies,Залежності
+"Dependency graphs of all core modules","Графи залежностей всіх основних модулів"
+detailed,детальний
+"Dev only dependencies","Залежності тільки для розробників"
+Development,Розвиток
+"Display all architecture rules","Показати всі правила архітектури"
+"Download CSV","Завантажити CSV"
+"Found in src","Знайдено в src"
+"Found in test","Знайдено в тесті"
+From,"З\n###"
+in,в
+"in src","у джерелі"
+"in tests","у тестах"
+Incoming,Вхідний
+"Incoming dependencies of the","Вхідні залежності від"
+"Indirect Incoming","Прихідні операції"
+"Indirect Outgoing","Непрямі вихідні"
+"Indirect Stability","Непряма стабільність"
+"List all used plugins","Перелік усіх використовуваних плагінів"
+module,модуль
+Module,модуль
+"Module name","Назва модуля"
+"Module overview","Огляд модуля"
+Namespace,"Простір імен"
+"No architecture violations detected","Не виявлено порушень архітектури."
+"No plugins used in this Module","У цьому модулі не використовуються жодні плагіни"
+out,вийти
+Outgoing,Вихідний
+"Outgoing dependencies of the","Вихідні залежності від"
+"Plugins used in Projects DependencyProvider","Плагіни, використані в DependencyProvider проектах"
+Priority:,Пріоритет:
+"Project module","Модуль проекту"
+Reload,Перезавантажити
+require,вимагати
+require-dev,"require-dev\n###"
+"show all used plugins","показати всі використані плагіни"
+"Simple Dependency Graph","Простий граф залежностей"
+"Spryker Stability","Стабільність Spryker"
+Stability,Стабільність
+"Stability is calculated by ""incoming dependencies / ( incoming dependencies + outgoing dependencies )"" the result will be between 0 (stable) and 1 (unstable)","Стабільність розраховується за формулою ""вхідні залежності / (вхідні залежності + вихідні залежності)"", результат буде між 0 (стабільний) та 1 (нестабільний)"
+"Stability of all core modules","Стабільність всіх основних модулів"
+"Suggested dependencies","Рекомендовані залежності"
+SUM,СУМ
+To,До
+"Used Plugins","Використані плагіни"
+"You must specify a bundle for which the graph should be build","Ви повинні вказати пакет, для якого потрібно побудувати графік"
+"You need to run ""vendor/bin/console dev:dependency:build-tree"" to calculate stability for all bundles.","Вам потрібно запустити ""vendor/bin/console dev:dependency:build-tree"", щоб розрахувати стабільність для всіх пакетів."

@@ -1,0 +1,108 @@
+Activate,Активувати
+Active,Активний
+"Add General Information","Додати загальну інформацію"
+"Add image","Додати зображення"
+"Add image set","Додати набір зображень"
+"Add Product Concrete","Додати продукт Бетон"
+"Add Variant","Додати варіант"
+"Assigned products","Призначені продукти"
+Attributes,Атрибути
+"Available in stores","Доступно в магазинах"
+"Below are the product variants listed. Each variant may be edited independent from the others.","Нижче наведено перелік варіантів продукту. Кожен варіант може бути відредагований незалежно від інших."
+"Below the name and description for your product can be edited for different locales (in different languages).","Нижче можна редагувати назву та опис вашого товару для різних локалей (на різних мовах)."
+"Below you can choose between your predefined tax sets and edit the price of your product.","Нижче ви можете вибрати між вашими попередньо визначеними наборами податків та відредагувати ціну вашого товару."
+"Bundle availability based on assigned products:","Наявність пакета на основі призначених продуктів:"
+Categories,Категорії
+"CMS Block list","Список блоків CMS"
+"Configurable Product Attributes","Налаштовувані атрибути продукту"
+"Contains bundles","Містить пакети"
+"Create a Product","Створити продукт"
+"Create Bundle Product","Створити зібрану продукцію"
+"Create Product","Створити продукт"
+Deactivate,Деактивувати
+Deactivated,Деактивовано
+Default,Стандартний
+"Delete image","Видалити зображення"
+"Delete image set","Видалити набір зображень"
+Edit,Редагувати
+"Edit Product Abstract","Редагувати абстрактний опис продукту"
+"Edit Product Concrete","Редагувати продукт Бетон"
+"Enter price.","Введіть ціну."
+"Enter stock value. In case you create multiple variants, the stock can be managed under ""Product Variants"" and this input field will be ignored.","Введіть значення запасу. У разі створення кількох варіантів запас може бути керований в розділі ""Варіанти продукту"", і це поле введення буде ігноруватися."
+General,Загальне
+"Gross price","Валова ціна"
+"Image Set","Набір зображень"
+"Image Sets","Набори зображень"
+Large,Великий
+"List Products","Список продуктів"
+"Manage Attributes","Керування атрибутами"
+"Merchant Price Dimension","Розмір ціни від продавця"
+"Multiple images can be grouped to an image set. An image set has a name for identification and may contain a small and a large version of each image","Декілька зображень можуть бути об'єднані в набір зображень. Набір зображень має назву для ідентифікації і може містити маленьку та велику версії кожного зображення."
+n/a,n/a
+"Net price","Чиста ціна"
+"Never out of stock","Ніколи не закінчується на складі"
+"No categories found.","Категорії не знайдено."
+"No records","Немає записів"
+"Note: Deactivated product variants are not available in the shop anymore.","Зауваження: Деактивовані варіанти товарів більше не доступні в магазині."
+"Note: Image sets can be used for different purposes such as being displayed in the catalog or the product detail page or elsewhere.","Зауваження: Набори зображень можуть бути використані для різних цілей, таких як відображення в каталозі, на сторінці деталей продукту або в інших місцях."
+"Note: Meta data are snippets of text describing a page’s content. The meta data appear only in the page’s code, not in its content.","Зауваження: Мета-дані - це уривки тексту, що описують вміст сторінки. Мета-дані з'являються лише в коді сторінки, а не в її вмісті."
+"Note: The price that you edit here is only displayed in the shop catalog and the product detail page for the non configured product (Not product variant)","Зауваження: Ціна, яку ви редагуєте тут, відображається лише в каталозі магазину та на сторінці деталей продукту для неконфігурованого продукту (не варіант продукту)"
+"Note: The SKU is not editable after saving anymore.","Зауваження: SKU більше не можна редагувати після збереження."
+"Note: The SKU prefix, just like the SKUs of your product variants, are not editable after saving anymore.","Зауваження: Префікс артикулу SKU, так само як і артикули ваших варіантів продуктів, більше не можна редагувати після збереження."
+"Price & Tax","Ціна та податок"
+"Price & Taxes","Ціна та податки"
+"Product bundle does not have variants!","Набір продуктів не має варіантів!"
+"Product Group ID","Ідентифікатор групи товарів"
+"Product Groups","Групи товарів"
+"Product has been activated.","Продукт було активовано."
+"Product has been deactivated.","Продукт було деактивовано."
+"Product ID","Ідентифікатор продукту"
+"Product Image(s)","Зображення товару"
+"Product type","Тип продукту"
+"Product variants","Варіанти продукту"
+Quantity,Кількість
+Save,Зберегти
+"Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a web search engine's unpaid results — often referred to as ""natural,"" ""organic,"" or ""earned"" results.","Оптимізація для пошукових систем (SEO) - це процес впливу на видимість веб-сайту або веб-сторінки в неоплачених результатах пошукової системи, які часто називаються ""натуральними"", ""органічними"" або ""заробленими"" результатами."
+"Select attributes and corresponding values.","Виберіть атрибути та відповідні значення."
+"SEO (Meta Information)","SEO (Мета-інформація)"
+Small,Малий
+"Stock Type","Тип товару"
+"Store relation","Зв'язок магазину"
+"Tax Set","Податковий набір"
+"The product [%s] does not exist.","Продукту [%s] не існує."
+"The product [%s] was saved successfully.","Продукт [%s] було успішно збережено."
+"The product [%s] you are trying to edit, does not exist.","Продукт [%s], який ви намагаєтеся відредагувати, не існує."
+"There is no super attribute defined. <a href=""%url%"">Define super attributes</a> in order to be able to create variants.","Не визначено жодного суператрибуту. <a href=""%url%"">Визначте суператрибути</a>, щоб мати змогу створювати варіанти."
+Type,Тип
+Variants,Варіанти
+"View Product Abstract","Переглянути абстрактний продукт"
+"View Product Concrete","Переглянути продукт Бетон"
+Product,Продукт
+Products,Продукти
+Availability,Наявність
+"New from",Новинки
+"New to",Новинки
+"At least one price should be specified","Принаймні одну ціну слід вказати"
+"Please enter at least an SKU and a Name of the product in every locale in the General section","Будь ласка, введіть принаймні артикул та назву продукту в кожній локалізації в розділі Загальне"
+"The product [%s] was added successfully.","Продукт [%s] було успішно додано."
+Images,Зображення
+"Add Volume Price","Додати цінову категорію"
+"Is bundle","Це пакунок"
+"View Concrete Product","Переглянути бетонний продукт"
+"Edit Concrete Product","Редагувати конкретний продукт"
+"Super attributes","Супер атрибути"
+"Valid from","Дійсно з"
+"Valid to","Дійсно до"
+Searchable,Пошуковий
+Stock,Наявність
+"Sort order","Порядок сортування"
+"Assign bundled products","Призначити пакетовані продукти"
+"Valid From (Time in UTC)","Дійсно з (час в UTC)"
+"Valid To (Time in UTC)","Дійсно до (час за UTC)"
+Remove,Видалити
+quantity,Кількість
+Price,Ціна
+"id product","Ідентифікатор продукту"
+select,вибрати
+"Product name","Назва товару"
+Types,Типи

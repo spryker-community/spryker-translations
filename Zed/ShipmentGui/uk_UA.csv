@@ -1,0 +1,80 @@
+Actions,Дії
+"Are you sure about deleting this delivery method?","Ви впевнені, що хочете видалити цей спосіб доставки?"
+"Availability plugin","Плагін доступності"
+"Available in Store","Доступно в магазині"
+Carrier,Перевізник
+"Carrier Company","Перевізникова компанія"
+"Carrier was created successfully.","Перевізник був успішно створений."
+"Carrier with the same name already exists.","Перевізник з такою назвою вже існує."
+Configuration,Конфігурація
+"Create Delivery Method","Створити спосіб доставки"
+"Create new carrier company","Створити нову транспортну компанію"
+"Create new delivery method","Створити новий спосіб доставки"
+Delete,Видалити
+"Delete Delivery Method","Видалити спосіб доставки"
+"Delete Delivery Method: %s","Видалити спосіб доставки: %s"
+"Delivery Method Key","Ключ методу доставки"
+"Delivery method not found.","Спосіб доставки не знайдено."
+"Delivery method was deleted successfully.","Спосіб доставки було успішно видалено."
+"Delivery Methods","Способи доставки"
+"Delivery Time plugin","Плагін часу доставки"
+Edit,Редагувати
+"Edit Delivery Method: %s","Редагувати спосіб доставки: %s"
+Enabled?,Увімкнено?
+"Is this delivery method active?","Чи активний цей спосіб доставки?"
+"List of delivery methods","Список способів доставки"
+"List Shipment Methods","Список методів доставки"
+"Method Name",Ім'я
+Name,Ім'я
+"New address","Нова адреса"
+"No, I want to keep this delivery method","Ні, я хочу залишити цей спосіб доставки"
+None,"###Text:
+ Нічого"
+"Price & Tax","Ціна та податок"
+"Price plugin","Плагін ціни"
+Save,Зберегти
+"Select one","Виберіть один"
+"Shipment method has been successfully saved","Спосіб доставки успішно збережено"
+"Shipment method has been successfully updated","Спосіб доставки успішно оновлено"
+"Shipment method is not found","Метод доставки не знайдено"
+"Shipment method not found","Спосіб доставки не знайдено"
+"Shipment n° %shipmentNumber%","Відправка № %shipmentNumber%"
+Status,Статус
+"Store relation","Зв'язок магазину"
+"Store Relation","Зв'язок магазину"
+"Tax set","Податковий набір"
+"This name is already in use.","Це ім'я вже використовується."
+"This shipment method key is already in use.","Цей ключ методу доставки вже використовується."
+View,Переглянути
+"View Delivery Method: %s","Переглянути спосіб доставки: %s"
+"Yes, delete this delivery method","Так, видалити цей спосіб доставки"
+"Trigger all matching states of order inside this shipment","Активуйте всі відповідні стани замовлення в цій відправці"
+Shipment,Доставка
+of,значення
+"Delivery Address","Адреса доставки"
+"Delivery Method","Спосіб доставки"
+"Request delivery date","Запит на дату доставки"
+"Shipping Method","Спосіб доставки"
+Shipments,Доставка
+"Available in the following store(s)","Доступно в наступних магазинах"
+"Is active",Активний
+"Add Carrier Company","Додати перевізника"
+"Create Shipment","Створити відправлення"
+"Edit Shipment","Редагувати Відправлення"
+"New Shipment for Order: %idSalesOrder%","Нова поставка для замовлення: %idSalesOrder%"
+"Address 1","Адреса 1"
+"Address 2","Адреса 2"
+"ZIP code","Поштовий індекс"
+Cellphone,"Мобільний телефон"
+"Shipment method","Спосіб доставки"
+"Requested delivery date","Бажана дата доставки"
+"Order items inside this shipment","Елементи замовлення у цій відправці"
+"Current shipment","Поточна відправка"
+"Please fill out this field.","Будь ласка, заповніть це поле."
+"Please select an item in the list.","Будь ласка, оберіть елемент у списку."
+-select-,-виберіть-
+"Shipment has been successfully created.","Відправлення було успішно створено."
+"Edit Shipment for Order: N%idSalesOrder%","Редагувати доставку для замовлення: N%idSalesOrder%"
+"Shipment has been successfully edited.","Відправлення було успішно відредаговане."
+"Item total",Загалом
+"Shipping Costs","Вартість доставки"

@@ -1,0 +1,15 @@
+Approve,Підтвердити
+"Change status","Змінити статус"
+"List of product reviews","Список відгуків про продукт"
+Nickname,"Ім'я користувача"
+"Overview of Product Reviews","Огляд відгуків про продукт"
+"Product Reviews","Відгуки про товари"
+Reject,Відхилити
+Pending,Очікується
+Rejected,Відхилено
+"Product Review #%id% deleted successfully.","Відгук про продукт #%id% успішно видалено."
+Date,Дата
+"Product name","Назва товару"
+Rating,Рейтинг
+"CSRF token is not valid.","CSRF токен недійсний."
+Guest,Гість

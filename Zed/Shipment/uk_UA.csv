@@ -1,0 +1,23 @@
+Add,Додати
+"Add new Carrier Company","Додати нову транспортну компанію"
+"Add new Shipment Method","Додати новий метод доставки"
+"Availability plugin","Плагін доступності"
+Carrier,Перевізник
+"Carrier was created successfully.","Перевізник був успішно створений."
+"Carrier with the same name already exists.","Перевізник з такою назвою вже існує."
+"Create new Shipment Carrier","Створити нового перевізника відвантаження"
+"Delivery time plugin","Плагін часу доставки"
+"Edit Shipment Method","Редагувати спосіб доставки"
+Enabled?,Активувати
+"List Shipment Methods","Список методів доставки"
+Method,Метод
+"New Shipment Method","Новий метод доставки"
+Price,Ціна
+"Price plugin","Плагін ціни"
+Save,Зберегти
+"Select one","Виберіть один"
+"Shipment Method","Спосіб доставки"
+"Shipment method ""%s"" was created successfully.","Спосіб доставки ""%s"" був успішно створений."
+"Shipment method ""%s"" was updated successfully.","Спосіб доставки ""%s"" було успішно оновлено."
+"Shipment method with such name already exists for selected shipment provider.","Метод доставки з такою назвою вже існує для обраного постачальника доставки."
+"Shipment Methods","Способи доставки"

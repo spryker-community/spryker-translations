@@ -1,0 +1,37 @@
+"Back to Orders","Повернутися до Замовлень"
+"Back to Reclamatinos","Повернутися до Рекламацій"
+"Can not create reclamation","Не вдається створити рекламацію"
+"Canceled amount","Скасована сума"
+"Create connected order","Створити зв'язане замовлення"
+"Create reclamation","Створити заявку на повернення"
+Created,Створено
+Discount,Знижка
+"GRAND TOTAL","Загальна сума"
+"Included tax amount","Сума включеного податку"
+"Item total","Загальна сума товарів"
+"List of Reclamations","Список претензій"
+"No order items provided","Не надано жодних товарів для замовлення"
+"No reclamation with given id %s","Немає претензії з вказаним ідентифікатором %s"
+Option,Варіант
+Order,Замовлення
+"Order id","Ідентифікатор замовлення"
+"OrderItem with id %s not belong to order %s","Елемент замовлення з ідентифікатором %s не належить до замовлення %s"
+"Overview of reclamation:","Огляд відновлення:"
+"Overview of reclamations","Огляд претензій"
+Product,Продукт
+"Reclamation id:%s for order %s sucessfully created","Заявка на повернення id:%s для замовлення %s успішно створена"
+"Reclamation item refunded","Повернення товару за рекламацією"
+"Reclamation item with id %s not exists","Предмет відновлення з ідентифікатором %s не існує"
+"Reclamation state","Стан відновлення"
+"Reclamation with id %s closed","Рекламацію з ідентифікатором %s закрито"
+"Reclamation with id %s not exists","Повернення з ідентифікатором %s не існує"
+"Reclamation with id %s not own this item %s","Повернення з ідентифікатором %s не належить цьому товару %s"
+Shipment,Доставка
+"Show less","Показати менше"
+"Show more","Показати більше"
+Sku,Артикул
+State,Стан
+"Sub total",Підсумок
+Total,Загалом
+"Unit Price","Ціна за одиницю"
+"Variant Details","Деталі варіанту"

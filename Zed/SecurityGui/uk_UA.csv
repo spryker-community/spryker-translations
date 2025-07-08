@@ -1,0 +1,13 @@
+"Forgot password?","Забули пароль?"
+Login,Увійти
+Reset,Скинути
+"Email Address","Адреса електронної пошти"
+"Request token is missing!","Відсутній токен запиту!"
+"Invalid request token!","Недійсний токен запиту!"
+"Password updated.","Пароль оновлено."
+"Could not update password.","Не вдалося оновити пароль."
+Password,Пароль
+"The password fields must match.","Поля для паролів повинні співпадати."
+"Repeat Password","Повторіть пароль"
+"Recover password","Відновлення паролю"
+"If there is an account associated with this email, you will receive an Email with further instructions.","Якщо існує обліковий запис, пов'язаний з цією електронною поштою, ви отримаєте електронного листа з подальшими інструкціями."

@@ -1,0 +1,10 @@
+Amount,Кількість
+"Payment method","Спосіб оплати"
+"Payment provider","Платіжний провайдер"
+"Payment method key ""%paymentMethodKey%"" used more then once among requested entities.","Ключ способу оплати ""%paymentMethodKey%"" використовується більше одного разу серед запитаних сутностей."
+"Payment method name ""%paymentMethodName%"" used more then once among requested entities.","Назва способу оплати ""%paymentMethodName%"" використовується більше одного разу серед запитаних сутностей."
+"Payment provider with key ""%paymentProviderKey%"" already exists.","Платіжний провайдер з ключем ""%paymentProviderKey%"" вже існує."
+"Payment method with key ""%paymentMethodKey%"" already exists.","Спосіб оплати з ключем ""%paymentMethodKey%"" вже існує."
+"Payment provider key ""%paymentProviderKey%"" used more then once among requested entities.","Ключ постачальника платежів ""%paymentProviderKey%"" використовується більше одного разу серед запитаних сутностей."
+"Payment provider name ""%paymentProviderName%"" used more then once among requested entities.","Ім'я провайдера платежів ""%paymentProviderName%"" використовується більше одного разу серед запитаних сутностей."
+"Payment provider with id ""%paymentProviderId%"" is unknown.","Платіжний провайдер з ідентифікатором ""%paymentProviderId%"" невідомий."

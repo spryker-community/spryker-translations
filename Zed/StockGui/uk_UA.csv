@@ -1,0 +1,24 @@
+Actions,Дії
+Active,Активний
+Administration,Адміністрування
+"Available in store","Доступно в магазині"
+"Available in the following store(s)","Доступно в наступних магазинах"
+Configuration,Конфігурація
+"Create Warehouse","Створити склад"
+"Edit Warehouse","Редагувати Сховище"
+Inactive,Неактивний
+"Is this warehouse available?","Цей склад доступний?"
+Name,Ім'я
+No,Ні
+Status,Статус
+"Stock not found","Товар відсутній"
+"Store relation","Зв'язок магазину"
+"Store Relation","Зв'язок магазину"
+"This name is already in use.","Це ім'я вже використовується."
+View,Переглянути
+"View Warehouse: ","Переглянути склад:"
+"Warehouse has been successfully saved","Склад було успішно збережено"
+"Warehouse has been successfully updated","Склад було успішно оновлено"
+"Warehouse ID","Ідентифікатор складу"
+Warehouses,Склади
+Yes,Так

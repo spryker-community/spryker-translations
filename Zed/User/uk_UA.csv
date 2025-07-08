@@ -1,0 +1,24 @@
+"Add New User","Додати нового користувача"
+"Add User","Додати користувача"
+"Assign Customers","Призначити клієнтів"
+Create,Створити
+"Edit User","Редагувати користувача"
+"General Information","Загальна інформація"
+"List Users","Список користувачів"
+"Repeat Password","Повторіть пароль"
+Save,Зберегти
+Update,Оновлення
+"Last Login","Останній вхід"
+"User entity was not created.","Сутність користувача не була створена."
+"User entity was not updated.","Сутність користувача не була оновлена."
+"User was not activated.","Користувач не був активований."
+"User was not deactivated.","Користувач не був деактивований."
+"User was not deleted.","Користувач не був видалений."
+User,Користувач
+"Create new User","Створити нового користувача"
+"Create user","Створити користувача"
+Warning,Увага
+"Delete User","Видалити користувача"
+"You are trying to delete user","Ви намагаєтеся видалити користувача"
+"Root group","Коренева група"
+E-mail,"Електронна пошта"

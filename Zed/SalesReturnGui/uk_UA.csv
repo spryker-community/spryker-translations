@@ -1,0 +1,58 @@
+Return,Повернутися
+"Return Reference","Повернення посилання"
+Items,Товари
+Actions,Дії
+View,Переглянути
+"Return ID","Повернення ID"
+"Order Reference","Посилання на замовлення"
+"Returned Items","Повернені товари"
+"Return Date","Дата повернення"
+"Print Slip","Друк чеку"
+"List of Returns","Список повернень"
+Returns,Повернення
+"Return Ref","Повернення та повернення коштів"
+Barcode,Штрих-код
+"Product SKU","Артикул товару"
+"Product Name","Назва товару"
+"Default Price","Стандартна ціна"
+Qty,Кількість
+"Total Price","Загальна вартість"
+"Return Reason","Причина повернення"
+Reason,Причина
+"Order Ref","Номер замовлення"
+"Return with id ""%id%"" was not found.","Повернення з ідентифікатором ""%id%"" не знайдено."
+"Items to Return","Повернення товарів"
+"Remuneration Total","Загальна винагорода"
+"Remuneration total","Загальна винагорода"
+"Custom reason","Індивідуальна причина"
+"Select reason","Виберіть причину"
+"Return has not been created.","Повернення не було створено."
+"Order with id ""%id%"" was not found.","Замовлення з ідентифікатором ""%id%"" не знайдено."
+"Return was successfully created.","Повернення було успішно створено."
+"Create Return","Створити повернення"
+"Back to Order","Повернутися до замовлення"
+"General information","Загальна інформація"
+"Order reference","Посилання на замовлення"
+"Select Items to Return","Виберіть товари для повернення"
+Product,Продукт
+Quantity,Кількість
+Price,Ціна
+"Item total","Загальна сума товарів"
+"Return Policy","Політика повернення"
+State,Стан
+"Create return","Створити повернення"
+"Requested return with ID ""%id%"" was not found.","Запитаний повернення з ID ""%id%"" не знайдено."
+"Customer reference","Посилання клієнта"
+Customer,Клієнт
+Name,Ім'я
+Email,"Електронна пошта"
+"Retured Items","Повернені товари"
+"Trigger all matching states","Активувати всі відповідні стани"
+Total,Загалом
+"Back to Returns","Повернутися до Повернень"
+"Print Return Slip","Друк повернення товару"
+"Overview of Return","Огляд повернення"
+"selected items","вибрані товари"
+of,значення
+"Item selected for return is not eligible for return anymore.","Обраний товар для повернення більше не підлягає поверненню."
+"Returned Products","Повернені товари"

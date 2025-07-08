@@ -1,0 +1,7 @@
+Reclamations,Претензії
+"Create Reclamation","Створити заявку на повернення"
+"Reclamation id:%s for order %s successfully created","Заявка на повернення ідентифікатор:%s для замовлення %s успішно створена."
+Open,Відкрити
+Closed,Закрито
+"Reclamation with id %id% closed","Рекламацію з ідентифікатором %id% закрито."
+"CSRF token is not valid.","CSRF токен недійсний."

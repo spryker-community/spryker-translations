@@ -1,0 +1,56 @@
+Activate,Активувати
+Active,Активний
+"Add image","Додати зображення"
+"Add image set","Додати набір зображень"
+"Create Product Set","Створити набір продуктів"
+Deactivate,Деактивувати
+Default,Стандартний
+"Delete image","Видалити зображення"
+"Delete image set","Видалити набір зображень"
+"Deselect All","Скасувати вибір всіх"
+"Deselected products","Не вибрані продукти"
+Edit,Редагувати
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+"Image Set","Набір зображень"
+"Image Set Name","Назва набору зображень"
+Inactive,Неактивний
+Keywords,"Ключові слова"
+"Large Image URL","Велике посилання на зображення"
+"List of Sets","Список наборів"
+Name,Ім'я
+Position,Позиція
+Preview,"Попередній перегляд"
+Price,Ціна
+"Product details","Деталі продукту"
+"Product Sets","Набори товарів"
+"Products in this Set","Продукти у цьому наборі"
+"Products to be assigned","Продукти для призначення"
+"Products to be deassigned","Продукти для відкріплення"
+"Reorder Product Sets","Повторне замовлення наборів товарів"
+Save,Зберегти
+"Select All","Вибрати все"
+"Select products to assign","Виберіть продукти для призначення"
+Selected,Обрано
+"Selected products","Обрані товари"
+SEO,"Пошукова оптимізація (SEO)"
+SKU,Артикул
+"Small Image URL","Мале посилання на зображення"
+Status,Статус
+Submit,Надіслати
+Title,Заголовок
+URL,"Url\n###\nUrl\n###"
+View,Переглянути
+Weight,Вага
+"Weight defines sorting order. Product Sets with higher numbers listed first.","Вага визначає порядок сортування. Набори товарів з більшими числами першими в списку."
+"Product Set Key","Ключ набору продуктів"
+"You need to select a minimum of 2 products.","Ви повинні вибрати мінімум 2 товари."
+Images,Зображення
+"View Product Set","Переглянути набір продуктів"
+"Product Set ""%s"" created successfully.","Набір продуктів ""%s"" успішно створено."
+"Product Set #%d activated successfully.","Набір продуктів №%d успішно активовано."
+"Product Set #%d deactivated successfully.","Набір продуктів #%d успішно деактивовано."
+"Product Set ""%s"" updated successfully.","Набір продуктів ""%s"" успішно оновлено."
+"Product Set #%d deleted successfully.","Набір продуктів #%d успішно видалено."
+"Number of Products","Кількість товарів"

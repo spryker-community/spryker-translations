@@ -1,0 +1,106 @@
+Activate,Активувати
+"Add group","Додати групу"
+"Add Random Generated Code Length","Додати випадкову довжину згенерованого коду"
+"Add rule","Додати правило"
+Amount:,Кількість:
+"Apply to query:","Застосувати до запиту:"
+"Batch Value","Партійна вартість"
+"Calculator type","Тип калькулятора"
+"Cart Rules","Правила кошика"
+Conditions,Умови
+"Could not change discount visibility.","Не вдалося змінити видимість знижки."
+"Create new discount","Створити нову знижку"
+"Create new Discount","Створити нову знижку"
+"Create voucher codes for the discount","Створіть коди купонів для знижки"
+Deactivate,Деактивувати
+"Define what to apply the discount to","Визначте, на що застосувати знижку"
+"Define when to apply the discount","Визначте, коли застосовувати знижку"
+"Delete codes","Видалити коди"
+Description,Опис
+Description:,Опис:
+"Discount calculation","Розрахунок знижки"
+"Discount collection type","Тип застосування знижки"
+"Discount List","Список знижок"
+"Discount successfully activated","Знижка успішно активована"
+"Discount successfully created, but not activated.","Знижка успішно створена, але не активована."
+"Discount successfully deactivated","Знижка успішно деактивована"
+"Discount successfully updated.","Знижка успішно оновлена."
+"Discount Type:","Тип знижки:"
+"Discount with id %s doesn't exist","Знижка з ідентифікатором %s не існує."
+"Discount with this name is already used.","Знижка з такою назвою вже використовується."
+Edit,Редагувати
+"Edit discount","Редагувати знижку"
+"Enter your custom code as a string. If selected in the next step, additional random characters are added at the end of this string. Use the placeholder [code] to indicate where you want random characters to be generated.","Введіть свій індивідуальний код у вигляді рядка. Якщо ви виберете цей варіант на наступному кроці, до цього рядка будуть додані додаткові випадкові символи. Використовуйте заповнювач [code], щоб позначити місце, де ви хочете згенерувати випадкові символи."
+Examples,Приклади
+Exclusive:,Ексклюзивно:
+Explanation,Пояснення
+Export,Експорт
+Field,Поле
+"Fill in the general discount information","Заповніть загальну інформацію про знижку"
+"General Information","Загальна інформація"
+"Generated Discount Codes","Згенеровані знижкові коди"
+"List of Discounts","Список знижок"
+"Matches all elements which have a ""width"" attribute defined, but with any ""width"" value","Збігається з усіма елементами, у яких визначено атрибут ""width"", але з будь-яким значенням ""width"""
+"Matches elements with the exact same SKU: ""SKU-1""","Елементи, які відповідають точному SKU: ""SKU-1"""
+"Max nr. of uses","Максимальна кількість використань"
+"Max number of uses (0 = Infinite usage)","Максимальна кількість використань (0 = необмежена кількість)"
+N/A,n/a
+Name,Ім'я
+Name:,Назва:
+No,Ні
+"No additional random characters","Немає додаткових випадкових символів"
+"No conditions, discount always applied.","Без умов, знижка завжди застосовується."
+"No returns for this order","Повернення не передбачено для цього замовлення"
+"No voucher codes were deleted.","Коди купонів не були видалені."
+Operation,Операція
+Overview,Огляд
+"Plain query","Простий запит"
+"Please fill all required fields.","Будь ласка, заповніть всі обов'язкові поля."
+"Query builder","Генератор запитів"
+"Query String","Рядок запиту"
+Save,Зберегти
+"Store relation:","Зв'язок магазину:"
+"Successfully deleted ""%d"" vouchers.","Успішно видалено ""%d"" купонів."
+"Summary explaining promotion. Displayed with eligible products where applicable.","Короткий опис акції. Показується разом з відповідними товарами, якщо це застосовно."
+"The discount cannot end before the starting date.","Знижка не може закінчитися раніше початкової дати."
+"This value is not a valid datetime.","Це значення не є дійсною датою і часом."
+Type:,Тип:
+"Unique, short, and descriptive. Displayed in cart calculation.","Унікальний, короткий та описовий. Показується у розрахунку кошика."
+Used,Вжитий
+"Valid from:","Дійсно з (включно):"
+"Valid From (Time in UTC)","Дійсно з (час в UTC)"
+"Valid To (Time in UTC)","Дійсно до (час за UTC)"
+"Valid until:","Дійсно до (не включно):"
+Value,Значення
+Voucher,Ваучер
+"Voucher Code","Код купона"
+Yes,Так
+"Add code","Додати код"
+Active,Активний
+Inactive,Неактивний
+"Create Discount","Створити знижку"
+"Discount Type","Тип знижки"
+"Cart rules","Правила кошика"
+"Voucher codes","Коди купонів"
+"Calculator percentage",Відсоток
+"Calculator fixed","Фіксована сума"
+"Discount application type","Тип застосування знижки"
+Delete,Видалити
+"Apply when","Застосувати, коли"
+"The discount can be applied if the query applies for at least X item(s).","Знижка може бути застосована, якщо запит стосується принаймні X одиниць товару."
+"Discount successfully activated.","Знижка успішно активована."
+"Discount successfully deactivated.","Знижка успішно деактивована."
+"Custom code","Спеціальний код"
+Generate,Створити
+"You must provide length or custom code values.","Ви повинні вказати значення довжини або власний код."
+"No available codes to generate. Select higher code length.","Немає доступних кодів для генерації. Виберіть більшу довжину коду."
+"Edit Discount","Редагувати Знижку"
+"Voucher codes successfully generated.","Коди купонів успішно створені."
+"Voucher code successfully deleted.","Код купона успішно видалено."
+"Apply to","Застосувати до"
+"CSRF token is not valid.","CSRF токен недійсний."
+"Enter an integer %min%-%max%. Discounts are calculated in sequential order, starting from %min%. The default value is %max%.","Введіть ціле число від %min% до %max%. Знижки обчислюються послідовно, починаючи з %min%. Значення за замовчуванням - %max%."
+"Invalid entry. Please enter an integer %min%-%max%","Недійсний ввід. Будь ласка, введіть ціле число від %min% до %max%"
+Priority,Пріоритет
+"Enter an integer %min%-%max%.","Введіть ціле число від %min% до %max%."
+"If you need to create different values for the same currency in different stores - please create different discounts per store.","Якщо вам потрібно створити різні значення для однієї й тієї ж валюти в різних магазинах - будь ласка, створіть різні знижки для кожного магазину."

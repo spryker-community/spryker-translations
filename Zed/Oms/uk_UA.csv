@@ -1,0 +1,10 @@
+"Add new order","Додати нове замовлення"
+Customer,Клієнт
+Oms,Омс
+"Order ID","Ідентифікатор замовлення"
+"process display","відображення процесу"
+Processes,Процеси
+"Statemachine preview","Попередній перегляд автомата станів"
+"Total Price","Загальна вартість"
+"Status change triggered successfully.","Статус змінено успішно."
+"This file format is not supported. Please use file format SVG.","Цей формат файлу не підтримується. Будь ласка, використовуйте формат файлу SVG."

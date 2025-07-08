@@ -1,0 +1,50 @@
+Activate,Активувати
+"Add option","Додати опцію"
+"All products","Усі товари"
+"Assigned products","Призначені продукти"
+"Could not activate option.","Не вдалося активувати опцію."
+"Create a product option by defining option values with translation key, sku and price. By adding more than 1 option value below, you will create an option group. With an option group your customer can choose one option from this group.","Створіть варіант продукту, визначивши значення параметра за ключем перекладу, артикулом та ціною. Додавши більше 1 значення параметра нижче, ви створите групу параметрів. З групою параметрів ваш клієнт зможе вибрати один параметр з цієї групи."
+"Create product option","Створити опцію продукту"
+"Created at","Створено о %"
+Deactivate,Деактивувати
+"Deselect all on the page","Скасувати вибір усіх на сторінці"
+Edit,Редагувати
+"Edit product option","Редагувати опцію товару"
+"General information","Загальна інформація"
+"Gross Price","Валова ціна"
+"Group name","Назва групи"
+"Group name translation key","Ключ перекладу назви групи"
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+"List of product options","Список варіантів продукту"
+Name,Ім'я
+"Net Price","Чиста ціна"
+"Option group ID","Ідентифікатор групи опцій"
+"Option name","Назва опції"
+"Option name translation key","Ключ перекладу назви параметру"
+"Option successfully activated.","Опцію успішно активовано."
+"Option successfully deactivated.","Опцію успішно вимкнено."
+"Option Values","Значення опцій"
+"Product option group created.","Групу варіантів продукту створено."
+"Product option group modified.","Групу варіантів продукту змінено."
+"Product option list","Список варіантів продукту"
+"Product Options","Опції продукту"
+Products,Продукти
+"Products to be assigned","Продукти для призначення"
+"Products to be deassigned","Продукти для відкріплення"
+"Products with this option","Продукти з цією опцією"
+Save,Зберегти
+"Select all on the page","Виділити все на сторінці"
+Selected,Обрано
+SKU,Артикул
+Sku,Артикул
+"Tax set","Податковий набір"
+Translation,Переклад
+"Translation key","Translation key\n###"
+"Updated at","Оновлено о %"
+"View product option","Переглянути варіант продукту"
+Active,Активний
+Inactive,Неактивний
+"product.option.group.name.(your key)","product.option.group.name.(ваш ключ)"
+"product.option.(your key)","product.option.(ваш ключ)"

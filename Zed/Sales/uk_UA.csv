@@ -1,0 +1,105 @@
+"<1d | 1d-7d | >7d","<1д | 1д-7д | >7д"
+"Address successfully updated.","Адресу успішно оновлено."
+Addresses,Адреси
+"All orders of the customer","Усі замовлення клієнта"
+"Back to Orders","Повернутися до Замовлень"
+"Canceled amount","Скасована сума"
+"Cart Notes","Примітки до кошика"
+Comments,Коментарі
+"Customer Full Name ","Повне ім'я клієнта"
+"Customer Full Name","Повне ім'я клієнта"
+"Customer successfully updated.","Клієнт успішно оновлений."
+Discount,Знижка
+"GRAND TOTAL","Загальна сума"
+"Grand Total","Загальна сума"
+"Hide history","Сховати історію"
+"incl. %tax_amount% % tax","включно %tax_amount% % податку"
+"Included tax amount","Сума включеного податку"
+"Item total","Загальна сума товарів"
+Items,Товари
+Legend,Легенда
+"List of orders","Список замовлень"
+Matrix,Матриця
+Note,Примітка
+"Number of Items","Кількість товарів"
+Option,Варіант
+"Order Matrix","Матриця замовлень"
+"Order Source","Джерело замовлення"
+"Order State","Стан замовлення"
+Orders,Замовлення
+"Overview of Order Matrix","Огляд матриці замовлень"
+"Overview of Orders","Огляд замовлень"
+Payments,Оплата
+Product,Продукт
+Quantity,Кількість
+Sales,Продажі
+Save,Зберегти
+"Send Message","Надіслати повідомлення"
+Shipment,Доставка
+"Show history","Показати історію"
+"Show less","Показати менше"
+"Show more","Показати більше"
+Sku,Артикул
+State,Стан
+"Sub total",Підсумок
+Subtotal,"Сума замовлення"
+Totals,Всього
+"Trigger all matching states","Активувати всі відповідні стани"
+"Trigger event","Запустити подію"
+"Unique Product Quantity","Унікальна кількість товару"
+"Unit Price","Ціна за одиницю"
+"Variant Details","Деталі варіанту"
+"View Order","Переглянути замовлення"
+"View Order:","Переглянути замовлення:"
+"Remuneration total","Загальна винагорода"
+"Trigger all matching states inside this order","Активуйте всі відповідні стани всередині цього замовлення"
+"Previous orders count","Кількість попередніх замовлень"
+Name,Ім'я
+E-mail,"Електронна пошта"
+"Order date","Дата замовлення"
+Refunds,Повернення款
+"Discounts & Vouchers","Знижки та купони"
+"Order Items","Елементи замовлення"
+Reference,Посилання
+"Order Overview","Огляд замовлення"
+"Total taxes","Загальні податки"
+Reclamations,Претензії
+Claim,Претензія
+"payment pending","Оплата очікується"
+exported,Експортовано
+shipped,Відправлено
+delivered,Доставлено
+refunded,"Повернення коштів"
+closed,Закрито
+pay,Оплатити
+ship,Доставка
+stock-update,"Оновлення наявності"
+close,Закрити
+refund,Повернення
+execute-return,"Виконати повернення"
+cancel-return,"Скасувати повернення"
+ship-return,"Надішліть повернення клієнту"
+delivery-return,"Повернення товару клієнту"
+cancel,Скасувати
+"skip timeout","Пропустити тайм-аут"
+"Refund total","Повернення загальної суми"
+"Comment successfully added","Коментар успішно додано."
+"Address Details","Деталі адреси"
+"Middle name","По батькові"
+"Po box","Поштова скринька"
+"Zip code","Поштовий індекс"
+Address1,"Адреса 1"
+Address2,"Адреса 2"
+"Cell phone","Мобільний телефон"
+"Edit Address for Order: %idSalesOrder%","Редагувати адресу для замовлення: %idSalesOrder%"
+new,Нове
+cancelled,Скасовано
+paid,Оплачено
+waiting,Чекаю
+confirmed,Підтверджено
+returned,Повернено
+"invoice generated","Рахунок створено"
+"waiting for return","Очікуємо повернення"
+"return canceled","Повернення скасовано"
+"shipped to customer","Відправлено клієнту"
+invoice-generate,"Створити рахунок"

@@ -1,0 +1,45 @@
+Actions,Дії
+"Add list","Додати список"
+"Are you sure you want to remove this list? Removing this list will also remove all associated functionalities.","Ви впевнені, що хочете видалити цей список? Видалення цього списку також призведе до видалення всіх пов'язаних функціональностей."
+"Assign Categories","Призначити категорії"
+"Assign Products","Призначити Продукти"
+Back,Назад
+"Back to Product Lists","Повернутися до списку продуктів"
+Blacklist,"Чорний список"
+"Business Unit Owner Name","Ім'я власника бізнес-одиниці"
+Cancel,Скасувати
+"Confirm action","Підтвердити дію"
+"Create a Product List","Створити список продуктів"
+"Edit List","Редагувати список"
+"Edit Product List","Редагувати список продуктів"
+Export,Експорт
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+"ID Merchant Relation","ID Торговець Відношення"
+"Import Product List","Імпорт списку продуктів"
+"List of Product lists","Список списків продуктів"
+"Merchant Name","Ім'я торговця"
+"Merchant relationship","Відносини з торговцем"
+Name,Ім'я
+"Overview of Product lists","Огляд списків продуктів"
+"Owner Type","Тип власника"
+"Please ensure you saved information","Будь ласка, переконайтеся, що ви зберегли інформацію"
+"Product label #%d successfully created.","Етикетку продукту #%d успішно створено."
+"Product List ""%s"" has been successfully created.","Список продуктів ""%s"" був успішно створений."
+"Product List ""%s"" has been successfully updated.","Список продуктів ""%s"" було успішно оновлено."
+"Product List has been successfully removed.","Список продуктів успішно видалено."
+"Product List removal confirmation","Список продуктів успішно видалено"
+"Product Lists","Списки продуктів"
+"Products in this list","Продукти у цьому списку"
+"Remove List","Видалити список"
+Save,Зберегти
+"Select Products to assign","Виберіть продукти для призначення"
+Selected,Обрано
+SKU,Артикул
+Title,Заголовок
+Type,Тип
+"Used By","Використовується\n###"
+Whitelist,"Білий список"
+Сonfirm,Підтвердити
+"Add List","Додати до списку"

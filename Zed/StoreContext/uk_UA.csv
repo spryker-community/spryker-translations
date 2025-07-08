@@ -1,0 +1,8 @@
+"Application %application% is not valid.","Додаток %application% недійсний."
+"Default store context do not exist in the store context collection.","За замовчуванням налаштування відсутні в колекції налаштувань магазину."
+"Application %application% is used more than once.","Додаток %application% використовується більше одного разу."
+"Timezone %timezone% is not valid.","Часовий пояс %timezone% недійсний."
+"Store context already exist for id: %id%.","Налаштування магазину вже існують для ідентифікатора: %id%."
+"Store context not found for store id: %id%.","Налаштування магазину не знайдено для ідентифікатора магазину: %id%."
+"Store context collection is missing.","Колекція налаштувань магазину відсутня."
+"Store is missing in store context.","Магазин відсутній в контексті магазину."

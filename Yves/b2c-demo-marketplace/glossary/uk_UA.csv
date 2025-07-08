@@ -1,0 +1,1666 @@
+cart.remove.items.success,"Продукти було успішно видалено",uk_UA
+cart.add.items.error.text,"Щось пішло не так. Вибачте.",uk_UA
+cart.add.items.success,"Елементи успішно додані",uk_UA
+cart.your-order,"Ваше замовлення",uk_UA
+cart.product-option,"Опції продукту",uk_UA
+cart.price,Ціна,uk_UA
+cart.shipping.order-item,"+ Доставка",uk_UA
+cart.shipping,Доставка,uk_UA
+cart.total,Загалом,uk_UA
+cart.checkout,"Оформлення замовлення",uk_UA
+cart.empty,"Ваш кошик порожній!",uk_UA
+cart.cart,Кошик,uk_UA
+cart.total.discount,Знижка,uk_UA
+cart.vouchers,"Подарункові сертифікати",uk_UA
+cart.discounts,Знижки,uk_UA
+cart.sales-order-threshold,"Мінімальна вартість замовлення",uk_UA
+cart.title.available_discounts,"Доступні знижки",uk_UA
+checkout.sales-order-threshold,"Мінімальна вартість замовлення",uk_UA
+sales-order-threshold.expense.name,Доплата,uk_UA
+sales-order-threshold.strategy.soft-minimum-threshold-fixed-fee,Доплата,uk_UA
+sales-order-threshold.strategy.soft-minimum-threshold-flexible-fee,Доплата,uk_UA
+cart.item_quantity,Кількість,uk_UA
+cart.item_attributes_needed,"Будь ласка, виберіть більше атрибутів",uk_UA
+cart.voucher.redeem,"Активувати код",uk_UA
+cart.price.subtotal,"Сума замовлення",uk_UA
+cart.price.grand.total,"Загальна сума",uk_UA
+cart.total.tax_total,Податок,uk_UA
+cart.total.tax_total.calculated_at_checkout,"обчислюється при оформленні замовлення",uk_UA
+sales-order-threshold.hard-minimum-threshold.de.eur.message,"Вам потрібно додати товари на суму {{threshold}}, щоб перейти рекомендований поріг. Ви не можете продовжити оформлення замовлення.",uk_UA
+sales-order-threshold.hard-minimum-threshold.de.chf.message,"Вам потрібно додати товари на суму {{threshold}}, щоб перейти рекомендований поріг. Ви не можете продовжити оформлення замовлення.",uk_UA
+sales-order-threshold.hard-maximum-threshold.de.eur.message,"Значення кошика не може бути вище, ніж {{threshold}}. Будь ласка, видаліть деякі товари, щоб продовжити замовлення.",uk_UA
+sales-order-threshold.hard-maximum-threshold.de.chf.message,"Значення кошика не може бути вище, ніж {{threshold}}. Будь ласка, видаліть деякі товари, щоб продовжити замовлення.",uk_UA
+sales-order-threshold.soft-minimum-threshold.de.eur.message,"Вам потрібно додати товари на суму {{threshold}}, щоб перейти рекомендований поріг, але якщо ви хочете, можете перейти до оформлення замовлення.",uk_UA
+sales-order-threshold.soft-minimum-threshold.de.chf.message,"Вам потрібно додати товари на суму {{threshold}}, щоб перейти рекомендований поріг, але якщо ви хочете, можете перейти до оформлення замовлення.",uk_UA
+auth.login,Зареєструватися,uk_UA
+auth.password,Пароль,uk_UA
+auth.password-forgot,"Забули пароль?",uk_UA
+auth.email,"Електронна пошта",uk_UA
+auth.register,Реєстрація,uk_UA
+auth.im-new-customer,"Новий клієнт",uk_UA
+auth.im-already-customer,"У мене вже є обліковий запис",uk_UA
+navigation.menu.categories,Категорії,uk_UA
+navigation.menu.have-a-look,"Варто подивитися",uk_UA
+page.checkout.errors,"Будь ласка, перевірте ваш ввід.",uk_UA
+page.checkout.client.existing,"Існуючий клієнт",uk_UA
+page.checkout.client.new,"Новий клієнт",uk_UA
+customer.password,Пароль,uk_UA
+password.confirm,"Підтвердити пароль",uk_UA
+page.checkout.address.heading,"1. Дані адреси",uk_UA
+page.checkout.address.name,Назва,uk_UA
+page.checkout.address.billing-address,"Адреса платника",uk_UA
+page.checkout.address.billing-isnt-shipping-address,"Інша адреса доставки",uk_UA
+page.checkout.address.shipping-address,"Адреса доставки",uk_UA
+page.checkout.address.address-example,"Приклад:</br>Менський замок 1</br>10292 Готем-Сіті</br>с. Г. Альфред Пенніворт",uk_UA
+page.checkout.address.next-step,"Продовжити до методу доставки",uk_UA
+page.checkout.address.edit,"Редагувати дані адреси",uk_UA
+page.checkout.address.use_selected_address,"Використовувати обрану адресу",uk_UA
+page.checkout.address.different_delivery_address,"Використовуйте іншу адресу доставки",uk_UA
+page.checkout.address.different_billing_address,"Використовувати іншу адресу для виставлення рахунку",uk_UA
+page.checkout.address.option_group.customer,"Адреси клієнтів",uk_UA
+page.checkout.address.option_group.company_business_unit,"Адреси бізнесу",uk_UA
+page.checkout.address.delivery.address_select,"Виберіть адресу доставки",uk_UA
+page.checkout.address.billing.address_select,"Виберіть адресу для виставлення рахунку",uk_UA
+page.checkout.address.manage_your_addresses,"Керуйте своїми адресами",uk_UA
+page.checkout.address.address_select.label,"Виберіть адресу доставки",uk_UA
+page.checkout.address.address_select.placeholder,"Виберіть адресу",uk_UA
+page.checkout.address.multi_shipment.title,"Призначте кожен товар окремій адресі доставки",uk_UA
+page.checkout.shipment.heading,"2. Спосіб доставки",uk_UA
+shipment.standart.name,Стандартний,uk_UA
+shipment.express.name,Експрес,uk_UA
+shipment.standart.description,"2-4 робочих днів",uk_UA
+page.checkout.shipping.delivery_time,"Час доставки:",uk_UA
+page.checkout.shipping.day,день,uk_UA
+page.checkout.shipping.days,дні,uk_UA
+page.checkout.shipping.price,Ціна:,uk_UA
+shipment.express.description,"24-48 години (робочі дні)",uk_UA
+page.checkout.shipment.edit,"Редагувати спосіб доставки",uk_UA
+page.checkout.shipment.next-step,"Продовжити до способу оплати",uk_UA
+page.checkout.shipment.item.quantity,Кількість,uk_UA
+page.checkout.shipment.item.price,Ціна,uk_UA
+page.checkout.shipment.shipping_address.title,"Адреса доставки",uk_UA
+page.checkout.shipment.requested_delivery_date.label,"Бажана дата доставки",uk_UA
+page.checkout.shipment.requested_delivery_date.placeholder,"Залиште його порожнім, якщо хочете, щоб це було якнайшвидше",uk_UA
+page.checkout.shipment.requested_delivery_date.title,"Коли ви хочете отримати доставку?",uk_UA
+page.checkout.shipment.shipment_group_heading,"Відправлення %current% з %total%",uk_UA
+page.checkout.shipment.shipping_method_heading,"Спосіб доставки",uk_UA
+page.checkout.payment.heading,"3. Спосіб оплати",uk_UA
+page.checkout.payment.edit,"Редагувати спосіб оплати",uk_UA
+page.checkout.payment.next-step,"Продовжити оформлення замовлення",uk_UA
+page.checkout.summary.products,Продукти,uk_UA
+page.checkout.summary.billing,"Адреса для виставлення рахунку",uk_UA
+page.checkout.summary.shipping,"Адреса доставки",uk_UA
+page.checkout.summary.date_of_birth,"Дата народження",uk_UA
+page.checkout.summary.card_type,"Тип картки",uk_UA
+page.checkout.summary.card_number,"Номер картки",uk_UA
+page.checkout.summary.name_on_card,"Ім'я на картці",uk_UA
+page.checkout.summary.card_expires,"Дата закінчення строку дії",uk_UA
+page.checkout.summary.complete_checkout,"Завершити оформлення замовлення",uk_UA
+page.checkout.summary.accept_terms_and_conditions,"Я приймаю умови та умови",uk_UA
+page.checkout.finalize.heading,"4. Перевірте та завершіть замовлення",uk_UA
+shipment.international.parcel.service,"Міжнародні поштові послуги",uk_UA
+page.checkout.terms,"Я приймаю загальні умови та положення.",uk_UA
+page.checkout.finalize.enter-voucher,"Введіть код купона",uk_UA
+page.checkout.finalize.tos,"За допомогою кліку на кнопку ""Купити зараз"" я підтверджую Загальні умови та положення.",uk_UA
+page.checkout.finalize.buy-now,"Купити зараз",uk_UA
+page.detail.add-to-cart,"Додати до кошика",uk_UA
+page.detail.dimensions,Виміри,uk_UA
+page.product.by,від,uk_UA
+page.product.details,Деталі,uk_UA
+page.product.similar-products,"Вам також може сподобатися",uk_UA
+page.imprint.url,/uk/imprint,uk_UA
+page.imprint.title,"Інформація про видавництво",uk_UA
+page.terms.url,/uk/gtc,uk_UA
+page.terms.title,"Загальні умови та умови",uk_UA
+page.privacy.url,/uk/політика-конфіденційності,uk_UA
+page.privacy.title,"Конфіденційність даних",uk_UA
+catalog.currency,"€",uk_UA
+catalog.filter.filter,"Фільтри / Сортування",uk_UA
+catalog.filter.button,Застосувати,uk_UA
+catalog.filter.active,"Активний фільтр",uk_UA
+catalog.filter.main_color,Колір,uk_UA
+catalog.filter.extras,"Інші характеристики",uk_UA
+catalog.filter.pricerangeFrom,з,uk_UA
+catalog.filter.pricerangeTo,до,uk_UA
+catalog.filter.rangeFrom,Асортимент,uk_UA
+catalog.filter.rangeTo,до,uk_UA
+catalog.filter.show,"вставити фільтр",uk_UA
+catalog.filter.hide,"сховати фільтр",uk_UA
+catalog.filter.rating_up,"& Вгору",uk_UA
+catalog.filter.active_rating_up,"Зірки та вище",uk_UA
+catalog.filter.per,"На сторінці",uk_UA
+catalog.itemsFound,Результати,uk_UA
+catalog.loading,Завантаження,uk_UA
+catalog.next,продовжити,uk_UA
+catalog.prev,назад,uk_UA
+catalog.sort,Сортування,uk_UA
+catalog.sort.relevance,"Сортувати за релевантністю",uk_UA
+catalog.sort.name_asc,"Сортувати за зростанням імені",uk_UA
+catalog.sort.name_desc,"Сортувати за назвою у зворотньому порядку",uk_UA
+catalog.sort.price_asc,"Сортувати за зростанням ціни",uk_UA
+catalog.sort.price_desc,"Сортувати за ціною у спадаючому порядку",uk_UA
+catalog.sort.rating,"Сортувати за рейтингом товарів",uk_UA
+catalog.filter.activeFilters,"Активні фільтри",uk_UA
+catalog.filter.resetAllFilters,"Скинути всі фільтри",uk_UA
+catalog.no-results,"Немає результатів.",uk_UA
+product.filter.category,Категорії,uk_UA
+product.filter.price,Ціна,uk_UA
+product.filter.rating,Рейтинги,uk_UA
+product.filter.merchant_name,Торговець,uk_UA
+shipment.dhl,DHL,uk_UA
+shipment.dhl.paket.name,Пакет,uk_UA
+shipment.dhl.paket.description,"DHL Пакет - це простий, доступний, швидкий та надійний сервіс доставки в більше ніж 220 країн світу.",uk_UA
+shipment.dhl.express.name,Експрес,uk_UA
+shipment.dhl.express.description,"Наша команда з 100 000 працівників працює по всьому світу. Місцеві знання та наш унікальна мережа роблять нас вашими міжнародними спеціалістами.",uk_UA
+shipment.dpd,DPD,uk_UA
+shipment.hermes,Гермес,uk_UA
+customer.first_name,Ім'я,uk_UA
+customer.last_name,Прізвище,uk_UA
+customer.salutation.mr,Пане,uk_UA
+customer.salutation.mrs,Пані.,uk_UA
+customer.salutation.ms,Пані.,uk_UA
+customer.salutation.dr,Доктор,uk_UA
+customer.birth_date,"Дата народження (ДД.ММ.РРРР)",uk_UA
+customer.email,"Електронна пошта",uk_UA
+customer.phone,"Номер телефону",uk_UA
+customer.reset.password.error.already.loggedIn,"Інший клієнт вже увійшов у систему. Будь ласка, вийдіть, щоб скинути ваш пароль.",uk_UA
+payment.prepay,Передоплата,uk_UA
+payment.paypal,PayPal,uk_UA
+payment.creditcard,"Кредитна картка",uk_UA
+payment.invoice,Рахунок,uk_UA
+payment_foreign.thank_you,Дякуємо,uk_UA
+payment_foreign.go_to_my_account,"Перейти до ""Мій обліковий запис""",uk_UA
+payment_foreign.success.order.placement.message,"Ваше замовлення було успішно оплачене. Ви отримаєте електронного листа з підтвердженням замовлення через кілька хвилин. Ви можете перевірити та відстежувати своє замовлення у своєму обліковому записі.",uk_UA
+dummyMarketplacePaymentInvoice,"Рахунок (Майданчик купівлі-продажу)",uk_UA
+checkout.payment.provider.DummyMarketplacePayment,"Фіктивна оплата на ринку",uk_UA
+address.street,Вулиця,uk_UA
+address.street_nr,Номер,uk_UA
+address.city,Місто,uk_UA
+address.zip_code,"Поштовий індекс",uk_UA
+page.checkout.create_account,"Створити обліковий запис клієнта",uk_UA
+whishlist.whishlist,"Список бажань",uk_UA
+whishlist.remove,Видалити,uk_UA
+whishlist.reduce,Зменшити,uk_UA
+whishlist.increase,Збільшити,uk_UA
+whishlist.move.to.cart,"Перейти до кошика",uk_UA
+checkout.thank.you,Дякуємо,uk_UA
+checkout.this.is.demoshop,"Це демо-магазин",uk_UA
+checkout.nothing.will.be.sent,"Отже, звісно, нічого не буде відправлено!",uk_UA
+global.order.ascendent,А-Я,uk_UA
+global.order.descendent,З-Я,uk_UA
+global.close,Закрити,uk_UA
+global.search,Пошук,uk_UA
+global.search.results,"Результати пошуку",uk_UA
+global.search.spellingSuggestion,"Чи ви мали на увазі",uk_UA
+global.search.suggestions,"Пошукові пропозиції",uk_UA
+global.search.suggestion.in_products,Продукти,uk_UA
+global.search.suggestion.in_categories,Категорії,uk_UA
+global.search.suggestion.in_cms,Сторінки,uk_UA
+global.search.suggestion.no_result,"Нічого не знайдено…",uk_UA
+global.search.suggestion.see_all_products,"Переглянути всі товари",uk_UA
+global.spryker.shop,"Магазин Spryker",uk_UA
+global.spryker.motto,"технології з якістю",uk_UA
+global.payment_providers,"Платіжні провайдери",uk_UA
+global.shipment_providers,"Постачальники доставки",uk_UA
+global.get_in_touch,"Зв'яжіться з нами",uk_UA
+global.newsletter,"Розсилка новин",uk_UA
+global.categories,Категорії,uk_UA
+global.company,Компанія,uk_UA
+global.social,"Соціальні мережі",uk_UA
+global.home,Головна,uk_UA
+global.email.address,"Адреса електронної пошти",uk_UA
+global.password,Пароль,uk_UA
+global.password.invalid_password,"Ваш пароль повинен містити принаймні одну велику літеру, одну малу літеру, одну цифру та один спеціальний символ з наступного списку: !@#$%^&*()_-+=[]{}|;:<>.,/?\~. Не допускаються символи не латинського алфавіту та інші спеціальні символи.",uk_UA
+global.permission.failed,"Ця дія заборонена",uk_UA
+global.recover.password,"Відновлення паролю",uk_UA
+global.accept.terms.and.conditions,"Прийняти Умови та Умови",uk_UA
+global.login,Увійти,uk_UA
+global.create.account,"Створити обліковий запис",uk_UA
+global.cart,Кошик,uk_UA
+global.no_image_available,"Немає доступного зображення",uk_UA
+global.add-to-cart,"Додати до кошика",uk_UA
+global.benefit.free_returns,"Безкоштовне повернення",uk_UA
+global.benefit.warranty,"3 роки гарантії",uk_UA
+global.benefit.competitive_prices,"Конкурентоспроможні ціни",uk_UA
+global.quantity_symbol,x,uk_UA
+global.partners,Партнери,uk_UA
+global.show,"Показати все",uk_UA
+global.hide,Приховати,uk_UA
+error.404,"Помилка 404",uk_UA
+error_page.title,"Сторінку не знайдено.",uk_UA
+error_page.home_link,"Перейти на головну сторінку",uk_UA
+error_page.text,"Ми не можемо знайти сторінку, яку ви шукаєте.",uk_UA
+homepage.carousel.previous,Попередній,uk_UA
+homepage.carousel.next,Далі,uk_UA
+customer.signup,"Новий клієнт?",uk_UA
+customer.signin,Увійти,uk_UA
+customer.logout,Вийти,uk_UA
+customer.register,Реєстрація,uk_UA
+customer.login,Увійти,uk_UA
+customer.login.email,"Електронна пошта",uk_UA
+customer.login.password,Пароль,uk_UA
+customer.login.title,"Открийте свій обліковий запис",uk_UA
+customer.registration.title,"Створити обліковий запис",uk_UA
+customer.account.no_order,"На даний момент немає замовлень",uk_UA
+customer.account,"Обліковий запис клієнта",uk_UA
+customer.account.contact,Контакти,uk_UA
+customer.account.overview,Огляд,uk_UA
+customer.account.profile_data,Профіль,uk_UA
+customer.account.address,Адреси,uk_UA
+customer.account.order_history,"Історія замовлень",uk_UA
+customer.account.newsletter,"Розсилка новин",uk_UA
+customer.account.last_orders,"Останні замовлення",uk_UA
+customer.account.default_billing_address,"Адреса платника за замовчуванням",uk_UA
+customer.account.please_specify_billing_address,"Будь ласка, вкажіть адресу для виставлення рахунку",uk_UA
+customer.account.default_shipping_address,"Адреса доставки за замовчуванням",uk_UA
+customer.account.please_specify_shipping_address,"Будь ласка, вкажіть адресу доставки",uk_UA
+customer.account.edit_address_information,"Редагувати інформацію про адресу",uk_UA
+customer.account.additional_addresses,"Додаткові адреси",uk_UA
+customer.account.button.add_new_address,"Додати нову адресу",uk_UA
+customer.account.add_new_address,"Визначити нову адресу",uk_UA
+customer.account.deliver_to_multiple_addresses,"Доставка на кілька адрес",uk_UA
+customer.account.delete.error,"Обліковий запис не може бути видалений",uk_UA
+customer.newsletter.not_subscribed,"Відсутня підписка на розсилку новин",uk_UA
+customer.profile.order_history,"Останні замовлення",uk_UA
+customer.account.no_orders,"На даний момент немає замовлень",uk_UA
+customer.address.updated,"Адресу успішно оновлено",uk_UA
+customer.address.delete.success,"Адресу успішно видалено",uk_UA
+customer.address.added,"Адресу було успішно додано",uk_UA
+customer.address.first_name,Ім'я,uk_UA
+customer.address.last_name,Прізвище,uk_UA
+customer.address.company,Компанія,uk_UA
+customer.address.address1,Вулиця,uk_UA
+customer.address.address2,"Номер будинку",uk_UA
+customer.address.address3,"Додаткове поле адреси",uk_UA
+customer.address.zip_code,"Поштовий індекс",uk_UA
+customer.address.city,Місто,uk_UA
+customer.address.country,Країна,uk_UA
+customer.address.phone,Телефон,uk_UA
+customer.address.is_default_billing,"Це типова адреса для виставлення рахунків",uk_UA
+customer.address.is_default_shipping,"Це адреса доставки за замовчуванням",uk_UA
+customer.anonymization.success,"Ваш обліковий запис було успішно видалено",uk_UA
+customer.anonymization.failed,"Ваш обліковий запис не може бути видалений",uk_UA
+customer.authorization.success,"Майже готово! Ми відправили вам електронного листа для підтвердження вашої адреси електронної пошти. Будь ласка, підтвердіть його, щоб мати змогу увійти.",uk_UA
+customer.authorization.account_confirmed,"Ваша електронна адреса підтверджена. Будь ласка, увійдіть, щоб продовжити.",uk_UA
+customer.profile.change.success,"Профіль успішно збережено",uk_UA
+customer.password.invalid_password,"Поточний пароль невірний",uk_UA
+customer.password.invalid,"Неправильний пароль",uk_UA
+customer.password.restore,"Встановити новий пароль",uk_UA
+customer.password.changed,"Ваш пароль було успішно змінено",uk_UA
+customer.token.invalid,"Токен недійсний",uk_UA
+customer.forgotten-password.description,"Введіть електронну адресу, пов'язану з вашим обліковим записом.",uk_UA
+customer.forgotten_password.email,"Адреса електронної пошти",uk_UA
+customer.forgotten-password.title,"Відновити мій пароль",uk_UA
+customer.order.order_id,"Ідентифікатор замовлення",uk_UA
+customer.order.view_all,"Переглянути все",uk_UA
+customer.order.all_orders,"Переглянути замовлення",uk_UA
+customer.order.total,Загалом,uk_UA
+customer.order.view_order,"Переглянути замовлення",uk_UA
+customer.order.reorder,"Повторне замовлення",uk_UA
+customer.order.reorder_all,"Повторне замовлення",uk_UA
+customer.order.reorder_selected,"Повторне замовлення обраних товарів",uk_UA
+customer.order.reorder.error.unable_to_reorder_items,"Ви не можете замовити ці продукти безпосередньо, будь ласка, додайте їх окремо до кошика.",uk_UA
+customer.order.date,"Дата замовлення",uk_UA
+customer.order.item_sku,Артикул,uk_UA
+customer.order.product_name,"Назва товару",uk_UA
+customer.order.item_price,Ціна,uk_UA
+customer.order.item_quantity,Кількість,uk_UA
+customer.order.item_sum,"Загальна сума товарів",uk_UA
+customer.order.subTotal,"Сума замовлення",uk_UA
+customer.order.taxTotal,Податок,uk_UA
+customer.order.expenseTotal,"Вартість доставки (загальна)",uk_UA
+customer.order.shipment,Доставка,uk_UA
+customer.order.discount.total,Знижка,uk_UA
+customer.order.grandTotal,"Загальна сума",uk_UA
+customer.order.shipping_address,"Адреса доставки",uk_UA
+customer.order.billing_address,"Адреса платника",uk_UA
+customer.order.shipment_method,Доставка,uk_UA
+customer.order.payment_method,"Спосіб оплати",uk_UA
+customer.order.products,Продукти,uk_UA
+customer.order.delivery_method,"Спосіб доставки",uk_UA
+customer.order.requested_delivery_date,"Бажана дата доставки",uk_UA
+customer.order.payment,Оплата,uk_UA
+customer.order.complete_checkout,"Завершити оформлення замовлення",uk_UA
+customer.order.items_state,"Стан товарів",uk_UA
+customer.order.canceledTotal,"Скасована сума",uk_UA
+customer.order.remunerationTotal,"Загальна винагорода",uk_UA
+customer.order.refundTotal,"Повернення загальної суми",uk_UA
+customer.order.delivery_address,"Адреса доставки",uk_UA
+customer.newsletter.subscription,"Налаштування розсилки новин",uk_UA
+customer.newsletter.subscription_agreement,"Підписуюся на розсилку новин",uk_UA
+customer.profile,"Мій обліковий запис",uk_UA
+customer.profile.title,"Мій обліковий запис",uk_UA
+customer.profile.link,"Мій профіль",uk_UA
+customer.profile.update,"Оновити профіль",uk_UA
+customer.profile.delete,"Видалити обліковий запис",uk_UA
+customer.profile.delete.description,"Це видалить усю інформацію облікового запису.",uk_UA
+customer.profile.delete.confirmation_question,"Ви впевнені, що хочете видалити свій обліковий запис?",uk_UA
+customer.profile.first_name,Ім'я,uk_UA
+customer.profile.last_name,Прізвище,uk_UA
+customer.profile.email,"Електронна пошта",uk_UA
+customer.profile.phone,Телефон,uk_UA
+customer.profile.old_password,"Старий пароль",uk_UA
+customer.profile.request.new_password,"Новий пароль",uk_UA
+customer.profile.confirm.new_password,"Підтвердіть новий пароль",uk_UA
+customer.profile.address.edit,Редагувати,uk_UA
+customer.profile.address.delete,Видалити,uk_UA
+customer.profile.order_details,"Деталі замовлення",uk_UA
+customer.profile.order_details.giftcard.label,"Подарункова картка",uk_UA
+customer.password.update,"Змінити пароль",uk_UA
+customer.password.old_password,"Старий пароль",uk_UA
+customer.password.request.new_password,"Новий пароль",uk_UA
+customer.password.confirm.new_password,"Підтвердити пароль",uk_UA
+customer.table.actions,Дії,uk_UA
+profile.form.salutation,Привітання,uk_UA
+customer.salutation.n/a,n/a,uk_UA
+customer.customer_id,ID,uk_UA
+forms.submit-btn,Надіслати,uk_UA
+forms.save-btn,Зберегти,uk_UA
+forms.submit.login,Увійти,uk_UA
+forms.submit.register,Реєстрація,uk_UA
+forms.forgot-password,"Забули пароль",uk_UA
+forms.first-name,Ім'я,uk_UA
+forms.last-name,Прізвище,uk_UA
+forms.email,"Електронна пошта",uk_UA
+forms.password,Пароль,uk_UA
+forms.confirm-password,"Підтвердити пароль",uk_UA
+forms.accept_terms,"Прийняти умови",uk_UA
+address.salutation,Привітання,uk_UA
+email.orderEmail.salutationMale,Пане,uk_UA
+email.orderEmail.salutationFemale,Пані,uk_UA
+customer.login.failed,"Помилка входу",uk_UA
+customer.email.already.used,"Якщо ця адреса електронної пошти вже використовується, ви отримаєте посилання для скидання пароля. В іншому випадку спочатку вам потрібно підтвердити свою адресу електронної пошти, щоб завершити реєстрацію. Будь ласка, перевірте свою електронну пошту.",uk_UA
+general.back.button,Назад,uk_UA
+general.cancel.button,Скасувати,uk_UA
+general.edit.button,Редагувати,uk_UA
+newsletter.subscription.success,"Ви успішно підписалися на розсилку новин.",uk_UA
+newsletter.unsubscription.success,"Ви успішно відписалися від розсилки новинного листа",uk_UA
+newsletter.subscription.already_subscribed,"Ви вже підписані на розсилку новин.",uk_UA
+newsletter.subscription.email_format_invalid,"Невірний формат електронної адреси",uk_UA
+customer.authentication.failed,"Будь ласка, перевірте, чи правильно введена ваша адреса електронної пошти та пароль, і чи підтвердили ви свою адресу електронної пошти, натиснувши посилання у повідомленні про реєстрацію.",uk_UA
+customer.email.invalid,"Адреса електронної пошти недійсна",uk_UA
+customer.email.format.invalid,"Невірний формат електронної адреси",uk_UA
+customer.password.recovery.mail.sent,"Якщо існує обліковий запис, пов'язаний з цією адресою електронної пошти, ви отримаєте електронного листа з подальшими інструкціями.",uk_UA
+customer.address.number,"Номер будинку",uk_UA
+customer.address.save_new_address,"Зберегти нову адресу в адресну книгу",uk_UA
+countries.iso.AT,Австрія,uk_UA
+countries.iso.DE,Німеччина,uk_UA
+countries.iso.NO,Норвегія,uk_UA
+countries.iso.CH,Швейцарія,uk_UA
+countries.iso.ES,Іспанія,uk_UA
+countries.iso.GB,"Об'єднане Королівство",uk_UA
+customer.billingSameAsShipping,"Адреса платника така ж, як адреса доставки",uk_UA
+checkout.customer.proceed_as_user,"Продовжити як зареєстрований користувач (зареєструватися)",uk_UA
+checkout.customer.proceed_as_guest,"Продовжити як гість",uk_UA
+checkout.customer.order_as_guest,"Замовлення як гість",uk_UA
+checkout.customer.auth_as_user,Реєстрація,uk_UA
+checkout.customer.auth_as_guest,"Придбати як гість",uk_UA
+checkout.customer.auth_as_login,Увійти,uk_UA
+checkout.step.customer.title,Увійти,uk_UA
+checkout.step.address.title,Адреса,uk_UA
+checkout.step.shipment.title,Доставка,uk_UA
+checkout.step.shipment.provider.a,DHL,uk_UA
+checkout.step.shipment.provider.b,Гермес,uk_UA
+checkout.step.payment.title,Оплата,uk_UA
+checkout.step.summary.title,Огляд,uk_UA
+checkout.step.shipment,"Перейти до доставки",uk_UA
+checkout.step.address.select_address,"Виберіть адресу",uk_UA
+checkout.step.payment,"Перейти до оплати",uk_UA
+checkout.step.summary,"Перейти до підсумку",uk_UA
+checkout.step.summary.with_method,"З\n",uk_UA
+checkout.step.summary.items,Товари,uk_UA
+checkout.step.summary.overview,Огляд,uk_UA
+checkout.step.summary.sub_total,"Сума замовлення",uk_UA
+checkout.step.summary.grand_total,"Загальна сума",uk_UA
+checkout.step.summary.payment,Оплата,uk_UA
+checkout.step.summary.shipping,Доставка,uk_UA
+checkout.step.summary.tax,Податок,uk_UA
+checkout.step.summary.total,"Завершити оформлення замовлення",uk_UA
+checkout.step.summary.shipment_costs_total,"Вартість доставки (загальна)",uk_UA
+checkout.step.summary.delivery_method,"Спосіб доставки",uk_UA
+checkout.step.summary.requested_delivery_date,"Бажана дата доставки",uk_UA
+checkout.step.summary.delivery_address,"Адреса доставки",uk_UA
+checkout.step.summary.products,Продукти,uk_UA
+checkout.step.place.order,"Підтвердіть ваше замовлення",uk_UA
+checkout.step.payment.must_be_older_than_18_years,"Вам повинно бути щонайменше 18 років.",uk_UA
+checkout.step.success.title,Дякую.,uk_UA
+checkout.step.success.text,"Ваше замовлення було успішно оформлено. Ви отримаєте електронного листа з підтвердженням замовлення за кілька хвилин. Ви можете перевірити та відстежувати своє замовлення в особистому кабінеті.",uk_UA
+checkout.step.success.link,"Перейти до ""Мій обліковий запис""",uk_UA
+checkout.step.error.title,"Ваше замовлення не було оформлено.",uk_UA
+checkout.step.error.text,"Щось пішло не так. Вибачте.",uk_UA
+checkout.step.summary.billing_address,"Адреса платника",uk_UA
+customer.password.change.success,"Зміна пароля успішно виконана",uk_UA
+customer.newsletter.subscribed,"Підписка на розсилку успішно оформлена",uk_UA
+dynamic_entity.validation.invalid_data_format,"Недійсний або відсутній формат даних. Будь ласка, переконайтеся, що дані надані у правильному форматі. Приклад запиту: {'data':[{...},{...},..]}",uk_UA
+dynamic_entity.validation.persistence_failed,"Не вдалося зберегти дані для `%errorPath%`. Будь ласка, перевірте надані дані та спробуйте ще раз.",uk_UA
+dynamic_entity.validation.persistence_failed_duplicate_entry,"Не вдалося зберегти дані для `%errorPath%`. Будь ласка, перевірте надані дані та спробуйте ще раз. Запис дублюється.",uk_UA
+dynamic_entity.validation.persistence_failed_not_nullable_field,"Не вдалося зберегти дані для `%errorPath%`. Будь ласка, перевірте надані дані та спробуйте ще раз. Поле не повинно бути порожнім.",uk_UA
+dynamic_entity.validation.delete_foreign_key_constraint_fails,"Не вдалося видалити дані для `%errorPath%`. Сутність має дочірню сутність і не може бути видалена. Дочірня сутність: `%childEntity%`.",uk_UA
+dynamic_entity.validation.entity_does_not_exist,"Сутність `%errorPath%` не може бути знайдена в базі даних.",uk_UA
+dynamic_entity.validation.invalid_field_type,"Недійсний тип даних `%errorPath%` для поля `%fieldName%`",uk_UA
+dynamic_entity.validation.invalid_field_value,"Недійсне значення даних `%errorPath%` для поля: `%fieldName%`. Правила поля: %validationRules%",uk_UA
+dynamic_entity.validation.required_field_is_missing,"Поле, обов'язкове для заповнення, не може бути порожнім. Поле: `%errorPath%.%fieldName%`",uk_UA
+dynamic_entity.validation.entity_not_found_or_identifier_is_not_creatable,"Сутність `%errorPath%.%identifier%` не знайдена за ідентифікатором, і новий ідентифікатор не може бути збережений. Будь ласка, оновіть запит.",uk_UA
+dynamic_entity.validation.modification_of_immutable_field_prohibited,"Зміна незмінного поля `%errorPath%.%fieldName%` заборонена",uk_UA
+dynamic_entity.validation.missing_identifier,"Неповний запит - відсутній ідентифікатор для `%errorPath%`",uk_UA
+dynamic_entity.validation.provided_field_is_invalid,"Наданий шлях помилковий або недійсний: `%errorPath%.%fieldName%`.",uk_UA
+dynamic_entity.validation.relation_is_not_editable,"Відношення `%relationName%` не можна редагувати через конфігурацію.",uk_UA
+dynamic_entity.validation.relation_not_found,"Відношення `%relationName%` не знайдено. Будь ласка, перевірте запитане ім'я відношення та спробуйте ще раз.",uk_UA
+dynamic_entity.validation.configuration_not_found,"Динамічна конфігурація сутності для псевдоніма таблиці `%aliasName%` не знайдена.",uk_UA
+dynamic_entity.validation.filter_field_not_found,"Поле фільтрації `%filterField%` для псевдоніма таблиці `%aliasName%` не знайдено.",uk_UA
+dynamic_entity.validation.invalid_url,"URL недійсний. Поле `%fieldName%` `%errorPath%` повинно мати формат даних URL.",uk_UA
+dynamic_entity.validation.method_not_allowed,"Метод не дозволений для сутності `%aliasName%`.",uk_UA
+validator.constraints.password.do_not_match,"Паролі не співпадають",uk_UA
+discount.successfully.applied,"Знижка ""%display_name%"" була успішно застосована",uk_UA
+discount.quote_change.discount.not_available,"Знижки, які ви обрали для наступних товарів за артикулами, більше недоступні.",uk_UA
+discount.quote_change.discount.amount_changed,"Знижки, які ви обрали для наступних товарів за артикулами, були змінені.",uk_UA
+product.unavailable,"Продукт '%sku%' на даний момент недоступний.",uk_UA
+product.attribute.slug,"шлях",uk_UA
+product.attribute.variant_id,ID,uk_UA
+product.attribute.variant.reset,Скинути,uk_UA
+product.attribute.sku,Артикул,uk_UA
+product.attribute.image_quality,"Якість зображення",uk_UA
+product.attribute.lens_system,"Система об'єктивів",uk_UA
+product.attribute.focus,Фокус,uk_UA
+product.attribute.shutter,Засувка,uk_UA
+product.attribute.video,Відео,uk_UA
+product.attribute.screen,Екран,uk_UA
+product.attribute.processor,Процесор,uk_UA
+product.attribute.memory,Пам'ять,uk_UA
+product.attribute.display,Відображення,uk_UA
+product.attribute.storage,Зберігання,uk_UA
+product.attribute.color,Колір,uk_UA
+product.attribute.design,Дизайн,uk_UA
+product.attribute.graphics,Графіка,uk_UA
+product.attribute.camera,Камера,uk_UA
+product.attribute.gps,"GPS",uk_UA
+product.attribute.weight,Вага,uk_UA
+product.attribute.waterproof,Водонепроникний,uk_UA
+product.attribute.battery,Акумулятор,uk_UA
+product.attribute.description,Опис,uk_UA
+product.attribute.short_description,"Короткий опис",uk_UA
+product.attribute.long_description,"Довгий опис",uk_UA
+product.attribute.manufacturer_name,Бренд,uk_UA
+product.attribute.product_id,"Ідентифікатор продукту",uk_UA
+product.attribute.image_big,"Зображення велике",uk_UA
+product.attribute.image_small,"Зображення маленьке",uk_UA
+product.attribute.license,Ліцензія,uk_UA
+product.product_options,"Опції продукту",uk_UA
+product.product_options_select,"Виберіть варіант",uk_UA
+product.sets,"Набори продуктів",uk_UA
+product.sets.no-results,"Немає результатів.",uk_UA
+product.sets.widget.title,"Придбайте колекцію",uk_UA
+product.set.detail.add-all-to-cart,"Додати все до кошика",uk_UA
+product.set.detail.set-contents,"Продукти в цьому наборі",uk_UA
+product.set.detail.no-products,"Немає продуктів у наборі",uk_UA
+product.view,Переглянути,uk_UA
+wishlist.title,"Список бажань",uk_UA
+wishlist.wishlist,"Список бажань",uk_UA
+page.detail.add-to-wishlist,"Додати до списку бажань",uk_UA
+customer.account.wishlist,"Список бажань",uk_UA
+customer.account.wishlist.empty,"Наразі у вашому списку бажань немає жодних товарів.",uk_UA
+customer.account.wishlist.continue-shopping,"Продовжити покупки",uk_UA
+customer.account.wishlist.product,Продукт,uk_UA
+customer.account.wishlist.price,Ціна,uk_UA
+customer.account.wishlist.add-to-cart,"Додати до кошика",uk_UA
+customer.account.wishlist.remove,Видалити,uk_UA
+customer.account.wishlist.product-not-available,"Даний продукт на даний момент недоступний.",uk_UA
+customer.account.wishlist.view-in-shop,Переглянути,uk_UA
+customer.account.wishlist.overview.sku,Артикул,uk_UA
+customer.account.wishlist.overview.name,Назва,uk_UA
+customer.account.wishlist.overview.price,Ціна,uk_UA
+customer.account.wishlist.overview.variant,Варіант,uk_UA
+customer.account.wishlist.overview.title,"Керуйте списками бажань",uk_UA
+customer.account.wishlist.overview.empty,"У вас ще немає жодних списків.",uk_UA
+customer.account.wishlist.overview.enter_name,"Введіть ім'я тут",uk_UA
+customer.account.wishlist.overview.add_new,"Додати новий список бажань",uk_UA
+customer.account.wishlist.overview.item_count,"# кількість товарів",uk_UA
+customer.account.wishlist.overview.date,"Дата створення",uk_UA
+customer.account.wishlist.overview.edit,Редагувати,uk_UA
+customer.account.wishlist.overview.delete,Видалити,uk_UA
+customer.account.wishlist.add_all_available_to_cart,"Додати всі доступні товари в кошик",uk_UA
+customer.account.wishlist.availability,Наявність,uk_UA
+customer.account.wishlist.available,Доступно,uk_UA
+customer.account.wishlist.not_available,"На даний момент недоступно",uk_UA
+customer.account.wishlist.item.removed,"Продукт успішно видалено.",uk_UA
+customer.account.wishlist.item.moved_to_cart,"Елемент успішно додано в кошик.",uk_UA
+customer.account.wishlist.item.moved_to_cart.failed,"Елемент не був доданий до кошика.",uk_UA
+customer.account.wishlist.item.moved_all_available_to_cart,"Предмети, які доступні, успішно переміщені в кошик.",uk_UA
+customer.account.wishlist.item.moved_all_available_to_cart.failed,"Не всі товари було успішно додано в кошик",uk_UA
+customer.account.wishlist.created,"Бажаний список успішно створено.",uk_UA
+customer.account.wishlist.updated,"Бажаний список успішно оновлено",uk_UA
+customer.account.wishlist.deleted,"Список бажань успішно видалено.",uk_UA
+customer.account.wishlist.item.not_added,"Не вдалося додати товар до списку бажань.",uk_UA
+newsletter.subscribe,"Електронна пошта",uk_UA
+newsletter.form.subscribe,Підписатися,uk_UA
+pagination.previous,Попередній,uk_UA
+pagination.next,Далі,uk_UA
+product.attribute.iso_en,"ISO",uk_UA
+product.attribute.waterproof_up_to,"Водонепроникний до",uk_UA
+product.attribute.width,Ширина,uk_UA
+product.attribute.touchscreen,"Сенсорний екран",uk_UA
+product.attribute._none,"Будь ласка, оберіть значення",uk_UA
+product.variants,"Варіанти продукту",uk_UA
+product.attribute.usb_version,"Версія USB",uk_UA
+product.attribute.thermal_design_power,"Теплова потужність дизайну",uk_UA
+product.attribute.processor_boost_frequency,"Підвищення продуктивності процесора",uk_UA
+product.attribute.touch_technology,"Технологія сенсорного керування",uk_UA
+product.attribute.video_recording_modes,"Режими відеозапису",uk_UA
+product.attribute.voice_recording,"Запис голосу",uk_UA
+product.attribute.total_megapixels,"Загальна кількість мегапікселів",uk_UA
+product.attribute.white_balance,"Баланс білого",uk_UA
+product.attribute.themes,Теми,uk_UA
+product.attribute.usb_port,"Порт USB",uk_UA
+product.detail.out_of_stock,"Даний продукт на даний момент недоступний.",uk_UA
+product.groups,"Групи товарів",uk_UA
+cart.pre.check.availability.failed,"Товар %sku% має доступність лише %stock%.",uk_UA
+cart.pre.check.availability.failed.empty,"Товар %sku% більше недоступний.",uk_UA
+mail.sender.name,"Спрікер Не Відповідайте",uk_UA
+mail.sender.email,noreply@demo-spryker.com,uk_UA
+mail.auth.restore_password.subject,"Новий пароль для вашого облікового запису Spryker Backoffice",uk_UA
+mail.auth.restore_password.text,"""Хтось запросив новий пароль для вашого облікового запису Spryker Backoffice. Якщо це не ви, просто проігноруйте цей лист. Якщо це ви, будь ласка, перейдіть за посиланням нижче:""",uk_UA
+mail.auth.restore_password.label,"Змінити пароль",uk_UA
+mail.company.status.subject,"Ваша компанія змінила статус",uk_UA
+mail.company.status.text,"Ваша компанія змінила статус на:",uk_UA
+mail.company.status.approved,Схвалено,uk_UA
+mail.company.status.pending,"Очікування схвалення",uk_UA
+mail.company.status.denied,Відмовлено,uk_UA
+mail.customer.registration.subject,"Дякуємо за реєстрацію в магазині Spryker Shop!",uk_UA
+mail.customer.registration.text,"Дякуємо за реєстрацію в магазині Spryker Shop!",uk_UA
+mail.customer.restore_password.subject,"Новий пароль для вашого облікового запису в магазині Spryker Shop",uk_UA
+mail.customer.restore_password.text,"""Хтось запросив новий пароль для вашого облікового запису магазину Spryker. Якщо це не ви, просто проігноруйте цей лист. Якщо це ви, будь ласка, перейдіть за посиланням нижче:""",uk_UA
+mail.customer.restore_password_confirmation.subject,"Ваш пароль успішно змінено!",uk_UA
+mail.customer.restore_password_confirmation.text,"Ваш пароль успішно змінено!",uk_UA
+mail.merchant.restore_password.subject,"Новий пароль для вашого облікового запису в Порталі торговця Spryker",uk_UA
+mail.merchant.restore_password.text,"""Хтось запросив новий пароль для вашого облікового запису порталу торговця Spryker. Якщо це не ви, просто проігноруйте цей лист. Якщо це ви, будь ласка, перейдіть за посиланням нижче:""",uk_UA
+mail.merchant.restore_password.label,"Змінити пароль",uk_UA
+mail.newsletter.subscribed.subject,"Ласкаво просимо до розсилки новин від Spryker",uk_UA
+mail.newsletter.subscribed.text,"Ми раді, що ви підписалися на нашу розсилку. Ми зробимо все можливе, щоб надсилати вам найактуальніші та захоплюючі новини та оновлення.",uk_UA
+mail.newsletter.subscribed.footer.text,"Насолоджуйтеся вашими покупками.",uk_UA
+mail.newsletter.unsubscribed.subject,"Вибачте, що ви йдете...",uk_UA
+mail.newsletter.unsubscribed.text,"Ваша електронна адреса була відписана від розсилки новин магазину Spryker, але ви завжди можете керувати підпискою в своєму профілі клієнта.",uk_UA
+mail.order.confirmation.subject,"Дякуємо за ваше замовлення в магазині Spryker Shop",uk_UA
+mail.order.confirmation.salutation,Привіт,uk_UA
+mail.order.confirmation.text_line_1,"Дякуємо за покупки в магазині Spryker Shop!",uk_UA
+mail.order.confirmation.text_line_2,"Ми пишаємо, щоб повідомити вас, що ми отримали ваше замовлення. Ви отримаєте підтвердження відправлення по електронній пошті від нас, як тільки замовлення буде відправлено.",uk_UA
+mail.order.confirmation.text_line_3,"Сподіваємося, що вам сподобалася ваша замовлення. У разі зміни рішення, ви можете повернути його протягом 14 днів.",uk_UA
+mail.order.confirmation.details,"Деталі вашого замовлення",uk_UA
+mail.order.confirmation.shipping_address,"Адреса доставки",uk_UA
+mail.order.confirmation.billing_address,"Адреса платника",uk_UA
+mail.order.confirmation.order_number,"Номер замовлення",uk_UA
+mail.order.confirmation.price_including_tax,"Загальна вартість, включаючи податки",uk_UA
+mail.order.confirmation.date,"Дата замовлення",uk_UA
+mail.order.confirmation.footer.text_line_1,"Чудового дня!",uk_UA
+mail.order.confirmation.footer.text_line_2,"Ваш магазин Spryker",uk_UA
+mail.order.confirmation.shipment_details,"Деталі доставки",uk_UA
+mail.order.confirmation.shipment_number,"Номер відправлення",uk_UA
+mail.order.confirmation.shipping_method,"Спосіб доставки",uk_UA
+mail.order.confirmation.delivery_date,"Бажана дата доставки",uk_UA
+mail.order.confirmation.products_in_shipment,"Продукти за доставкою",uk_UA
+mail.order.confirmation.product_title,"Назва товару",uk_UA
+mail.order.confirmation.item_quantity,"Кількість товару",uk_UA
+mail.order.confirmation.item_sku,"Артикул товару",uk_UA
+mail.order.confirmation.item_price_including_tax,"Загальна вартість товару включаючи податки",uk_UA
+mail.order.shipped.subject,"Ваше замовлення %orderReference% в дорозі",uk_UA
+mail.order.shipped.salutation,Привіт,uk_UA
+mail.order.shipped.text,"Ваше замовлення вже в дорозі.",uk_UA
+mail.order.shipped.details,"Деталі вашого замовлення",uk_UA
+mail.order.shipped.order_number,"Номер замовлення",uk_UA
+mail.order.shipped.price_including_tax,"Загальна вартість, включаючи податки",uk_UA
+mail.order.shipped.date,"Дата замовлення",uk_UA
+mail.order.shipped.footer.text_line_1,"Чудового дня!",uk_UA
+mail.order.shipped.footer.text_line_2,"Ваш магазин Spryker",uk_UA
+mail.order_invoice.subject,"Рахунок: %invoiceReference%",uk_UA
+mail.trans.customerRegistration.confirmationLink,"Підтвердіть свою електронну адресу",uk_UA
+cart.item.remove.confirm,"Ви впевнені, що хочете видалити цей товар?",uk_UA
+cart.voucher.remove,Видалити,uk_UA
+cart.vouchers.clear-all,"Очистити все",uk_UA
+cart.voucher.apply.failed,"Ваш код купона недійсний.",uk_UA
+cart.voucher.apply.successful,"Ваш код купона було застосовано",uk_UA
+cart.voucher.apply.non_applicable,"Код купона недійсний",uk_UA
+cart.item.bundle.description,"Елементи у комплекті:",uk_UA
+bundle.title,"Набір включає:",uk_UA
+checkout.summary.item.bundle.description,"Елементи у комплекті:",uk_UA
+customer.order.bundled_items,"Елементи у комплекті:",uk_UA
+customer.order.options,"Опції продукту:",uk_UA
+cart.item.option.description,"Опції продукту:",uk_UA
+cart.item.sku,Артикул,uk_UA
+checkout.summary.item.option.description,"Опції продукту:",uk_UA
+invoice.order.address.billing,"Адреса платника",uk_UA
+invoice.order.address.shipping,"Адреса доставки",uk_UA
+invoice.header,Рахунок,uk_UA
+invoice.order.number,"Посилання на замовлення",uk_UA
+invoice.customer.number,"Посилання клієнта",uk_UA
+invoice.created.at,"Дата рахунку",uk_UA
+invoice.order.item.sku,Артикул,uk_UA
+invoice.order.item.product_name,"НАЗВА ПРОДУКТУ",uk_UA
+invoice.order.item.quantity,КІЛЬКІСТЬ,uk_UA
+invoice.order.item.price,"ЦІНА ТОВАРУ",uk_UA
+invoice.order.item.price_total,"ЗАГАЛЬНА СУМА ТОВАРІВ",uk_UA
+invoice.order.grand_total,"ЗАГАЛЬНА СУМА",uk_UA
+invoice.order.tax_amount,"Включає ПДВ",uk_UA
+invoice.order.expenses.total,"Вартість доставки",uk_UA
+invoice.company.address,"Spryker Systems GmbH<br/>вул. Джулі-Вольфторн, 1<br />10115 Берлін, Німеччина",uk_UA
+invoice.company.bank.information,"Назва банку<br/>IBAN 1234 5678 9123 4567 89<br />BIC 12345678<br/>Торговий реєстр ABC123456<br />Податковий номер 12/345/6789",uk_UA
+invoice.company.contact.information,"+49 (0)30 2084983 50<br/>hello@spryker.com",uk_UA
+DummyPaymentCreditCard,"Кредитна картка",uk_UA
+payment.dummy-payment.credit-card,"Сплатіть за допомогою наступної кредитної картки:",uk_UA
+dummyPaymentCreditCard.card_type,"Тип картки",uk_UA
+dummyPaymentCreditCard.card_number,"Номер картки",uk_UA
+dummyPaymentCreditCard.name_on_card,"Ім'я на картці",uk_UA
+dummyPaymentCreditCard.card_expires,"Дата закінчення строку дії",uk_UA
+dummyPaymentCreditCard.card_security_code,CVC,uk_UA
+dummyPaymentCreditCard.hidden_numbers,"*********",uk_UA
+dummyPaymentInvoice.date_of_birth,"Дата народження",uk_UA
+cart.item.item_price,"Ціна товару",uk_UA
+cart.item.item_total,"Загальна сума товарів",uk_UA
+product_review.product_ratings,"Оцінки товару",uk_UA
+product_review.product_reviews,"Відгуки про товари",uk_UA
+product_review.ratings_reviews,"Рейтинги та відгуки",uk_UA
+product_review.average_ratings,"Середня оцінка",uk_UA
+product_review.on,на,uk_UA
+product_review.summary.star,Зірка,uk_UA
+product_review.summary.stars,Зірки,uk_UA
+product_review.summary.out_of,"з",uk_UA
+product_review.summary.review,огляд,uk_UA
+product_review.summary.reviews,відгуки,uk_UA
+product_review.no_reviews,"Ще немає відгуків на цей продукт",uk_UA
+product_review.submit.add_a_review,"Напишіть відгук",uk_UA
+product_review.submit.rating,Рейтинг,uk_UA
+product_review.submit.rating.none,"Не обрано жодної оцінки",uk_UA
+product_review.submit.summary,Огляд,uk_UA
+product_review.submit.description,Опис,uk_UA
+product_review.submit.nickname,Назва,uk_UA
+product_review.submit.success,"Ваш відгук про продукт було успішно надіслано.",uk_UA
+product_review.error.no_customer,"Будь ласка, увійдіть, щоб скористатися цією функцією.",uk_UA
+product_review.error.invalid_rating,"Потрібно вибрати рейтинг товару.",uk_UA
+product_review.submit.error,"Відгук не було відправлено.",uk_UA
+product_review.error.please_login,"Лише клієнти можуть скористатися цією функцією. Будь ласка, увійдіть в систему.",uk_UA
+payment.cancellation.title,"Скасування оплати",uk_UA
+payment.cancellation.message,"Ви скасували свою оплату.",uk_UA
+cart.promotion.items,"Рекламні продукти",uk_UA
+checkout.payment_method.invalid,"Оплата при оформленні замовлення недійсна",uk_UA
+checkout.payment.provider.DummyPayment,"Способи оплати",uk_UA
+checkout.order.duplicate,"Замовлення з вказаним посиланням {{reference}} вже існує",uk_UA
+checkout.item.option.pre.condition.validation.error.exists,"Опція продукту %name% більше недоступна.",uk_UA
+cms.preview.access_denied,"Ви не увійшли в систему або у вас немає дозволу на доступ до цієї сторінки.",uk_UA
+product-cart.validation.error.abstract-product-exists,"Продукт з кодом ""sku"" не знайдено",uk_UA
+product-cart.validation.error.concrete-product-exists,"Продукт з кодом ""sku"" не знайдено",uk_UA
+cart.item.option.pre.check.validation.error.exists,"Опція продукту %name% більше недоступна.",uk_UA
+product-cart.validation.error.product-option-value-price-exists,"Ціна варіанту продукту не знайдена для продукту '%sku%'.",uk_UA
+product-cart.validation.error.concrete-product-inactive,"Продукт %sku% неактивний.",uk_UA
+product-cart.info.concrete-product-inactive.removed,"Товар %sku%, який був неактивним, був видалений з вашої кошика покупок.",uk_UA
+product-approval.message.not-approved,"Товар з артикулом %sku% неактивний.",uk_UA
+product.filter.label,Мітка,uk_UA
+product.filter.price-default-chf-gross_mode,Ціна,uk_UA
+product.filter.price-default-chf-net_mode,Ціна,uk_UA
+product.filter.price-default-eur-net_mode,Ціна,uk_UA
+product.filter.price-default-eur-gross_mode,Ціна,uk_UA
+product.filter.price-default-usd-net_mode,"Діапазон цін",uk_UA
+product.filter.price-default-usd-gross_mode,"Діапазон цін",uk_UA
+cart.pre.check.product_discontinued,"Продукт '%name%' більше не виробляється, будь ласка, оберіть альтернативний.",uk_UA
+replacement_for_widget.replacement_for,"Заміна на",uk_UA
+product_alternative_widget.product_alternative,"Альтернативні товари",uk_UA
+product_alternative_widget.add_to_shopping_list,"Додати до списку покупок",uk_UA
+product_alternative_widget.add_to_wishlist,"Додати до списку бажань",uk_UA
+product_alternative_widget.alternative_for,"Альтернатива для назви",uk_UA
+product_alternative_widget.product_status.discontinued,Припинено,uk_UA
+product_alternative_widget.show_all,"Показати все",uk_UA
+product_alternative_widget.not_applicable,"Н/Д",uk_UA
+product_discontinued_widget.note,Примітка,uk_UA
+product_discontinued.super_attribute_discontinued,Припинено,uk_UA
+price.mode.gross_mode,"Валові ціни",uk_UA
+price.mode.net_mode,"Чисті ціни",uk_UA
+page.detail.volume_price.quantity,Кількість,uk_UA
+page.detail.volume_price.price,Ціна,uk_UA
+cart.pre.check.price.failed,"Ціна в обраній валюті не знайдена для товару з артикулом '%sku%'. Будь ласка, змініть валюту або видаліть товар з замовлення.",uk_UA
+price.mode.switch.error,"Не можна змінювати режим ціни, коли є товари в кошику.",uk_UA
+price-cart-connector.info.concrete-product-without-price.removed,"Товар %sku%, без ціни, був видалений з вашого кошика.",uk_UA
+cart.pre.check.shipment.failed,"Не вдається застосувати ці зміни. Спосіб доставки не знайдено. Будь ласка, виберіть інший спосіб доставки.",uk_UA
+catalog.view.mode.grid,Сітка,uk_UA
+catalog.view.mode.list,Список,uk_UA
+cart.quantity.adjusted,"Кількість запитаних товарів була скоригована, оскільки обрана кількість недоступна.",uk_UA
+catalog.sale,Розпродаж,uk_UA
+catalog.new,Нове,uk_UA
+company.account.page-title,"Моя компанія",uk_UA
+company.account.name,"Назва компанії",uk_UA
+company.account,"Обліковий запис компанії",uk_UA
+company.account.address.edit,Редагувати,uk_UA
+company.account.address.delete,Видалити,uk_UA
+company.account.shipping_address,"Адреса доставки за замовчуванням",uk_UA
+company.account.billing_address,"Адреса платника за замовчуванням",uk_UA
+company.account.address.address1,Вулиця,uk_UA
+company.account.address.number,Номер,uk_UA
+company.account.address.address3,"Додаток до адреси",uk_UA
+company.account.address.zip_code,"Поштовий індекс",uk_UA
+company.account.address.city,Місто,uk_UA
+company.account.address.country,Країна,uk_UA
+company.account.address.phone,"Номер телефону",uk_UA
+company.account.address,Адреси,uk_UA
+company.account.edit_address_information,"Редагувати інформацію про адресу",uk_UA
+company.account.login.title,"Открийте свій обліковий запис",uk_UA
+company.account.login.email,"Електронна пошта",uk_UA
+company.account.login.password,Пароль,uk_UA
+company.account.registration.title,"Створити обліковий запис",uk_UA
+company.user.first_name,Ім'я,uk_UA
+company.user.last_name,Прізвище,uk_UA
+company.user.salutation.mr,Пане,uk_UA
+company.user.salutation.mrs,Пані.,uk_UA
+company.user.salutation.ms,Пані.,uk_UA
+company.user.salutation.dr,Доктор,uk_UA
+company.account.overview,Огляд,uk_UA
+company.user.invitation.title.plural,Запрошення,uk_UA
+company.user.invitation.invite_users,"Запросити користувачів",uk_UA
+company.user.invitation.imported.title.plural,"Імпортовані запрошення",uk_UA
+company.user.invitation.import.title,"Імпортуйте нові запрошення",uk_UA
+company.user.invitation.import.download.errors.file,"Деякі запрошення не вдалося імпортувати. Натисніть <a href=""%link%"">тут</a>, щоб завантажити файл з помилками.",uk_UA
+company.user.invitation.import.error.message,"Запрошення не вдалося імпортувати",uk_UA
+company.user.invitation.file,"Файл запрошень",uk_UA
+company.user.invitation.first.name,Ім'я,uk_UA
+company.user.invitation.last.name,Прізвище,uk_UA
+company.user.invitation.mail,Пошта,uk_UA
+company.user.invitation.business.unit,Бізнес-одиниця,uk_UA
+company.user.invitation.status,Статус,uk_UA
+company.user.invitation.actions,Дії,uk_UA
+company.user.invitation.status.new,"Не відправлено",uk_UA
+company.user.invitation.status.pending,Очікується,uk_UA
+company.user.invitation.status.accepted,Прийнято,uk_UA
+company.user.invitation.not.found.message,"Запрошення не знайдено",uk_UA
+company.user.invitation.send.button,Надіслати,uk_UA
+company.user.invitation.sent.success.message,"Запрошення успішно відправлено",uk_UA
+company.user.invitation.sent.error.message,"Запрошення не було відправлено",uk_UA
+company.user.invitation.send.all.button,"Надіслати все",uk_UA
+company.user.invitation.sent.all.success.message,"Усі запрошення успішно відправлені",uk_UA
+company.user.invitation.sent.all.none.found.message,"Не знайдено запрошень для відправлення",uk_UA
+company.user.invitation.sent.all.error.message,"Деякі запрошення не вдалося відправити",uk_UA
+company.user.invitation.resend.title,"Повторно надіслати запрошення",uk_UA
+company.user.invitation.resend.confirmation.question,"Ви впевнені, що хочете відправити запрошення ще раз?",uk_UA
+company.user.invitation.resend.button,"Повторно відправити",uk_UA
+company.user.invitation.resent.success.message,"Запрошення успішно відправлено повторно",uk_UA
+company.user.invitation.resent.error.message,"Запрошення не було відправлене повторно",uk_UA
+company.user.invitation.delete.title,"Видалити запрошення",uk_UA
+company.user.invitation.delete.confirmation.question,"Ви впевнені, що хочете видалити запрошення?",uk_UA
+company.user.invitation.delete.button,Видалити,uk_UA
+company.user.invitation.deleted.success.message,"Запрошення успішно видалено",uk_UA
+company.user.invitation.deleted.error.message,"Запрошення не було видалено",uk_UA
+company.user.invitation.invalid,"Ваше запрошення недійсне",uk_UA
+company.user.invitation.expired,"Ваше запрошення минуло строк дії",uk_UA
+company.user.invitation.accepted,"Ваше запрошення вже було використане",uk_UA
+company.user.invitation.import.file.invalid,"Файл імпорту не є дійсним",uk_UA
+message.submit_link,Гаразд!,uk_UA
+mail.company.user.invitation.subject,Запрошення,uk_UA
+mail.company.user.invitation.body.html,"Привіт %name%, Вас запросили приєднатися до Облікового запису Компанії на демо-магазині Spryker. Будь ласка, перейдіть за цим <a href=""%invitationLink%"">посиланням</a>, щоб завершити реєстрацію.",uk_UA
+mail.company.user.invitation.body.text,"Привіт %name%, Вас запросили приєднатися до Облікового запису Компанії на демонстраційному магазині Spryker, будь ласка, перейдіть за посиланням %invitationLink%, щоб завершити реєстрацію.",uk_UA
+company.account.add_new_address,"Визначити нову адресу",uk_UA
+company.account.table.actions,Дії,uk_UA
+company.account.business_unit.view,Переглянути,uk_UA
+company.account.business_unit.create,Створити,uk_UA
+company.account.business_unit.edit,Редагувати,uk_UA
+company.account.business_unit.delete,Видалити,uk_UA
+company.account.business_unit.address,Адреси,uk_UA
+company.account.business_unit.details,Деталі,uk_UA
+company.account.business_unit.delete.confirmation.warning,Увага,uk_UA
+company.company_business_unit.delete.error.has_users,"Ви не можете видалити бізнес-підрозділ, поки він містить користувачів.",uk_UA
+company.account.address.is_default_billing,"Це типова адреса для виставлення рахунків",uk_UA
+company.account.authorization.success,"Реєстрація успішно завершена",uk_UA
+company.account.company_user,Користувачі,uk_UA
+company.account.company_user.add,"Додати нового користувача",uk_UA
+company.account.company_role,Ролі,uk_UA
+company.account.company_role.add,"Додати нову роль",uk_UA
+company.account.company_role.default,Стандартний,uk_UA
+company.account.company_role.edit,Редагувати,uk_UA
+company.account.company_role.name,Назва,uk_UA
+company.account.company_role.is_default,"За замовчуванням",uk_UA
+company.account.company_role.edit_information,"Редагувати інформацію про роль",uk_UA
+company.account.company_role.details,Деталі,uk_UA
+company.account.company_role.view,Переглянути,uk_UA
+company.account.company_role.user.manage,"Керуйте призначеними користувачами компанії",uk_UA
+company.account.company_role.users,Користувачі,uk_UA
+company.account.company_role.permissions,Дозволи,uk_UA
+company.account.company_role.permission.key,Ключ,uk_UA
+company.account.company_role.permission.configure,Налаштувати,uk_UA
+company.account.company_role.permission.manage,"Керування дозволами",uk_UA
+company.account.company_role.permission.status,Статус,uk_UA
+company.account.company_role.permission.assign,Призначити,uk_UA
+company.account.company_role.permission.assigned,Призначено,uk_UA
+company.account.company_role.permission.unassign,"Зняти призначення",uk_UA
+company.account.company_role.permission.unassigned,"Не призначено",uk_UA
+company.company_role.delete.error.has_users,"Ви не можете видалити роль, поки вона містить користувачів.",uk_UA
+company.account.business_unit.name,Назва,uk_UA
+company.account.business_unit.email,"Електронна пошта",uk_UA
+company.account.business_unit.phone,"Номер телефону",uk_UA
+company.account.business_unit.external_url,"Зовнішнє посилання",uk_UA
+company.account.business_unit,Бізнес-підрозділи,uk_UA
+company.account.business_unit.add,"Створити бізнес-підрозділ",uk_UA
+company.account.business_unit.edit_information,Редагувати,uk_UA
+company.account.company_name,"Назва компанії",uk_UA
+company.account.company_user.name,Назва,uk_UA
+company.account.company_user.role,Роль,uk_UA
+company.account.company_user.business_unit,Бізнес-одиниця,uk_UA
+company.account.company_user.edit,Редагувати,uk_UA
+company.account.company_user.delete.successful,"Користувача було видалено",uk_UA
+company.account.company_user.delete,Видалити,uk_UA
+company.account.company_user.edit_information,"Редагувати інформацію користувача",uk_UA
+customer.access.cannot_see_price,"Будь ласка, увійдіть, щоб побачити ціну",uk_UA
+company.account.company_user.delete.back,Назад,uk_UA
+company.account.company_user.enable,Увімкнути,uk_UA
+company.account.company_user.disable,Вимкнути,uk_UA
+company.account.company_user.status.enable.success,"Користувач компанії успішно активований",uk_UA
+company.account.company_user.status.enable.error,"Користувач компанії не може бути увімкненим",uk_UA
+company.account.company_user.status.enable.error.cannot_enable_yourself,"Вам заборонено включати себе",uk_UA
+company.account.company_user.status.disable.success,"Користувач компанії успішно відключений",uk_UA
+company.account.company_user.status.disable.error,"Користувач компанії не може бути вимкнений",uk_UA
+company.account.company_user.status.disable.error.cannot_disable_yourself,"Вам заборонено вимкнути себе",uk_UA
+quick-order.page-title,"Швидке замовлення",uk_UA
+quick-order.input-label.qty,"# Кількість",uk_UA
+quick-order.input-label.sku,Артикул,uk_UA
+quick-order.button.add-more-rows,"Додати ще рядки",uk_UA
+quick-order.button.create-order,"Створити замовлення",uk_UA
+quick-order.button.clear-all-rows,"Очистити всі рядки",uk_UA
+quick-order.message.success.the-form-items-have-been-successfully-cleared,"Елементи форми були успішно очищені.",uk_UA
+quick-order.errors.items-required,"Будь ласка, введіть принаймні один артикул товару",uk_UA
+quick-order.errors.quantity-required,"Кількість повинна бути принаймні 1",uk_UA
+quick-order.paste-order.title,"Вставте ваше замовлення",uk_UA
+quick-order.paste-order.description,"Скопіюйте та вставте ваше замовлення з номером товару та кількістю, розділеними пробілами, крапками з комою або комами.",uk_UA
+quick-order.paste-order.input-placeholder.copy-paste-order,"Вставте ваше замовлення тут",uk_UA
+quick-order.paste-order.button.verify,Перевірити,uk_UA
+quick-order.paste-order.errors.text-order-format-incorrect,"Формат замовлення некоректний.",uk_UA
+quick-order.paste-order.errors.parser.separator-not-detected,"Роздільник не визначений.",uk_UA
+checkout.pre.check.shipment.failed,"Недійсний метод доставки %method_name% (%carrier_name%).",uk_UA
+checkout.validation.item.no_shipment_selected,"Не вибрано жодної доставки для товару у кошику %id%.",uk_UA
+checkout.validation.customer_address.not_found,"Адресу клієнта з ID %id% не знайдено.",uk_UA
+checkout.validation.customer_address.not_applicable,"Адреси клієнтів застосовуються лише до клієнтів.",uk_UA
+measurement_units.item.name,Пункт,uk_UA
+measurement_units.standard.weight.kilo.name,Кіло,uk_UA
+measurement_units.standard.weight.gram.name,Грам,uk_UA
+measurement_units.standard.weight.tone.name,Тон,uk_UA
+measurement_units.standard.weight.gbou.name,"ГБ Унція",uk_UA
+measurement_units.standard.weight.usou.name,"Унція США",uk_UA
+measurement_units.standard.weight.pund.name,Фунт,uk_UA
+measurement_units.standard.weight.huwg.name,"Сотня ваги",uk_UA
+measurement_units.standard.weight.gbtn.name,"Гігабайт Тонн",uk_UA
+measurement_units.standard.weight.ustn.name,"Тонна США",uk_UA
+measurement_units.standard.weight.oztr.name,"Тройська унція",uk_UA
+measurement_units.standard.weight.ucwt.name,"Сотня фунтів США",uk_UA
+measurement_units.standard.length.metr.name,Лічильник,uk_UA
+measurement_units.standard.length.cmet.name,Сантиметр,uk_UA
+measurement_units.standard.length.mmet.name,Міліметр,uk_UA
+measurement_units.standard.length.kmet.name,Кілометр,uk_UA
+measurement_units.standard.length.inch.name,Дюйм,uk_UA
+measurement_units.standard.length.yard.name,Двір,uk_UA
+measurement_units.standard.length.foot.name,Нога,uk_UA
+measurement_units.standard.length.mile.name,Миля,uk_UA
+measurement_units.standard.area.smet.name,"Квадратний метр",uk_UA
+measurement_units.standard.area.sqki.name,"Квадратний кілометр",uk_UA
+measurement_units.standard.area.smil.name,"Квадратний міліметр",uk_UA
+measurement_units.standard.area.scmt.name,"Квадратний сантиметр",uk_UA
+measurement_units.standard.area.sqin.name,"Квадратний дюйм",uk_UA
+measurement_units.standard.area.sqfo.name,"Квадратний фут",uk_UA
+measurement_units.standard.area.sqmi.name,"Квадратний миль",uk_UA
+measurement_units.standard.area.sqya.name,"Квадратний ярд",uk_UA
+measurement_units.standard.area.acre.name,Акр,uk_UA
+measurement_units.standard.area.ares.name,Чи,uk_UA
+measurement_units.standard.area.hect.name,Гектар,uk_UA
+measurement_units.standard.litr.name,Літр,uk_UA
+measurement_units.standard.celi.name,"Сантиметр кубічний",uk_UA
+measurement_units.standard.mili.name,Мілілітр,uk_UA
+measurement_units.standard.gbga.name,"Галон Великобританії",uk_UA
+measurement_units.standard.gbpi.name,"Пінта Великобританії",uk_UA
+measurement_units.standard.uspi.name,"Американський пінт",uk_UA
+measurement_units.standard.gbqa.name,"Кварт (Велика Британія)",uk_UA
+measurement_units.standard.usqa.name,"Кварт (США)",uk_UA
+measurement_units.standard.usga.name,"Галон США",uk_UA
+measurement_units.standard.barl.name,Бочка,uk_UA
+measurement_units.standard.bcuf.name,"Мільярд кубічних футів",uk_UA
+measurement_units.standard.bdft.name,"Кубічні фути",uk_UA
+measurement_units.standard.cbme.name,"Кубічний метр",uk_UA
+measurement_units.standard.miba.name,"Мільйонний барель",uk_UA
+measurement_units.standard.dgeu.name,"Дизельний еквівалент галона",uk_UA
+measurement_units.standard.ggeu.name,"Еквівалент галона бензину",uk_UA
+measurement_units.standard.busl.name,Корзина,uk_UA
+measurement_units.recommendation.between-units-info,"Кількість, яку ви обрали, знаходиться між 2 базовими одиницями",uk_UA
+measurement_units.recommendation.min-violation,"Мінімальні вимоги до кількості продукту не виконані",uk_UA
+measurement_units.recommendation.max-violation,"Максимальні вимоги до кількості продукту не виконані",uk_UA
+measurement_units.recommendation.suggestion,"Бажаєте додати",uk_UA
+measurement_units.new-price,"Нова ціна",uk_UA
+product.measurement.sales_unit,"Одиниця продажу",uk_UA
+cart.pre.check.quantity.min.failed,"Мінімальні вимоги до кількості для товару з артикулом '%sku%' не виконані.",uk_UA
+cart.pre.check.quantity.max.failed,"Перевищено максимальну кількість для товару з артикулом '%sku%'.",uk_UA
+cart.pre.check.quantity.value.failed,"Неправильна кількість для товару з артикулом '%sku%'.",uk_UA
+cart.pre.check.quantity.interval.failed,"Вимоги до інтервалу кількості для товару з артикулом '%sku%' не виконані.",uk_UA
+persistent_cart.error.quote.not_available,"Кошик не існує",uk_UA
+persistent_cart.quote.remove.success,"Кошик успішно видалено",uk_UA
+persistent_cart.quote.remove.can_not_remove_last_cart,"Клієнт повинен мати принаймні одну корзину.",uk_UA
+cart_note.cart_page.item.note_added,"Примітка успішно додана до товару '%sku%'",uk_UA
+cart_note.cart_page.cart.note_added,"Примітка успішно додана до кошика",uk_UA
+cart_note.quote_form.enter_note,"Додати примітку до кошика",uk_UA
+cart_note.quote_form.placeholder,"Введіть свою нотатку",uk_UA
+cart_note.item_form.enter_note,"Додати примітку до товару",uk_UA
+cart_note.item_form.placeholder,"Введіть свою нотатку",uk_UA
+cart_note.form.save,Зберегти,uk_UA
+cart_note.checkout_page.item_note,Примітка,uk_UA
+cart_note.checkout_page.quote_note,"Примітка до кошика",uk_UA
+cart_note.customer_page.item_note,"Примітка до товару замовлення",uk_UA
+cart_note.customer_page.order_note,"Примітка до замовлення",uk_UA
+cart.validate.items.price.changed,"Ціни було змінено для товарів з артикулом '%sku%'.",uk_UA
+cart_widget.add_product.separate,"Додати як окремий товар",uk_UA
+multi_cart.form.create_cart,"Додати нову корзину",uk_UA
+multi_cart.form.quote.name,"Назва кошика",uk_UA
+multi_cart.form.edit_cart,"Змінити ім'я",uk_UA
+multi_cart.form.edit_cart_information,"Редагувати інформацію кошика",uk_UA
+multi_cart.cart.set_default.success,"Кошик '%quote%' успішно встановлено як ваш активний кошик.",uk_UA
+multi_cart_page.cart_clear.success,"Кошик успішно очищено",uk_UA
+multi_cart_page.cart_delete_confirmation.warning,Увага,uk_UA
+multi_cart_page.cart_delete_confirmation.trying_to_delete,"Ви намагаєтеся видалити кошик",uk_UA
+multi_cart_page.cart_delete_confirmation.shared_with,"Це спільно з такими користувачами:",uk_UA
+multi_cart_page.cart_delete_confirmation.from_all_of_them,"Воно буде видалено з усіх них",uk_UA
+multi_cart_page.cart_delete_confirmation.cancel,Скасувати,uk_UA
+multi_cart_page.cart_delete_confirmation.delete,Видалити,uk_UA
+multi_cart_page.cart_delete_confirmation.breadcrumbs.shopping_carts,"Кошики для покупок",uk_UA
+multi_cart_widget.cart.cart_name,"Назва кошика",uk_UA
+multi_cart_widget.cart.add,"Створити нову кошик",uk_UA
+multi_cart_widget.cart.action.change_name,"Змінити ім'я",uk_UA
+multi_cart_widget.cart.action.duplicate,Дублювати,uk_UA
+multi_cart_widget.cart.action.clear,"Очистити кошик",uk_UA
+multi_cart_widget.cart.action.delete,"Видалити кошик",uk_UA
+multi_cart_widget.cart.action.view,"Переглянути деталі",uk_UA
+multi_cart_widget.cart.action.set_default,"Встановити активним",uk_UA
+multi_cart_widget.cart.default,Активний,uk_UA
+multi_cart_widget.cart.item,Пункт,uk_UA
+multi_cart_widget.cart.items,Товари,uk_UA
+multi_cart_widget.cart.view_all,"Переглянути всі кошики",uk_UA
+multi_cart_widget.cart.cart,Кошик,uk_UA
+multi_cart_widget.cart.carts,Кошики,uk_UA
+multi_cart_widget.cart.list,"Список кошика",uk_UA
+multi_cart_widget.cart.status,Статус,uk_UA
+multi_cart_widget.cart.sub_total,Підсумок,uk_UA
+multi_cart_widget.cart.actions,Дії,uk_UA
+multi_cart_widget.cart.created.success,"Кошик '%quoteName%' був успішно створений",uk_UA
+multi_cart_widget.cart.updated.success,"Кошик успішно оновлено",uk_UA
+multi_cart_widget.cart.remove.confirm,"Ви впевнені, що хочете видалити цей кошик?",uk_UA
+multi_cart_widget.cart.delete.error,"Кошик не може бути видалений",uk_UA
+shared_cart_widget.add_product.separate,"Додати як окремий товар",uk_UA
+shared_cart_widget.cart.share,"Поділитися кошиком",uk_UA
+shared_cart_widget.cart.unshare,"Скасувати спільний доступ до кошика",uk_UA
+shared_cart_widget.cart.dismiss,Закрити,uk_UA
+shared_cart_widget.share_list.shared_with,"Кошик, який було поділено з",uk_UA
+shared_cart_widget.share_list.customer_name,"Ім'я клієнта",uk_UA
+shared_cart_widget.share_list.permission,"Рівень доступу",uk_UA
+shared_cart_widget.share_list.actions,Дії,uk_UA
+shared_cart_widget.share_list.action.unshare,"Скасувати спільний доступ до кошика",uk_UA
+shared_cart.share_list.permissions.NO_ACCESS,"Немає доступу",uk_UA
+shared_cart.share_list.permissions.READ_ONLY,"Тільки для читання",uk_UA
+shared_cart.share_list.permissions.FULL_ACCESS,"Повний доступ",uk_UA
+shared_cart.form.share_cart,"Поділитися кошиком",uk_UA
+shared_cart.form.share_cart.title,"Поділитися кошиком ""cart_name""",uk_UA
+shared_cart.form.customer,"Ім'я клієнта",uk_UA
+shared_cart.form.select_customer,"Вибрати клієнта",uk_UA
+shared_cart.form.select_permissions,"Виберіть рівень доступу",uk_UA
+shared_cart.form.share_button,Поділитися,uk_UA
+shared_cart.form.save_button,Зберегти,uk_UA
+shared_cart.form.data_empty,"Немає користувачів, з якими ви можете поділитися кошиком покупок.",uk_UA
+shared_cart.share.error.already_exist,"Кошик вже був поділений з цим клієнтом",uk_UA
+shared_cart.share.breadcrumbs.share,Поділитися,uk_UA
+shared_cart.share.breadcrumbs.shopping_carts,"Кошики для покупок",uk_UA
+shared_cart.share.form.users,Користувачі,uk_UA
+shared_cart_page.share.success,"Кошик успішно поділений",uk_UA
+shared_cart_page.unshare.success,"Кошик був успішно розшарений",uk_UA
+shopping_list.shopping_list,"Список покупок",uk_UA
+shopping_list.item_quantity,Кількість,uk_UA
+shopping_list.remove_all_items,"Видалити все",uk_UA
+shopping_list.item_note,Примітка:,uk_UA
+shopping_list.item_note.add,"Додати примітку +",uk_UA
+customer.account.shopping_list,"Списки покупок",uk_UA
+customer.account.shopping_list.access,Доступ,uk_UA
+customer.account.shopping_list.access.full_access,"Повний доступ",uk_UA
+customer.account.shopping_list.access.read_only,"Тільки для читання",uk_UA
+customer.account.shopping_list.create.success,"Список '%name%' було успішно створено.",uk_UA
+customer.account.shopping_list.create.failed,"Створення списку покупок не вдалося.",uk_UA
+customer.account.shopping_list.overview.create.success,"Список покупок успішно створено.",uk_UA
+customer.account.shopping_list.overview.shared_with,"Поділитися з",uk_UA
+customer.account.shopping_list.overview.title,"Керуйте списками покупок",uk_UA
+customer.account.shopping_list.overview.enter_name,"Введіть ім'я тут",uk_UA
+customer.account.shopping_list.overview.add_new,"Додати новий список покупок",uk_UA
+customer.account.shopping_list.overview.name,"Назва списку",uk_UA
+customer.account.shopping_list.overview.item_count,"Кількість товарів",uk_UA
+customer.account.shopping_list.overview.modified_date,"Дата останнього оновлення",uk_UA
+customer.account.shopping_list.overview.created_date,"Дата створення",uk_UA
+customer.account.shopping_list.overview.actions,Дії,uk_UA
+customer.account.shopping_list.overview.edit,Перейменувати,uk_UA
+customer.account.shopping_list.overview.view,Переглянути,uk_UA
+customer.account.shopping_list.overview.form.new,"Створити новий список покупок",uk_UA
+customer.account.shopping_list.overview.delete,Видалити,uk_UA
+customer.account.shopping_list.overview.empty,"У вас ще немає жодних списків покупок.",uk_UA
+customer.account.shopping_list.overview.share,Поділитися,uk_UA
+customer.account.shopping_list.overview.print,Друк,uk_UA
+customer.account.shopping_list.overview.dismiss,Закрити,uk_UA
+shopping_list_page.dismiss_confirmation.trying_to_dismiss,"Ви впевнені, що хочете відхилити список покупок?",uk_UA
+shopping_list_page.dismiss.failed,"Список покупок не був закритий.",uk_UA
+shopping_list_page.dismiss.success,"Список покупок було успішно відхилено.",uk_UA
+customer.account.shopping_list.share.from.share,Поділитися,uk_UA
+customer.account.shopping_list.share.from.share_with,"Поділитися списком покупок з:",uk_UA
+customer.account.shopping_list.item.select_item,"Принаймні один товар повинен бути обраний.",uk_UA
+customer.account.shopping_list.item.add.success,"Елемент %sku% було додано до списку.",uk_UA
+customer.account.shopping_list.item.add.failed,"Товар %sku% не може бути доданий до списку.",uk_UA
+customer.account.shopping_list.items.added_to_cart.select_list,"Принаймні один список покупок повинен бути обраний.",uk_UA
+customer.account.shopping_list.product,Продукт,uk_UA
+customer.account.shopping_list.price,Ціна,uk_UA
+customer.account.shopping_list.overview.variant,Варіант,uk_UA
+customer.account.shopping_list.availability,Наявність,uk_UA
+customer.account.shopping_list.available,Доступно,uk_UA
+customer.account.shopping_list.not_available,"На даний момент недоступно",uk_UA
+customer.account.shopping_list.add-to-cart,"Додати до кошика",uk_UA
+customer.account.shopping_list.empty,"Наразі у вашому списку покупок немає жодних товарів.",uk_UA
+customer.account.shopping_list.add_all_available_to_cart,"Додати всі доступні товари в кошик",uk_UA
+customer.account.shopping_list.print_shopping_list,"Друк списку покупок",uk_UA
+customer.account.shopping_list.item.not_added,"Не вдалося додати товар до списку покупок.",uk_UA
+customer.account.shopping_list.add_item.success,"Елемент було додано до списку покупок.",uk_UA
+customer.account.shopping_list.item.remove.success,"Продукт успішно видалено.",uk_UA
+customer.account.shopping_list.item.remove.failed,"Продукт не був видалений зі списку покупок.",uk_UA
+customer.account.shopping_list.updated,"Список покупок успішно оновлено",uk_UA
+customer.account.shopping_list.clear.success,"Список покупок успішно очищено.",uk_UA
+customer.account.shopping_list.delete.success,"Список покупок успішно видалено.",uk_UA
+customer.account.shopping_list.delete.failed,"Список покупок не було видалено.",uk_UA
+customer.account.shopping_list.delete.you_are_trying_to_delete_shopping_list,"Ви намагаєтеся видалити список покупок <a href=""%link%"">%name%</a>",uk_UA
+customer.account.shopping_list.delete.warning,Увага,uk_UA
+customer.account.shopping_list.delete.it_belongs_to_follow,"Це належить до наступного",uk_UA
+customer.account.shopping_list.delete.it_will_be_deleted_from_all_of_them,"Воно буде видалено з усіх них",uk_UA
+customer.account.shopping_list.quantity,Кількість,uk_UA
+customer.account.shopping_list.remove,Видалити,uk_UA
+validation.not_blank,"Це значення не повинно бути порожнім.",uk_UA
+validation.invalid_date,"Дата повинна бути в правильному форматі %s.",uk_UA
+validation.address_number,"Це значення недійсне (прийнятий формат, наприклад: 12ц).",uk_UA
+validation.zip_code,"Це поле повинно містити рівно 5 цифр.",uk_UA
+validation.min_length,"Це поле повинно містити принаймні {{ limit }} символів.",uk_UA
+validation.max_length.singular,"Це значення занадто довге. Воно повинно містити {{ limit }} символів або менше.",uk_UA
+validation.max_length.plural,"Це значення занадто довге. Воно повинно містити не більше {{ limit }} символів.",uk_UA
+validation.email,"Це значення не є дійсною електронною адресою.",uk_UA
+validation.choice,"Це значення недійсне",uk_UA
+customer.account.shopping_list.item.added_to_cart.failed,"Елемент не було додано до кошика.",uk_UA
+customer.account.shopping_list.items.added_to_cart.not_found,"Немає товарів, доступних для додавання в кошик.",uk_UA
+customer.account.shopping_list.item.added_to_cart,"Елемент успішно додано до кошика.",uk_UA
+customer.account.shopping_list.item.added_all_available_to_cart,"Доступні товари успішно додані до кошика.",uk_UA
+customer.account.shopping_list.item.added_all_available_to_cart.failed,"Не всі товари були успішно додані до кошика",uk_UA
+shopping_list.cart.items_add.failed,"Елементи не можуть бути додані до списку",uk_UA
+shopping_list.cart.items_add.success,"Елементи були додані до списку",uk_UA
+shopping_list.not_applicable,"Н/Д",uk_UA
+shopping_list_add_items_widget.add_to_shopping_list,"Додати до списку покупок",uk_UA
+page.detail.add-to-shopping-list,"Додати до списку покупок",uk_UA
+cart.add-to-shopping-list,"Додати до списку покупок",uk_UA
+cart.add-to-shopping-list.form,"Зберегти кошик у список покупок",uk_UA
+cart.add-to-shopping-list.form.placeholder,"Введіть назву нового списку покупок",uk_UA
+cart.add-to-shopping-list.form.add_new,"Додати новий список покупок",uk_UA
+cart.add-to-shopping-list.form.error.empty_name,"Будь ласка, введіть назву списку покупок",uk_UA
+customer.account.shopping_list.overview.add_shopping_list_to_cart,"Додати обрані списки покупок до кошика",uk_UA
+customer.account.shopping_list.items.added_to_cart.failed,"Елементи не були додані до кошика.",uk_UA
+customer.account.shopping_list.items.added_to_cart,"Товари успішно додані до кошика.",uk_UA
+customer.account.shopping_list.add_selected_items_to_cart,"Додати обрані товари до кошика",uk_UA
+customer.account.shopping_list.share.select_company_user,"Вибрати клієнта",uk_UA
+customer.account.shopping_list.share.select_company_business_unit,"Виберіть бізнес-одиницю",uk_UA
+customer.account.shopping_list.share.select_permission,"Виберіть рівень доступу",uk_UA
+customer.account.shopping_list.share.error.one_id_required,"Будь ласка, оберіть клієнта або бізнес-одиницю, з якою ви хочете поділитися списком покупок.",uk_UA
+customer.account.shopping_list.share.share_shopping_list_successful,"Поділитися списком покупок вдалося",uk_UA
+customer.account.shopping_list.share.share_shopping_list_fail,"Цей список покупок вже було раніше поділено з цією особою",uk_UA
+customer.account.shopping_list.overview.owner,"Користувач, який створив список",uk_UA
+customer.account.shopping_list.error.duplicate_name,"Список покупок з такою ж назвою вже існує.",uk_UA
+customer.account.shopping_list.error.cannot_update,"Не вдалося оновити список покупок.",uk_UA
+jumbotron.smart_watches.link,/uk/smart-wearables/smartwatches,uk_UA
+jumbotron.smartphones.link,/uk/telekomunikatsii-ta-navigatsiia/smartfony,uk_UA
+jumbotron.tablets.link,/uk/computers/tablets,uk_UA
+cms-product-group.category.link.text,"Дізнатися більше",uk_UA
+camcorders.category.link,/uk/камери-та-відеокамери/цифрові-камери?,uk_UA
+smartphones.category.link,/uk/telekomunikatsii-ta-navigatsiia/smartfony,uk_UA
+packaging_unit_type.item.name,Пункт,uk_UA
+packaging_unit_type.ring_500.name,"Кільце (500м)",uk_UA
+packaging_unit_type.box.name,Коробка,uk_UA
+packaging_unit_type.palette.name,Палітра,uk_UA
+packaging_unit_type.giftbox.name,"Подарункова коробка",uk_UA
+packaging_unit_type.valentines_special.name,"Спеціальна пропозиція на День Святого Валентина",uk_UA
+packaging_unit_type.pack_20.name,"Пакунок 20",uk_UA
+packaging_unit_type.pack_500.name,"Пакунок 500",uk_UA
+packaging_unit_type.pack_100.name,"Пачка 100",uk_UA
+packaging_unit_type.pack_mixed.name,"Змішані коробки для шурупів",uk_UA
+business_on_behalf_widget.no_selected_company,"Немає обраної компанії",uk_UA
+business_on_behalf_widget.change_company_user,"Змінити користувача компанії",uk_UA
+company_user.business_on_behalf.error.company_not_active,"Ви не можете вибрати цього користувача компанії, компанія неактивна.",uk_UA
+company_user.business_on_behalf.error.company_user_invalid,"Ви не можете вибрати цього користувача компанії, він недійсний.",uk_UA
+company_user.change_company_user,"Змінити користувача компанії",uk_UA
+company_user.no_company,"Жодна компанія",uk_UA
+company_user.remember_choice,"Запам'ятати вибір",uk_UA
+company_page.company_user_restricted_message,"Постійним клієнтам заборонено працювати на сторінках компанії",uk_UA
+company_page.company_business_unit_restricted_message,"У вас немає дозволу на виконання цієї операції",uk_UA
+customer.account.print_shopping_list.table.barcode,Штрих-код,uk_UA
+customer.account.print_shopping_list.table.product_sku,"Артикул товару",uk_UA
+customer.account.print_shopping_list.table.product_name,"Назва товару",uk_UA
+customer.account.print_shopping_list.table.default_price,"Стандартна ціна",uk_UA
+customer.account.print_shopping_list.table.note,Примітка,uk_UA
+customer.account.print_shopping_list.title.shopping_list_id,"Ідентифікатор списку покупок",uk_UA
+customer.account.print_shopping_list.title.shopping_list_name,"Назва списку покупок",uk_UA
+cameras.category.link,/uk/камери-та-відеокамери/цифрові-камери,uk_UA
+samsung.search.link,/uk/search?q=samsung,uk_UA
+cart.title_content,"У вашому кошику",uk_UA
+cart.title_sidebar,"Продовжити оформлення замовлення",uk_UA
+cart.note-title,"Примітка до кошика",uk_UA
+cart.voucher-title,"Код купона",uk_UA
+remove,Видалити,uk_UA
+item,Пункт,uk_UA
+cart.select.default_value,"Будь ласка, оберіть значення",uk_UA
+page.product.upsell-products,"Аналогічні товари",uk_UA
+account.newsletter.text,"Підпишіться на нашу розсилку та завжди будьте в курсі подій! Отримуйте оновлення про найновіші тренди смартфонів та гаджетів, провідні бренди та вигідні пропозиції.",uk_UA
+footer_subscribe.subscription_text,"Підпишіться і завжди будьте в курсі",uk_UA
+footer_subscribe.subscription_placeholder,"Додати електронну пошту",uk_UA
+cart_widget.empty_text,"Ваш кошик порожній. Перейдіть, щоб наповнити його всіма своїми технічними надіями та мріями.",uk_UA
+page.checkout.address.billing-same-as-shipping,"Рахунок такий самий, як доставка",uk_UA
+agent.authentication.failed,"Помилка автентифікації",uk_UA
+agent.login.title,"Открийте свій обліковий запис",uk_UA
+agent.confirm_user_selection,Підтвердити,uk_UA
+agent.login.email,"Електронна пошта",uk_UA
+agent.login.password,Пароль,uk_UA
+agent.control_bar.username,Агент:,uk_UA
+agent.control_bar.customer_name,Клієнт:,uk_UA
+agent.control_bar.logout_as_customer,"Допомога клієнтам\n",uk_UA
+agent.control_bar.logout,Вийти,uk_UA
+agent.autocomplete.no_results,"Не знайдено результатів",uk_UA
+agent.account.overview,Огляд,uk_UA
+agent.account.quote_request,"Запити на отримання пропозицій",uk_UA
+agent.account.page_title,Агент,uk_UA
+agent.account.profile_data,"Профіль агента",uk_UA
+agent_security_blocker_merchant_portal_gui.error.account_blocked,"Занадто багато спроб входу з вашої IP-адреси. Будь ласка, зачекайте %minutes% хвилин перед наступною спробою.",uk_UA
+autocomplete.placeholder,Пошук,uk_UA
+footer.logo.text,"Розроблено",uk_UA
+footer.logo.url,"https://spryker.com",uk_UA
+footer.logo.link.privacy,https://spryker.com/privacy-policy/,uk_UA
+footer.logo.link.imprint,https://spryker.com/imprint/,uk_UA
+footer.providers__title,"Доставка та Оплата",uk_UA
+page.product.details.slider_image,"Зображення товару",uk_UA
+page.product.details.slider_thumbnail,"Зображення товару",uk_UA
+wishlist.form.save,Зберегти,uk_UA
+wishlist.validation.error.name.already_exists,"Список бажань з такою ж назвою вже існує.",uk_UA
+global.search.pages,Сторінки,uk_UA
+global.search.results.view,Переглянути,uk_UA
+cms.page.sort.relevance,"Сортувати за релевантністю",uk_UA
+cms.page.sort.name_asc,"Сортувати за зростанням імені",uk_UA
+cms.page.sort.name_desc,"Сортувати за назвою у зворотньому порядку",uk_UA
+cms.page.itemsFound,"Знайдено товарів",uk_UA
+cms.page.filter.per,"На сторінці",uk_UA
+availability_notification.notify_me,"Повідомте мене, коли товар знову буде в наявності",uk_UA
+availability_notification.do_not_notify_me,"Не повідомляти мене, коли товар знову з'явиться в наявності",uk_UA
+availability_notification.subscribed,"Успішна підписка",uk_UA
+availability_notification.unsubscribed,"Успішно відписано",uk_UA
+availability_notification.successfully_unsubscribed,"Успішно відписано",uk_UA
+availability_notification.successfully_unsubscribed_text,"Ви успішно відписалися від отримання повідомлень про доступність товару.",uk_UA
+availability_notification_subscription.mail.subscribed.head,"Ми щойно повідомили нашу команду закупівель про вашу підписку!",uk_UA
+availability_notification_subscription.mail.subscribed.body,"Ви отримаєте електронного листа, коли продукт знову буде доступний.",uk_UA
+availability_notification_subscription.mail.subscribed.subject,"Ми щойно повідомили нашу команду закупівель про вашу підписку!",uk_UA
+availability_notification_subscription.mail.unsubscribed.subject,"Ви не отримаєте сповіщення, коли продукт %name% знову буде доступний.",uk_UA
+availability_notification_subscription.mail.unsubscribed.body,"Ви не отримаєте сповіщення, коли продукт %name% знову буде доступний.",uk_UA
+availability_notification_subscription.mail.notification.buy_now,"Купити зараз",uk_UA
+availability_notification_subscription.mail.notification.subject,"%name% знову доступний!",uk_UA
+availability_notification_subscription.mail.notification.head,"%name% знову доступний!",uk_UA
+availability_notification_subscription.mail.notification.body,"Очікування закінчено, ви можете тепер додати цей товар у свій кошик.",uk_UA
+availability_notification_subscription.mail.copyright,"<em>Авторське право © поточний рік назва компанії, Усі права захищені.</em><br><br>",uk_UA
+availability_notification_subscription.mail.unsubscribe,"Хочете змінити спосіб отримання цих листів?<br>Ви можете <a target=""_blank"" href=""%link%"" style=""mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underline;"">відписатися від цього списку</a>.",uk_UA
+availability_notification.email_address,"Адреса електронної пошти",uk_UA
+discount.voucher_code.usage_limit.reached,"Досягнуто обмеження на використання коду купона",uk_UA
+product_bundle.unavailable,"Продукт '%productSku%' у зв'язаному продукті '%bundleSku%' на даний момент недоступний.",uk_UA
+cart.total.price_to_pay,"Ціна до сплати",uk_UA
+cart.giftcard.label,"Подарункова картка",uk_UA
+cart.giftcard.apply.failed,"Подарункова картка не застосовується",uk_UA
+cart.giftcard.apply.successful,"Ваш код подарункової картки було застосовано",uk_UA
+checkout.giftcard.label,"Подарункова картка",uk_UA
+mail.giftCard.delivery.subject,"Ваш подарунковий сертифікат!",uk_UA
+mail.giftCard.delivery.text,"Шановний клієнте, дякуємо вам за покупку подарункової картки в нашому магазині. Ваш код подарункової картки:",uk_UA
+mail.giftCard.usage.subject,"Дякуємо за використання подарункової картки!",uk_UA
+cart.code.apply.failed,"Код не може бути застосований",uk_UA
+cart.code.enter-code,"Введіть код купона/подарункової картки",uk_UA
+general.next.button,Далі,uk_UA
+shipment.validation.not_found,"Спосіб доставки не знайдено.",uk_UA
+billing.address.validation.is_missing,"Адреса платника відсутня",uk_UA
+billing.address.country.validation.not_found,"Країни для адреси платника не знайдено за кодом країни: %code%",uk_UA
+shipping.address.country.validation.not_found,"Країни доставки за вказаним кодом країни не знайдено: %code%",uk_UA
+product_search_widget.search.product_discontinued_prefix,[Припинено],uk_UA
+place_order.pre_check.product_discontinued,"Продукт '%name%' більше не виробляється, будь ласка, оберіть альтернативний.",uk_UA
+configurable_bundle.templates.configurable-bundle-all-in.name,"Все в",uk_UA
+configurable_bundle.templates.smartstation.name,"Набір Smartstation",uk_UA
+configurable_bundle.template_slots.slot-1.name,"Слот 1",uk_UA
+configurable_bundle.template_slots.slot-2.name,"Слот 2",uk_UA
+configurable_bundle.template_slots.slot-3.name,"Слот 3",uk_UA
+configurable_bundle.template_slots.slot-4.name,"Слот 4",uk_UA
+configurable_bundle.template_slots.slot-5.name,"Слот 5",uk_UA
+configurable_bundle.template_slots.slot-6.name,"Слот 6",uk_UA
+configurable_bundle.template.validation.error.not_exists,"Шаблон налаштованого пакету не існує.",uk_UA
+configurable_bundle.slot.validation.error.not_exists,"Шаблон налаштованого пакету слоту не існує.",uk_UA
+configurable_bundle.template.validation.error.already_activated,"Шаблон налаштованого пакету вже активовано.",uk_UA
+configurable_bundle.template.validation.error.already_deactivated,"Шаблон налаштованого пакету вже деактивовано.",uk_UA
+configurable_bundle_note.enter_note,"Додати примітку до налаштованого пакету",uk_UA
+configurable_bundle_note.note,"Примітка щодо сконфігурованого пакету:",uk_UA
+configurable_bundle_note.form.save,Зберегти,uk_UA
+configurable_bundle_note.note_added,"Примітка успішно додана до налаштованого пакету",uk_UA
+configurable_bundle_page.select,Вибрати,uk_UA
+configurable_bundle_page.unselect,"Скасувати вибір",uk_UA
+configurable_bundle_page.edit,Редагувати,uk_UA
+configurable_bundle_page.configurator,Конфігуратор,uk_UA
+configurable_bundle_page.configurable_bundle_list,"Список налаштовуваних пакетів",uk_UA
+configurable_bundle_page.choose_bundle_to_configure,"Виберіть пакет, щоб налаштувати",uk_UA
+configurable_bundle_page.configurator.templates_not_found,"Немає доступних шаблонів.",uk_UA
+configurable_bundle_page.template_not_found,"Шаблон налаштованого пакету не знайдено.",uk_UA
+configurable_bundle_page.invalid_template_slot_combination,"Недійсна комбінація шаблону/слоту.",uk_UA
+configurable_bundle_page.configurator.tip.header,"Створіть свій власний пакет.",uk_UA
+configurable_bundle_page.configurator.tip.text,"Щоб створити пакет, будь ласка, виберіть слот зліва і виберіть продукт зі списку.",uk_UA
+configurable_bundle_page.configurator.selected_product,"Обраний продукт",uk_UA
+configurable_bundle_page.configurator.summary,Огляд,uk_UA
+configurable_bundle_page.configurator.add_to_cart,"Додати до кошика",uk_UA
+configurable_bundle_page.configurator.summary_page_locked,"Продукт для принаймні одного слоту повинен бути налаштований для переходу на сторінку зі списком.",uk_UA
+configurable_bundle_page.configurator.summary_page_total,Загалом,uk_UA
+configurable_bundle_page.configurator.added_to_cart,"Конфігурацію пакету успішно додано до кошика.",uk_UA
+configurable_bundle_page.configurator.slot_became_unavailable,"Слот з ID '%id%', який було налаштовано, став недоступним.",uk_UA
+configurable_bundle_page.configurator.product_became_unavailable,"Продукт з артикулом '%sku%', налаштований для слоту з ID '%id%', став недоступним.",uk_UA
+configurable_bundle_page.configurator.slot_page.back_link,"Повернутися до Наборів",uk_UA
+configurable_bundle_page.configurator.sku,Артикул:,uk_UA
+sales_configured_bundle_widget.success.items_added_to_cart_as_individual_products,"Зверніть увагу: товари зі сконфігурованого пакету були додані до кошика як окремі продукти.",uk_UA
+sales_configured_bundle_widget.returnable_state,"Неповернення\n",uk_UA
+sales_configured_bundle_widget.quantity,Кількість:,uk_UA
+configured_bundle_widget.items,Товари,uk_UA
+configured_bundle.quantity,Кількість:,uk_UA
+configured_bundle.price,"Ціна товару:",uk_UA
+configured_bundle.bundle_total,"Загальна вартість пакета:",uk_UA
+configured_bundle.total,"Загальна сума товарів:",uk_UA
+configured_bundle.remove,Видалити,uk_UA
+configured_bundle.order.items,"Елементи у комплекті:",uk_UA
+configured_bundle.item_sku,Артикул:,uk_UA
+configured_bundle_cart.error.configured_bundle_not_found,"Конфігурований пакет з вказаним артикулом не знайдено в кошику.",uk_UA
+configured_bundle_cart.error.configured_bundle_cannot_be_removed,"Налаштований пакет не може бути видалений з кошика.",uk_UA
+configured_bundle_cart.error.configured_bundle_cannot_be_updated,"Налаштований пакет не може бути оновлений.",uk_UA
+configured_bundle_cart.error.configured_bundle_cannot_be_added,"Налаштований пакет не може бути доданий до кошика.",uk_UA
+configured_bundle_widget.configured_bundle.removed,"Налаштований пакет успішно видалено.",uk_UA
+configured_bundle_widget.configured_bundle.updated,"Налаштований пакет успішно оновлено.",uk_UA
+configured_bundle_widget.multiplier,x,uk_UA
+configured_bundle_note_widget.edit_note,Редагувати,uk_UA
+configured_bundle_note_widget.remove_note,Видалити,uk_UA
+product_search_widget.search.no_results,"Продукти не знайдені.",uk_UA
+return.return_reasons.damaged.name,Пошкоджений,uk_UA
+return.return_reasons.wrong-item.name,"Неправильний товар",uk_UA
+return.return_reasons.no_longer_needed.name,"Більше не потрібно",uk_UA
+return.return_policy.returnable_till.message,"Повернення до: %date%",uk_UA
+cart_page.error_message.unexpected_error,"Неочікувана помилка виникла.",uk_UA
+return_page.default_title,Повернення,uk_UA
+return_page.title,"Створити повернення",uk_UA
+return_page.return_reasons.select_reason.placeholder,"Виберіть причину",uk_UA
+return_page.return_reasons.custom_reason.placeholder,"Індивідуальна причина",uk_UA
+return_page.return_reasons.empty,—,uk_UA
+order_invoice.invoice_template.table.number,Поз.,uk_UA
+order_invoice.invoice_template.table.quantity,Кількість,uk_UA
+order_invoice.invoice_template.table.name,Пункт,uk_UA
+order_invoice.invoice_template.table.tax,"Ставка податку",uk_UA
+order_invoice.invoice_template.table.price,Ціна,uk_UA
+order_invoice.invoice_template.table.subtotal,"Сума замовлення",uk_UA
+order_invoice.invoice_template.table.discount,Знижка,uk_UA
+order_invoice.invoice_template.table.tax.included,"це включає %tax_rate%% ПДВ нетто",uk_UA
+order_invoice.invoice_template.table.tax.name,ПДВ,uk_UA
+order_invoice.invoice_template.table.grandtotal,"Загальна сума",uk_UA
+order_invoice.invoice_template.reference,"Номер рахунку:",uk_UA
+order_invoice.invoice_template.introduction,"Ми тут зараховуємо вам за наступні товари:",uk_UA
+order_invoice.invoice_template.company.name,"Спрікер Системс ГмбХ Берлін",uk_UA
+order_invoice.invoice_template.company.address,"Вулиця Юлії Вольфтгорн 1<br>10115 Берлін <br> Німеччина",uk_UA
+order_invoice.invoice_template.company.group,"Група компаній Spryker Systems GmbH",uk_UA
+order_invoice.invoice_template.merchant.name,"Спрікер Системс ГмбХ Берлін",uk_UA
+order_invoice.invoice_template.merchant.address,"Вулиця Юлії Вольфтгорн 1 + 10115 Берлін",uk_UA
+return_page.list.title,Повернення,uk_UA
+return_page.account.no_return,"На даний момент повернення не приймаються",uk_UA
+return_page.return.return_ref,"Повернення посилання",uk_UA
+return_page.return.order_ref,"Посилання на замовлення",uk_UA
+return_page.return.number_of_items,"Кількість товарів",uk_UA
+return_page.return.date,"Дата повернення",uk_UA
+return_page.return.items_state,"Стан товарів",uk_UA
+return_page.return.view_return,"Переглянути Повернення",uk_UA
+return_page.return.print_return,"Друк чеку",uk_UA
+return_page.breadcrumb.returns,Повернення,uk_UA
+return_page.breadcrumb.create_return,"Створити повернення",uk_UA
+return_page.details.page_title,"Деталі повернення",uk_UA
+return_page.details.actions.back_to_list,"Повернутися до списку",uk_UA
+return_page.details.actions.print_slip,"Друк чеку",uk_UA
+return_page.details.total.items_to_return,"Елементи для повернення",uk_UA
+return_page.details.total.items_to_return.count,предмети,uk_UA
+return_page.details.total.remuneration_total,"Загальна винагорода",uk_UA
+return_page.item.options,"Опції продукту:",uk_UA
+return_page.table.actions," ",uk_UA
+return_page.button.return_list,Повернення,uk_UA
+return_page.return_reasons.title,Причина:,uk_UA
+return_page.return.created,"Повернення створено успішно",uk_UA
+return_page.return.title,"Створити повернення",uk_UA
+return_page.order_reference,"Номер замовлення:",uk_UA
+return_page.order_date,"Дата замовлення:",uk_UA
+return_page.return_reference,"Повернення посилання:",uk_UA
+return_page.return_date,"Дата повернення:",uk_UA
+return_page.button_text,"Створити повернення",uk_UA
+return_page.item_sku,Артикул:,uk_UA
+return_page.quantity,Кількість:,uk_UA
+return_page.returnable_state,"Неповернення\n",uk_UA
+return_page.create_return.validation.selected_items,"Принаймні один товар повинен бути обраний.",uk_UA
+return_page.button.create_return,Повернутися,uk_UA
+return_page.slip.return_reference,"Повернення та повернення коштів",uk_UA
+return_page.slip.return_date,"Дата повернення",uk_UA
+return_page.slip.order_reference,"Номер замовлення",uk_UA
+return_page.slip.barcode,Штрих-код,uk_UA
+return_page.slip.product_sku,"Артикул товару",uk_UA
+return_page.slip.product_name,"Назва товару",uk_UA
+return_page.slip.default_price,"Стандартна ціна",uk_UA
+return_page.slip.quantity,Кількість,uk_UA
+return_page.slip.total_price,"Загальна вартість",uk_UA
+return_page.slip.return_reason,"Причина повернення",uk_UA
+return_page.slip.items_to_return,"Повернення товарів",uk_UA
+return_page.slip.remuneration_total,"Загальна винагорода",uk_UA
+return_page.create_return.select_all_checkbox,"Вибрати всі",uk_UA
+sales_product_bundle_widget.returnable_text,"Повернення до:",uk_UA
+sales_product_bundle_widget.returnable_state,"Неповернення",uk_UA
+sales_product_bundle_widget.item_sku,Артикул:,uk_UA
+sales_product_bundle_widget.quantity,Кількість:,uk_UA
+sales_product_bundle_widget.item.options,"Опції продукту:",uk_UA
+oms.state.new,Нове,uk_UA
+oms.state.waiting,Чекаю,uk_UA
+oms.state.in-progress,"У процесі",uk_UA
+oms.state.ready,Готово,uk_UA
+oms.state.canceled,Скасовано,uk_UA
+oms.state.closed,Закрито,uk_UA
+oms.state.draft,Чернетка,uk_UA
+oms.state.payment-pending,"Оплата очікується",uk_UA
+oms.state.paid,Оплачено,uk_UA
+oms.state.confirmed,Підтверджено,uk_UA
+oms.state.exported,Експортовано,uk_UA
+oms.state.shipped,Відправлено,uk_UA
+oms.state.delivered,Доставлено,uk_UA
+oms.state.payout-failed,"Не вдалося виплатити продавця",uk_UA
+oms.state.ready-for-return,"Готовий до повернення",uk_UA
+oms.state.refunded,Повернено,uk_UA
+oms.state.returned,Повернено,uk_UA
+oms.state.waiting-for-return,"Чекаємо на повернення",uk_UA
+oms.state.shipped-to-customer,"Відправлено клієнту",uk_UA
+oms.state.sent-to-merchant,"Надіслано продавцю",uk_UA
+oms.state.shipped-by-merchant,"Відправлено продавцем",uk_UA
+oms.state.return-canceled,"Повернення скасовано",uk_UA
+oms.state.merchant-split-pending,"Розділення відкладено на продавця",uk_UA
+oms.state.gift-card-purchased,"Подарунковий сертифікат придбано",uk_UA
+oms.state.gift-card-created,"Подарунковий сертифікат створено",uk_UA
+oms.state.gift-card-shipped,"Подарункова картка доставлена",uk_UA
+oms.state.invoice-generated,"Рахунок створено",uk_UA
+oms.state.reservation-cancelled,"Бронювання скасовано",uk_UA
+oms.state.reservation-cancellation-pending,"Скасування бронювання очікує на підтвердження",uk_UA
+oms.state.tax-pending,"Податок очікується",uk_UA
+return.create_return.validation.returnable_items_error,"Повернення не може бути створено, оскільки воно містить товари, які не підлягають поверненню.",uk_UA
+return.create_return.validation.store_error,"Повернення не може бути створено - вибрано неправильний магазин",uk_UA
+return.create_return.validation.items_error,"Повернення не може бути створено для цього набору товарів",uk_UA
+form.csrf.error.text,"Щось пішло не так. Вибачте.",uk_UA
+sales.error.customer_order_not_found,"Замовлення клієнта не знайдено.",uk_UA
+sales.error.order_cannot_be_canceled_due_to_wrong_item_state,"Замовлення не може бути скасоване через неправильний стан товару.",uk_UA
+order_cancel_widget.cancel_order,"Скасувати замовлення",uk_UA
+order_cancel_widget.order.cancelled,"Замовлення успішно скасовано.",uk_UA
+product_cart_item.remove,"× видалити",uk_UA
+product-cart.info.restricted-product.removed,"Товар %sku% було видалено з кошика, оскільки він був деактивований.",uk_UA
+mail.trans.availability_notification.subtitle,"Очікування закінчено! Додайте цей товар у кошик зараз.",uk_UA
+mail.trans.availability_notification.title.part2,"знову доступний!",uk_UA
+mail.trans.availability_notification_subscription.subtitle,"Ви отримаєте електронного листа, коли продукт знову буде доступний.",uk_UA
+mail.trans.availability_notification_subscription.title,"Ми щойно повідомили нашу команду закупівель про вашу підписку!",uk_UA
+mail.trans.availability_notification_unsubscribed.subtitle,"Ви не отримаєте сповіщення, коли товар знову буде доступний.",uk_UA
+mail.trans.availability_notification_unsubscribed.title.part1,"Ваша підписка на",uk_UA
+mail.trans.availability_notification_unsubscribed.title.part2,"було скасовано",uk_UA
+mail.trans.common.go_to_shop,"Перейти до магазину",uk_UA
+mail.trans.common.hello_for_first_name,Привіт,uk_UA
+mail.trans.common.my_account,"Мій обліковий запис",uk_UA
+mail.trans.customer_registration.change_info,"Ви можете змінити свою інформацію (адресу доставки, електронну адресу, пароль тощо) в Моєму обліковому записі",uk_UA
+mail.trans.customer_registration.registration_success,"Ваша реєстрація в магазині Spryker пройшла успішно!",uk_UA
+mail.trans.customer_registration.title,"Дякуємо за реєстрацію в магазині Spryker Shop!",uk_UA
+mail.trans.customer_restored_password_confirmation.title,"Ваш пароль було успішно змінено",uk_UA
+mail.trans.customer_restore_password.change_password,"Змінити пароль",uk_UA
+mail.trans.customer_restore_password.subtitle,"Хтось запросив новий пароль для вашого облікового запису магазину Spryker. Якщо це були не ви, проігноруйте цей лист. Якщо це були ви, будь ласка, дотримуйтесь інструкцій у кнопці нижче.",uk_UA
+mail.trans.customer_restore_password.title,"Новий пароль для вашого облікового запису в магазині Spryker Shop",uk_UA
+mail.trans.footer.contact_email_address,info@spryker.com,uk_UA
+mail.trans.footer.if_you_have_further_questions,"Якщо у вас є додаткові питання, будь ласка, звертайтеся до нашої служби підтримки за номером\n",uk_UA
+mail.trans.footer.shop_address,"Вулиця Юлії Вольфтгорн, 1",uk_UA
+mail.trans.footer.shop_city,Берлін,uk_UA
+mail.trans.footer.shop_name,"Spryker Systems GmbH",uk_UA
+mail.trans.footer.shop_phone,"+49 (0) 30 208 498 350",uk_UA
+mail.trans.footer.shopping_experience,"Насолоджуйтеся вашими покупками.",uk_UA
+mail.trans.footer.shop_zip_code,10115,uk_UA
+mail.trans.footer.your_team,"Ваша команда Spryker!",uk_UA
+mail.trans.gift_card_delivery.subtitle,"Ваш код подарункової картки:",uk_UA
+mail.trans.gift_card_delivery.title,"Шановний клієнте, дякуємо вам за покупку подарункової картки в нашому магазині.",uk_UA
+mail.trans.gift_card_usage.subtitle,"Ваш код подарункової картки:",uk_UA
+mail.trans.gift_card_usage.title,"Ви щойно використали подарункову картку!",uk_UA
+mail.trans.header.shop_name,"Магазин Spryker",uk_UA
+mail.trans.newsletter_subscribed.subtitle,"Ми зробимо все можливе, щоб доставляти найактуальніші та захоплюючі новини та оновлення.",uk_UA
+mail.trans.newsletter_subscribed.title,"Ми раді, що ви підписалися на нашу розсилку.",uk_UA
+mail.trans.newsletter_unsubscribed.subtitle,"Ваша електронна адреса була відписана від розсилки новин магазину Spryker. Ви завжди можете керувати підпискою в своєму профілі користувача.",uk_UA
+mail.trans.newsletter_unsubscribed.title,"Вибачте, що ви йдете...",uk_UA
+mail.trans.order.billing_address,"Адреса платника",uk_UA
+mail.trans.order.delivery_address,"Адреса доставки",uk_UA
+mail.trans.order.delivery_method,"Спосіб доставки",uk_UA
+mail.trans.order.discounts_total,Знижки,uk_UA
+mail.trans.order.grand_total,"Загальна сума",uk_UA
+mail.trans.order.order_date,"Дата замовлення",uk_UA
+mail.trans.order.order_details,"Деталі замовлення",uk_UA
+mail.trans.order.order_reference,"Посилання на замовлення",uk_UA
+mail.trans.order.quantity,Кількість,uk_UA
+mail.trans.order.requested_delivery_date,"Бажана дата доставки",uk_UA
+mail.trans.order.shipment_costs_total,"Вартість доставки (загальна)",uk_UA
+mail.trans.order.shipment_for_number.part1,Доставка,uk_UA
+mail.trans.order.shipment_for_number.part2,значення,uk_UA
+mail.trans.order.subtotal,"Сума замовлення",uk_UA
+mail.trans.order.taxes,Податки,uk_UA
+mail.trans.order_confirmation.subtitle,"Ми пишаємо, щоб повідомити вас, що ми отримали ваше замовлення. Ви можете очікувати підтвердження відправлення по електронній пошті, як тільки замовлення буде відправлено. Ми сподіваємося, що вам сподобається ваше замовлення, але якщо ви зміните свою думку, будь ласка, поверніть його протягом 14 днів.",uk_UA
+mail.trans.order_confirmation.title,"Дякуємо за покупки в магазині Spryker Shop!",uk_UA
+mail.trans.restore_password.change_password,"Змінити пароль",uk_UA
+mail.trans.restore_password.subtitle,"Хтось запросив новий пароль для вашого облікового запису Spryker Back Office. Якщо це були не ви, проігноруйте цей лист. Якщо це були ви, будь ласка, дотримуйтесь інструкцій у кнопці нижче.",uk_UA
+mail.trans.restore_password.title,"Новий пароль для вашого облікового запису Spryker Back Office",uk_UA
+mail.trans.order_shipped.title,"Ваше замовлення в дорозі!",uk_UA
+mail.trans.company_status.title,"Статус вашої компанії було змінено на",uk_UA
+mail.trans.customer_registration.confirmation_link,"Підтвердіть свою електронну адресу",uk_UA
+merchant_opening_hours.opening_hours_title,"Години роботи",uk_UA
+merchant_opening_hours.special_opening_hours_title,"Спеціальні години роботи",uk_UA
+merchant_opening_hours.public_holidays_title,"Громадські свята",uk_UA
+merchant_opening_hours.opening_hours_closed,Закрито,uk_UA
+merchant_opening_hours.day.title.monday,Понеділок,uk_UA
+merchant_opening_hours.day.title.tuesday,Вівторок,uk_UA
+merchant_opening_hours.day.title.wednesday,Середа,uk_UA
+merchant_opening_hours.day.title.thursday,Четвер,uk_UA
+merchant_opening_hours.day.title.friday,П'ятниця,uk_UA
+merchant_opening_hours.day.title.saturday,Субота,uk_UA
+merchant_opening_hours.day.title.sunday,Неділя,uk_UA
+merchant_weekday_schedule.new_year,"День Нового Року",uk_UA
+merchant_weekday_schedule.good_friday,"П'ятниця Страстей",uk_UA
+merchant_weekday_schedule.easter_sunday,"Неділя Великодня",uk_UA
+merchant_weekday_schedule.easter_monday,"Понеділок Великодня",uk_UA
+merchant_weekday_schedule.may_day,"Перше травня",uk_UA
+merchant_weekday_schedule.ascension_of_christ,"Вознесіння Христове",uk_UA
+merchant_weekday_schedule.whit_sunday,"Неділя Трійці",uk_UA
+merchant_weekday_schedule.whit_monday,"Понеділок Трійці",uk_UA
+merchant_weekday_schedule.corpus_christi,"Тіло Христове",uk_UA
+merchant_weekday_schedule.day_of_german_unity,"День німецької єдності",uk_UA
+merchant_weekday_schedule.all_saints_day,"День всіх святих",uk_UA
+merchant_weekday_schedule.1st_christmas_day,"1-ше Різдво",uk_UA
+merchant_weekday_schedule.2nd_christmas_day,"2-й день Різдва",uk_UA
+merchant_weekday_schedule.sunday_opening,"Недільне відкриття",uk_UA
+merchant_product.message.invalid,"Продукт ""%sku%"" з Торговцем ""%merchant_reference%"" не знайдено.",uk_UA
+merchant_product.sold_by,"Продано в",uk_UA
+merchant_product_offer.view_seller,"Переглянути продавця",uk_UA
+merchant_product_offer.sold_by,"Продано в",uk_UA
+merchant.sold_by,Продавець:,uk_UA
+merchant_profile.email,"Адреса електронної пошти",uk_UA
+merchant_profile.address,Адреса,uk_UA
+merchant_profile.phone,Телефон,uk_UA
+merchant_profile.terms_and_conditions,"Умови та умови",uk_UA
+merchant_profile.cancellation_policy,"Політика скасування",uk_UA
+merchant_profile.imprint,"Інформація про видавництво",uk_UA
+merchant_profile.privacy,"Конфіденційність даних",uk_UA
+merchant_profile.delivery_time,"Час доставки",uk_UA
+merchant_sales_return.message.items_from_different_merchant_detected,"У вашому замовленні є товари від різних продавців. Ви можете повернути товари лише від одного продавця за раз.",uk_UA
+merchant_sales_return_widget.create_form.different_merchants_info,"У вашому замовленні є товари від різних продавців. Ви можете повернути товари лише від одного продавця за раз.",uk_UA
+customer.error.confirm_email_link.invalid_or_used,"Це посилання для підтвердження електронної пошти недійсне або вже було використане.",uk_UA
+customer.authorization.validate_email_address,"Майже готово! Ми відправили вам електронного листа для підтвердження вашої адреси електронної пошти. Будь ласка, підтвердіть його, щоб мати змогу увійти.",uk_UA
+password.weak,Слабкий,uk_UA
+password.medium,Середній,uk_UA
+password.strong,Міцний,uk_UA
+password.very_strong,"Дуже міцний",uk_UA
+password.message,"Спробуйте збільшити довжину пароля або додати числа або символи.",uk_UA
+customer.password.error.deny_list,"Цей пароль вважається загальнодоступним. Будь ласка, використовуйте інший.",uk_UA
+customer.password.error.sequence,"Ви повторили той самий символ занадто багато разів.",uk_UA
+customer.password.error.character_set,"Пароль повинен містити принаймні 1 символ з кожної дозволеної групи символів: велика літера, мала літера, цифра та спеціальний символ.",uk_UA
+error.429,"Забагато запитів",uk_UA
+security_blocker_page.error.account_blocked,"Занадто багато спроб входу з вашої IP-адреси. Будь ласка, зачекайте %minutes% хвилин перед наступною спробою.",uk_UA
+security_blocker_backoffice_gui.error.account_blocked,"Занадто багато спроб входу з вашої IP-адреси. Будь ласка, зачекайте %minutes% хвилин перед наступною спробою.",uk_UA
+security_blocker_merchant_portal_gui.error.account_blocked,"Занадто багато спроб входу з вашої IP-адреси. Будь ласка, зачекайте %minutes% хвилин перед наступною спробою.",uk_UA
+agent_page.error.customer_already_logged_in,"Ви вже увійшли як клієнт, будь ласка, спочатку вийдіть з облікового запису, а потім продовжуйте.",uk_UA
+customer.login.remember_me,"Запам'ятати мене",uk_UA
+sales-order-threshold.hard-minimum-threshold.us.usd.message,"Вам потрібно додати товари на суму {{threshold}}, щоб перейти рекомендований поріг. Ви не можете продовжити оформлення замовлення.",uk_UA
+sales-order-threshold.hard-maximum-threshold.us.usd.message,"Значення кошика не може бути вище, ніж {{threshold}}. Будь ласка, видаліть деякі товари, щоб продовжити замовлення.",uk_UA
+sales-order-threshold.soft-minimum-threshold.us.usd.message,"Вам потрібно додати товари на суму {{threshold}}, щоб перейти рекомендований поріг, але якщо ви хочете, можете перейти до оформлення замовлення.",uk_UA
+countries.iso.US,"Сполучені Штати Америки",uk_UA
+product-offer.info.product-offer-inactive.removed,"Товар %sku%, який був неактивним, був видалений з вашої кошика покупок.",uk_UA
+product-offer.info.reference.invalid,"Посилання на пропозицію продукту не знайдено для продукту з артикулом '%sku%'.",uk_UA
+product-offer.message.not-active-or-approved,"Пропозиція продукту не активна для продукту з артикулом '%sku%'.",uk_UA
+merchant_sales_order.merchant_order_id,"Ідентифікатор замовлення продавця",uk_UA
+product_bundle_product_detail_page_items_list_widget.title.bundle_includes,"Набір включає:",uk_UA
+product_configuration.checkout.validation.error.is_not_complete,"Конфігурація продукту не завершена.",uk_UA
+product_configuration.validation.error.not_valid_response_checksum,"Наданий недійсний контрольний сум відповіді",uk_UA
+product_configuration.validation.error.expired_timestamp,"Надано прострочений мітки часу",uk_UA
+product_configuration.access_token.request.error.can_not_obtain_access_token,"Не вдалося отримати токен доступу",uk_UA
+product_configuration.error.configured_item_not_found_in_cart,"Продукт зі зміненими налаштуваннями '%sku%' не знайдено.",uk_UA
+product_configuration.error.availability.failed,"Продукт доступний у кількості %availability%.",uk_UA
+product_configuration.response.validation.error,"Не вдалося перевірити відповідь конфігуратора продукту.",uk_UA
+product_configuration.error.configuration_not_found,"Конфігурацію продукту не знайдено для продукту '%sku%'.",uk_UA
+product_configuration_storage.validation.error.group_key_is_not_provided,"Необхідно надати ключ групи",uk_UA
+product_configuration_widget.configure,Налаштувати,uk_UA
+product_configuration_widget.complete,"Конфігурацію завершено!",uk_UA
+product_configuration_widget.not_complete,"Конфігурація не завершена.",uk_UA
+product_configuration_widget.quote_not_valid,"Цей кошик не може бути оброблений. Будь ласка, налаштуйте товари всередині кошика.",uk_UA
+product_configuration_wishlist.error.configuration_not_found,"Конфігурацію продукту не знайдено для елементу бажань '%id%'.",uk_UA
+product_configurator_gateway_page.source_type_not_blank,"Джерело є обов'язковим параметром",uk_UA
+product_configurator_gateway_page.sku_not_blank,"Параметр обов'язковий: артикул товару",uk_UA
+product_configurator_gateway_page.configurator_key_not_blank,"Ключ конфігуратора є обов'язковим параметром",uk_UA
+product_configurator_gateway_page.quantity_required,"Параметр ""Кількість"" обов'язковий.",uk_UA
+product_configurator_gateway_page.item_group_key_required,"Груповий ключ є обов'язковим параметром",uk_UA
+product_configurator_gateway_page.wishlist_item_id_required,"Ідентифікатор елемента бажань є обов'язковим параметром.",uk_UA
+product_configurator_gateway_page.configurator_key_is_not_supported,"Ключ конфігуратора не підтримується.",uk_UA
+demo_date_time_configurator_page.checkout.validation.error.price_is_not_valid,"Ціна конфігурації продукту недійсна",uk_UA
+wishlist.validation.error.wishlist_item_not_found,"Елемент бажань не знайдено.",uk_UA
+wishlist.validation.error.wishlist_item_cannot_be_updated,"Елемент бажаного списку не може бути оновлений.",uk_UA
+store_widget.switcher.store,Магазин:,uk_UA
+store.validation.store_not_found,"Магазин не знайдено",uk_UA
+push_notification.validation.error.push_notification_provider_not_found,"Постачальника сповіщень push не знайдено.",uk_UA
+push_notification.validation.error.push_notification_not_found,"Повідомлення push не знайдено.",uk_UA
+push_notification.validation.error.wrong_group_name,"Неправильна назва групи.",uk_UA
+push_notification.validation.error.push_notification_already_exists,"Підписка на сповіщення про тиск вже існує.",uk_UA
+push_notification.validation.error.locale_not_found,"Наданий локаль не знайдено.",uk_UA
+push_notification_web_push_php.validation.error.invalid_payload_structure,"Недійсна структура навантаження.",uk_UA
+push_notification_web_push_php.validation.error.payload_length_exceeded,"Перевищено максимальну довжину корисного навантаження.",uk_UA
+push_notification.validation.push_notification_provider_name_exists,"Постачальник пуш-сповіщень з такою ж назвою вже існує.",uk_UA
+push_notification.validation.push_notification_provider_name_wrong_length,"Ім'я постачальника пуш-сповіщень повинно мати довжину від %min% до %max% символів.",uk_UA
+push_notification.validation.push_notification_provider_name_is_not_unique,"Постачальник пуш-сповіщень з такою ж назвою вже існує в запиті.",uk_UA
+push_notification.validation.push_notification_exists,"Неможливо видалити постачальника пуш-сповіщень, коли існує пуш-сповіщення.",uk_UA
+push_notification.validation.push_notification_subscription_exists,"Неможливо видалити постачальника пуш-сповіщень, коли існує підписка на пуш-сповіщення.",uk_UA
+push_notification.validation.wrong_request_body,"Неправильний запит тіла.",uk_UA
+warehouse_user_assignment.validation.user_not_found,"Користувача не знайдено.",uk_UA
+warehouse_user_assignment.validation.warehouse_not_found,"Сховище не знайдено.",uk_UA
+warehouse_user_assignment.validation.warehouse_user_assignment_not_found,"Користувача складу не знайдено.",uk_UA
+warehouse_user_assignment.validation.too_many_active_warehouse_assignments,"Користувач має занадто багато активних призначень складу.",uk_UA
+warehouse_user_assignment.validation.warehouse_user_assignment_already_exists,"Співробітник для складу вже призначений.",uk_UA
+picking_list.validation.wrong_request_body,"Неправильний запит тіла.",uk_UA
+picking_list.validation.picked_by_another_user,"Picklist вже вибирається іншим користувачем.",uk_UA
+picking_list.validation.picking_list_entity_not_found,"Сутність списку вибірки не знайдена.",uk_UA
+picking_list.validation.picking_list_item_entity_not_found,"Елемент списку вибору не знайдено.",uk_UA
+picking_list.validation.only_full_quantity_picking_allowed,"Ви можете вибрати товари лише повною кількістю.",uk_UA
+picking_list.validation.incorrect_quantity,"Неправильна кількість.",uk_UA
+picking_list.validation.wrong_property_picking_list_item_quantity,"Неправильне значення властивості pickingListItem.quantity.",uk_UA
+picking_list.validation.wrong_property_picking_list_item_number_of_picked,"Неправильне значення властивості pickingListItem.numberOfPicked.",uk_UA
+picking_list.validation.wrong_property_picking_list_item_number_of_not_picked,"Неправильне значення властивості pickingListItem.numberOfNotPicked.",uk_UA
+picking_list.validation.picking_list.validation.picking_list_duplicated,"Список вибірки дублюється.",uk_UA
+picking_list.validation.picking_list.validation.picking_list_item_duplicated,"Елемент вибору дублюється.",uk_UA
+picking_list_push_notification.validation.warehouse_entity_not_found,"Сховище не знайдено.",uk_UA
+service_point.validation.service_point_key_exists,"Точка обслуговування з таким же ключем вже існує.",uk_UA
+service_point.validation.service_point_key_is_not_unique,"Точка обслуговування з таким же ключем вже існує в запиті.",uk_UA
+service_point.validation.service_point_key_wrong_length,"Ключ точки обслуговування повинен мати довжину від %min% до %max% символів.",uk_UA
+service_point.validation.service_point_name_wrong_length,"Ім'я пункту обслуговування повинно мати довжину від %min% до %max% символів.",uk_UA
+service_point.validation.store_does_not_exist,"Магазин з назвою '%name%' не існує.",uk_UA
+service_point.validation.service_point_entity_not_found,"Сутність пункту обслуговування не знайдена.",uk_UA
+service_point.validation.wrong_request_body,"Неправильний запит тіла.",uk_UA
+service_point.validation.country_entity_not_found,"Країни з кодом iso2 '%iso2Code%' не існує.",uk_UA
+service_point.validation.region_entity_not_found,"Регіон з унікальним ідентифікатором '%uuid%' не існує для країни з кодом iso2 '%countryIso2Code%'.",uk_UA
+service_point.validation.service_point_address_address1_wrong_length,"Адреса пункту обслуговування. Введена адреса 1 повинна містити від %min% до %max% символів.",uk_UA
+service_point.validation.service_point_address_address2_wrong_length,"Адреса пункту обслуговування. Поле адреси 2 повинно містити від %min% до %max% символів.",uk_UA
+service_point.validation.service_point_address_address3_wrong_length,"Адреса пункту обслуговування. Поле введення адреси3 повинно містити від %min% до %max% символів.",uk_UA
+service_point.validation.service_point_address_city_wrong_length,"Адреса міста пункту обслуговування повинна мати довжину від %min% до %max% символів.",uk_UA
+service_point.validation.service_point_address_entity_not_found,"Сутність адреси пункту обслуговування не знайдена.",uk_UA
+service_point.validation.service_point_address_zip_code_wrong_length,"Поштовий індекс адреси пункту обслуговування повинен мати довжину від %min% до %max% символів.",uk_UA
+service_point.validation.service_point_address_already_exists,"Адреса пункту обслуговування для вже існуючого пункту обслуговування.",uk_UA
+service_point.validation.service_point_uuid_is_not_unique,"Точка обслуговування з таким самим uuid вже існує в запиті.",uk_UA
+service_point.validation.service_type_key_exists,"Тип послуги з таким ключем вже існує.",uk_UA
+service_point.validation.service_type_key_wrong_length,"Ключ типу сервісу повинен мати довжину від %min% до %max% символів.",uk_UA
+service_point.validation.service_type_key_is_not_unique,"Тип послуги з таким ключем вже існує в запиті.",uk_UA
+service_point.validation.service_type_name_exists,"Тип послуг з такою назвою вже існує.",uk_UA
+service_point.validation.service_type_name_wrong_length,"Ім'я типу послуги повинно мати довжину від %min% до %max% символів.",uk_UA
+service_point.validation.service_type_name_is_not_unique,"Тип послуги з такою назвою вже існує в запиті.",uk_UA
+service_point.validation.service_type_entity_not_found,"Сутність типу сервісу не знайдена.",uk_UA
+service_point.validation.service_poinst_service_key_exists,"Послуга з таким ключем вже існує.",uk_UA
+service_point.validation.service_key_wrong_length,"Ключ сервісу повинен мати довжину від %min% до %max% символів.",uk_UA
+service_point.validation.service_key_is_not_unique,"Послуга з таким ключем вже існує в запиті.",uk_UA
+service_point.validation.service_type_relation_already_exists,"Послуга з визначеним відношенням точки обслуговування та типу послуги вже існує.",uk_UA
+service_point.validation.service_type_relation_is_not_unique,"Послуга з визначеним відношенням точки обслуговування та типу обслуговування вже існує в запиті.",uk_UA
+service_point.validation.service_entity_not_found,"Сутність сервісу не знайдена.",uk_UA
+service_point.validation.service_key_immutability,"Ключ сервісу є незмінним.",uk_UA
+service_point.validation.service_type_key_immutability,"Ключ типу послуги є незмінним.",uk_UA
+service_point.validation.service_key_exists,"Послуга з таким ключем вже існує.",uk_UA
+product_offer_service_point.validation.product_offer_reference_not_found,"Пропозиція продукту '%product_offer_reference%' не знайдена.",uk_UA
+product_offer_service_point.validation.product_offer_has_multiple_service_points,"Пропозиція продукту '%product_offer_reference%' може мати лише один пункт обслуговування.",uk_UA
+product_offer_service_point.validation.service_uuid_not_found,"Послуги з ідентифікаторами '%service_uuids%' не знайдено.",uk_UA
+shipment_type.name.shipment_type_delivery,Доставка,uk_UA
+shipment_type.name.shipment_type_pickup,Забір%n,uk_UA
+shipment_type.validation.shipment_type_entity_not_found,"Сутності типу доставки не знайдено.",uk_UA
+shipment_type.validation.shipment_type_key_exists,"Тип доставки з таким ключем вже існує.",uk_UA
+shipment_type.validation.shipment_type_key_is_not_unique,"Принаймні два типи доставки в цьому запиті мають однаковий ключ.",uk_UA
+shipment_type.validation.shipment_type_key_invalid_length,"Ключ типу доставки повинен мати довжину від %min% до %max% символів.",uk_UA
+shipment_type.validation.shipment_type_name_invalid_length,"Ім'я типу доставки повинно мати довжину від %min% до %max% символів.",uk_UA
+shipment_type.validation.store_does_not_exist,"Магазин з назвою '%name%' не існує.",uk_UA
+service_point_widget.search,"Пошук магазину, поштовий індекс або місто...",uk_UA
+service_point_widget.select_store_action,"Виберіть магазин",uk_UA
+service_point_widget.no_results,"Нічого не знайдено...",uk_UA
+service_point_widget.validation.error.service_point_not_selected,"Будь ласка, оберіть пункт обслуговування.",uk_UA
+service_point_widget.validation.error.billing_address_not_provided,"Будь ласка, додайте адресу для виставлення рахунку вручну.",uk_UA
+page.checkout.address.single_address,"Одна адреса",uk_UA
+page.checkout.address.multiple_addresses,"Декілька адрес",uk_UA
+service_point_widget.select_location_action,"Виберіть місце розташування",uk_UA
+service_point_widget.change_action,Змінити,uk_UA
+service_point_widget.location_label,"Місце розташування:",uk_UA
+service_point_widget.select_your_store_title,"Виберіть свій магазин",uk_UA
+service_points_rest_api.error.endpoint_not_found,"Кінцева точка не знайдена.",uk_UA
+service_points_rest_api.error.service_point_identifier_is_not_specified,"Ідентифікатор пункту обслуговування не вказано.",uk_UA
+shipment_type_cart.checkout.validation.error,"Обраний тип доставки ""%name%"" недоступний.",uk_UA
+service_point_cart.checkout.validation.error,"Обраний пункт обслуговування ""%uuid%"" недоступний для магазину ""%store_name%""",uk_UA
+product_offer_service_point_availability_widget.all_items_available,"Усі товари доступні.",uk_UA
+product_offer_service_point_availability_widget.some_items_not_available,"Деякі товари недоступні.",uk_UA
+product_offer_service_point_availability_widget.all_items_not_available,Недоступно.,uk_UA
+shipment_types_rest_api.error.shipment_type_not_available,"Обраний тип доставки ""%name%"" недоступний.",uk_UA
+click_and_collect_example.error.item_replacement_not_found,"Товар ""%item%"" недоступний для доставки обраним способом. Будь ласка, виберіть альтернативний спосіб доставки або видаліть його з кошика.",uk_UA
+product_offer_shipment_type.validation.product_offer_reference_not_found,"Пропозиція продукту '%product_offer_reference%' не знайдена.",uk_UA
+product_offer_shipment_type.validation.shipment_type_uuid_not_found,"Типи доставки з ідентифікаторами '%shipment_type_uuids%' не знайдено.",uk_UA
+category.validation.category_node_entity_not_found,"Категорію з ідентифікатором вузла '%category_node_id%' не можна перемістити, оскільки цей вузол категорії більше не існує.",uk_UA
+merchant_commission.validation.currency_does_not_exist,"Валюта з кодом '%code%' не існує.",uk_UA
+merchant_commission.validation.merchant_commission_description_invalid_length,"Опис комісії продавця повинен мати довжину від %min% до %max% символів.",uk_UA
+merchant_commission.validation.merchant_commission_key_exists,"Комісія продавця з ключем '%key%' вже існує.",uk_UA
+merchant_commission.validation.merchant_commission_key_invalid_length,"Ключ комісії продавця повинен мати довжину від %min% до %max% символів.",uk_UA
+merchant_commission.validation.merchant_commission_key_is_not_unique,"Принаймні дві комісії продавців у цьому запиті мають однаковий ключ.",uk_UA
+merchant_commission.validation.merchant_commission_does_not_exist,"Комісія продавця з ключем '%key%' не знайдена.",uk_UA
+merchant_commission.validation.merchant_commission_group_does_not_exist,"Група комісійного продавця не знайдена.",uk_UA
+merchant_commission.validation.merchant_commission_group_key_does_not_exist,"Групи комісійних продавців з ключем '%key%' не знайдено.",uk_UA
+merchant_commission.validation.merchant_does_not_exist,"Торговець з посиланням '%merchant_reference%' не існує.",uk_UA
+merchant_commission.validation.merchant_commission_name_invalid_length,"Назва комісії продавця повинна містити від %min% до %max% символів.",uk_UA
+merchant_commission.validation.merchant_commission_priority_not_in_range,"Пріоритет комісії продавця повинен бути в діапазоні від %min% до %max%.",uk_UA
+merchant_commission.validation.store_does_not_exist,"Магазин з назвою '%name%' не існує.",uk_UA
+merchant_commission.validation.merchant_commission_valid_from_invalid_datetime,"Дата початку дії комісії для продавця має невірний формат.",uk_UA
+merchant_commission.validation.merchant_commission_valid_to_invalid_datetime,"Дата «дійсна до» комісії торговця не є дійсним форматом.",uk_UA
+merchant_commission.validation.merchant_commission_validity_period_invalid,"Дата закінчення комісії торговця повинна бути пізніше, ніж дата початку.",uk_UA
+merchant_commission.validation.invalid_query_string,"Наданий рядок запиту має недійсний формат у полі %field%.",uk_UA
+merchant_commission.validation.invalid_compare_operator,"Наданий оператор порівняння недійсний у полі %field%.",uk_UA
+rule_engine.validation.invalid_query_string,"Наданий рядок запиту має недійсний формат.",uk_UA
+rule_engine.validation.invalid_compare_operator_value,"Наданий оператор порівняння недійсний.",uk_UA
+payment_app_widget.validation.quote_is_empty,"Цитата порожня.",uk_UA
+payment_app_widget.error.payment_failed,"Платіж не вдалося",uk_UA
+payment_app_widget.error.incorrect_quote,"Цитату не знайдено, можливо, сеанс закінчився.",uk_UA

@@ -1,0 +1,24 @@
+Actions,Дії
+Active,Активний
+"Available in Store","Доступно в магазині"
+"Available in the following store(s)","Доступно в наступних магазинах"
+Configuration,Конфігурація
+Edit,Редагувати
+"Edit Payment Method: %s","Редагувати спосіб оплати: %s"
+Inactive,Неактивний
+"Is the Payment Method active?","Чи активний спосіб оплати?"
+"Is this payment method active?","Чи активний цей спосіб оплати?"
+"List Payment Methods","Список способів оплати"
+Name,Ім'я
+"Payment Method Key","Ключ способу оплати"
+"Payment method not found","Спосіб оплати не знайдено"
+"Payment Methods","Способи оплати"
+"Payment Provider","Платіжний провайдер"
+Provider,Постачальник
+Save,Зберегти
+Status,Статус
+"Store relation","Зв'язок магазину"
+View,Переглянути
+"View Payment Method: %s","Переглянути спосіб оплати: %s"
+"Payment method has been successfully updated","Спосіб оплати успішно оновлено"
+"Payment Management","Управління платежами"

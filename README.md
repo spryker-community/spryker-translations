@@ -5,7 +5,7 @@
 
 <h4 align="center">Adds support for multiple languages to Spryker OS</h4>
 
-<p align="center">:united_arab_emirates: :cn: :fr: :it: :netherlands: :portugal: :es:</p>
+<p align="center">:united_arab_emirates: :cn: :fr: :it: :netherlands: :portugal: :es: :ukraine:</p>
 
 <p align="center">
   <a href="#Support">Support</a> •
@@ -38,6 +38,7 @@ Spryker OS is initially equipped with English (US) and German (Germany) translat
 * Dutch (Netherlands) - nl_NL
 * Portuguese (Portugal) - pt_PT
 * Spanish (Spain) - es_ES
+* Ukrainian (Ukraine) - uk_UA
 
 > [!NOTE]
 > The initial version of these translations are created by AI. By releasing these to our community on GitHub and accepting PRs, we aim to improve this AI-generated baseline further with YOUR contributions!

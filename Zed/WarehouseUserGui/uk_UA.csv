@@ -1,0 +1,28 @@
+"Warehouse user","Користувач складу"
+"User could not be found.","Користувача не знайдено."
+"User uuid is missing.","Відсутній ідентифікатор користувача."
+"Warehouse user assignments are updated.","Оновлено призначення користувачів складу."
+"Assign warehouses","Призначити склади"
+"Assign Warehouse to User","Призначити склад користувачу"
+"List Users","Список користувачів"
+"A warehouse can be assigned to multiple users at a time.","Склад може бути призначений для кількох користувачів одночасно."
+Remove,Видалити
+Save,Зберегти
+"Deselect All","Скасувати вибір всіх"
+"Deselected warehouses","Необрані склади"
+Inactive,Неактивний
+Active,Активний
+"Warehouse ID","Ідентифікатор складу"
+Name,Ім'я
+Status,Статус
+Assigned,Призначено
+Assign,Призначити
+Selected,Обрано
+"Select All","Вибрати все"
+"List of warehouses","Список складів"
+"Assigned warehouses","Призначені склади"
+"Warehouses to be deassigned","Склади для відкріплення"
+"Select warehouses to assign","Виберіть склади для призначення"
+"Warehouses to be assigned","Склади для призначення"
+"Selected warehouses","Обрані склади"
+"This user is a warehouse user","Цей користувач є користувачем складу"

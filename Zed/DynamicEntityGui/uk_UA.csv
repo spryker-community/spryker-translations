@@ -1,0 +1,32 @@
+"Edit Data Exchange API Configuration","Редагувати конфігурацію API обміну даними"
+"Back to Data Exchange API Configuration","Повернутися до налаштування API обміну даними"
+"Create Data Exchange API Configuration","Створити конфігурацію API обміну даними"
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+Actions,Дії
+"Table name","Назва таблиці"
+"Resource name","Назва ресурсу"
+"Is enabled",Увімкнено
+Identifier,Ідентифікатор
+Status,Статус
+Inactive,Неактивний
+Active,Активний
+Enabled,Увімкнено
+Name,Ім'я
+"Visible Name","Відображуване ім'я"
+Type,Тип
+Creatable,Створення
+Editable,Редагований
+Required,Обов'язково
+Min,Мін
+Max,Макс
+"Min Length","Мінімальна довжина"
+"Max Length","Максимальна довжина"
+Scale,Масштаб
+Precision,Точність
+Edit,Редагувати
+Create,Створити
+"Download API Specification","Завантажити специфікацію API"
+"Documentation generation is in progress, please refresh the page in %s minute(s).","Генерація документації триває, будь ласка, оновіть сторінку через %s хвилин(и)."
+"Do you really want to allow deletion?","Ви дійсно хочете дозволити видалення?"

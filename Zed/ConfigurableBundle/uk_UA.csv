@@ -1,0 +1,2 @@
+"Configurable bundle template slot with id ""%id%"" was not found.","Шаблон конфігурованого пакету для слоту з ідентифікатором ""%id%"" не знайдено."
+"Unable to delete Product List since it's used by Configurable Bundle Template ""%template%"" (""%slot%"" slot).","Неможливо видалити список продуктів, оскільки він використовується в шаблоні змінного пакету ""%template%"" (слот ""%slot%"")."

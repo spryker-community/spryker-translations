@@ -1,0 +1,31 @@
+Administration,Адміністрування
+"API Keys","Ключі API"
+Name,Ім'я
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+Key,Ключ
+Edit,Редагувати
+Delete,Видалити
+Create,Створити
+Back,Назад
+Save,Зберегти
+"Created by","Створено\n"
+"Back to API Keys","Повернутися до ключів API"
+"Create API Key","Створити ключ API"
+"Edit API Key","Редагувати ключ API"
+Actions,Дії
+"API key `%s` created successfully. Note, it will not be shown again. Please ensure you save it securely for future use.","API ключ `%s` успішно створено. Зверніть увагу, що він більше не буде показаний. Будь ласка, збережіть його надійно для майбутнього використання."
+"API Key with ID `%d` does not exist.","Ключ API з ID `%d` не існує."
+"The new API key is `%s`. Note, it will not be shown again. Please ensure you save it securely for future use.","Новий ключ API - `%s`. Зверніть увагу, що він більше не буде показаний. Будь ласка, збережіть його надійно для майбутнього використання."
+"API key has been successfully removed","Ключ API було успішно видалено"
+"API key can not be removed","Ключ API не може бути видалений"
+"Regenerate Key","Відновити ключ"
+"Delete API Key","Видалити ключ API"
+"API key updated successfully.","Ключ API успішно оновлено."
+"API key removal confirmation","Підтвердження видалення ключа API"
+"Are you sure you want to delete this API key?","Ви впевнені, що хочете видалити цей ключ API?"
+"No, I want to keep this API key","Ні, я хочу залишити цей ключ API"
+"We highly recommend setting an expiration date to the token, because of security reasons.","Ми настійно рекомендуємо встановити дату закінчення токену з міркувань безпеки."
+"Expires on","Закінчується\n"
+"⚠️ Never","⚠️ Ніколи"

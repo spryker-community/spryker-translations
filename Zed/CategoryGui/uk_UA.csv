@@ -1,0 +1,68 @@
+Parent,Батько
+Yes,Так
+No,Ні
+"Re-sort child categories","Пересортуйте дочірні категорії"
+"Add category to this node","Додати категорію до цього вузла"
+"Edit Category","Редагувати категорію"
+"Allow to search for this category","Дозволити шукати в цій категорії"
+"CMS Blocks:top","Блоки CMS: верхня частина"
+"CMS Blocks:middle","Блоки CMS: середина"
+"CMS Blocks:bottom","CMS Блоки: нижній"
+"Category key","Ключ категорії"
+"-Select value-","-Виберіть значення-"
+Active,Активний
+"Add Category to this Node","Додати категорію до цього вузла"
+"Additional Parents","Додаткові батьки"
+"Allow to search for this category:","Дозволити шукати цю категорію:"
+"Assign products","Призначити Продукти"
+"Assign Products to this Category","Призначити продукти до цієї категорії"
+Category,Категорія
+"Category Key","Ключ категорії"
+"Category key:","Ключ категорії:"
+"Category nodes successfully re-sorted.","Вузли категорій успішно пересортовані."
+"Category nodes successfully reordered.","Категорії вузлів успішно перепорядковані."
+"Category status","Статус категорії"
+"Category template","Шаблон категорії"
+"Category with id %s doesn't exist","Категорія з ідентифікатором %s не існує"
+Create,Створити
+"Create category","Створити категорію"
+"Create Category","Створити категорію"
+Delete,Видалити
+"Delete category","Видалити категорію"
+Edit,Редагувати
+"Edit category","Редагувати категорію"
+"In Menu","У меню"
+Inactive,Неактивний
+"List Categories","Список категорій"
+"List of categories","Список категорій"
+no,Ні
+"Not in Menu","Не в меню"
+"Please make sure required fields are properly filled in","Будь ласка, переконайтеся, що обов'язкові поля правильно заповнені"
+"Re-sort Child Categories","Пересортуйте дочірні категорії"
+"Re-sort child-categories","Пересортуйте дочірні категорії"
+"Root nodes list","Список кореневих вузлів"
+Save,Зберегти
+"Save Order","Зберегти замовлення"
+Searchable,Пошуковий
+"The category was added successfully.","Категорію успішно додано."
+"The category was saved successfully.","Категорію успішно збережено."
+"The category was updated successfully.","Категорію успішно оновлено."
+"The category was deleted successfully.","Категорію успішно видалено."
+Translations,Переклади
+View,Переглянути
+"View category","Переглянути категорію"
+Visible,Видимий
+"Visible in the category tree","Видимий у дереві категорій"
+"Visible in the category tree:","Видимий у дереві категорій:"
+yes,Так
+"Yes, I am sure","Так, я впевнений"
+"View Category","Переглянути категорію"
+"CSRF token is not valid.","CSRF токен недійсний."
+General,Загальне
+Template,Шаблон
+Settings,Налаштування
+"The root category cannot be deleted.","Кореневу категорію не можна видалити."
+"Main category will be moved to","Головна категорія буде переміщена до"
+"Extra parent will be moved to","Додатковий батько буде перенесений до"
+"Category nodes cannot be relocated.","Категорійні вузли не можуть бути переміщені."
+"If a store is not selectable, please make sure that the parent category is assigned to it first.","Якщо магазин не можна вибрати, переконайтеся, що йому спочатку призначена батьківська категорія."

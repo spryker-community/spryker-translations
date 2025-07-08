@@ -1,0 +1,60 @@
+"Add Customer","Додати клієнта"
+"Add new Address","Додати нову адресу"
+"Address Line 1","Адреса рядок 1"
+"Address Line 2","Адреса рядок 2"
+"Address Line 3","Адреса рядок 3"
+Back,Назад
+"Back to Customer View","Повернутися до перегляду клієнта"
+"Back to Customers","Повернутися до клієнтів"
+"Back to Manage Addresses","Повернутися до Управління Адресами"
+City,Місто
+Company,Компанія
+Country,Країна
+Customers,Клієнти
+"Customer deletion confirmation","Підтвердження видалення клієнта"
+"Customer does not exist","Клієнта не існує"
+"Customer Reference","Посилання клієнта"
+"Customer successfully deleted","Клієнт успішно видалений"
+"Customer was created successfully.","Клієнт був успішно створений."
+"Customer was not created.","Клієнт не був створений."
+"Customer was not updated.","Клієнт не був оновлений."
+"Customer was updated successfully.","Клієнт був успішно оновлений."
+"Customer with id `%s` does not exist","Клієнта з ідентифікатором `%s` не існує"
+"Date of birth","Дата народження"
+Delete,Видалити
+"Delete account","Видалити обліковий запис"
+"Edit Address","Редагувати адресу"
+"Edit Customer","Редагувати клієнта"
+Email,"Електронна пошта"
+"First Name",Ім'я
+"First name",Ім'я
+"Form was not submitted.","Форма не була відправлена."
+Gender,"Стать
+###"
+"Last name",Прізвище
+"List Customers","Список клієнтів"
+Locale,Мова
+Phone,Телефон
+"Registered at","Зареєстровано на"
+Salutation,Привітання
+Save,Зберегти
+"Select one","Виберіть один"
+"Send password token through email","Надіслати токен паролю через електронну пошту"
+View,Переглянути
+"View Customer","Переглянути клієнта"
+"Zed Account Reference","Посилання на обліковий запис Zed"
+ZipCode,"Поштовий індекс"
+"Registration Date","Дата реєстрації"
+"Billing Address","Адреса платника"
+"Shipping Address","Адреса доставки"
+"Attach to company","Прикріпити до компанії"
+"Add a customer","Додати клієнта"
+"Comment successfully added","Коментар успішно додано."
+"Address (2nd line)","Адреса (2-гий рядок)"
+"Address (3rd line)","Адреса (3-я лінія)"
+"Last Name",Прізвище
+"Zip Code","Поштовий індекс"
+Actions,Дії
+Status,Статус
+Comment,Коментар
+Store,Магазин

@@ -1,0 +1,20 @@
+"A customer can not be assigned to multiple users at a time.","Клієнт не може бути призначений одночасно декільком користувачам."
+Assign,Призначити
+"Assign Customers","Призначити клієнтів"
+"Assign Customers to User:","Призначити клієнтів користувачеві:"
+Assigned,Призначено
+"Assigned Zed User Reference","Призначений посилання користувача Zed"
+"Customer E-mail","Електронна пошта клієнта"
+"Customer-user connections are updated.","Оновлено зв'язки між клієнтом та користувачем."
+"Customers to be assigned","Клієнти, яким буде призначено"
+"Deselected customers","Відібрані клієнти"
+Female,Жіночий
+"List Users","Список користувачів"
+Male,Чоловічий
+Save,Зберегти
+"Select customers to assign","Виберіть клієнтів для призначення"
+"User couldn't be found","Користувача не знайдено"
+"Your unsaved modification will be lost, are you sure to continue?","Ваші незбережені зміни будуть втрачені, ви впевнені, що хочете продовжити?"
+"Customers to be deassigned","Клієнти будуть відкріплені"
+"List of customers","Список клієнтів"
+"Selected customers","Обрані клієнти"

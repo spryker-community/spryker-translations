@@ -1,0 +1,23 @@
++Add,+Додати
+Actions,Дії
+Active,Активний
+Cancel,Скасувати
+Delete,Видалити
+"Go Back",Повернутися
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+Inactive,Неактивний
+"List of Blocks for ""%SLOT_NAME%"" Slot","Список блоків для слоту ""%SLOT_NAME%"""
+"Move Down","Змістити вниз"
+"Move Up","Піднятися вгору"
+Name,Ім'я
+Save,Зберегти
+"Select or type a block name to assign","Виберіть або введіть назву блоку для призначення"
+SprykerCmsSlotBlock,Спрайкер
+Status,Статус
+Stores,Магазини
+"There are unsaved changes","Є незбережені зміни"
+"Valid From (Included)","Дійсно з (включно)"
+"Valid To (Excluded)","Дійсно до (виключно)"
+"View Block","Переглянути блок"

@@ -1,0 +1,32 @@
+Activate,Активувати
+"Add a Cms block","Додати блок CMS"
+"Add a Cms page","Додати сторінку CMS"
+"Add CMS Block","Додати блок CMS"
+"Add CMS Page","Додати сторінку CMS"
+"Add CMS Redirect","Додати перенаправлення CMS"
+"Back to CMS","Повернутися до CMS"
+"CMS blocks","Блоки CMS"
+Deactivate,Деактивувати
+"Delete CMS Block","Видалити блок CMS"
+"Delete CMS Page","Видалити сторінку CMS"
+"Edit a Cms Block","Редагувати блок Cms"
+"Edit a Cms page","Редагувати сторінку Cms"
+"From Url","З Url"
+"ID redirect URL is not set.","ID перенаправлення URL не встановлено."
+Loading...,Завантаження...
+"New template(s) detected and added to the template list.","Виявлено новий(і) шаблон(и) та додано до списку шаблонів."
+"Redirect status code","Код статусу перенаправлення"
+"Redirect was created successfully.","Перенаправлення було успішно створено."
+"Redirect was deleted successfully.","Перенаправлення успішно видалено."
+"Redirect was updated successfully.","Перенаправлення було успішно оновлено."
+Redirects,Перенаправлення
+Save,Зберегти
+"Save All","Зберегти все"
+"To Url","До URL"
+"URL is already used.","URL вже використано."
+"URL must start with a slash","URL повинен починатися з косої риски"
+"Create new CMS Redirect","Створити новий перенаправлення CMS"
+"Please select","Будь ласка, оберіть"
+"Edit CMS Redirect","Редагувати перенаправлення CMS"
+"URL's second character cannot be slash","URL's другий символ не може бути косою чертою"
+"URL cannot contain backslash sign, you can use '%5C' instead","URL не може містити знак зворотнього слеша, замість нього можна використовувати '%5C'"

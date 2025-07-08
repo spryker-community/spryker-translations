@@ -1,0 +1,55 @@
+"1. General Information","1. Загальна інформація"
+"2. Translations","2. Переклади"
+Add,Додати
+"Add Attribute","Додати атрибут"
+"Allow input any value other than predefined ones","Дозволити введення будь-якого значення, крім заздалегідь визначених."
+"Attribute ID","Ідентифікатор атрибуту"
+"Attribute key","Ключ атрибуту"
+"Attribute Key","Ключ атрибуту"
+"Attribute list","Список атрибутів"
+"Attribute name translation","Переклад назви атрибуту"
+"Attributes and their values are used by the backoffice application. They are unique and cannot contain special characters.","Атрибути та їх значення використовуються програмою backoffice. Вони є унікальними і не можуть містити спеціальних символів."
+Back,Назад
+"Back to List","Повернутися до списку"
+"Back to Product Abstract","Повернутися до абстрактного продукту"
+"Back to Product List","Повернутися до списку товарів"
+"Create a Product Attribute","Створити атрибут продукту"
+"Create Product Attribute","Створити атрибут продукту"
+date,дата
+datetime,"дата та час"
+Edit,Редагувати
+"Edit Product","Редагувати товар"
+"Edit Product Abstract","Редагувати абстрактний опис продукту"
+float,плавати
+"General Information","Загальна інформація"
+"Input type","Тип введення"
+"Manage Attributes for Product","Керування атрибутами продукту"
+"Manage Attributes for Product Abstract","Керування атрибутами для абстрактного продукту"
+number,номер
+"Predefined value translations","Переклади значень за замовчуванням"
+"Predefined values","Заздалегідь встановлені значення"
+"Product Abstract Attributes Management","Управління абстрактними атрибутами продукту"
+"Product abstract attributes saved","Атрибути абстрактного продукту збережено"
+"Product attribute was created successfully.","Атрибут продукту було успішно створено."
+"Product attribute was not created.","Атрибут продукту не було створено."
+"Product attribute was updated successfully.","Атрибут продукту успішно оновлено."
+"Product Attributes","Атрибути продукту"
+"Product Attributes Management","Управління атрибутами продукту"
+"Product attributes saved","Атрибути продукту збережено"
+Save,Зберегти
+select,вибрати
+"Super attribute","Супер атрибут"
+text,текст
+textarea,"текстове поле"
+time,час
+"Translate predefined values","Перекладіть заздалегідь визначені значення"
+"Translation was updated successfully.","Переклад було успішно оновлено."
+"Type first three letters of an existing attribute key for suggestions.","Введіть перші три літери існуючого ключа атрибута для отримання пропозицій."
+Values,Значення
+"View Attribute","Переглянути атрибут"
+"You can add new values by pressing ""Enter"" after each element","Ви можете додавати нові значення, натискаючи ""Enter"" після кожного елементу"
+Remove,Видалити
+"Edit Product Attribute","Редагувати атрибут продукту"
+"Edit Attribute Translations","Редагувати переклади атрибутів"
+"Predefined Values","Заздалегідь встановлені значення"
+"Please select attribute key first","Будь ласка, спочатку виберіть ключ атрибуту."

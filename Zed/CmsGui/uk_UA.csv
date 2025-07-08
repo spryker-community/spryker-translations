@@ -1,0 +1,71 @@
+Activate,Активувати
+"Back to CMS","Повернутися до CMS"
+by,від
+"Cms page with id %s doesn't exist","Сторінка Cms з id %s не існує"
+Compare,Порівняти
+"Content Management","Управління вмістом"
+"Create CMS Page","Створити сторінку CMS"
+"Create new CMS Page","Створити нову сторінку CMS"
+"Create page","Створити сторінку"
+"Created at:",Створено:
+Deactivate,Деактивувати
+Description:,Опис:
+"Discard Draft","Відхилити чернетку"
+"Edit CMS Page:","Редагувати сторінку CMS:"
+"Edit page","Редагувати сторінку"
+"Edit placeholders","Редагувати заповнювачі"
+"Edit Placeholders:","Редагувати заповнювачі:"
+"Fill in general page information","Заповніть загальну інформацію про сторінку"
+"Fill in SEO information","Заповніть інформацію для SEO"
+"In Shop","У магазині"
+"In Zed","У Zed"
+"Is active:",Активний:
+"Is searchable:","Можна знайти за допомогою пошуку:"
+Keywords:,"Ключові слова:"
+"List of CMS pages","Список сторінок CMS"
+Locale,Мова
+"Meta Description",Мета-опис
+"Meta Keywords","Мета ключові слова"
+"Meta Title","Мета заголовок"
+"Missing placeholders for selected template.","Відсутні місця для заповнення обраного шаблону."
+n/a,n/a
+Name,Ім'я
+Name:,Назва:
+on,на
+"Overview of CMS Pages","Огляд сторінок CMS"
+Page,Сторінка
+"Page was updated successfully","Сторінка успішно оновлена"
+"Page with version %d successfully published.","Сторінка з версією %d успішно опублікована."
+Pages,Сторінки
+"Placeholder translations successfully updated","Заповнювачі переклади успішно оновлені"
+Publish,Опублікувати
+"Rollback to Selected Version","Повернутися до обраної версії"
+Save,Зберегти
+Template:,Шаблон:
+Title:,Заголовок:
+"Translation key:","Translation key: Ключ перекладу:"
+Url,"Url\n###\nUrl\n###"
+Urls,"Urls\n###"
+"Valid from:","Дійсно з (включно):"
+"Valid to:","Дійсно до (не включно):"
+"Version History","Історія версій"
+"Version History:","Історія версій:"
+View,Переглянути
+"View CMS Page:","Переглянути сторінку CMS:"
+"You are editing a <br>draft </b> page. To make your changes visible in Yves, publish the page. Publishing the page will create a new version for this page","Ви редагуєте <b>чернетку</b> сторінки. Щоб зробити ваші зміни видимими в магазині, опублікуйте сторінку. Публікація сторінки створить нову версію цієї сторінки."
+"You are viewing a published page. It was published","Ви переглядаєте опубліковану сторінку. Вона була опублікована"
+"You can edit the page or placeholders to modify the current working draft. You can publish the current working draft to create a new version","Ви можете редагувати сторінку або заповнювачі, щоб змінити поточний робочий проект. Ви можете опублікувати поточний робочий проект, щоб створити нову версію."
+"CMS Redirect","Перенаправлення CMS"
+"Is searchable","Можна знайти за допомогою пошуку"
+"Page was not created.","Сторінку не було створено."
+"Page was created successfully.","Сторінка була успішно створена."
+"You are editing a <b>draft</b> page. To make your changes visible in the shop, publish the page. Publishing the page will create a new version for this page.","Ви редагуєте <b>чернетку</b> сторінки. Щоб зробити ваші зміни видимими в магазині, опублікуйте сторінку. Публікація сторінки створить нову версію цієї сторінки."
+"Store relation","Зв'язок магазину"
+Placeholders,Заповнювачі
+title,Заголовок
+content,Зміст
+"View CMS Page","Переглянути сторінку CMS"
+"Draft data successfully discarded.","Чернетку даних успішно видалено."
+"Page was deactivated successfully.","Сторінку успішно деактивовано."
+"Page was activated successfully.","Сторінка була успішно активована."
+"Edit Placeholders","Редагувати заповнювачі"

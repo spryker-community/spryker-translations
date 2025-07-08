@@ -1,0 +1,11 @@
+Currency,Валюта
+"Enter a quantity and the item price that should be applied if customer buys above that threshold","Введіть кількість та ціну товару, яка буде застосована, якщо покупець купує вище цього порогу."
+"Price Dimension Name","Назва розміру ціни"
+"Price Type","Тип ціни"
+Store,Магазин
+"Save and add more rows","Зберегти та додати ще рядків"
+"Save and exit","Зберегти та вийти"
+"Volume prices successfully saved.","Обсягові ціни успішно збережено."
+"Volume prices","Обсягові ціни"
+"Edit volume prices for product","Редагувати цінові пропозиції для товару"
+"Edit volume prices","Редагувати ціни за обсягом"

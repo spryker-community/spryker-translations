@@ -1,0 +1,16 @@
+content_product_set.template.add_to_cart,"Зображення ліворуч, товари праворуч та лише кнопка ""Додати все"""
+Actions,Дії
+Add,Додати
+"Available Product Sets","Доступні набори товарів"
+"Clear locale","Чиста локаль"
+content_product_set_gui.template.cart-button-btm,"Додати усе до кошика кнопка внизу"
+content_product_set_gui.template.cart-button-top,"Додати усе до кошика Кнопка у верхній частині"
+content_product_set_gui.template.default,Стандартний
+Delete,Видалити
+ID,"ID\n###
+###Translated Text:
+Ідентифікатор"
+Name,Ім'я
+"Number of Products","# Кількість товарів"
+"Product Set","Набір продуктів"
+Status,Статус

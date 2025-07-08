@@ -1,0 +1,69 @@
+"Abstract product name","Абстрактна назва товару"
+"Abstract product name:","Абстрактна назва товару:"
+Activate,Активувати
+Active,Активний
+"Add Product Relations","Додати товарні відносини"
+"Are you sure about deleting this product relation?","Ви впевнені, що хочете видалити це пов'язання з продуктом?"
+"Assign related products","Призначити пов'язані товари"
+"Create Product Relation","Створити зв'язок продукту"
+"Create relation","Створити зв'язок"
+Deactivate,Деактивувати
+"Delete Product Relation","Видалити зв'язок продукту"
+Edit,Редагувати
+"Edit Product Relations","Редагувати зв'язки продуктів"
+"Failed to delete relation.","Не вдалося видалити зв'язок."
+General,Загальне
+Inactive,Неактивний
+"Is active:",Активний:
+"It is impossible to update product relation #%d","Неможливо оновити зв'язок продукту #%d"
+"List of Product Relations","Список товарів, пов'язаних між собою"
+"List Product relations","Список товарів, пов'язаних між собою"
+"No, I want to keep this product relation","Ні, я хочу залишити цей продукт у відношенні"
+"Number of products","Кількість товарів"
+"Please select product from the list below","Будь ласка, виберіть продукт зі списку нижче"
+"Please select product from the list below *","Будь ласка, оберіть продукт зі списку нижче *"
+"Product owning the relation","Продукт, який має відношення"
+"Product relation #%d not found","Відношення продукту #%d не знайдено"
+"Product relation key","Ключ співвідношення продукту"
+"Product relation successfully created","Відношення продукту успішно створено"
+"Product relation successfully modified","Відношення продукту успішно змінено"
+"Product relation with id ""%id%"" not found.","Зв'язок продукту з ідентифікатором ""%id%"" не знайдено."
+"Product Relations","Взаємозв'язки продуктів"
+"Related products","Пов'язані товари"
+related-products,"Пов'язані товари"
+"Relation #%d successfully deleted.","Відношення #%d успішно видалено."
+"Relation successfully activated.","Відношення успішно активовано."
+"Relation successfully deactivated.","Відношення успішно деактивовано."
+"Relation successfully deleted.","Відношення успішно видалено."
+"Relation type","Тип відношення"
+"Relation type:","Тип зв'язку:"
+Save,Зберегти
+Select,Вибрати
+"Select product","Виберіть продукт"
+"Select Stores","Виберіть магазини"
+"Selected product","Обраний продукт"
+"Selected product already has ""%s"" relation type.","Вибраний продукт вже має тип відношення ""%s""."
+Sku:,Артикул:
+Status,Статус
+"Store relation","Зв'язок магазину"
+Stores,Магазини
+up-selling,"Збільшення продажів"
+"Update regularly","Оновлюйте регулярно"
+"Update regularly: When you have this selected, this product relation will be updated automatically on regular basis according to the relation's conditions.","Оновлюйте регулярно: Якщо ви вибрали цей параметр, це товарне відношення буде автоматично оновлюватися на регулярній основі відповідно до умов відношення."
+"View in Shop","Переглянути в магазині"
+"View Product Relation: %s","Переглянути зв'язок продукту: %s"
+"View relations","Переглянути зв'язки"
+"Product Relation Key","Ключ продукту взаємозв'язку"
+"Abstract SKU","Абстрактний артикул"
+"Select a relation type","Виберіть тип зв'язку"
+select,вибрати
+"Add rule","Додати правило"
+"Add group","Додати групу"
+Delete,Видалити
+"Edit Product Relation","Редагувати зв'язок продукту"
+"Is active",Активний
+"Yes, delete this product relation","Так, видалити це пов'язане з продуктом."
+"Number of Products","Кількість товарів"
+Store,Магазин
+"CSRF token is not valid.","CSRF токен недійсний."
+"Query rule is not provided.","Правило запиту не надано."

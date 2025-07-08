@@ -1,0 +1,66 @@
+Actions,Дії
+Activate,Активувати
+Active,Активний
+"Add General Information","Додати загальну інформацію"
+"Add Slot","Додати слот"
+"Are you sure you want to delete template","Ви впевнені, що хочете видалити шаблон"
+"Are you sure you want to delete this slot?","Ви впевнені, що хочете видалити цей слот?"
+"At first create Configurable bundle Template, after that you will be redirected to the page where you can create slots, and define products per each of them.","Спочатку створіть шаблон конфігурованого пакету, після чого вас буде перенаправлено на сторінку, де ви зможете створити слоти та визначити продукти для кожного з них."
+Back,Назад
+"Back to Template list","Повернутися до списку шаблонів"
+"Below you can edit the name of your slot for different locales (in different languages).","Нижче ви можете змінити назву свого слоту для різних локалей (на різних мовах)."
+Cancel,Скасувати
+"Configurable Bundle Template","Шаблон налаштованого пакетування"
+"Configurable bundle template has been successfully created.","Шаблон налаштованого пакету було успішно створено."
+"Configurable bundle template has been successfully deleted.","Шаблон налаштованого пакету було успішно видалено."
+"Configurable bundle template has been successfully updated.","Шаблон конфігурованого пакету було успішно оновлено."
+"Configurable bundle template has not been created.","Шаблон налаштованого пакету не був створений."
+"Configurable bundle template has not been deleted.","Шаблон налаштованого пакету не був видалений."
+"Configurable bundle template has not been updated.","Шаблон налаштованого пакету не був оновлений."
+"Configurable bundle template slot has not been created.","Шаблон слоту налаштованого пакету не був створений."
+"Configurable bundle template slot has not been deleted.","Шаблон конфігурованого пакету слотів не був видалений."
+"Configurable bundle template slot has not been updated.","Шаблон налаштованого пакету слоту не було оновлено."
+"Configurable bundle template slot was successfully created.","Шаблон налаштованого пакетування слоту був успішно створений."
+"Configurable bundle template slot was successfully deleted.","Шаблон налаштованого пакету слоту був успішно видалений."
+"Configurable bundle template slot was successfully updated.","Шаблон конфігурованого пакету слотів було успішно оновлено."
+"Configurable bundle template slot with id ""%id%"" was not found.","Шаблон конфігурованого пакету для слоту з ідентифікатором ""%id%"" не знайдено."
+"Configurable bundle template with id ""%id%"" was not found.","Шаблон налаштованого пакету з ідентифікатором ""%id%"" не знайдено."
+"Configurable Bundle Templates","Шаблони налаштованого пакетування"
+Confirm,Підтвердити
+"Confirm action","Підтвердити дію"
+"Create Configurable Bundle Template","Створити шаблон конфігурованого пакету"
+"Create New Template","Створити новий шаблон"
+"Create Slot","Створити слот"
+Deactivate,Деактивувати
+Delete,Видалити
+"Delete Configurable Bundle Template","Видалити шаблон змінного пакету"
+"Delete Template","Видалити шаблон"
+Edit,Редагувати
+"Edit Configurable Bundle Template","Редагувати шаблон змінного пакету"
+"Edit Slot","Редагувати слот"
+"Edit Slot for","Редагувати слот для"
+for,для
+General,Загальне
+Inactive,Неактивний
+Name,Ім'я
+Next,Далі
+"Note: you can assign products and categories for a slot in the respective tabs.","Зауваження: ви можете призначити продукти та категорії для слоту в відповідних вкладках."
+"Nr. of Slots","Кількість слотів"
+"Number of Items","Кількість товарів"
+"Product ID","Ідентифікатор продукту"
+Save,Зберегти
+SKU,Артикул
+"Slot details","Деталі слоту"
+"Slot ID","Ідентифікатор слоту"
+"Slot Name","Назва слоту"
+Slots,Слоти
+Status,Статус
+"Template ""%template_name%"" has been activated.","Шаблон ""%template_name%"" було активовано."
+"Template ""%template_name%"" has deactivated.","Шаблон ""%template_name%"" було деактивовано."
+"Template ""%template_name%"" has not been activated.","Шаблон ""%template_name%"" не було активовано."
+"Template ""%template_name%"" has not been deactivated.","Шаблон ""%template_name%"" не був деактивований."
+"Template ""%template_name%"" was activated.","Шаблон ""%template_name%"" було активовано."
+"Template ""%template_name%"" was deactivated.","Шаблон ""%template_name%"" було деактивовано."
+"Template details","Деталі шаблону"
+"You can add slots on this page. During slot creation you can assign products from a catalog to this slot one by one, import CSV file or assign several categories.","Ви можете додати слоти на цій сторінці. Під час створення слоту ви можете призначити продукти з каталогу до цього слоту по одному, імпортувати файл CSV або призначити кілька категорій."
+"You can change name and define locals on this page.","Ви можете змінити ім'я та визначити місцевість на цій сторінці."

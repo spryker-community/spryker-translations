@@ -1,0 +1,6 @@
+"The provided key name `%s` is not in valid format. It should only contain letters (a-z) and digits (0-9). Example: `YourExample123`.","Наданий ключ `%s` має невірний формат. Він повинен містити лише літери (a-z) та цифри (0-9). Приклад: `YourExample123`."
+"Entity with ID `%d` was not found in the database.","Сутність з ID `%d` не була знайдена в базі даних."
+"The key name is not provided.","Ключ не наданий."
+"The provided key name `%s` is duplicated. Use another one and try again.","Наданий ключ `%s` вже існує. Використайте інший ключ і спробуйте ще раз."
+"Created at","Створено о %"
+"The provided `valid to` date `%s` already expired. Use another one and try again.","Наданий термін дії `%s` вже минув. Спробуйте використати інший та повторіть спробу."
